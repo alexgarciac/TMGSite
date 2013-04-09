@@ -1,0 +1,18 @@
+<!-- lndoi.stm -->
+
+<p class="para1"><b>ARTICLES</b></p>
+<p><strong>eBook Business</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000001" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')" class="ln">Where's the Money?</a></p>
+ 		<p><a href="http://dx.doi.org/10.1335/0000000002" onmouseover="HM_f_PopUp('elMenu2',event)" onmouseout="HM_f_PopDown('elMenu2')" class="ln">Optimizing Multi-Channel Publishing</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000003" onmouseover="HM_f_PopUp('elMenu3',event)" onmouseout="HM_f_PopDown('elMenu3')" class="ln">eBook Supply Chain</a></p>
+
+<p><strong>eBook Production</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000004" onmouseover="HM_f_PopUp('elMenu4',event)" onmouseout="HM_f_PopDown('elMenu4')" class="ln">Common eBook Formats</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000005" onmouseover="HM_f_PopUp('elMenu5',event)" onmouseout="HM_f_PopDown('elMenu5')"class="ln">File Formats for Digital Distribution</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000001" onmouseover="HM_f_PopUp('elMenu6',event)" onmouseout="HM_f_PopDown('elMenu6')" class="ln">Publisher Conversion Strategy</a></p>
+
+<p><strong>Print on Demand</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000007" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')" class="ln">Distributed Print-on-Demand</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000008" onmouseover="HM_f_PopUp('elMenu8',event)" onmouseout="HM_f_PopDown('elMenu8')" class="ln">Print-on-Demand in the Book Supply Chain</a></p>
+<p><strong>Rights Management</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000009" onmouseover="HM_f_PopUp('elMenu9',event)" onmouseout="HM_f_PopDown('elMenu9')" class="ln">Clearing the Rights Bottleneck</a></p>

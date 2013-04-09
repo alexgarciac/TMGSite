@@ -1,0 +1,242 @@
+body {text-align: center;}
+
+.allbody {
+	display:block;
+	background-color: #F5F5DC;
+	width:54em;
+	border: thin groove #E0E2C2;
+	height: auto;
+	overflow: hidden;
+	margin: 0 auto;
+text-align: left;
+
+}
+
+.allbody .banner {
+	width: 54em;
+	height: 7.875em;
+	text-align: center;
+	overflow:hidden;
+}
+
+.allbody .subhead {
+	width:54em;
+	height: 1.875em;
+	text-align:left;
+	background: #1B1453 url(TMG_subhead.jpg) no-repeat;
+	padding: 0.625em 0em 0em 1.5em;
+
+	font: normal medium "Times New Roman", Times, serif;
+	color:#FFFFFF;
+
+}
+
+.allbody .left {
+	float: left;
+	display: inline-block;
+    *display: inline;
+    zoom: 1;
+	width:auto;
+	padding-top: 0em;
+	padding-bottom:0.75em;
+	background: #F5F5DC;
+	margin-left:2em;
+	margin-top:2em;
+	overflow:visible;
+}
+
+.allbody .left .searchbar {
+	width:14em;
+	padding-top: 0em; 
+	padding-bottom:0em; 
+	background: #F5F5DC; 
+	margin-bottom:2em;
+	margin-top: 0em;
+	text-align:center;
+}
+
+
+.allbody .left .navigation {
+	display: block;
+	width:14em;
+	padding-top: 0em;
+	padding-bottom:0.75em;
+	background: #C8D4F0;
+	border-top: 0em none #1A1352;
+	border-right: .0625em solid #1A1352;
+	border-bottom: .0625em solid #1A1352;
+	border-left: .0625em solid #1A1352;
+	
+	
+}
+
+
+.allbody .left .navigation .leftnavbarhead {
+	display: block;
+	width: 17.2em;
+	*width: 14em;
+	background: #96ABD6;
+	border-bottom: .0625em solid #1A1352;
+    border-top: .0625em solid #1A1352;
+	text-align: center;
+	padding-top: 0.625em;
+	padding-bottom: 0.625em;
+	overflow: visible;
+	font: normal small Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	text-wrap: normal;
+}
+.allbody .left .navigation .leftnavbarlinks {
+	display: block;
+	background: #C8D4F0;
+	width: 14em;
+	text-align: left;
+	font: small Geneva, Arial, Helvetica, sans-serif;
+	margin: 0em;
+	padding-top: 0.625em;
+	padding-right: 0.625em;
+	padding-bottom: 0.625em;
+	padding-left: 1.25em;
+	text-wrap: normal;
+}
+
+.allbody .right {
+	display: inline-block;
+    *display: inline;
+    zoom: 1;
+	float:right;
+	width:42em;
+	*width: 34em;
+	background-color: #FFFFFF;
+	margin-top:2em;
+	margin-right:2em;
+	font: normal small Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+	height: auto;
+	overflow:visible;
+}
+
+.allbody .right .navbar{
+	display: block;
+	width:42em;
+	*width: 34em;
+	text-align: center;
+	top: auto;
+	overflow: visible;
+} 
+
+.allbody .right .navbar .navbarbutton {
+	display: block;
+	width: 8.35em;
+	*width: 6.75em;
+	-moz-width: 5em;
+	border: .0625em solid #1B1352;
+	float: left;
+	background: #96ABD6;
+	text-align: center;
+	vertical-align: middle;
+	height: 1.25em;
+	padding-top: 0.3125em;
+	padding-bottom: 0.3125em;
+	color: #FFFFFF;
+}
+
+@-moz-document url-prefix() {
+	.allbody .right .navbar .navbarbutton {
+	display: block;
+	width: 8.2em;
+	border: .0625em solid #1B1352;
+	float: left;
+	background: #96ABD6;
+	text-align: center;
+	vertical-align: middle;
+	height: 1.25em;
+	padding-top: 0.3125em;
+	padding-bottom: 0.3125em;
+	color: #FFFFFF;
+}}
+
+.allbody .right .navbar .navbarbutton a {
+	color: #FFFFFF;
+}
+
+.allbody .right .navbar .navbarbutton .youarehere {
+	color: #1A1352;
+	text-decoration:none;
+	font: small Verdana, Arial, Helvetica, sans-serif;
+}
+
+.allbody .right .content {
+	display: block;
+	padding-bottom: 2.5em;
+	position: relative;
+	top: auto;
+	width:39em;
+	*width: 34em;
+	margin-top: 3.75em;
+	margin-bottom: 0em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	overflow:hidden;
+}
+
+
+.allbody .right .content .title {
+	font: bold normal large Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+	text-align:center;
+}
+
+.author {
+	font: italic normal medium Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+	text-align:center;
+}
+
+.allbody .right .content form {
+	margin-left: 2.5em;
+}
+
+.allbody .right .pagefooter {
+	background-color: #F5F5DC;
+	text-align:center;
+	font: x-small Verdana, Arial, Helvetica, sans-serif;
+	padding-top:1.25em;
+	padding-bottom: 3.75em;
+	bottom: auto;
+}
+
+.youarehere {
+	color: #1A1352;
+	font: small Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #1B1352;
+}
+
+.contact {
+	font: x-small Geneva, Arial, Helvetica, sans-serif;
+	color: #1B1352;
+}
+.contactemail {
+	font: x-small Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+}
+
+.allbody .brclear {
+
+	clear:both;
+	color: #1A1352;
+	text-align: center;
+	height: 1.875em;
+}
+
+.term {
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+

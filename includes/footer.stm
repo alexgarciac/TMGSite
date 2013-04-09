@@ -1,0 +1,25 @@
+<!-- footer.stm --><table width="100%" cellpadding="5" cellspacing="0">
+<tr bgcolor="#ff0000"><td colspan="3" align="center" class="header"><font size="1" color="#FFFFFF"><b><a href="http://www.pubdimensions.com/" class="sn">HOME</a>
+				</b> | <b>
+					<a href="/services/" class="sn">SERVICES</a>
+				</b> | <b>
+					<a href="/corporate/" class="sn">CORPORATE</a>
+				</b> | <b>
+					<a href="/faq/" class="sn">FAQ</a>
+				</b> | <b>
+					<a href="/articles/" class="sn">ARTICLES</a>
+				</b> | <b>
+					<a href="/resources/" class="sn">RESOURCES</a>
+				</b> | <b>
+					<a href="/contact/" class="sn">CONTACT</a>
+				</b> | <b>
+					<a href="/news/" class="sn">NEWS</a>
+				</b>
+			</font>
+		</td>
+	</tr>
+	<tr bgcolor="#0000CC">
+		<td colspan="3" align="center" class="footer">	240 East 56th St., 4E | New York, NY 10022 <span class="footercr">&copy;2001 Publishing Dimensions</span>
+		</td>
+	</tr>
+</table>

@@ -1,0 +1,453 @@
+<?xml-stylesheet type="text/css"?>
+<html xmlns:HTML="http://www.w3.org/Profiles/XHTML-transitional">
+	<head>
+		<title>Treadwell Media Group - Articles - Notes on Forecasting Demand in Publishing</title>
+		<meta name="Description" content="Article on forecasting demand for published titles." />
+		<meta name="Keywords" content="Forecasting, Book Publishing,  Ken Brooks, Treadwell Media Group" />
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8;" />
+		<link rel="stylesheet" type="text/css" href="../includes/tmg.css" />
+	</head>
+	<body>
+		<div class="header">
+			<a href="http://www.treadwellmedia.com/">
+				<img align="left" src="../includes/logo.gif" border="0" />
+			</a>
+			<h1>Treadwell Media Group</h1>
+			<p class="navline">
+				<a href="mailto:info@treadwellmedia.com">info@treadwellmedia.com</a>
+			</p>
+			<p class="navline">
+				<b>
+					<a href="http://www.treadwellmedia.com/" class="sn">HOME</a>
+				</b> | 
+            			<b>
+					<a href="/Capabilities/index.htm" class="sn">CAPABILITIES</a>
+				</b> | 
+            			<b>
+					<a href="/Cases/index.htm" class="sn">PROJECTS</a>
+				</b>  | 
+            			<b>
+					<a href="/Articles/index.htm" class="sn">ARTICLES</a>
+				</b> | 
+            			<b>
+					<a href="/Resources/index.htm" class="sn">RESOURCES</a>
+				</b> | 
+            			<b>
+					<a href="/Taxonomy/index.htm" class="sn">TAXONOMY</a>
+				</b> |
+            			<b>
+					<a href="mailto:info@treadwellmedia.com" class="sn">CONTACT</a>
+				</b>
+			</p>
+		</div>
+		<div class="navigation">
+			<p>
+				<b>Articles:</b>
+			</p>
+			<ul>
+				<li>
+					<a href="/Articles/where_is_money.htm">Where's the Money?</a>
+				</li>
+				<li>
+					<a href="/Articles/Optimizing content for multichannel publishing.htm">Optimizing Multi-Channel Publishing</a>
+				</li>
+				<li>
+					<a href="/Articles/eBook_Supply_Chain.pdf">eBook Supply Chain: Opportunities and Challenges</a>
+				</li>
+				<li>
+					<a href="/Articles/CommonFormats.htm">Common eBook Formats</a>
+				</li>
+				<li>
+					<a href="/Articles/file_formats.pdf">File Formats for Digital Distribution</a>
+				</li>
+				<li>
+					<a href="/Articles/Publisher_Conversion_Strategy.pdf">Publisher Conversion Strategy</a>
+				</li>
+				<li>
+					<a href="/Articles/PIRA Distributed Print-on-demand.htm">Distributed Print-on-Demand</a>
+				</li>
+				<li>
+					<a href="/Articles/PODBookSupplyChain.htm">Print-on-Demand in the Book Supply Chain</a>
+				</li>
+				<li>
+					<a href="/Articles/Clearing the Rights Bottleneck.htm">Clearing the Rights Bottleneck</a>
+				</li>
+				<li>
+					<a href="/Articles/XML_in_Book_Publishing.pdf">XML in Book Publishing</a>
+				</li>
+				<li>
+					<a href="/Articles/DOI_Building_Blocks.pdf">DOI Building Blocks</a>
+				</li>
+			</ul>
+		</div>
+		<div class="content">
+		<h2 class="lefthead">Notes on Forecasting Demand in Publishing</h2>
+			<h3>
+				<strong>Kenneth M Brooks, Jr</strong>
+			</h3>
+	
+		<p>The following notes were assembled over several implementations of forecasting systems in book publishing operations from 1997 through 2001.</p>
+			<h1 id="toc">Table of Contents</h1>
+			<ul>
+				<li>
+					<a href="#toc">TABLE OF CONTENTS</a>
+				</li>
+				<li>
+					<a href="#intro">INTRODUCTION</a>
+				</li>
+				<li>
+					<a href="#key">KEY CONCEPTS</a>
+					<ul>
+						<li>
+							<a href="#reporting">Reporting and feedback</a>
+						</li>
+						<li>
+							<a href="#one">One number forecast</a>
+						</li>
+						<li>
+							<a href="#all">All organizational perspectives must be included</a>
+						</li>
+						<li>
+							<a href="#single">Single point of responsibility for development</a>
+						</li>
+						<li>
+							<a href="#forecast">Forecast demand, not shipments</a>
+						</li>
+						<li>
+							<a href="#planning">Planning</a>
+						</li>
+						<li>
+							<a href="#process">Process planning</a>
+						</li>
+						<li>
+							<a href="#resource">Resource planning</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="#control">CONTROL</a>
+				</li>
+				<li>
+					<a href="#forecast_devel">FORECAST DEVELOPMENT</a>
+					<ul>
+						<li>
+							<a href="#sales">Sales force aggregates</a>
+						</li>
+						<li>
+							<a href="#publisher">Publisher forecasts</a>
+						</li>
+						<li>
+							<a href="#comparable">Comparable titles</a>
+						</li>
+						<li>
+							<a href="#product">Product type/genre lifecycles</a>
+						</li>
+						<li>
+							<a href="#projection">Projection of historical sales</a>
+						</li>
+						<li>
+							<a href="#orders">"Orders on hand" forecast</a>
+						</li>
+						<li>
+							<a href="#customer">Customer POS forecast</a>
+						</li>
+						<li>
+							<a href="#combination">Combination process</a>
+						</li>
+						<li>
+							<a href="#override">Override process</a>
+						</li>
+						<li>
+							<a href="#archive">Archive forecasts</a>
+						</li>
+						<li>
+							<a href="#capture">Capture actuals</a>
+						</li>
+						<li>
+							<a href="#calculate">Calculate forecast error</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<h1 id="intro">Introduction</h1>
+			<p>The objective of the forecasting process is to obtain a title specific month-to-month forecast that is updated periodically to reflect the latest information on title sales.  This is used to plan inventory levels and to ensure availability of other important resources such as paper and printing capacity.  Because forecasts will always be wrong, it is also important to maintain a record of historical forecast accuracy to provide input in planning and to serve as a feedback mechanism to improve the process over time.</p>
+			<p>Depending on their use, forecasts must include various types of demand:</p>
+			<ul>
+				<li>Initial demand</li>
+				<li>Frontlist demand (for both published and unpublished titles)</li>
+				<li>Backlist demand (for both published and unpublished titles)</li>
+			</ul>
+			<p>Forecasts must be developed at minimum at the sku level on a monthly basis for items stocked and sold to customers.  This includes all product types and formats as well as displays.</p>
+			<p>This forecast will be developed using a combination of approaches:</p>
+			<ul>
+				<li>Sales force aggregates</li>
+				<li>Publisher forecasts</li>
+				<li>Comparable titles</li>
+				<li>Product type lifecycles</li>
+				<li>Projection of historical sales</li>
+				<li>Orders on hand</li>
+				<li>Customer point-of-sale information</li>
+			</ul>
+			<p>Clearly at different stages of the title's lifecyle each of these approaches will have different levels of relevance.  As an example, just following publication, the little historical information available is likely to be very volatile.  As a result, this approach would be discounted heavily in developing an overall forecast.</p>
+			<h1 id="key">Key Concepts</h1>
+			<h2 id="reporting">Reporting and feedback</h2>
+			<p>Decision processes only improve in accuracy when results are measured and fed back to the decision makers.  As a result, the accuracy of all forecasts will be tracked and reported.</p>
+			<h2 id="one">One number forecast</h2>
+			<p>To ensure consistency of effort and minimize organizational conflicts it is important that all departments operate from the same forecasts.  Because needs of departments will vary by level of aggregation, units, time periods, etc., the forecast must have the capability of being represented at any specified level.  These conversions are handled automatically by the system.</p>
+			<h2 id="all">All organizational perspectives must be included</h2>
+			<p>Sales, publishing, marketing, promotion, finance, inventory and production departments all have different, valid perspectives and contributions to the forecast development process.  These perspectives must be explicitly included in the process and the relative value of that contribution reported.</p>
+			<h2 id="single">Single point of responsibility for development</h2>
+			<p>The availability of a timely forecast is a prerequisite for planning and execution of many other processes.  As a result it is imperative that it be executed in a timely manner.  This is best achieved through definition of a single point of responsibility for forecast development.</p>
+			<h2 id="forecast">Forecast demand, not shipments</h2>
+			<p>It is important to capture demand, not shipments.  Shipment information is net of lost sales, whether by policy or accident, and will result in a consistent under-forecast of demand.</p>
+			<h2 id="planning">Planning</h2>
+			<h3 id="process">Process planning</h3>
+			<p>Process planning ensures that the forecasting process is adequately defined to meet the needs of the business with respect to its main objectives, primarily the development of quality forecasts, useful to all departments, at reasonable cost within a predefined time frame.  The major issue in process planning is pre-establishing standard processes with which component forecasts are developed and then combined.</p>
+			<h3 id="resource">Resource planning</h3>
+			<p>Resource planning ensures that sufficient capacity, staffing, etc. are available to fulfill the requirements of the process.</p>
+			<p>Because forecast development is an ongoing, fixed workload process, resource planning isn't a significant concern once initially staffed.  The primary staffing concern is the consistent presence of affected parties at consensus meetings.</p>
+			<h1 id="control">Control</h1>
+			<p>Control ensures:</p>
+			<ul>
+				<li>Transaction flow control and tracking.  Nothing gets lost in the process. What goes in, doesn't disappear and everything that should go in, does go in.  Actions actually happened as reported, and at the time they were supposed to happen.</li>
+				<li>Access control and tracking.  Only personnel with authorized access to transactions, information, etc. can change them.  There will be an audit trail of any changes.</li>
+				<li>Resource tracking and control.  Only authorized personnel are allowed to either utilize or deploy company resources.  Further, variance in usage from plan is tracked and reported.</li>
+			</ul>
+			<p>Control is insured through a variety of means.  The first is restricted access to system functionality and data.  The second is through the use of Key Performance Indicators reporting resource productivity, process performance and even individual and departmental performance.</p>
+			<p>Key performance indicators relevant to the forecast development process include:</p>
+			<ul>
+				<li>Quality<ul>
+						<li>Bias - mean percent error</li>
+						<li>Dispersion - mean absolute percent error</li>
+						<li>Instability </li>
+					</ul>
+				</li>
+				<li>Costs<ul>
+						<li>Development cost per title</li>
+					</ul>
+				</li>
+				<li>Time<ul>
+						<li>Planning throughput time</li>
+						<li>Timeliness</li>
+					</ul>
+				</li>
+			</ul>
+			<h1 id="forecast_devel">Forecast Development</h1>
+			<p>The forecast process will consist of development of a number of "component" forecasts that will then be combined:</p>
+			<ul>
+				<li>Sales force aggregates</li>
+				<li>Publisher forecasts</li>
+				<li>Comparable titles (two types)</li>
+				<li>Product type/genre lifecycles</li>
+				<li>Projection of historical sales</li>
+				<li>Orders on hand</li>
+				<li>Customer Point-of-Sale (POS)</li>
+			</ul>
+			<h2 id="sales">Sales force aggregates</h2>
+			<p>The sales force aggregate forecast is calculated by channel in an iterative process through account managers, sales reps, and sales management in exactly the same manner as today.  The forecast generated is a title-specific initial forecast available several months prior to final bind and updated through sales conference.</p>
+			<h2 id="publisher">Publisher forecasts</h2>
+			<p>Publisher forecasts are generated in the same manner as they are today.  This forecast is a title-specific initial forecast and is generated when the title is placed on the publishing schedule.</p>
+			<h2 id="comparable">Comparable titles</h2>
+			<p>Comparable title forecasts are generated by taking historical sales of similar titles and combining them manually.  There are two versions of this.  The first is used before any sales information has accumulated in order to get an overall estimate of the demand for a title.  Unit demand for the comparable titles selected are directly combined and manually adjusted to yield the final lifecycle forecast.  This forecast is a title specific, month-by-month forecast covering initial, frontlist and backlist intervals.  It can be generated at any point in the title's lifecycle, but is particularly valuable very early, when no other title-specific information is available.</p>
+			<p>The second version of the comparable title forecast combines aspects of the first method, the "orders on hand" technique (see below), and the title lifecycle approach (see below).  The basis of this approach is that an assumption is made that groups of titles can be found whose overall lifecycle patterns are very similar.  This implies that cumulative sales through a point in each title's lifecycle will correlate well with sales through any other point.  In other words, cumulative sales 15 days into the lifecycle can predict with some degree of certainty, sales at 1 month, 2 months, etc.</p>
+			<p>To execute this version of the comparable title forecast the analyst selects a title for analysis and determines the amount of time elapsed since publication (calendar days, business days, etc.).  He then selects between 20 and 100 titles that are similar to the current title by either personal knowledge or by selecting titles with similar characteristics.  Demand for each title through the same period is correlated against cumulative month-by-month demand through the forecast horizon.  Titles that don't correlate well are discarded.  The analyst then uses either regression equations or ratios based on the remaining titles to project the demand for the target title. </p>
+			<p>Clearly this type of forecast can be generated at any point in the title's lifecycle using estimates, early orders or actual demand.</p>
+			<h2 id="product">Product type/genre lifecycles</h2>
+			<p>Product lifecycle forecasts are generated using the idealized lifecycle patterns, multiplied by either projected or actual initials (depending on when the forecast is generated).  This forecast is a title specific, month-by-month forecast including frontlist and backlist intervals.  It is not a forecast of initials but rather is based on initial forecasts or actuals.  This forecast is generated by inventory planning several months prior to final bind and updated through on sale date.</p>
+			<h2 id="projection">Projection of historical sales</h2>
+			<p>This forecast is generated by extrapolating historical sales into the future.  It will likely be generated using statistical techniques.  This forecast is title-specific and will only be useful when enough sales history has accumulated to provide a meaningful forecast.  As such, it is first generated 2 months post-pub and updated monthly thereafter.</p>
+			<h2 id="orders">"Orders on hand" forecast</h2>
+			<p>This forecast is generated based on either actual orders on hand or account specific estimates.  It assumes that channel demand can be projected by extrapolating the historical percentage of demand represented by some group of accounts.  The forecast is title-specific, by channel for the initial period only.  It is generated by the sales department beginning several months before on-sale and updated continuously through on-sale date.</p>
+			<h2 id="customer">Customer POS forecast</h2>
+			<p>In the critical period between publication and the first few months of sale there is little information upon which to base estimates of demand.  At the same time this is a period where detailed, day-to-day knowledge is most critical.  This lack is addressed through a customer POS forecast.  </p>
+			<p>The publisher receives customer POS data on a periodic (weekly?) basis.  The publisher also receives updates of customer inventory position (store, warehouse, or both?) or estimates position using customer purchases less POS quantities.  Using this information and knowledge of customer inventory policy (target levels), customer planned orders are extrapolated.  These orders are accumulated and factored up to include likely orders by non-POS customers.</p>
+			<p>Customer POS forecasts are developed immediately post-pub and updated daily based on receipts of POS data.</p>
+			<table border="1px">
+				<tbody>
+					<tr>
+						<th>Forecast Type</th>
+						<th colspan="11">Months relative to on sale</th>
+						<th>Update Frequency</th>
+					</tr>
+					<tr>
+						<td />
+						<td>-12</td>
+						<td>-3</td>
+						<td>-2</td>
+						<td>-1</td>
+						<td>0</td>
+						<td>1</td>
+						<td>2</td>
+						<td>3</td>
+						<td>4</td>
+						<td>5</td>
+						<td>6</td>
+						<td />
+					</tr>
+					<tr>
+						<td>Sales Force Aggregate</td>
+						<td />
+						<td>o</td>
+						<td />
+						<td />
+						<td>X</td>
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td>Once</td>
+					</tr>
+					<tr>
+						<td>Publisher Forecast</td>
+						<td>o</td>
+						<td />
+						<td />
+						<td />
+						<td>X</td>
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td>3 times per year</td>
+					</tr>
+					<tr>
+						<td>Comparable Titles I</td>
+						<td>o</td>
+						<td />
+						<td />
+						<td />
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>Once</td>
+					</tr>
+					<tr>
+						<td>Comparable Titles II</td>
+						<td />
+						<td>o</td>
+						<td>o</td>
+						<td>o</td>
+						<td>oX</td>
+						<td>oX</td>
+						<td>oX</td>
+						<td>oX</td>
+						<td>oX</td>
+						<td>oX</td>
+						<td>oX</td>
+						<td>Continuously</td>
+					</tr>
+					<tr>
+						<td>Lifecycle</td>
+						<td />
+						<td>o</td>
+						<td />
+						<td />
+						<td />
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>Once</td>
+					</tr>
+					<tr>
+						<td>Historical Sales</td>
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td>oX</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>Monthly</td>
+					</tr>
+					<tr>
+						<td>Orders On Hand</td>
+						<td />
+						<td>o</td>
+						<td />
+						<td />
+						<td>X</td>
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td>Continuously</td>
+					</tr>
+					<tr>
+						<td>Customer POS</td>
+						<td />
+						<td />
+						<td />
+						<td />
+						<td />
+						<td>oX</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>X</td>
+						<td>Continuously</td>
+					</tr>
+					<tr>
+						<td colspan="6" align="center">o - Date of first availability</td>
+						<td colspan="7" align="center">X - Periods forecasted</td>
+					</tr>
+				</tbody>
+			</table>
+			<p>FIGURE 1 - Summary of availability and horizons by forecast type</p>
+			<h2 id="combination">Combination process</h2>
+			<p>A combined month-by-month forecast is generated by weighting each of the above component forecasts by historical accuracy over the lead time in question.  If an initial forecast is required 4 months before publication, and the sales force aggregate forecast has proven more accurate than the comparable title forecast, it will be given a higher weight in determining the combined forecast.</p>
+			<h2 id="override">Override process</h2>
+			<p>Periodic meetings will be held to review forecasts for the titles representing 80% of projected sales.  All parties concerned with the forecast will contribute to developing a period-by-period consensus of any overrides.</p>
+			<h2 id="archive">Archive forecasts</h2>
+			<p>All components, combined and override forecasts are captured and archived.  This will be used for future combination activities and calculation of vendor safety buffers and required finished goods inventory levels.</p>
+			<h2 id="capture">Capture actuals</h2>
+			<p>As demand is recorded in the Order Management process it is captured and archived.  It is important that this be captured as actual demand, not shipments (see Key Concepts).</p>
+			<h2 id="calculate">Calculate forecast error</h2>
+			<p>The accuracy of all component forecasts, the combination forecast and the override forecast will be tracked and reported to assist in improvement of the process.  Error will be measured along three axes:</p>
+			<ul>
+				<li>Bias.  The degree to which the forecast is on average above or below actual.  This should be zero percent; but will likely range between 3-5% either above or below.</li>
+				<li>Dispersion.  The degree to which the forecast deviates from actual, not allowing positive variances to "wash out" negative variances.  This should also be zero but will likely range between 10-15% (absolute value).</li>
+				<li>Instability.  The degree to which the forecast for a given month jumps around as that month draws near.  A high degree of instability leads to distrust of the forecast as a planning tool.</li>
+			</ul>
+		</div>
+		<div class="footer">
+			<p class="navline">
+				<b>
+					<a href="http://www.treadwellmedia.com/" class="sn">HOME</a>
+				</b> | <b>
+					<a href="/Capabilities/index.htm" class="sn">CAPABILITIES</a>
+				</b> | <b>
+					<a href="/Cases/index.htm" class="sn">PROJECTS</a>
+				</b> | <b>
+					<a href="/Articles/index.htm" class="sn">ARTICLES</a>
+				</b> | <b>
+					<a href="/Resources/index.htm" class="sn">RESOURCES</a>
+				</b> | 
+            			<b>
+					<a href="/Taxonomy/index.htm" class="sn">TAXONOMY</a>
+				</b> |
+				<b>
+					<a href="mailto:info@treadwellmedia.com" class="sn">CONTACT</a>
+				</b>
+			</p>
+			<p class="footercr">Copyright 2007 Treadwell Media Group</p>
+		</div>
+	</body>
+</html>

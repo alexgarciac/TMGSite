@@ -1,0 +1,2739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="S:\Treadwell Media Group\TMG Site\TMGSite2HTML.xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="S:\Treadwell Media Group\TMG Site\TMG Site.xsd">
+	<welcome>
+		<para>
+			<bold>Innovative Publishing Solutions</bold>: eBooks, consulting, editorial, marketing, distribution...a single solutions source</para>
+		<para>Backed by seasoned publishing professionals across the editorial, production and marketing/sales spectrum, TMG provides affordable solutions to publishers at a critical stage of growth by grouping and supporting shared services. We allow our publishing partners to concentrate on crafting their best assets and delivering their core competencies while we provide the rest.</para>
+		<para>We focus in the following areas:</para>
+		<bulletList>
+			<listItem>Distribution in print and electronic formats specializing in small lists into key markets</listItem>
+			<listItem>Development of eBook and other digital content including rich media</listItem>
+			<listItem>Packaging, offering a full range of services from concept to disc</listItem>
+			<listItem>State of the art production and manufacturing</listItem>
+			<listItem>Editorial - from start to finish including content creation, editing, copyediting and proofing</listItem>
+			<listItem>Creative design</listItem>
+			<listItem>Consulting</listItem>
+			<listItem>Rights services - from acquisition, to management, to sales</listItem>
+		</bulletList>
+		<para>Whether you are a publisher interested in building value through the addition of digital delivery and eBook formats, an international publisher hoping to establish a foothold in the US market, or a content provider or publisher who needs an experienced packager, TMG is your single source for solutions.</para>
+		<para>The founders of TMG have been adding value to publishers and authors in the trade, education, and professional fields for more than a decade, working in both electronic media as well as traditional publishing. Through a creative and consultative approach to solving publisher needs, and drawing on networks of publishing professionals in the field, they support an enterprise dedicated to achievement and profit for their publishing partners. TMG favors the team approach to solutions, believing that success follows from the interaction of a community of inspired equals.</para>
+	</welcome>
+	<services>
+		<masterServiceLine shortName="marketing">
+			<articleHeader>
+				<subject>Book marketing, galley, ARC, print on demand, POD, eBook galleys, bound galley</subject>
+				<DOI>10.13350000000012</DOI>
+				<category idref="Marketing"/>
+			</articleHeader>
+			<masterServiceLineName>DigitalGalley Book Marketing Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Treadwell Media Group has built its reputation by offering high-quality content conversion and consulting services to publishers entering the eBook space. Now it offers DigitalGalley, a new program that removes costs from the galley and ARC distribution process while simultaneously adding flexibility to it.</para>
+				<para>Publishers have long known that the best way to build distribution and then sell-through for a book is through word-of-mouth initiated by "thought" leaders such as reviewers, librarians, and booksellers. It has always been difficult to reach these thought leaders, not only because of the expense of printing and distributing bound galleys and advance reader's copies, but also because these leaders vary by book type and subject; a source well regarded for his/her business book recommendations can't always recommend the latest thriller.</para>
+				<para>Treadwell Media Group has recognized this problem, and with the introduction of our DigitalGalley service, <xrefURL href="http://www.DigitalGalley.com">www.DigitalGalley.com</xrefURL>, we have taken the first step toward addressing it. This service delivers digital copies of forthcoming books in many popular formats—including the most popular—Palm Digital Media (formerly Peanut Press). Naturally, this process can be applied to either a selection from a book or a book in its entirety. With DigitalGalley publishers have a low-cost and fast new channel through which they can reach reviewers, librarians and booksellers. For those yet to adopt the new technology, we also offer traditional bound galley production and distribution services.</para>
+				<para>DigitalGalley is the first of an anticipated suite of marketing services to come from Treadwell Media Group. During the months ahead we will continue to add services to make book marketing an increasingly painless but fruitful process for publishers.</para>
+				<para>For further information on DigitalGalley or the ways in which Treadwell Media Group can assist you with your book production, distribution and marketing needs, please contact info@treadwellmedia.com.</para>
+				<para>Features of DigitalGalley:</para>
+				<unOrderedList>
+					<listItem>Create your own publisher galley page or use one of ours</listItem>
+					<listItem>Create your own title page or use one of ours</listItem>
+					<listItem>Secure or "shareable" distribution of eBook content, either as selections or full titles</listItem>
+					<listItem>Registration of eBook downloads to know who is looking at which title</listItem>
+					<listItem>Direct connection with reviewers allowing them to request printed galleys</listItem>
+					<listItem>Access to Treadwell Media Group mailing list of reviewers to enhance your own</listItem>
+					<listItem>Printing and distribution of traditional bound galleys and ARCs in conjunction with or in place of eBook distribution</listItem>
+					<listItem>Customized book marketing services available on request: let our team of designers and engineers work with you to achieve your book marketing goals</listItem>
+				</unOrderedList>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="distribution">
+			<articleHeader>
+				<subject>ebook distribution, book distribution, ebooks, Quiet Island, Treadwell Media Group, Ken Brooks</subject>
+				<DOI>10.13350000000011</DOI>
+				<category idref="Distribution"/>
+			</articleHeader>
+			<masterServiceLineName>Quiet Island Books eBook and POD Distribution Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>
+					<xrefURL href="http://www.QuietIslandBooks.com">Quiet Island Books</xrefURL> Quiet Island Books assists small publishers and previously published authors by distributing their content through secure eBook and print-on-demand wholesale and retail channels.</para>
+				<para>Currently, Treadwell Media Group distributes to most on-line and eBook retailers through:</para>
+				<unOrderedList>
+					<listItem>
+						<xrefURL href="http://www.eReader.com">eReader.com</xrefURL> (formerly Palm Digital Media)
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.mobipocket.com">Mobipocket</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.contentreserve.com">ContentReserve</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.lightningsource.com">Lightning Source</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.ebooks.com">eBooks.com</xrefURL>
+					</listItem>
+				</unOrderedList>
+				<para>Current members of the Quiet Island Books community include:</para>
+				<unOrderedList>
+					<listItem>
+						<xrefURL href="http://www.10step.com">10 Step Publications</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.advisorworks.com">AdvisorWorks</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.americantri.com">American Tri Magazine</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.AtmaGlobal.com">Atma Global</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.clementeonline.com">Clemente Online</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.jobsandmoms.com">Nancy Collamer</xrefURL>
+					</listItem>
+					<listItem><xrefURL href="http://www.threeinlove.com">Barbara Foster</xrefURL></listItem>
+					<listItem>
+						<xrefURL href="http://www.idealog.com">Idea Logical Company</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.paraview.com">Paraview Press</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.donpendleton.com">Linda Pendleton</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.roverbooks.com">Rover Books</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.softskull.com">Soft Skull Press</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.stormkingpress.com">Storm King Press</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.firstjob.com">Teen Talk Communications</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.veroben.com">Veroben Solutions</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.antelopepress.com">WPR Publishing</xrefURL>
+					</listItem>
+				</unOrderedList>
+				<para>Visit Quiet Island Books online at <xrefURL href="http://www.QuietIsland.com">Quiet Island Books</xrefURL>.</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="econsulting">
+			<articleHeader>
+				<subject>ebook consulting, XML, PDF, workflow, digital workflow, digital distribution, ebooks, publishing consulting</subject>
+				<DOI>10.13350000000013</DOI>
+				<category idref="Digital_Strategy"/>
+			</articleHeader>
+			<masterServiceLineName>ePublishing Consulting Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>For those publishers who are uncertain on how to best prepare for the digital revolution, Treadwell Media Group delivers digital content strategy, operations and marketing consulting services. Whether you are concerned about what platforms, formats or channels to pursue, or how best to integrate eBooks and print-on-demand into your existing productions process, Treadwell Media Group team of eBook and traditional publishing experts can help you prepare for your company’s future.</para>
+				<para>Sample engagements include:<projectList idref="Digital_Strategy"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="pconsulting">
+			<articleHeader>
+				<subject>Treadwell Media Group Services, Book Publishing, Publishing, Consulting, Strategy, Production, Operations, Finance</subject>
+				<DOI>10.13350000000014</DOI>
+				<category idref="Cost_Reduction"/>
+			</articleHeader>
+			<masterServiceLineName>Traditional Publishing Consulting Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Treadwell Media Group offers a wide range of consulting services within traditional publishing functions. Those services include:</para>
+				<unOrderedList>
+					<listItem>Corporate and Functional Strategy</listItem>
+					<listItem>Production</listItem>
+					<listItem>Inventory Management</listItem>
+					<listItem>Warehousing/Fulfillment</listItem>
+					<listItem>Order Management</listItem>
+					<listItem>Customer Service</listItem>
+					<listItem>Rights Management</listItem>
+					<listItem>Finance</listItem>
+				</unOrderedList>
+				<para>Sample engagements include:<projectList idref="Operations_Review"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="rights">
+			<articleHeader>
+				<subject>Treadwell Media Group, Book Publishing, Contracts, Rights Management, DRM, Digital Rights Management, Ken Brooks, Publishing Dimensions</subject>
+				<DOI>10.13350000000016</DOI>
+				<category idref="Rights_Management"/>
+			</articleHeader>
+			<masterServiceLineName>Rights Conversion Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Treadwell Media Group provides innovative solutions in capturing information on publishers' largest asset: the rights that they control and exploit. Our solutions include cost-effective capture of rights data from author and subrights contracts and integration of that data into popular rights management services, applications and on-line sales channels.</para>
+				<para>By having rights information digitized and readily accessible in a rights management system, publishers achieve a number of direct revenue benefits:</para>
+				<unOrderedList>
+					<listItem>The capture of missed revenue opportunities including unsold sub-rights (beyond the frontlist), renegotiation of expiring deals, and uncollected royalties from deals that have already been negotiated.</listItem>
+					<listItem>Generating new revenue streams from digital publishing, content recombination, and from electronic rights brokerage exchanges.</listItem>
+					<listItem>Facilitation of better publishing decisions through go/no-go decisions based not just on anecdotal evidence but also on true understanding of rights sales history of similar titles.</listItem>
+					<listItem>Increasing margin / reducing write-offs by enabling the targeting of sales efforts to titles with unearned advances.</listItem>
+					<listItem>Reducing time-to-market in evaluating new revenue opportunities by enabling rapid determination of the rights held.</listItem>
+				</unOrderedList>
+				<para>Beyond the direct revenue benefits of having rights information readily available, capturing contracts in digital form yields substantial productivity, timeliness and business continuation benefits over time. Some of these include:</para>
+				<unOrderedList>
+					<listItem>Increasing margin by reducing staff time and effort associated with the management of contracts including indexing, storage and retrieval. These benefits accrue across the organization in legal, rights marketing, editorial, finance, and royalty departments.</listItem>
+					<listItem>Better disaster recovery - fewer in-process contracts lost, faster speed of recovery and increased ability to store multiple copies in separate remote locations.</listItem>
+					<listItem>More timely initial entry of data into enterprise systems including royalties, order processing, financial, production, and editorial systems</listItem>
+					<listItem>Reduction of document management expense associated with storage and retrieval of paper contracts</listItem>
+					<listItem>More timely response to internal and external inquiries on contract-related issues</listItem>
+				</unOrderedList>
+				<para>Publishers achieve a number of advantages from the Treadwell Media Group approach:</para>
+				<unOrderedList>
+					<listItem>High quality, consistent rights data output requiring little intervention for validation</listItem>
+					<listItem>A cost-effective solution offering quick turnaround on most types of contracts</listItem>
+					<listItem>Experienced staff with traditional and electronic publishing experience</listItem>
+					<listItem>Knowledge of functional and data requirements of most rights management systems</listItem>
+					<listItem>Delivery of rights information to publisher-specified channels of distribution</listItem>
+					<listItem>Detailed tracking of contract conversion through each stage of production</listItem>
+					<listItem>Real-time availability of production status via secure web page</listItem>
+					<listItem>Hassle-free customer service with knowledgeable representatives</listItem>
+					<listItem>Largest conversion capacity in the industry</listItem>
+					<listItem>Exceptionally fast ramp-up capability</listItem>
+					<listItem>Built in disaster recovery through site mirroring and multiple redundant conversion sites</listItem>
+					<listItem>Global state-of-the-art facilities and telecommunications network</listItem>
+				</unOrderedList>
+				<para>Our credentials in rights management are wide and varied. Some of our representative experiences include: <projectList idref="Rights_Management"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="custompublishing">
+			<articleHeader>
+				<subject>Treadwell Media Group, Book Publishing, Custom Publishing, POD, Print-on-Demand, Print on Demand, Ken Brooks, Publishing Dimensions</subject>
+				<DOI>10.13350000000050</DOI>
+				<category idref="Custom_Publishing"/>
+			</articleHeader>
+			<masterServiceLineName>Custom Publishing</masterServiceLineName>
+			<serviceLineDescription>
+				<para>A common challenge for reference and professional publishers is finding a way to present a large amount of material out of which only a small amount is going to be selected by the user. Treadwell Media Group' solution to this often undiagnosed publishing problem is to develop a custom application built off of an xml database structure. This database of the publishers content allows the reader to select only the content they need and to then retrieve an online pdf or html file, an eBook (to be read offline if they choose), or even to order a printed and bound print-on-demand edition–printed cost effectively a single time. Treadwell Media Group proven solution has been used by several large-scale operations.</para>
+				<para>Sample engagements include:<projectList idref="Custom_Publishing"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+	</services>
+	<projects>
+		<project id="trade16">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Rights_Management"/>
+			<projectType>Rights Management Strategy</projectType>
+			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
+		</project>
+		<project id="academic3">
+			<clientName>University of Chicago Press</clientName>
+			<category idref="Academic"/>
+			<category idref="Rights_Management"/>
+			<projectType>Rights Database Design</projectType>
+			<projectDescription>Working with a large university press we developed the design of a rights database incorporating territories, languages, and types of rights in order to support their modernization and digital commerce initiatives.</projectDescription>
+		</project>
+		<project id="academic1">
+			<clientName>MIT Press</clientName>
+			<category idref="Academic"/>
+			<category idref="Rights_Management"/>
+			<projectType>Rights DTD definition</projectType>
+			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. We prototyped it's use in capturing a number of different contract types.</projectDescription>
+		</project>
+		<project id="AIPC">
+			<clientName>AIPC</clientName>
+			<category idref="Trade"/>
+			<category idref="Custom_Publishing"/>
+			<projectType>Custom cookbook application</projectType>
+			<projectDescription>Developed a web-based cookbook application enabling a consumer to select among a database of more than 2000 recipes, enter his/her own recipes and other personalizing material and receive a printed cookbook within 5 business days. the project involved developing a recipe DTD, converting the recipes from various hardcopy and electronic forms, building a web user interface linked in with an XML database, and developing the XSLT-driven output transformations.</projectDescription>
+		</project>
+		<project id="ABS1">
+			<clientName>American Bible Society</clientName>
+			<category idref="Religious"/>
+			<category idref="Custom_Publishing"/>
+			<projectType>Comparative Bible reading</projectType>
+			<projectDescription>Timed to release simultaneously with Mel Gibson's Passion movie, developed a web-based application allowing readers to see how Matthew, Mark, Luke and John narrated the events of the Passion, Crucifixion and Resurrection. The application utilized an index of the main events to generate a 4-column parallel version to show the presentation of each event in each of the Gospels. Readers were allowed to pick the translation desired (multiple English- and Spanish-language versions were made available) and the particular events desired. A web presentation was developed that could then be downloaded as a PDF or requested as a print-on-demand edition.</projectDescription>
+		</project>
+		<project id="ABS2">
+			<clientName>American Bible Society</clientName>
+			<category idref="Religious"/>
+			<category idref="Custom_Publishing"/>
+			<projectType>Multiple language Scripture tool (diglot)</projectType>
+			<projectDescription>Developed a web-based application allowing a reader to simultaneously view two translations of the Bible in either HTML or PDF, and then order a custom printed and bound version for delivery to their home for offline use. The project used XML and XSLT technology on generally available translations of the Bible existing in OSIS 2.1 markup.</projectDescription>
+		</project>
+		<project id="OEBF">
+			<clientName>OeBF</clientName>
+			<category idref="Trade"/>
+			<category idref="Standards"/>
+			<category idref="Digital"/>
+			<projectType>Standards body participation</projectType>
+			<projectDescription>Participated in the business SIG of the Open eBook Foundation.</projectDescription>
+		</project>
+		<project id="PRISM">
+			<clientName>PRISM</clientName>
+			<category idref="Trade"/>
+			<category idref="Standards"/>
+			<category idref="Digital"/>
+			<projectType>Standards development</projectType>
+			<projectDescription>Participated in the development of the aggregator DTD developed by the PRISM working group.</projectDescription>
+		</project>
+		<project id="HE1">
+			<clientName>Wiley</clientName>
+			<category idref="Higher_Ed"/>
+			<category idref="Strategy"/>
+			<projectType>Channel inventory strategy</projectType>
+			<projectDescription>For a Higher Ed publisher evaluated the economics to publisher, retailer, student and used book wholesaler of traditional buy/sell, consignment, rental and other business models. Identified key decision criteria and developed recommended approach forward.</projectDescription>
+		</project>
+		<project id="Trade1">
+			<clientName>HarperCollins</clientName>
+			<category idref="Higher_Ed"/>
+			<category idref="Distribution"/>
+			<category idref="International"/>
+			<projectType>Canadian physical distribution assessment</projectType>
+			<projectDescription>For a large trade publisher evaluated a number of alternatives for distributing into Canada including an owned operation, cross-docking, and use of third-party distributors.</projectDescription>
+		</project>
+		<project id="RMS1">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Rights_Management"/>
+			<projectType>Rights Management systems design</projectType>
+			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
+		</project>
+		<project id="HE2">
+			<clientName>Wiley</clientName>
+			<category idref="Higher_Ed"/>
+			<category idref="Distribution"/>
+			<category idref="International"/>
+			<projectType>International textbook diversion assessment</projectType>
+			<projectDescription>Evaluated the extent to which textbooks sold overseas were being diverted back into the U.S. market and what possible actions might be that publishers could take to address the problem.</projectDescription>
+		</project>
+		<project id="Trade2">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Technology"/>
+			<category idref="Systems_Design"/>
+			<projectType>SAP implementation</projectType>
+			<projectDescription>Served as process architect in 2 separate publishing industry SAP installations (Bantam Doubleday Dell, now part of Random House, and Simon &amp; Schuster) across production, inventory management, editorial, order processing, distribution and finance functions.</projectDescription>
+		</project>
+		<project id="Trade3">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Print"/>
+			<projectType>Production efficiency improvement</projectType>
+			<projectDescription>At Bantam Doubleday Dell implemented improvements in vendor relationship management that resulted in a reduction of $2.1 million in pricing, reduced contract print cycle by 15-days, and improved on-time delivery to 99+ percent. BDD's president was quoted in Publishers Weekly naming manufacturing cost reduction as one of the three sources of BDD's best year ever.</projectDescription>
+		</project>
+		<project id="Trade4">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Inventory_Management"/>
+			<category idref="Operations"/>
+			<projectType>Product standardization</projectType>
+			<projectDescription>At Bantam Doubleday Dell implemented standardization measures that with no perceptible change in variety of books published decreased paper raw material inventory from $8.5 million to $6.2 million and had no effect on printing lead times.</projectDescription>
+		</project>
+		<project id="Trade5">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Rights_Management"/>
+			<category idref="Business_Systems"/>
+			<category idref="Systems_Design"/>
+			<projectType>Rights Management data and functional modeling</projectType>
+			<projectDescription>As part of a customer/consultant/software provider team, developed the rights management data and functional model used by SAP for their implementation of a rights management module.</projectDescription>
+		</project>
+		<project id="Trade6">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Production"/>
+			<projectType>Production cycle time improvement</projectType>
+			<projectDescription>Reduced book development cycle by 33% at a large trade publisher, now part of Random House, through process mapping and redesign.</projectDescription>
+		</project>
+		<project id="Trade7">
+			<clientName>S&amp;S</clientName>
+			<category idref="Trade"/>
+			<category idref="Business_Models"/>
+			<projectType>Consignment inventory evaluation</projectType>
+			<projectDescription>For a large trade publisher evaluated the impact of consignment sale of inventory. Although the balance sheet impact of the move was favorable, issues with delayed revenue recognition prevented implementation.</projectDescription>
+		</project>
+		<project id="Trade8">
+			<clientName>S&amp;S</clientName>
+			<category idref="Trade"/>
+			<category idref="Sales"/>
+			<category idref="Strategy"/>
+			<projectType>Terms of Sale evaluation</projectType>
+			<projectDescription>Performed industry analysis comparing net effective discounts offered across a range of publishers taking into account discount, RDC and freight terms, coop allowances and other common terms of sale. Analysis was used to evaluate a proposed publisher terms of sale change for retail attractiveness.</projectDescription>
+		</project>
+		<project id="Trade9">
+			<clientName>BDD</clientName>
+			<category idref="Trade"/>
+			<category idref="Vendor_Management"/>
+			<projectType>Establish corporate purchasing department</projectType>
+			<projectDescription>At Bantam Doubleday Dell established a supply management/corporate purchasing function resulting in $1 million in purchased goods and services reductions, and an additional $2 million targeted for FY 94/95 (since attained).</projectDescription>
+		</project>
+		<project id="Trade10">
+			<clientName>S&amp;S</clientName>
+			<category idref="Operations"/>
+			<category idref="Org_Alignment"/>
+			<projectType>Department consolidation</projectType>
+			<projectDescription>Merged Simon &amp;Schuster's (pre-Viacom sale) customer service and credit departments to create "one face to the customer", leading to Simon &amp; Schuster being recognized by our customers as being "most improved" in customer service in the 1997 annual Market Partners survey of publisher performance.</projectDescription>
+		</project>
+		<project id="Trade11">
+			<clientName>S&amp;S</clientName>
+			<category idref="Trade"/>
+			<category idref="Strategy"/>
+			<projectType>Key account strategy implementation</projectType>
+			<projectDescription>At Simon &amp; Schuster implemented key account management strategy to focus on joint improvement in margin and operating efficiencies with our customers.</projectDescription>
+		</project>
+		<project id="Trade12">
+			<clientName>S&amp;S</clientName>
+			<category idref="Trade"/>
+			<category idref="Customer_Service"/>
+			<category idref="Productivity_Improvement"/>
+			<category idref="Cost_Reduction"/>
+			<projectType>Call center productivity</projectType>
+			<projectDescription>Increased call center productivity by 7%, simultaneously increasing attainment of target service levels.</projectDescription>
+		</project>
+		<project id="Trade13">
+			<clientName>S&amp;S</clientName>
+			<category idref="Trade"/>
+			<category idref="Accounts_Receivable"/>
+			<category idref="Asset_Improvement"/>
+			<projectType>Accounts Receivable improvement</projectType>
+			<projectDescription>At a large trade publisher implemented substantial changes to AR and Credit functions reducing DSO in the last 12 months by 10%. Other benefits achieved included reducing average time to clear customer deductions by almost 100 days with no change in percent written off, reducing the unmatched deduction balance by over 25%; doubled average speed of cash application; and substantially improved methods of cash receipts forecasting, leading to more reliable estimates of cash, A/R component balances, and DSO.</projectDescription>
+		</project>
+		<project id="Trade14">
+			<clientName>S&amp;S</clientName>
+			<category idref="Trade"/>
+			<category idref="Transportation"/>
+			<category idref="Cost_Reduction"/>
+			<category idref="Trade"/>
+			<projectType>Transportation cost reduction</projectType>
+			<projectDescription>At Simon &amp;Schuster reduced education transportation cost per unit by over 6% (both gross and net) through consolidation of carriers used and negotiation around specific rates on heavily traveled lanes.</projectDescription>
+		</project>
+		<project id="Wholesale15">
+			<clientName>Lightning Source</clientName>
+			<category idref="Expert_Witness"/>
+			<category idref="Trade"/>
+			<category idref="POD"/>
+			<projectType>POD expert witness</projectType>
+			<projectDescription>Provided expert testimony regarding reasonable royalty rates in a print-on-demand patent infringement case.</projectDescription>
+		</project>
+		<project id="Wholesale16">
+			<clientName>1stBooksLibrary</clientName>
+			<category idref="Expert_Witness"/>
+			<category idref="Trade"/>
+			<category idref="POD"/>
+			<projectType>POD expert witness</projectType>
+			<projectDescription>Provided expert testimony regarding industry supply chain practices in a suit against a self-publishing company.</projectDescription>
+		</project>
+		<project id="Wholesale17">
+			<clientName>LightningSource</clientName>
+			<category idref="Market_Assessment"/>
+			<category idref="Digital_Strategy"/>
+			<category idref="Trade"/>
+			<category idref="Marketing"/>
+			<projectType>Customer perception assessment</projectType>
+			<projectDescription>Evaluated publisher and retailer perception of an eBook wholesale company as a basis for determining future strategy.</projectDescription>
+		</project>
+		<project id="Trade15">
+			<clientName>Stone House Press</clientName>
+			<category idref="Digital_Strategy"/>
+			<category idref="Trade"/>
+			<projectType>ePublishing strategy</projectType>
+			<projectDescription>Developed and implemented an eBook and print-on-demand distribution strategy for a small publisher, selecting formats and channels within which to distribute their titles.</projectDescription>
+		</project>
+		<project id="HE3">
+			<clientName>Houghton Mifflin</clientName>
+			<category idref="Digital_Strategy"/>
+			<category idref="XML"/>
+			<category idref="Higher_Ed"/>
+			<projectType>XML readiness assessment</projectType>
+			<projectDescription>Worked with a large Higher Education publisher to evaluate titles and supplementary materials across a variety of disciplines and assess XML "readiness" and determine a strategy for implementing a comprehensive XML-first production process.</projectDescription>
+		</project>
+		<project id="academic2">
+			<clientName>MIT Press</clientName>
+			<category idref="Rights_Management"/>
+			<category idref="Academic"/>
+			<projectType>Rights Management DTD development</projectType>
+			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. Prototyped it's use in capturing a number of different contract types.</projectDescription>
+		</project>
+		<project id="retail1">
+			<clientName>B&amp;N</clientName>
+			<category idref="Operations"/>
+			<category idref="Trade"/>
+			<category idref="Retail"/>
+			<projectType>Bibliographic operations management</projectType>
+			<projectDescription>Directed bibliographic data acquisition and database management at Barnes &amp; Noble, Inc. including a redesign of the internal B&amp;N title database (over 1,000,000 titles), and negotiating new agreements with title data vendors.</projectDescription>
+		</project>
+		<project id="retail2">
+			<clientName>B&amp;N</clientName>
+			<category idref="CMS"/>
+			<category idref="Trade"/>
+			<category idref="Retail"/>
+			<category idref="CMS"/>
+			<projectType>Content and metadata archive design</projectType>
+			<projectDescription>Directed design and construction of content and metadata archive for EP Ventures, a Philippines-based text and image conversion operation.</projectDescription>
+		</project>
+		<project id="service1">
+			<clientName>PDL</clientName>
+			<category idref="Systems_Design"/>
+			<category idref="Trade"/>
+			<category idref="CMS"/>
+			<projectType>Content and metadata archive design</projectType>
+			<projectDescription>Developed high-level design to archive content in a format-neutral repository and generate on-the-fly formats including OEB, HTML 4.0, Microsoft Reader, Palm Digital Media, Gemstar and Adobe eBook Reader formats. Initiated implementation of this concept at EP Ventures and another large provider of conversion services.</projectDescription>
+		</project>
+		<project id="retail3">
+			<clientName>B&amp;N</clientName>
+			<category idref="Trade"/>
+			<category idref="POD"/>
+			<projectType>POD implementation</projectType>
+			<projectDescription>For Barnes &amp; Noble implemented a centralized print-on-demand operation with the capacity to print 45,000 books per month.</projectDescription>
+		</project>
+		<project id="retail4">
+			<clientName>B&amp;N</clientName>
+			<category idref="Digital_Strategy"/>
+			<category idref="Trade"/>
+			<category idref="POD"/>
+			<projectType>ePublishing strategy</projectType>
+			<projectDescription>Founded a print-on-demand and eBook publishing entity that has more than 1,500 titles published and being sold through online retail and wholesale channels such as bn.com and Lightning Source. Program required the development of editorial, managing editorial, rights clearance and production capabilities within a very small team with no previous experience in these functions.</projectDescription>
+		</project>
+		<project id="retail5">
+			<clientName>B&amp;N</clientName>
+			<category idref="Trade"/>
+			<category idref="POD"/>
+			<projectType>In-store print-on-demand assessment</projectType>
+			<projectDescription>At Barnes &amp; Noble directed a feasibility study of an in-store print-on-demand and kiosk-based book delivery system. Study demonstrated that insufficient content existed in appropriate format at the time to make such a system sufficiently appealing to customers to be viable.</projectDescription>
+		</project>
+		<project id="Trade16">
+			<clientName>BDD</clientName>
+			<category idref="Standards"/>
+			<category idref="Trade"/>
+			<projectType>Standards development</projectType>
+			<projectDescription>Participated in the original AAP Emerging Technologies Committee that formulated the need for and structure of the Digital Object Identifier (DOI).</projectDescription>
+		</project>
+		<project id="service3">
+			<clientName>PDL</clientName>
+			<category idref="Rights_Management"/>
+			<category idref="Standards"/>
+			<category idref="Trade"/>
+			<projectType>Standards development</projectType>
+			<projectDescription>Participated in the ONIX for subrights committee convened at Frankfurt 2001. The purpose of the committee is to define metadata standards around exchange of rights information.</projectDescription>
+		</project>
+	</projects>
+	<articles>
+		<article shortName="money" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000001</DOI>
+				<articleTitle>Where's the Money?</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Business Issues</subject>
+				<format>html</format>
+				<source>Publishing 2001: Attitudes to Technological Change, 2001, BPI Communications. </source>
+				<description>Article presents a strategic framework to assist publishers in determining in which formats, platforms and channels they should be making their content available.</description>
+				<category idref="Strategy"/>
+				<category idref="eBooks"/>
+				<xrefURL href="/Articles/where_is_money.htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="optimize" generate="yes">
+			<articleHeader>
+				<DOI>10.1335/0000000002</DOI>
+				<articleTitle>Optimizing Content for Multi-Channel Publishing</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Business Issues</subject>
+				<format> html</format>
+				<source>Digital Content Management for Publishing conference on July 24, 2001.</source>
+				<category idref="Strategy"/>
+				<category idref="eBooks"/>
+				<xrefURL href="Optimizing content for multichannel publishing.htm"/>
+				<sourceURL href="./Articles/Optimizing content for multichannel publishing (text version).htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="ebookchain" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000003</DOI>
+				<articleTitle>eBook Supply Chain: Opportunities and Challenges</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Business Issues</subject>
+				<format>pdf</format>
+				<source>Supply Chain Seminar, Frankfurt Book Fair, on October 9, 2001</source>
+				<description/>
+				<category idref="Distribution"/>
+				<category idref="eBooks"/>
+				<xrefURL href="/Articles/eBook_Supply_Chain.pdf"/>
+			</articleHeader>
+		</article>
+		<article shortName="common" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000004</DOI>
+				<articleTitle>Common eBook Formats</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Production Issues</subject>
+				<format>html</format>
+				<description>Article describing the most common formats for eBooks and the advantages of each.</description>
+				<category idref="eBooks"/>
+				<xrefURL href="/Articles/CommonFormats.htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="formats" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000005</DOI>
+				<articleTitle>File Formats for Digital Distribution</articleTitle>
+				<format>pdf</format>
+				<source>Presentation given at Seybold San Francisco, 2001 on September 27, 2001</source>
+				<description>eBook formats and recommendations on which publishers should implement</description>
+				<category idref="eBooks"/>
+				<xrefURL href="/Articles/file_formats.pdf"/>
+			</articleHeader>
+		</article>
+		<article shortName="strategy" generate="no">
+			<articleHeader>
+				<DOI>10.13350000000006</DOI>
+				<articleTitle>Publisher Conversion Strategy</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Production Issues</subject>
+				<format>pdf</format>
+				<source>Book Expo America (BEA)</source>
+				<description>Cost-effective methods that publishers can use to incrementally convert their books into various eBook formats based on expected sales in each format. Presentation also includes high-level diagrams illustrating the most common types of conversion and associated issues. </description>
+				<category idref="Conversion"/>
+				<category idref="eBooks"/>
+				<xrefURL href="/Articles/Publisher_Conversion_Strategy.pdf"/>
+			</articleHeader>
+		</article>
+		<article shortName="distropod" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000007</DOI>
+				<articleTitle>Distributed Print-on-Demand</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Print On Demand</subject>
+				<format>html</format>
+				<source>PIRA Digital Print World conference, London, on February 13, 2001</source>
+				<description>The presentation covers the economic drivers of print-on-demand, distinctions between central and distributed print-on-demand and addresses barriers to acceptance of distributed print-on-demand.</description>
+				<category idref="POD"/>
+				<xrefURL href="/Articles/PIRA Distributed Print-on-demand.htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="podchain" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000008</DOI>
+				<articleTitle>Print-on-Demand in the Book Supply Chain</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Print On Demand</subject>
+				<format>html</format>
+				<description>Article on Print-on-Demand discussing its use at various levels of the Book Supply Chain: Publisher, Wholesaler and Retailer. The article encompasses material from a number of 2001 presentations on Print-on-Demand issues.</description>
+				<category idref="POD"/>
+				<xrefURL href="/Articles/PODBookSupplyChain.htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="bottleneck" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000009</DOI>
+				<articleTitle>Clearing the Rights Bottleneck</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Rights Management</subject>
+				<format>html</format>
+				<source>Discussion notes from Publishers Lunch, New York, June 20, 2001</source>
+				<description>Presents the case that all publishing transactions have a rights element that is only growing more important.</description>
+				<category idref="Rights_Management"/>
+				<xrefURL href="/Articles/Clearing the Rights Bottleneck.htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="bookXML" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000020</DOI>
+				<articleTitle>XML in Book Publishing</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Production</subject>
+				<format>PDF</format>
+				<source>Digital Smart Factory Panel Discussion, June 24, 2003</source>
+				<description>Describes a framework for implementing XML within the editorial and production workflows of traditional publishing operations.</description>
+				<category idref="Production"/>
+				<category idref="XML"/>
+				<xrefURL href="/Articles/XML_in_Book_Publishing.pdf"/>
+			</articleHeader>
+		</article>
+		<article shortName="DOIBlocks" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000021</DOI>
+				<articleTitle>DOI Building Blocks</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Production</subject>
+				<format>PDF</format>
+				<source>Panel Discussion, BookExpo America, May 30, 2003</source>
+				<description>Describes the process of implementing Digital Object Identifiers to increase web traffic and sales.</description>
+				<category idref="DOI"/>
+				<category idref="Marketing"/>
+				<xrefURL href="/Articles/DOI_Building_Blocks.pdf"/>
+			</articleHeader>
+		</article>
+		<article shortName="EdPubIssues" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000021</DOI>
+				<articleTitle>Issues in Education Publishing: Implications on Production and Operations Processes</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<subject>Production</subject>
+				<format>html</format>
+				<description>Describes issues facing Higher Education Publishers and their current and future impact on key publishing processes.</description>
+				<category idref="Higher_Ed"/>
+				<category idref="Production"/>
+				<category idref="Operations"/>
+				<xrefURL href="/Articles/Operational Issues in Education Publishing.doc"/>
+			</articleHeader>
+		</article>
+	</articles>
+	<biographies>
+		<biography>
+			<name>Kenneth M. Brooks, Jr.</name>
+			<title>President</title>
+			<biodescription>President and co-founder of Treadwell Media Group, was formerly Vice President of Digital Content at Barnes &amp; Noble, Inc. and President of EP Ventures, Inc. At Barnes &amp; Noble he founded a Philippines-based text conversion company; a public domain publishing imprint; and a distribution-center based print-on-demand operation. Currently, Mr. Brooks delivers presentations on a wide variety of electronic publishing subjects such as XML integration, print-on-demand profitability and supply chain information. He has held several senior management positions in publishing, including Vice President of Operations, Production, and Strategic Planning at Bantam Doubleday Dell, and Vice President of Customer Operations at Simon &amp; Schuster. Prior to his entry into publishing, Mr. Brooks was a Senior Manager in Andersen Consulting’s Logistics Strategy Practice.</biodescription>
+		</biography>
+	</biographies>
+	<faq>
+		<faqentry>
+			<faqquestion>
+				<para>What does Treadwell Media Group do?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Treadwell Media Group provides innovative solutions to publishers in generating revenue through evolving digital channels. These solutions include cost-effective conversion of content from electronic and paper sources into eBook and print-on-demand files, and placement of content into publisher-specified channels of distribution. For those publishers that may be uncertain as to how best proceed in the digital marketplace, Treadwell Media Group also delivers a range of consulting services in both electronic and traditional publishing.</para>
+			</faqanswer>
+		</faqentry>
+	</faq>
+	<resources>
+		<resource href="http://www.amazon.com" type="retailer">
+			<category idref="Online_Bookstore"/>
+			<category idref="eBooks_Retailer"/>
+			<resourceName>amazon.com</resourceName>
+			<resourceDescription>Amazon, one of the largest and most popular online book sites, also sells a broad range of products across multiple categories to a worldwide audience. The hallmarks of their business are service, convenience, and a laser-like customer-centric focus. In addition to revenue sharing arrangements, they offer third-party partners expertise and co-sourcing in e-commerce, customer service, and technology.</resourceDescription>
+		</resource>
+		<resource href="http://www.fictionwise.com" type="retailer">
+			<category idref="eBooks_Retailer"/>
+			<resourceName>fictionwise</resourceName>
+			<resourceDescription>Fictionwise sells a wide variety of copy-protected and unencrypted eBooks in virtually all available formats.</resourceDescription>
+		</resource>
+		<resource href="http://www.bordersstores.com" type="retailer">
+			<category idref="Online_Bookstore"/>
+			<resourceName>www.bordersstores.com</resourceName>
+			<resourceDescription>Borders is a leading books and mortar bookstore chain that partners with Amazon for e-commerce. From more than 1,200 stores around the world, Borders supplies books, music, and movies to enrich and entertain. The large specialty retailer, Waldenbooks, is a division of Borders.</resourceDescription>
+		</resource>
+		<resource href="http://www.barnesandnoble.com" type="retailer">
+			<category idref="Online_Bookstore"/>
+			<resourceName>www.barnesandnoble.com</resourceName>
+			<resourceDescription>From its vast warehouse links, B&amp;N supplies more than 1 million titles for immediate delivery – more than any other online bookseller. B&amp;N considers itself a premier destination for books, music, DVDs, Audiobooks, and offers a Meet the Writers program, B&amp;N Jr., specializing in children’s books, videos and music, and a music store with downloadable clips.</resourceDescription>
+		</resource>
+		<resource href="http://www.booksense.com" type="retailer">
+			<category idref="Online_Bookstore"/>
+			<resourceName>www.booksense.com</resourceName>
+			<resourceDescription>A family of independent bookseller websites, and the e-commerce arm of the American Booksellers Association BookSense program. News about local authors and events is showcased in tis book community site.</resourceDescription>
+		</resource>
+		<resource href="http://www.booksamillion.com" type="retailer">
+			<category idref="Online_Bookstore"/>
+			<resourceName>www.booksamillion.com</resourceName>
+			<resourceDescription>The third largest book retailer in the US operating more than 200 stores in the southeastern US. It supports superstores, traditional ‘Bookland’ shops, and the Joe Muggs newstands as a new store/café concept in addition to its e-commerce presence.</resourceDescription>
+		</resource>
+		<resource href="http://www.powells.com" type="retailer">
+			<category idref="Online_Bookstore"/>
+			<resourceName>www.powells.com</resourceName>
+			<resourceDescription>A family-owned, Portland-based bookstore chain with significant community involvement, Powells was the first to popularize the combination of new and used, hardcover and paperbacks under one roof. They create reader-centered, destination bookstore environments, and were among the earliest to establish online bookselling.</resourceDescription>
+		</resource>
+		<resource href="http://www.frankfurt-book-fair.com" type="fairs">
+			<category idref="Book_Fairs"/>
+			<resourceName>Frankfurt Book Fair</resourceName>
+			<resourceDescription>The largest book and media fair in the world, the Frankfurt Book Fair, held in October each year, hosts exhibitors from over 100 countries, attracts over 7,000 exhibitors, and is considered to be not only about books but is the most important international trading fair globally for rights and licenses.</resourceDescription>
+		</resource>
+		<resource href="http://www.londonbookfair.co.uk" type="fairs">
+			<category idref="Book_Fairs"/>
+			<resourceName>London Book Fair</resourceName>
+			<resourceDescription>The London Book Fair is the leading spring forum for booksellers, publishers, librarians and book production services worldwide. Timed to provide a concentrated 3-day trading and educational platform offering access to the world's books and other forms of media, publishing industry professionals use it to make business contacts, sell rights, and exchange shared knowledge.</resourceDescription>
+		</resource>
+		<resource href="http://www.bookexpoamerica.com" type="fairs">
+			<category idref="Book_Fairs"/>
+			<resourceName>BookExpo America</resourceName>
+			<resourceDescription>Book Expo America combines the largest selection of English language titles from around the world, bringing together booksellers along with other industry professionals for networking and rights sales, in addition to a rich program of educational events. It rotates in location around several of the largest American cities in the late spring each year.</resourceDescription>
+		</resource>
+		<resource href="http://www.publishersmarketplace.com" type="networking">
+			<category idref="Marketplace"/>
+			<resourceName>Publisher's Marketplace</resourceName>
+			<resourceDescription>A dedicated marketplace for publishing professionals to find critical information and unique databases, find each other, and to do business better electronically. Nearly 30,000 professionals visit the site to read Publishers Lunch, a popular category of Publishers Marketplace. It is the industry’s “daily essential read.” Each report gathers stories from all over the web and print of interest to the professional trade book community, along with original reporting, plus a little perspective and the occasional wisecrack added in.</resourceDescription>
+		</resource>
+		<resource href="http://www.publishersweekly.com" type="networking">
+			<category idref="Media"/>
+			<resourceName>Publishers Weekly</resourceName>
+			<resourceDescription>The leading trade periodical publication to the publishing industry. A must-read (or at least must-skim) for every publishing professional, it is available in print and online. PW also sponsors educational forums, engages with strategic partners to foster greater information exchange and education, and generally supports business growth and development among professional publishers.</resourceDescription>
+		</resource>
+		<resource href="http://www.eReader.com" type="ebooks">
+			<category idref="eBook_Software"/>
+			<category idref="eBooks_Retailer"/>
+			<resourceName>eReader.com</resourceName>
+			<resourceDescription>eReader.com is the first electronic book publisher to offer contemporary fiction and non-fiction books, newspapers, and magazines for reading on handheld computers.</resourceDescription>
+		</resource>
+		<resource href="http://www.adobe.com/products/digitaleditions/" type="ebookreading">
+			<category idref="eBook_Software"/>
+			<resourceName>Adobe Digital Editions</resourceName>
+			<resourceDescription>Adobe® Digital Editions is an engaging new way to read and manage eBooks and other digital publications. It is built from the ground up as a lightweight rich Internet application (RIA). Adobe Digital Editions works online and offline and supports PDF- and XHTML-based content as well as Adobe Flash® SWF for rich interactivity.</resourceDescription>
+		</resource>
+		<resource type="ebookreading" href="http://www.ebooks.com">
+			<category idref="eBooks_Retailer"/>
+			<resourceName>eBooks.com</resourceName>
+			<resourceDescription>eBooks.com aims to be the pre-eminent eBookstore on the Internet, selling whole books, chapters and pages of books online from the world's leading publishers. eBooks can be purchased and downloaded immediately by customers anywhere in the world at prices that are cheaper than printed books. Their list currently offers 80,000 popular, professional and academic eBooks. As with all eBooks formats, additional channel sales and royalty benefits are available to publishers and authors.</resourceDescription>
+		</resource>
+		<resource href="http://www.microsoft.com/reader" type="ebookreading">
+			<category idref="eBook_Software"/>
+			<resourceName>Microsoft Reader</resourceName>
+			<resourceDescription>Microsoft revolutionized eBook reading with the introduction of the Microsoft Reader software in 2001.  With its ClearType technology to increase the crispness of font presentation, and many features designed to enhance the digital reading experience Microsoft Reader has been one of the primary mass market readers since its launch. Microsoft has not released an update to the reader since 2003, and it appears to be putting its resources behind alternate software used by the New York Times to present its digital editions.</resourceDescription>
+		</resource>
+		<resource href="http://www.franklin.com" type="ebookreading">
+			<category idref="eBooks_Retailer"/>
+			<resourceName>Franklin Electronic Publishers</resourceName>
+			<resourceDescription>Franklin Electronic Publishers, Inc., designs, develops, publishes, and distributes globally innovative electronic language learning solutions on handheld devices, memory media cards, and via Internet downloads. From Franklin’s introduction of the world’s first handheld reference device in 1986, the company has been exploiting the potential of eBooks to create a fundamentally new way of reading. Their goal was to build upon their expertise as the worldwide leader in eBooks in several ways. First, they created an early generation in eBook hardware with eBookman, the world’s first handheld eBook reader that had both an open but secure architecture, was affordable, portable, and provided an optimal reading experience. Second, they brought Franklin’s high-quality eBook content to a wide audience of users by making it available for any platform. Third, they transformed their website into an eBookstore with a wide range of titles from respected content providers. Today, Franklin focuses on the educator and global language markets as well.</resourceDescription>
+		</resource>
+		<resource href="http://www.mobipocket.com" type="ebookreading">
+			<category idref="eBook_Software"/>
+			<category idref="eBooks_Retailer"/>
+			<resourceName>Mobipocket Reader</resourceName>
+			<resourceDescription>Mobipocket is the universal reader for PDAs, PCs and Smartphones: the Mobipocket software is freely downloadable and consists of publishing and reading tools dedicated to cross-platform reading. Their software is developed internally by Mobipocket and allows owners of PDAs to have access to a personalized press review, the reading of classic and contemporary eBooks, and a secure reading system. Mobipocket is now owned by amazon.com</resourceDescription>
+		</resource>
+		<resource href="http://www.lightningsource.com" type="POD">
+			<category idref="POD"/>
+			<resourceName>Lightning Source</resourceName>
+			<resourceDescription>Lightning Source, Inc., a subsidiary and OneSource partner of Ingram Industries, Inc., offers a package of digital fulfillment and printing services including print-on-demand, to the book industry.</resourceDescription>
+		</resource>
+		<resource type="POD" href="http://www.booksurge.com">
+			<category idref="POD"/>
+			<resourceName>BookSurge</resourceName>
+			<resourceDescription>Owned by amazon.com and integrated into their distribution system, BookSurge operates multiple POD business models including drop ship, short run and distribution approaches.</resourceDescription>
+		</resource>
+		<resource href="http://www.btol.com" type="distributor">
+			<category idref="Wholesale"/>
+			<resourceName>Baker &amp; Taylor</resourceName>
+			<resourceDescription>Baker &amp; Taylor is a leading supplier of books, movies, music, and information products to libraries and retailers worldwide. The BTOL website will provide you with up-to-date information about Baker &amp; Taylor, as well as important information for your market.</resourceDescription>
+		</resource>
+		<resource href="http://www.ingrambook.com" type="distributor">
+			<category idref="Wholesale"/>
+			<resourceName>Ingram Book Group</resourceName>
+			<resourceDescription>Ingram Book Group is a wholesale distributor to booksellers, librarians, and specialty retailers, offering almost 1 million titles including books, audiobooks, music, hard-to-find and Spanish-language titles. Ingram assists its partner programs through a series of innovations including ipage and OneSource.</resourceDescription>
+		</resource>
+		<resource href="http://www.marketpartnersinternational.com" type="networking">
+			<category idref="Consultants"/>
+			<resourceName>Market Partners International</resourceName>
+			<resourceDescription>MPI is the first consulting firm dedicated to consumer publishing. Its principals have over 40 years of industry experience relating to strategic planning, content development, marketing, sales and fulfilment, operations and executive search. Established in 1990, the firm also issues Publishing Trends, a monthly newsletter read by senior publishing professionals in 30 countries around the world, and writes regular columns for Inside.com.</resourceDescription>
+		</resource>
+		<resource href="http://www.publisherslunch.com" type="networking">
+			<category idref="Media"/>
+			<resourceName>Publishers Lunch</resourceName>
+			<resourceDescription>Publishers Lunch is the industry's "daily essential read," now shared with well over 8,000 publishing people every day. Each report gathers together stories from all over the web and print of interest to the professional trade book community, along with original reporting, plus a little perspective and the occasional wisecrack added in.</resourceDescription>
+		</resource>
+		<resource href="http://www.idpf.org" type="ebooks">
+			<category idref="Standards"/>
+			<resourceName>The International Digital Publishing Forum</resourceName>
+			<resourceDescription>The International Digital Publishing Forum is an international trade and standards organization. Its members consist of hardware and software companies, publishers, authors, users of electronic books, and related organizations whose common goals are to establish specifications and standards for electronic publishing. The Forum’s goal is to foster the development of applications and products that will benefit creators of content, makers of reading systems, and, most importantly, consumers.</resourceDescription>
+		</resource>
+		<resource type="ebookreading" href="http://ebooks.connect.com">
+			<category idref="eBook_Device"/>
+			<category idref="eBooks_Retailer"/>
+			<resourceName>Sony Reader</resourceName>
+			<resourceDescription>One of the latest handheld readers for eBooks, featuring breakthrough technology in its “electronic paper” display, touted to be as easy to read as a printed page. Only a half-inch thick, and at 9 ounces, it presents an attractive alternative for eBook reading. The battery holds for up to 7,500 page turns.There are currently two models of the Sony Reader available: The original PRS-500 and the newer PRS-505.</resourceDescription>
+		</resource>
+		<resource type="ebookreading" href="http://www.amazon.com">
+			<category idref="eBook_Device"/>
+			<resourceName>Amazon Kindle</resourceName>
+			<resourceDescription>The amazon Kindle is a competititor to the SonyReader, arriving with an 800 by 600 pixel display, 256MB of RAM, and a scroll wheel, mini USB port, and a headphone jack. It carries the added feature of EV-DO cellular data.</resourceDescription>
+		</resource>
+		<resource type="ebookreading" href="http://www.irextechnologies.com">
+			<category idref="eBook_Device"/>
+			<resourceName>iRex iLiad</resourceName>
+			<resourceDescription>The iLiad is a portable device that lets you read and write as you do on paper in a portable format. Books, newspapers and documents can be carried and displayed on a device as small and light as a book. Unlike typical screens, the iLiad offers good readability in bright sunlight. With the iLiad can you also send, receive and share documents via wireless downloads or USB connection. The screen image is stable, providing a more comfortable reading experience than with a typical screen.</resourceDescription>
+		</resource>
+		<resource type="DAD" href="http://www.ingramdigital.com">
+			<category idref="DAD"/>
+			<resourceName>Ingram Digital</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="DAD" href="http://www.mpstechnologies.com">
+			<category idref="DAD"/>
+			<resourceName>MPS</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="DAD" href="http://www.codemantra.com">
+			<category idref="DAD"/>
+			<resourceName>CodeMantra</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="DAD" href="http://www.value-chain.biz">
+			<category idref="DAD"/>
+			<resourceName>ValueChain</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="DAD" href="http://www.libredigital.com">
+			<category idref="DAD"/>
+			<resourceName>Libre Digital</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="conversion" href="http://www.pubdimensions.com">
+			<category idref="Conversion"/>
+			<resourceName>Publishing Dimensions</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="conversion" href="http://http://www.jouve.fr/stm_uk/index.php">
+			<category idref="Conversion"/>
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<resourceName>Jouve</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="conversion" href="http://www.firstsource.com/">
+			<category idref="Conversion"/>
+			<category idref="Offshoring"/>
+			<resourceName>FirstSource</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="conversion" href="http://www.innodata-isogen.com">
+			<category idref="Conversion"/>
+			<category idref="Offshoring"/>
+			<resourceName>Innodata-Isogen</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="composition" href="http://www.integra-india.com">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<category idref="Development_Edit"/>
+			<resourceName>Integra</resourceName>
+			<resourceDescription>Education compositor located in Pondicherry, India.  Integra recently purchased Elm Street, though which they offer North American project management and development editorial services.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.iccorp.com/">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<resourceName>ICC</resourceName>
+			<resourceDescription>Now known as ICC Macmillan, Interactive Composition Corporation is a full-service provider offering a range of typesetting and publishing services. With the resources of Macmillan India behind them, ICC offers high quality and significant capacity across all sectors of publishing.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.inttype.com">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<resourceName>ITC</resourceName>
+			<resourceDescription>International Typesetting and Composition, or ITC, has been acquired by Infomedia India.  ITC is one of the better typesetters for educational material.</resourceDescription>
+		</resource>
+		<resource href="">
+			<category idref="Development_Edit"/>
+			<resourceName>LEAP</resourceName>
+			<resourceDescription>Development editorial for Real Estate.</resourceDescription>
+		</resource>
+		<resource href="">
+			<category idref="Development_Edit"/>
+			<resourceName>Leyba Associates</resourceName>
+			<resourceDescription>Development editorial for Tech and Trades work.</resourceDescription>
+		</resource>
+		<resource href="http://www.ggsinc.com">
+			<category idref="Development_Edit"/>
+			<resourceName>GGS</resourceName>
+			<resourceDescription>Development editorial for Business &amp; Economics.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.lachina.com">
+			<category idref="Composition"/>
+			<category idref="Development_Edit"/>
+			<resourceName>Lachina Publishing Services</resourceName>
+			<resourceDescription>Lachina does high quality work on complex, technical materials. They offer a comprehensive range of editorial, graphics, and production services. They are located in Cleveland, Ohio.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.prepressco.com">
+			<category idref="Composition"/>
+			<category idref="Development_Edit"/>
+			<resourceName>Prepress Company</resourceName>
+			<resourceDescription>Pre-Press Company, now Pre-PressPMG, is owned by the Premedia Group.  They focus on composition, art and production services for educational publishers. Pre-Press PMG is located in Plymouth, MA.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.s4carlisle.com">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<category idref="Development_Edit"/>
+			<resourceName>S4Carlisle</resourceName>
+			<resourceDescription>S4Carlisle represents the merger of S4 Ind Software Pvt. Ldt. and Carlisle Publishing Services. They have offices in Dubuque, Iowa, and Chennai, India. They offer a range of services from development to project management to design, composition and data management.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.gstype.com">
+			<category idref="Composition"/>
+			<resourceName>G&amp;S Typesetting</resourceName>
+			<resourceDescription>G&amp;S is a book production service with management, editorial, composition, and prepress expertise located in Austin, Texas. In November, 2005 G&amp;S merged with Newgen Imaging Systems</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.premediaglobal.com">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<resourceName>Premedia</resourceName>
+			<resourceDescription>Based in Chennai, India, Premedia owns Prepress, Beacon, and Westwords.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.laserwords.com">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<resourceName>Laser Words</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="composition" href="http://www.techbooks.com">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<category idref="Development_Edit"/>
+			<resourceName>Aptara</resourceName>
+			<resourceDescription>Formerly known as TechBooks, Aptara has capabilities in development, composition, data conversion, and media production.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.newgenimaging.com/">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<resourceName>Newgen Imaging Systems</resourceName>
+			<resourceDescription>Located in Chennai, India and owned by The Carlisle Group...</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.gwinc.com/">
+			<category idref="Composition"/>
+			<category idref="Offshoring"/>
+			<category idref="Development_Edit"/>
+			<resourceName>Graphic World</resourceName>
+			<resourceDescription>Graphic World is focused on very complex paging work. Media Production, no 3B2.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.gexinc.com/">
+			<category idref="Composition"/>
+			<category idref="Development_Edit"/>
+			<category idref="Courseware_Production"/>
+			<resourceName>GEX</resourceName>
+			<resourceDescription>Located in Atkinson, NH, GEX is know for extremely effective application of technology to publishing composition problems.</resourceDescription>
+		</resource>
+		<resource href="http://www.learningmate.com">
+			<category idref="Courseware_Production"/>
+			<resourceName>LearningMate</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.photoninfotech.com">
+			<category idref="Courseware_Production"/>
+			<resourceName>Photon Infotech</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="">
+			<category idref="Courseware_Production"/>
+			<resourceName>Red Mountain</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="">
+			<category idref="Courseware_Production"/>
+			<resourceName>Monarch</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="">
+			<category idref="Courseware_Production"/>
+			<resourceName>Open Teach</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="">
+			<category idref="Courseware_Production"/>
+			<resourceName>Cow Town</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.excelindia.com">
+			<category idref="Courseware_Production"/>
+			<resourceName>Excelsoft Technologies</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.hurix.com">
+			<category idref="Courseware_Production"/>
+			<category idref="Composition"/>
+			<resourceName>Hurix</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource type="composition" href="http://www.datapage.com/">
+			<category idref="Composition"/>
+			<resourceName>Datapage Technologies International</resourceName>
+			<resourceDescription>Datapage is located in St. Peters, MO, and provides prepress services that integrate the latest publishing technologies with expertise in traditional typesetting.</resourceDescription>
+		</resource>
+		<resource href="http://www.imsglobal.org">
+			<category idref="Standards"/>
+			<resourceName>IMS</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.imsglobal.org/question/#version2.1">
+			<category idref="Standards"/>
+			<resourceName>IMS QTI</resourceName>
+			<resourceDescription>An IMS standard for questions and answers for homework and test bank use.</resourceDescription>
+		</resource>
+		<resource href="http://www.adlnet.gov/scorm/index.aspx">
+			<category idref="Standards"/>
+			<resourceName>SCORM</resourceName>
+			<resourceDescription>The Sharable Content Object Reference Model (SCORM) is a set of interrelated technical specifications built upon the work of the AICC, IMS and IEEE (Institute of Electrical and Electronics Engineers) to create one unified “content model.” These specifications enable the reuse of Web-based learning content across multiple environments and products.</resourceDescription>
+		</resource>
+		<resource href="http://ltsc.ieee.org/wg12/">
+			<category idref="Standards"/>
+			<resourceName>IEEE LOM</resourceName>
+			<resourceDescription>A standard promulgated by IEEE to transmit metadata for learning objects. (L)earning (O)bject (M)odel.</resourceDescription>
+		</resource>
+		<resource href="http://dublincore.org">
+			<category idref="Standards"/>
+			<resourceName>Dublin Core</resourceName>
+			<resourceDescription>A standard used to transmit core bibliographic metadata elements.</resourceDescription>
+		</resource>
+		<resource href="http://www.bisg.org/onix/index.html">
+			<category idref="Standards"/>
+			<resourceName>ONIX</resourceName>
+			<resourceDescription>(O)nline i(N)formation e(X)change is the standard used by the publishing and bookselling community to exchange bibliographic and commercial information about a title.</resourceDescription>
+		</resource>
+		<resource href="http://www.bisg.org">
+			<category idref="Standards"/>
+			<resourceName>Book Industry Study Group</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.editeur.org">
+			<category idref="Standards"/>
+			<resourceName>EditEUR</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.publishers.org/">
+			<category idref="Standards"/>
+			<resourceName>AAP</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.blackboard.com">
+			<category idref="LMS"/>
+			<resourceName>Blackboard</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.webct.com">
+			<category idref="LMS"/>
+			<resourceName>WebCT</resourceName>
+			<resourceDescription>WebCT has merged with Blackboard.  All information is now on the Blackboard web site.</resourceDescription>
+		</resource>
+		<resource href="http://www.ecollege.com">
+			<category idref="LMS"/>
+			<resourceName>eCollege</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.Desire2Learn.com">
+			<category idref="LMS"/>
+			<resourceName>Desire2Learn</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.angellearning.com">
+			<category idref="LMS"/>
+			<resourceName>Angel Learning</resourceName>
+			<resourceDescription>Angel is a semi-open source CMS.  The Angel system is developed and supported by a for-profit company, but supports open standards and enables its community of users to extend portions of the platform.An LMS that supports IMS Common Cartridge, Learning Paths and Gated Assessment.</resourceDescription>
+		</resource>
+		<resource href="http://www.sakaiproject.com">
+			<category idref="LMS"/>
+			<resourceName>Sakai</resourceName>
+			<resourceDescription>Popular OpenSource learning management system. Sakai is sponsored by a consortium of schools, including MIT, Stanford, and the University of Michigan.  It is gaining large-scale adoptions at major Non-Profit Higher Education universities, driven by two major service vendors – R-Smart and Unicon.</resourceDescription>
+		</resource>
+		<resource href="http://www.moodle.org">
+			<category idref="LMS"/>
+			<resourceName>Moodle</resourceName>
+			<resourceDescription>Moodle is a free, Open Source course management system designed using sound pedagogical principles, to help educators create effective online learning communities The platform has been localized in over 75 different languages and has a very active international community of adopters.  Because there are no large scale U.S. service vendors for the Moodle platform, it is generally only considered in smaller installations.   However, the U.K.’s Open University recently adopted Moodle as a standard and has committed to contributing code and resources back to the project.</resourceDescription>
+		</resource>
+		<resource href="http://www.kaplan.com">
+			<category idref="Professional_Education_Channel"/>
+			<resourceName>Kaplan</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="www.universityofphoenix.com">
+			<category idref="Professional_Education_Channel"/>
+			<resourceName>University of Phoenix</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.devry.edu">
+			<category idref="Professional_Education_Channel"/>
+			<resourceName>DeVry University</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.careered.com">
+			<category idref="Professional_Education_Channel"/>
+			<resourceName>Career Education Corporation (CEC)</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.itt-tech.edu">
+			<category idref="Professional_Education_Channel"/>
+			<resourceName>ITT Technical Institute</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.merlot.org">
+			<category idref="Courseware"/>
+			<resourceName>Merlot</resourceName>
+			<resourceDescription>Merlot (Multimedia Educational Resource for Learning and Online Teaching)is a free and open resource of online learning materials designed primarily for faculty and students of higher education. Merlot is a searchable collection of peer-reviewed online learning materials, or “learning objects”.  These are distinct and disparate works, organized by academic discipline, learning objectives and comments.  Peers in the Merlot community review and rate contributed “learning objects”, and users can search on the most popular elements. </resourceDescription>
+		</resource>
+		<resource href="http://www.webAssign.com">
+			<category idref="Courseware"/>
+			<resourceName>webAssign</resourceName>
+			<resourceDescription>An online homework delivery service that includes a large database of homework problems based on multiple textbooks in many math, science, and engineering subject areas. This product enables faculty teaching largest lecture classes to assign and track homework that is automatically graded. Students are presented with customized problems sets and receive feedback on their responses.</resourceDescription>
+		</resource>
+		<resource href="http://ocw.mit.edu">
+			<category idref="Courseware"/>
+			<resourceName>Open Courseware Initiative</resourceName>
+			<resourceDescription>MIT OCW is a large-scale, web-based electronic publishing initiative funded jointly by the William and Flora Hewlett Foundation, the Andrew W. Mellon Foundation , MIT, and the Ab Initio software company. MIT OCW's goals are to provide free, searchable access to MIT's course materials for educators, students, and self-learners around the world; extend the reach and impact of MIT OCW and the "opencourseware" concept.</resourceDescription>
+		</resource>
+		<resource href="http://ocw.tufts.edu">
+			<category idref="Courseware"/>
+			<resourceName>Tufts OpenCourseware</resourceName>
+			<resourceDescription>Tufts OpenCourseWare is part of a new educational movement initiated by MIT that provides free access to course content for everyone online. Tufts' initial course offerings demonstrate the University's strength in the life sciences in addition to its multidisciplinary approach, international perspective and underlying ethic of service to its local, national and international communities. Tufts OCW publishes Tufts course materials, does not require any registration, does not grant credit, degrees, or certificates, does not provide access to Tufts faculty; however feedback is shared.</resourceDescription>
+		</resource>
+		<resource href="http://ocwconsortium.org">
+			<category idref="Courseware"/>
+			<resourceName>Open Courseware Consortium</resourceName>
+			<resourceDescription>The OpenCourseWare Consortium is a collaboration of more than 100 higher education institutions and associated organizations from around the world creating a broad and deep body of open educational content using a shared model. The mission of the OpenCourseWare Consortium is to advance education and empower people worldwide through opencourseware.</resourceDescription>
+		</resource>
+		<resource href="http://www.sungardhe.com/Products/Product.aspx?id=832">
+			<category idref="SIS"/>
+			<resourceName>SCT Banner</resourceName>
+			<resourceDescription>Banner is the world’s most widely used collegiate administrative suite of student, financial aid, finance, human resources, and advancement systems. It is a tightly integrated suite of proven, scalable, enterprise-wide applications on a single database, designed to support institutions of all sizes and types. Banner runs on the Oracle RDBMS.</resourceDescription>
+		</resource>
+		<resource href="http://www.oracle.com">
+			<category idref="SIS"/>
+			<resourceName>PeopleSoft</resourceName>
+			<resourceDescription>Owned by Oracle</resourceDescription>
+		</resource>
+		<resource href="http://www.datatel.com/">
+			<category idref="SIS"/>
+			<resourceName>Datatel</resourceName>
+			<resourceDescription/>
+		</resource>
+		<resource href="http://www.jenzabar.com/">
+			<category idref="SIS"/>
+			<resourceName>Jenzabar</resourceName>
+			<resourceDescription/>
+		</resource>
+	</resources>
+	<categories>
+		<concept id="Distributor">
+			<preferredLabel>Distributors</preferredLabel>
+			<definition> Business entities that form exclusive arrangements with either specific publishers or particular channels of distribution in order to increase the effectiveness of publishers in reaching that market.</definition>
+			<examples>Formerly PGW, NBN</examples>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="Channel" seq="45">
+			<preferredLabel>Sales Channel</preferredLabel>
+			<definition>From a publisher's perspective, the route through which content moves to the ultimate consumer.</definition>
+			<examples/>
+			<nt idref="Retail"/>
+			<nt idref="Wholesale"/>
+			<nt idref="Distributor"/>
+			<nt idref="Direct"/>
+			<nt idref="Library"/>
+			<nt idref="Institutional"/>
+			<nt idref="Government"/>
+			<nt idref="School"/>
+			<nt idref="Academic_Education_Channel"/>
+			<nt idref="International"/>
+		</concept>
+		<concept id="Academic_Education_Channel">
+			<preferredLabel>Academic</preferredLabel>
+			<definition>Institutions for post-secondary education</definition>
+			<examples/>
+			<bt idref="Channel"/>
+			<nt idref="Two_Year"/>
+			<nt idref="Four_Year"/>
+			<nt idref="Professional_Education_Channel"/>
+			<nt idref="Votech"/>
+			
+		</concept>
+		<concept id="Two_Year">
+			<preferredLabel>Two Year</preferredLabel>
+			<definition>Two Year institutions that grant Associates degrees</definition>
+			<examples/>
+			<bt idref="Academic_Education_Channel"/>
+		</concept>
+		<concept id="Four_Year">
+			<preferredLabel>Four Year</preferredLabel>
+			<definition>Four Year institutions that grant Bachelors degrees</definition>
+			<examples/>
+			<bt idref="Academic_Education_Channel"/>
+		</concept>
+		<concept id="Professional_Education_Channel">
+			<preferredLabel>Professional Education</preferredLabel>
+			<definition>Institutions providing trade and para-professional education.These can also be called "Career" or "For Profit" post-secondary institutions.</definition>
+			<examples/>
+			<bt idref="Academic_Education_Channel"/>
+		</concept>
+		<concept id="Votech">
+			<preferredLabel>Vocational/Technical schools</preferredLabel>
+			<definition>Post secondary institutions with a mission of teaching a trade.</definition>
+			<examples/>
+			<bt idref="Academic_Education_Channel"/>
+		</concept>
+		<concept id="Library">
+			<preferredLabel>Library</preferredLabel>
+			<definition>An institution that loans books to its patrons for either on-site or offsite use.</definition>
+			<examples/><bt idref="Channel"/>
+			<nt idref="Academic_Library"/>
+			<nt idref="School_Library"/>
+			<nt idref="Public_Library"/>
+			<nt idref="Corporate_Library"/>
+			
+		</concept>
+		<concept id="Academic_Library">
+			<preferredLabel>Academic Library</preferredLabel>
+			<definition>A library associated with an institution of Higher Education supporting post-graduate studies.</definition>
+			<examples/>
+			<bt idref="Library"/>
+		</concept>
+		<concept id="School_Library">
+			<preferredLabel>School Library</preferredLabel>
+			<definition>A library associated with a primary or secondary school.</definition>
+			<examples/>
+			<bt idref="Library"/>
+		</concept>
+		<concept id="Public_Library">
+			<preferredLabel>Public Library</preferredLabel>
+			<definition>A library associated with a town or city.</definition>
+			<examples/>
+			<bt idref="Library"/>
+		</concept>
+		<concept id="Corporate_Library">
+			<preferredLabel>Corporate Library</preferredLabel>
+			<definition>A library associated with a corporation.</definition>
+			<examples/>
+			<bt idref="Library"/>
+		</concept>
+		<concept id="Institutional">
+			<preferredLabel>Institutional</preferredLabel>
+			<definition>A non-education, non-government institution such as a hospital.</definition>
+			<examples/>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="Government">
+			<preferredLabel>Government</preferredLabel>
+			<definition>A government entity: local, state, or national.</definition>
+			<examples/>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="School">
+			<preferredLabel>School</preferredLabel>
+			<definition>An institution for pre-Kindergarten, Kindergarten, primary or secondary education.</definition>
+			<examples/>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="Direct">
+			<preferredLabel>Direct</preferredLabel>
+			<definition>Sales made directly to consumers.</definition>
+			<examples/>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="Wholesale">
+			<preferredLabel>Wholesalers</preferredLabel>
+			<definition>Business entities that buy books from publishers and distributors and sell to retailers.</definition>
+			<examples/>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="Retail">
+			<preferredLabel>Retail</preferredLabel>
+			<definition>Business entities that sell primarily to consumers.</definition>
+			<examples/><bt idref="Channel"/>
+			<nt idref="eBooks_Retailer"/>
+			<nt idref="Specialty_Retail"/>
+			<nt idref="College_Bookstore"/>
+			<nt idref="Mass_Merchant"/>
+			<nt idref="Online_Bookstore"/>
+			<nt idref="Chain_Bookstore"/>
+			<nt idref="Independent_Bookstore"/>
+			
+		</concept>
+		<concept id="Chain_Bookstore">
+			<preferredLabel>Chain Bookstore</preferredLabel>
+			<definition>Chain Book retailers consisting of multiple stores.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="Independent_Bookstore">
+			<preferredLabel>Independent Bookseller</preferredLabel>
+			<definition>Booksellers not affiliated with a major chain.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="Mass_Merchant">
+			<preferredLabel>Mass Merchant</preferredLabel>
+			<definition>Retailers that sell a wide variety of merchandise to consumers often at a significant discount.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="Online_Bookstore">
+			<preferredLabel>Online Bookstore</preferredLabel>
+			<definition>Retailers that sell primarily physical books to consumers online.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="College_Bookstore">
+			<preferredLabel>College Bookstore</preferredLabel>
+			<definition>Bookstores associated with institutions of higher education that sell textbooks and many other types of merchandise to students.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="Specialty_Retail">
+			<preferredLabel>Specialty Retailers</preferredLabel>
+			<definition>Business entities that sell items other than books primarily to consumers.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="Custom_Publishing">
+			<preferredLabel>Custom Publishing</preferredLabel>
+			<definition>The recombination of content on-the-fly in response to a customer request. This content can be delivered either in physical format via POD or other printing technology, or in digital format.</definition>
+			<examples/>
+			<bt idref="Alternative_Publishing_Configurations"/>
+		</concept>
+		<concept id="Functions" seq="20">
+			<preferredLabel>Functions</preferredLabel>
+			<definition>The major activities of a publishing concern.</definition>
+			<examples/>
+			<nt idref="Editorial"/>
+			<nt idref="Production"/>
+			<nt idref="Strategy"/>
+			<nt idref="Finance"/>
+			<nt idref="Sales"/>
+			<nt idref="Marketing"/>
+			<nt idref="Operations"/>
+			<nt idref="Legal"/>
+			<nt idref="Function_Technology"/>
+		</concept>
+		<concept id="Function_Technology">
+			<preferredLabel>Technology</preferredLabel>
+			<definition>Management of information systems and business technology to support the publishing enterprise.</definition>
+			<examples/>
+			<nt idref="Architecture"/>
+			<nt idref="Development_Maintenance"/>
+			<nt idref="Support"/>
+			<nt idref="Technology_Operations"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Development_Maintenance">
+			<preferredLabel>Development &amp; Maintenance</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Function_Technology"/>
+		</concept>
+		<concept id="Technology_Operations">
+			<preferredLabel>Operations</preferredLabel>
+			<definition>Management of data centers.</definition>
+			<examples/>
+			<bt idref="Function_Technology"/>
+		</concept>
+		<concept id="Architecture">
+			<preferredLabel>Architecture</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Function_Technology"/>
+		</concept>
+		<concept id="Support">
+			<preferredLabel>Support</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Function_Technology"/>
+		</concept>
+		<concept id="Legal">
+			<preferredLabel>Legal</preferredLabel>
+			<definition>Management of agreements among authors, customers, and other partners.</definition>
+			<examples/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Strategy">
+			<preferredLabel>Strategy</preferredLabel>
+			<definition>That function of publishing that determines positioning of the publishing concern relative to the market, customers and competitors and ensures correct allocation of resources to achieve the business objectives.</definition>
+			<examples/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Finance">
+			<preferredLabel>Finance</preferredLabel>
+			<definition>Those functions of publishing that ensure the existence of sufficient cash to allow publishing operations.</definition>
+			<examples/>
+			<nt idref="Accounts_Receivable"/>
+			<nt idref="Accounts_Payable"/>
+			<nt idref="General_Accounting"/>
+			<nt idref="Planning_Budgeting"/>
+			<nt idref="Statutory_Reporting"/>
+			<nt idref="Tax"/>
+			<nt idref="Treasury"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Editorial">
+			<preferredLabel>Editorial</preferredLabel>
+			<definition>Those stages of the publishing process between identification of the need for a particular publication through completion of the content prior to production.</definition>
+			<examples/>
+			<nt idref="Development_Edit"/>
+			<nt idref="Acquisition"/>
+			<nt idref="Rights_Management"/>
+			<nt idref="Instructional_Design"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Instructional_Design">
+			<preferredLabel>Instructional Design</preferredLabel>
+			<definition>Pedagogical design of courseware consisting of multimedia and interactive elements.</definition>
+			<examples/>
+			<bt idref="Editorial"/>
+		</concept>
+		<concept id="Marketing">
+			<preferredLabel>Marketing</preferredLabel>
+			<definition>Creation of demand for content.</definition>
+			<examples/>
+			<nt idref="Publicity"/>
+			<nt idref="Promotions"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Publicity">
+			<preferredLabel>Publicity</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Marketing"/>
+		</concept>
+		<concept id="Promotions">
+			<preferredLabel>Promotions</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Marketing"/>
+		</concept>
+		<concept id="Sales">
+			<preferredLabel>Sales</preferredLabel>
+			<definition>Customer contact through placement of order.</definition>
+			<examples/>
+			<nt idref="National_Accounts"/>
+			<nt idref="Field_Sales"/>
+			<nt idref="Inside_Sales"/>
+			<nt idref="Subrights"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="National_Accounts">
+			<preferredLabel>National Accounts</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Sales"/>
+		</concept>
+		<concept id="Field_Sales">
+			<preferredLabel>Field Sales</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Sales"/>
+		</concept>
+		<concept id="Inside_Sales">
+			<preferredLabel>Inside Sales</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Sales"/>
+		</concept>
+		<concept id="Distribution">
+			<preferredLabel>Distribution</preferredLabel>
+			<definition>The movement of content in finished form from publisher warehouses or servers to the ultimate consumer.</definition>
+			<examples/>
+			<nt idref="Transportation"/>
+			<nt idref="Warehousing"/>
+			<bt idref="Operations"/>
+		</concept>
+		<concept id="Warehousing">
+			<preferredLabel>Warehousing</preferredLabel>
+			<definition>The function of a company that is responsible for holding finished goods awaiting shipment to customers. A warehouse generally is associated with the receipt, put-away, storage, selection, shipping of books.  It also generally handles customer returns.</definition>
+			<examples/>
+			<bt idref="Distribution"/>
+		</concept>
+		<concept id="Rights_Management">
+			<preferredLabel>Rights Management</preferredLabel>
+			<definition>That function of publishing responsible for managing rights acquired from and licensed to third parties.</definition>
+			<examples/>
+			<nt idref="Subrights"/>
+			<nt idref="Permissions"/>
+			<bt idref="Editorial"/>
+		</concept>
+		<concept id="Subrights">
+			<preferredLabel>Subsidiary Rights</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Rights_Management"/>
+			<bt idref="Sales"/>
+		</concept>
+		<concept id="Permissions">
+			<preferredLabel>Permissions</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Rights_Management"/>
+		</concept>
+		<concept id="Business_Models" seq="60">
+			<preferredLabel>Business Models</preferredLabel>
+			<definition/>
+			<examples/>
+		</concept>
+		<concept id="Production">
+			<preferredLabel>Production</preferredLabel>
+			<definition>The stages of the publishing process from essential completion of the editorial content through initial publication.</definition>
+			<examples/>
+			<nt idref="Print_Production"/>
+			<nt idref="Courseware_Production"/>
+			<nt idref="Audio_Production"/>
+			<nt idref="Content_Management"/>
+			<nt idref="Manufacturing"/>
+			<nt idref="Project_Planning_Scheduling"/>
+			<nt idref="Project_Management"/>
+			<nt idref="Inventory_Management"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Print_Production" seq="30">
+			<preferredLabel>Print Production</preferredLabel>
+			<definition/>
+			<examples/>
+			<nt idref="Conversion"/>
+			<nt idref="Copy_Edit"/>
+			<nt idref="Composition"/>
+			<nt idref="Art_Rendering"/>
+			<nt idref="Art_Design"/>
+			<nt idref="Proofreading"/>
+			<nt idref="Indexing"/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Audio_Production" seq="40">
+			<preferredLabel>Audio Production</preferredLabel>
+			<definition/>
+			<examples/>
+			<nt idref="Script_Writing"/>
+			<nt idref="Casting"/>
+			<nt idref="Scoring"/>
+			<nt idref="Performing"/>
+			<nt idref="Narration"/>
+			<nt idref="Editing"/>
+			<nt idref="Mastering"/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Script_Writing">
+			<preferredLabel>Script Writing</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Casting" seq="10">
+			<preferredLabel>Casting</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Scoring" seq="27">
+			<preferredLabel>Scoring</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Performing" seq="30">
+			<preferredLabel>Performing</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Narration" seq="25">
+			<preferredLabel>Narration</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Editing" seq="40">
+			<preferredLabel>Editing</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Mastering" seq="50">
+			<preferredLabel>Mastering</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Audio_Production"/>
+		</concept>
+		<concept id="Courseware_Production" seq="50">
+			<preferredLabel>Courseware Production</preferredLabel>
+			<definition>Execution of multimedia and interactive components of courseware. This can be delivered as custom coding or in an LMS cartridge format.</definition>
+			<examples/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Formats" seq="30">
+			<preferredLabel>Formats</preferredLabel>
+			<definition>The manifestation in which a piece of content is published.</definition>
+			<examples/>
+			<nt idref="Digital"/>
+			<nt idref="Print"/>
+			<nt idref="Audio"/>
+		</concept>
+		<concept id="Print">
+			<preferredLabel>Print Formats</preferredLabel>
+			<definition>Books and content published in ink on paper formats</definition>
+			<examples/>
+			<bt idref="Formats"/>
+		</concept>
+		<concept id="Digital">
+			<preferredLabel>Digital Formats</preferredLabel>
+			<definition>Books and content published in electronic formats for use either online or offline.</definition>
+			<examples/>
+			<nt idref="eBooks"/>
+			<nt idref="Courseware"/>
+			<bt idref="Formats"/>
+		</concept>
+		<concept id="Audio">
+			<preferredLabel>Audio Formats</preferredLabel>
+			<definition>Books and content published in audio formats.</definition>
+			<examples/>
+			<bt idref="Formats"/>
+		</concept>
+		<concept id="Standards">
+			<preferredLabel>Standards</preferredLabel>
+			<definition>Standards used in the publishing industry and organizations responsible for their development and maintenance.</definition>
+			<examples>BISG, IDPF, NASTA</examples>
+			<bt idref="Support_Organizations"/>
+		</concept>
+		<concept id="eBooks">
+			<preferredLabel>eBooks</preferredLabel>
+			<definition>Books sold in digital format for consumption either online or offline. These editions may either consist of substantially the same content as the print edition or contain multimedia or interactive elements that extend substantially beyond the print edition.</definition>
+			<examples/>
+			<nt idref="eBook_Device"/>
+			<nt idref="eBook_Software"/>
+			<bt idref="Digital"/>
+		</concept>
+		<concept id="eBooks_Retailer">
+			<preferredLabel>eBook Retailers</preferredLabel>
+			<definition>Book retailers that are primarly focused on selling eBooks to consumers.</definition>
+			<examples/>
+			<bt idref="Retail"/>
+		</concept>
+		<concept id="Book_Fairs">
+			<preferredLabel>Book Fairs</preferredLabel>
+			<definition>Where the industry gets together to buy rights, books and do deals</definition>
+			<examples/>
+			<bt idref="Support_Organizations"/>
+		</concept>
+		<concept id="Consultants">
+			<preferredLabel>Consultants</preferredLabel>
+			<definition>Individuals or companies that assist publishers, wholesalers or others in the publishing industry solve particular problems of a strategic or operational nature.</definition>
+			<examples>Market Partners, The Idea Logical Company</examples>
+			<nt idref="Asset_Improvement"/>
+			<nt idref="Cost_Reduction"/>
+			<nt idref="Digital_Strategy"/>
+			<nt idref="Expert_Witness"/>
+			<nt idref="Market_Assessment"/>
+			<nt idref="Operations_Review"/>
+			<nt idref="Org_Alignment"/>
+			<nt idref="Productivity_Improvement"/>
+			<nt idref="Systems_Design"/>
+			<bt idref="Support_Organizations"/>
+		</concept>
+		<concept id="Media">
+			<preferredLabel>Media</preferredLabel>
+			<definition>Trade magazines, websites and other similar resources that report on activities within the industry.</definition>
+			<examples/>
+			<nt idref="Marketplace"/>
+			<nt idref="Industry_Magazines"/>
+			<bt idref="Support_Organizations"/>
+		</concept>
+		<concept id="Marketplace">
+			<preferredLabel>Market place</preferredLabel>
+			<definition>Extranets and web sites devoted to furthering the publishing industry.</definition>
+			<examples>Publishers Marketplace</examples>
+			<bt idref="Media"/>
+		</concept>
+		<concept id="Industry_Magazines">
+			<preferredLabel>Publishing Industry Magazines</preferredLabel>
+			<definition>Trade magazines focused on the book publishing industry</definition>
+			<examples>Publishers Marketplace</examples>
+			<bt idref="Media"/>
+		</concept>
+		<concept id="eBook_Device">
+			<preferredLabel>eBook Devices</preferredLabel>
+			<definition>Dedicated reading devices. These devices are specifically designed for reading books and perform only limited other functions.</definition>
+			<examples>Sony Reader, iRex iLiad</examples>
+			<bt idref="eBooks"/>
+		</concept>
+		<concept id="eBook_Software">
+			<preferredLabel>eBook Reading Software</preferredLabel>
+			<definition>Software for reading books.  This software runs on general purpose machines such as PCs, PDAs or smartphones.</definition>
+			<examples/>
+			<bt idref="eBooks"/>
+		</concept>
+		<concept id="POD">
+			<preferredLabel>Print-on-Demand</preferredLabel>
+			<definition>Digital printing used in book publishing for short print runs (as low as runs of a single unit). POD printing is used for pre-publication of galleys, for life-of-print printing where traditional prining would be excessively expensive, or end-of-life titles where demand is low and the cost of carrying inventory isn't justified.</definition>
+			<examples/>
+			<bt idref="Alternative_Publishing_Configurations"/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="DAD">
+			<preferredLabel>Digital Asset Distributors</preferredLabel>
+			<definition>Companies that maintain digital files of publisher titles and distribute them both to consumers and to other publisher-designated channels. These companies are cost-efffective alternatives for publishers that would like to avoid a substantial investment in Digital Asset management systems and digitization programs.</definition>
+			<examples/>
+			<bt idref="Alternative_Publishing_Configurations"/>
+		</concept>
+		<concept id="Composition" seq="32">
+			<preferredLabel>Composition</preferredLabel>
+			<altLabel>Typesetting</altLabel>
+			<definition>The transformation of manuscripts to finished pages suitable for printing.</definition>
+			<examples/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Conversion" seq="21">
+			<preferredLabel>Data Conversion</preferredLabel>
+			<definition>The transformation of content from an original format to a derivative format. Often this involves taking content from a previously published format in either paper, PDF or application files into XML or fielded format.</definition>
+			<examples/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Technology" seq="50">
+			<preferredLabel>Technologies</preferredLabel>
+			<definition>Tools and systems used to manipulate information used in publishing content.</definition>
+			<examples/>
+			<nt idref="POD"/>
+			<nt idref="XML"/>
+			<nt idref="DOI"/>
+			<nt idref="Soft_Proofing"/>
+			<nt idref="Business_Systems"/>
+			<nt idref="CMS"/>
+			<nt idref="DRM"/>
+			<nt idref="LMS"/>
+			<nt idref="Metadata"/>
+			<nt idref="SIS"/>
+		</concept>
+		<concept id="SIS">
+			<preferredLabel>Student Information Systems</preferredLabel>
+			<definition>Student Information Systems are used by educational institutions to capture information on enrolled student including their personal information, academic records, and demographics </definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="DOI">
+			<preferredLabel>Digital Object Identifier (DOI)</preferredLabel>
+			<definition>The DOI is an identifier applied to items (physical or otherwise) to increase their findability on the web.</definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="XML">
+			<preferredLabel>XML</preferredLabel>
+			<definition>e(X)tensible (M)arkup (L)anguage is used to decrease cost of production and increase the ability to re-use content for multiple formats or multiple editions.</definition>
+			<examples>OEB, DocBook</examples>
+			<nt idref="MathML"/>
+			<nt idref="CALS"/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="Sectors" seq="10">
+			<preferredLabel>Sectors</preferredLabel>
+			<definition>The major types of publishing distinguished by the types of customers and uses to which they put information published.</definition>
+			<examples/>
+			<nt idref="Trade"/>
+			<nt idref="Higher_Ed"/>
+			<nt idref="Professional"/>
+			<nt idref="Academic"/>
+			<nt idref="K12"/>
+			<nt idref="Trade"/>
+		</concept>
+		<concept id="Trade">
+			<preferredLabel>Trade</preferredLabel>
+			<definition>That sector of publishing focused primarily on consumers. </definition>
+			<examples/>
+			<nt idref="Religious"/>
+			<nt idref="Adult_Trade"/>
+			<nt idref="Childrens_Trade"/>
+			<bt idref="Sectors"/>
+		</concept>
+		<concept id="Higher_Ed">
+			<preferredLabel>Higher Ed</preferredLabel>
+			<definition>That sector of publishing focused primarily on providing content to institutions of higher learning for use in classrooms.</definition>
+			<examples/>
+			<bt idref="Sectors"/>
+		</concept>
+		<concept id="Religious">
+			<preferredLabel>Religious</preferredLabel>
+			<definition>That sector of publishing focused primarily on providing content for religious use, whether for study or devotional use.</definition>
+			<examples/>
+			<bt idref="Trade"/>
+		</concept>
+		<concept id="Adult_Trade">
+			<preferredLabel>Adult</preferredLabel>
+			<definition>That sector of publishing focused primarily on providing content for adult consumers across fiction and non-fiction categories.</definition>
+			<examples/>
+			<bt idref="Trade"/>
+		</concept>
+		<concept id="Childrens_Trade">
+			<preferredLabel>Childrens</preferredLabel>
+			<definition>That sector of publishing focused primarily on providing content for children across fiction and non-fiction categories.</definition>
+			<examples/>
+			<bt idref="Trade"/>
+		</concept>
+		<concept id="Professional">
+			<preferredLabel>Professional</preferredLabel>
+			<definition>That sector of publishing focused on providing information to professionals for use in pursuit of their professional duties.</definition>
+			<examples/>
+			<nt idref="STM"/>
+			<nt idref="Business"/>
+			<nt idref="Legal_Publishing"/>
+			<bt idref="Sectors"/>
+		</concept>
+		<concept id="STM">
+			<preferredLabel>STM</preferredLabel>
+			<definition>(S)cientific, (T)echnical, and (M)edical publishing actually consists of Science, Computing, Architecture, Engineering, Construction, Medicine and Healthcare publishing.</definition>
+			<examples/>
+			<bt idref="Professional"/>
+		</concept>
+		<concept id="Business">
+			<preferredLabel>Business</preferredLabel>
+			<definition>Management, Economics, Finance and Investing, Accounting, Auditing, Tax, HR/Training and Careers, Advertising/Marketing/Sales, Real Estate, Small Business.</definition>
+			<examples/>
+			<bt idref="Professional"/>
+		</concept>
+		<concept id="Legal_Publishing">
+			<preferredLabel>Legal</preferredLabel>
+			<definition>Legal publishing</definition>
+			<examples/>
+			<bt idref="Professional"/>
+		</concept>
+		<concept id="Academic">
+			<preferredLabel>Academic</preferredLabel>
+			<definition>That sector of publishing focused on publishing material, generally monographs, of interest to academics. This sector is primarly, though not exclusively, the domain of University Presses.</definition>
+			<examples/>
+			<bt idref="Sectors"/>
+		</concept>
+		<concept id="K12">
+			<preferredLabel>K12</preferredLabel>
+			<definition>That sector of publishing focused on providing content to pre-elementary, elementary, and secondary schools for use in the classroom.</definition>
+			<examples/>
+			<bt idref="Sectors"/>
+		</concept>
+		<concept id="Content_Management" seq="90">
+			<preferredLabel>Content Management</preferredLabel>
+			<definition>The ingestion, maintenance and (generally internal) distribution of content supporting publishing operations.  This can support content development and production workflows or be targeted at content post-production.</definition>
+			<examples/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Manufacturing" seq="80">
+			<preferredLabel>Manufacturing</preferredLabel>
+			<definition>All of those steps necessary to create printed books.  These generally include paper buying, text printing, cover printing, component printing and binding.</definition>
+			<examples/>
+			<nt idref="Paper_Buying"/>
+			<nt idref="Printing"/>
+			<nt idref="Estimating"/>
+			<nt idref="Print_Buying"/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Paper_Buying" seq="20">
+			<preferredLabel>Paper Buying</preferredLabel>
+			<definition>Purchasing of paper for printing operations.</definition>
+			<examples/>
+			<bt idref="Manufacturing"/>
+		</concept>
+		<concept id="Print_Buying" seq="30">
+			<preferredLabel>Print Buying</preferredLabel>
+			<definition>Acquiring printed books from printers.</definition>
+			<examples/>
+			<bt idref="Manufacturing"/>
+		</concept>
+		<concept id="Estimating" seq="10">
+			<preferredLabel>Estimating</preferredLabel>
+			<definition>Determining the manufactured price of a book given specifications, lead times and quantities.</definition>
+			<examples/>
+			<bt idref="Manufacturing"/>
+		</concept>
+		<concept id="Printing" seq="40">
+			<preferredLabel>Printing</preferredLabel>
+			<definition>Printing and binding of complete books.</definition>
+			<examples/>
+			<bt idref="Manufacturing"/>
+		</concept>
+		<concept id="Inventory_Management" seq="75">
+			<preferredLabel>Inventory Management</preferredLabel>
+			<definition>Management of finished goods inventory. This generally includes forecasting the need for stock over time, and determining the quantity and timing delivery.</definition>
+			<examples/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Copy_Edit" seq="24">
+			<preferredLabel>Copy Editing</preferredLabel>
+			<definition>Ensuring grammatical correctness and terminology consistency in a manuscript. Copy editing also generally includes fact checking.</definition>
+			<examples/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Development_Edit" seq="30">
+			<preferredLabel>Development Edit</preferredLabel>
+			<altLabel>Line Edit</altLabel>
+			<definition>Working with an author to develop a finished manuscript that is ready for production, complete with all necessary third party content specified.</definition>
+			<examples/>
+			<bt idref="Editorial"/>
+		</concept>
+		<concept id="Acquisition" seq="10">
+			<preferredLabel>Acquisition</preferredLabel>
+			<definition>Identification of a concept or manuscript suitable for publication through completed contract with authors or sources. "Acquisition" in this context generally refers to acquiring the rights to publish the material.</definition>
+			<examples/>
+			<bt idref="Editorial"/>
+		</concept>
+		<concept id="Alternative_Publishing_Configurations" seq="70">
+			<preferredLabel>Alternative Publishing Configurations</preferredLabel>
+			<definition>Alternative ways of organizing the key functions of a publishing enterprise.</definition>
+			<examples/>
+			<nt idref="Custom_Publishing"/>
+			<nt idref="Packaging"/>
+			<nt idref="Offshoring"/>
+			<nt idref="POD"/>
+			<nt idref="DAD"/>
+		</concept>
+		<concept id="Project_Planning_Scheduling" seq="10">
+			<preferredLabel>Project Planning &amp; Scheduling</preferredLabel>
+			<definition>Determining the overall schedule of a project relative to date of publication.</definition>
+			<examples/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Project_Management" seq="20">
+			<preferredLabel>Project Management</preferredLabel>
+			<definition>Trafficking and management of production schedules</definition>
+			<examples/>
+			<bt idref="Production"/>
+		</concept>
+		<concept id="Offshoring">
+			<preferredLabel>Offshoring</preferredLabel>
+			<definition>Utilization of offshore vendors for any of the major publishing functions, composition, printing, etc.</definition>
+			<examples/>
+			<bt idref="Alternative_Publishing_Configurations"/>
+		</concept>
+		<concept id="Packaging">
+			<preferredLabel>Packaging</preferredLabel>
+			<definition>A publishing strategy in which a third party assembles all of the content necessary for publication into final form prior to delivery to the publisher. Packaging can also include any necessary manufacturing steps.</definition>
+			<examples/>
+			<bt idref="Alternative_Publishing_Configurations"/>
+		</concept>
+		<concept id="Art_Rendering" seq="31">
+			<preferredLabel>Art Rendering</preferredLabel>
+			<definition>The transformation of rough sketches or image specifications into art that is production ready.</definition>
+			<examples/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Art_Design" seq="30">
+			<preferredLabel>Art &amp; Design</preferredLabel>
+			<definition>The determination of the layout and typography of both the interior and cover of a book.</definition>
+			<examples/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Proofreading" seq="60">
+			<preferredLabel>Proofreading</preferredLabel>
+			<definition>The reading and markup of typeset pages to identify errors that have been introduced during various production steps. These will be corrected in the various correction passes.</definition>
+			<examples/>
+			<nt idref="Soft_Proofing"/>
+			<nt idref="Slugging"/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Indexing" seq="70">
+			<preferredLabel>Indexing</preferredLabel>
+			<definition>Identification and structuring of the key concepts in a book, linking them to the specific pages on which they are found. Traditionally indexing is accomplished after the typeset pages have stabilized where there is little chance of reflow - generally after the first pass through composition. With XML it is possible to link concepts directly to their appearance in the manuscript via internal references that allow dynamic index creation without concern for reflow.</definition>
+			<examples/>
+			<bt idref="Print_Production"/>
+		</concept>
+		<concept id="Soft_Proofing">
+			<preferredLabel>Soft Proofing</preferredLabel>
+			<definition>Proofreading using an electronic copy of the pages. Soft proofing can save considerable time and cost by avoiding the printing and shipping of proofs.</definition>
+			<examples/>
+			<bt idref="Proofreading"/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="Slugging">
+			<preferredLabel>Slugging</preferredLabel>
+			<definition>Comparing the first and last word on each page to ensure that no content has been dropped during composition.</definition>
+			<examples/>
+			<bt idref="Proofreading"/>
+		</concept>
+		<concept id="Courseware">
+			<preferredLabel>Courseware</preferredLabel>
+			<definition>Online content provided to students consisting of learning materials and a course environmement. Generally courseware will include a syllabus, course objectives, core content (text, multimedia and interactive components), tutorial or homework conent, low-stakes assessment/quizzing, and notes and materials provided by an instructor.</definition>
+			<examples/>
+			<nt idref="Course_Cartridge"/>
+			<bt idref="Digital"/>
+		</concept>
+		<concept id="Course_Cartridge">
+			<preferredLabel>Course Cartridge</preferredLabel>
+			<definition>Courseware in a format suitable for delivery via LMS systems such as Blackboard.</definition>
+			<examples/>
+			<bt idref="Courseware"/>
+		</concept>
+		<concept id="Assessment">
+			<preferredLabel>Assessment</preferredLabel>
+			<definition>Evaluation of a student's competence in a body of material. Assessment ranges from low-stakes assessment such as self-tests all the way up to high-stakes assessment in which the student is graded.</definition>
+			<examples/>
+			<nt idref="Diagnostic_Assessment"/>
+			<nt idref="Formative_Assessment"/>
+			<nt idref="Summative_Assessment"/>
+			<bt idref="Ed_Content"/>
+		</concept>
+		<concept id="Diagnostic_Assessment">
+			<preferredLabel>Diagnostic Assessment</preferredLabel>
+			<definition>Determination of each student's strengths, weaknesses, knowledge, and skills prior to instruction.</definition>
+			<examples/>
+			<bt idref="Assessment"/>
+		</concept>
+		<concept id="Formative_Assessment">
+			<preferredLabel>Formative Assessment</preferredLabel>
+			<definition>Assessment that is an integral part of instruction that informs and guides teachers as they make instructional decisions.</definition>
+			<examples/>
+			<bt idref="Assessment"/>
+		</concept>
+		<concept id="Summative_Assessment">
+			<preferredLabel>Summative Assessment</preferredLabel>
+			<definition>Summative assessment is a test given at the end of a term, chapter, semester, etc. to evaluate the knowledge of the student. High-stakes tests such as ACT, GRE, SAT, and the WASL are also summative assessments.</definition>
+			<examples/>
+			<bt idref="Assessment"/>
+		</concept>
+		<concept id="Instructional_Material">
+			<preferredLabel>Instructional Material</preferredLabel>
+			<definition>Didactic material delivered in a variety of formats for the purpose of competence in a domain.</definition>
+			<examples/>
+			<bt idref="Ed_Content"/>
+		</concept>
+		<concept id="Ed_Content">
+			<preferredLabel>Educational Content</preferredLabel>
+			<definition>Material delivered to support educational objectives.</definition>
+			<examples/>
+			<nt idref="Assessment"/>
+			<nt idref="Simulation"/>
+			<nt idref="Tutorial"/>
+			<nt idref="Tool_Sets"/>
+			<nt idref="Instructional_Material"/>
+			<nt idref="Learning_Object"/>
+			<bt idref="Content_Types"/>
+		</concept>
+		<concept id="Simulation">
+			<preferredLabel>Simulation</preferredLabel>
+			<definition/>
+			<examples>Immersive environments providing a model of real-world behavior. Classic examples include The Beer Game for supply chain simulation and Mike's Bikes for accounting. Case studies are a form of simulation.</examples>
+			<bt idref="Ed_Content"/>
+		</concept>
+		<concept id="Tutorial">
+			<preferredLabel>Tutorial</preferredLabel>
+			<definition>Interactive educational content in which the student steps through a solution to learn problem solving. Tutorials can be either instructor mediated, or self-study.</definition>
+			<examples/>
+			<bt idref="Ed_Content"/>
+		</concept>
+		<concept id="Tool_Sets">
+			<preferredLabel>Tool Sets</preferredLabel>
+			<definition>Tools for organizing, sequencing and offering content.</definition>
+			<examples/>
+			<bt idref="Ed_Content"/>
+		</concept>
+		<concept id="Content_Types" seq="40">
+			<preferredLabel>Content Types</preferredLabel>
+			<definition>The purpose for which content is intended.</definition>
+			<examples/>
+			<nt idref="Ed_Content"/>
+			<nt idref="Reference_Content"/>
+			<nt idref="Entertainment_Content"/>
+		</concept>
+		<concept id="Reference_Content">
+			<preferredLabel>Reference</preferredLabel>
+			<definition>Content provided for occasional use to answer specific questions.</definition>
+			<examples/>
+			<bt idref="Content_Types"/>
+		</concept>
+		<concept id="Entertainment_Content">
+			<preferredLabel>Entertainment Content</preferredLabel>
+			<definition>Content provided for entertainment purposes.</definition>
+			<examples/>
+			<bt idref="Content_Types"/>
+		</concept>
+		<concept id="Support_Organizations" seq="80">
+			<preferredLabel>Support Organizations</preferredLabel>
+			<definition>Organizations that aren't part of the industry value chain, but that provide support of various types to members of the value chain.</definition>
+			<examples/>
+			<nt idref="Media"/>
+			<nt idref="Book_Fairs"/>
+			<nt idref="Standards"/>
+			<nt idref="Consultants"/>
+		</concept>
+		<concept id="Org_Alignment">
+			<preferredLabel>Organization Alignment</preferredLabel>
+			<definition>Projects involving definition of organization structures and staff "right sizing" to better achieve the objectives of the organization.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Operations">
+			<preferredLabel>Operations</preferredLabel>
+			<definition>Those functions n</definition>
+			<examples/>
+			<nt idref="Vendor_Management"/>
+			<nt idref="Customer_Service"/>
+			<nt idref="Order_Processing"/>
+			<nt idref="Distribution"/>
+			<nt idref="Facilities"/>
+			<bt idref="Functions"/>
+		</concept>
+		<concept id="Facilities">
+			<preferredLabel>Facilities Management</preferredLabel>
+			<definition>Management of real estate, leases and facilities.</definition>
+			<examples/>
+			<bt idref="Operations"/>
+		</concept>
+		<concept id="Customer_Service">
+			<preferredLabel>Customer Service</preferredLabel>
+			<definition>That function that works with customers in placement of orders, handling of inquiries and resolution of issues.</definition>
+			<examples/>
+			<bt idref="Operations"/>
+		</concept>
+		<concept id="Order_Processing">
+			<preferredLabel>Order Processing</preferredLabel>
+			<definition>The management of customer orders from entry, availability check, and pricing through dispatch for fulfillment.</definition>
+			<examples/>
+			<bt idref="Operations"/>
+		</concept>
+		<concept id="Productivity_Improvement">
+			<preferredLabel>Productivity Improvement</preferredLabel>
+			<definition>Projects undertaken to increase the amount of output that can be generated by a given number of people.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Digital_Strategy">
+			<preferredLabel>Digital Strategy</preferredLabel>
+			<definition>Projects undertaken with the purpose of helping publishers determine how to move from print to digital formats and channels.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Expert_Witness">
+			<preferredLabel>Expert Witness</preferredLabel>
+			<definition>Providing testimony in support of legal proceedings based on expert knowledge.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Transportation">
+			<preferredLabel>Transportation</preferredLabel>
+			<definition>Movement of books from printer to warehouse (inbound transportation) or from warehouse to customer (outbound transportation).</definition>
+			<examples/>
+			<bt idref="Distribution"/>
+		</concept>
+		<concept id="Market_Assessment">
+			<preferredLabel>Market Assessment</preferredLabel>
+			<definition>Development of business plans in support of entry into a new market.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="CMS">
+			<preferredLabel>CMS</preferredLabel>
+			<definition>(C)ontent (M)anagement (S)ystems are used to manage a company's digital assets for either development or distribution.</definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="Business_Systems">
+			<preferredLabel>Business Systems</preferredLabel>
+			<definition>Core systems used by a company to support its mission critical applications.  These would include financial systems, sales, order processing, and operations management systems.</definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="Vendor_Management">
+			<preferredLabel>Vendor Management</preferredLabel>
+			<definition>Management of vendors including identification, qualification, sourcing, negotiation, and vendor performance tracking.</definition>
+			<examples/>
+			<bt idref="Operations"/>
+		</concept>
+		<concept id="Cost_Reduction">
+			<preferredLabel>Cost Reduction</preferredLabel>
+			<definition>Projects to reduce the cost of operations. These projects can be applied to any function.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Asset_Improvement">
+			<preferredLabel>Asset Improvement</preferredLabel>
+			<definition>Projects to improve the efficiency of corporate assets. These would include advances, inventory and accounts receivable and be reflected in a reduction in the balance sheet assets to support a given level of sales.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Accounts_Receivable">
+			<preferredLabel>Accounts Receivable</preferredLabel>
+			<definition>The management of invoices that have been cut, but for which the cash has not yet been received.AR consists of a number of activities including collections, cash application, credit and debit reconciliation.</definition>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="Accounts_Payable">
+			<preferredLabel>Accounts Payable</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="General_Accounting">
+			<preferredLabel>General Accounting</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="Treasury">
+			<preferredLabel>Treasury</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="Planning_Budgeting">
+			<preferredLabel>Planning &amp; Budgeting</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="Statutory_Reporting">
+			<preferredLabel>Statutory Reporting</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="Tax">
+			<preferredLabel>Tax</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Finance"/>
+		</concept>
+		<concept id="Systems_Design">
+			<preferredLabel>Systems_Design</preferredLabel>
+			<definition>Systems design and integration services.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Operations_Review">
+			<preferredLabel>Operations Review</preferredLabel>
+			<definition>Diagnostic assessment of publishing (or other) operations to examine effectiveness and efficiency at accomplishing organizational objectives.</definition>
+			<examples/>
+			<bt idref="Consultants"/>
+		</concept>
+		<concept id="Metadata">
+			<preferredLabel>Metadata</preferredLabel>
+			<definition>Data about content.  This usually refers to descriptive, bibliographic data about titles, but can also include formatting, structural and administrative information.</definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="DRM">
+			<preferredLabel>DRM</preferredLabel>
+			<definition>(D)igital (R)ights (M)anagement refers to systems of specifying and enforcing user rights over digital items such as eBooks or Music.</definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="Learning_Object">
+			<preferredLabel>Learning Object</preferredLabel>
+			<definition>A self-contained collection of assets placed in a pedagogical context that is used to teach or learn a particular objective within a course of study.</definition>
+			<examples/>
+			<bt idref="Ed_Content"/>
+		</concept>
+		<concept id="International">
+			<preferredLabel>International</preferredLabel>
+			<definition>In most US publishing sectors International refers to non-U.S. sales channels.</definition>
+			<examples/>
+			<bt idref="Channel"/>
+		</concept>
+		<concept id="LMS">
+			<preferredLabel>LMS</preferredLabel>
+			<definition>A (L)earning (M)anagement (S)ystem is a system used to manage classroom and online delivery of education.  It generally consists of a roster, calendar and assignment list. It can also be referred to as an LCMS (Learning Content Management System) or CMS (Course Management System), not to be confused with a Content Management System.</definition>
+			<examples/>
+			<bt idref="Technology"/>
+		</concept>
+		<concept id="Book_Content_Components" seq="35">
+			<preferredLabel>Book Content Components</preferredLabel>
+			<definition>The logical structure of a book (as opposed to the structural components, such as jacket, binding and text block).</definition>
+			<examples/>
+			<nt idref="Frontmatter"/>
+			<nt idref="Backmatter"/>
+			<nt idref="Jacket_Copy"/>
+			<nt idref="Bodymatter"/>
+			<nt idref="Book_Metadata"/>
+			<nt idref="Page"/>
+			<nt idref="Text"/>
+			<nt idref="Table"/>
+			<nt idref="Figure"/>
+			<nt idref="Image"/>
+			<nt idref="Equation"/>
+			<nt idref="Reference"/>
+			<nt idref="Note"/>
+		</concept>
+		<concept id="Text">
+			<preferredLabel>Text</preferredLabel>
+			<definition/>
+			<examples/>
+			<nt idref="Prose"/>
+			<nt idref="Verse"/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Prose">
+			<preferredLabel>Prose</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Text"/>
+		</concept>
+		<concept id="Verse">
+			<preferredLabel>Verse</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Text"/>
+		</concept>
+		<concept id="Table">
+			<preferredLabel>Tables</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Figure">
+			<preferredLabel>Figures</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Equation">
+			<preferredLabel>Equations</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Reference">
+			<preferredLabel>References</preferredLabel>
+			<definition>Pointers to other content. In books these are often by figure, chapter or page number. In electronic materials references are executed with links.</definition>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Note">
+			<preferredLabel>Notes</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Frontmatter">
+			<preferredLabel>Front Matter</preferredLabel>
+			<definition>That part of the text of a book that precedes the first page of the first chapter. Front matter is generally foliod with roman numerals.</definition>
+			<examples/>
+			<nt idref="TitlePage"/>
+			<nt idref="HalfTitlePage"/>
+			<nt idref="CopyrightPage"/>
+			<nt idref="TOC"/>
+			<nt idref="TOI"/>
+			<nt idref="Preface"/>
+			<nt idref="Frontis"/>
+			<nt idref="Introduction"/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Preface">
+			<preferredLabel>Preface</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="Frontis">
+			<preferredLabel>Frontis</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="Introduction">
+			<preferredLabel>Introduction</preferredLabel>
+			<definition>When the introduction is a commentary on the book, and not strictly part of the content of the book, it will often be placed in the frontmatter instead of the body matter.</definition>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="TitlePage">
+			<preferredLabel>Title Page</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="HalfTitlePage">
+			<preferredLabel>Half Title Page</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="CopyrightPage">
+			<preferredLabel>Copyright Page</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="TOI">
+			<preferredLabel>Table of Illustrations</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="TOC">
+			<preferredLabel>Table of Contents</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Frontmatter"/>
+		</concept>
+		<concept id="Backmatter">
+			<preferredLabel>Back Matter</preferredLabel>
+			<definition>That part of the text of a book that follows the last page of the last chapter.</definition>
+			<examples/>
+			<nt idref="Endnotes"/>
+			<nt idref="Book_Index"/>
+			<nt idref="Bibliography"/>
+			<nt idref="Glossary"/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Endnotes">
+			<preferredLabel>Endnotes</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Backmatter"/>
+		</concept>
+		<concept id="Book_Index">
+			<preferredLabel>Index</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Backmatter"/>
+		</concept>
+		<concept id="Bibliography">
+			<preferredLabel>Bibliography</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Backmatter"/>
+		</concept>
+		<concept id="Glossary">
+			<preferredLabel>Glossary</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Backmatter"/>
+		</concept>
+		<concept id="Bodymatter">
+			<preferredLabel>Body Matter</preferredLabel>
+			<definition>The content of the book, generally consisting of parts, chapters and sections.</definition>
+			<examples/>
+			<nt idref="Part"/>
+			<nt idref="Chapter"/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Part">
+			<preferredLabel>Part</preferredLabel>
+			<definition>The highest level of grouping of content within a book.  A Part will generally contain multiple chapters.</definition>
+			<examples/>
+			<nt idref="Chapter"/>
+			<bt idref="Bodymatter"/>
+		</concept>
+		<concept id="Chapter">
+			<preferredLabel>Chapter</preferredLabel>
+			<definition>A grouping of content within a book that generally shares a common theme.</definition>
+			<examples/>
+			<nt idref="Section"/>
+			<nt idref="ChapterHead"/>
+			<nt idref="ChapterBody"/>
+			<nt idref="ChapterFoot"/>
+			<bt idref="Part"/>
+			<bt idref="Bodymatter"/>
+		</concept>
+		<concept id="ChapterHead">
+			<preferredLabel>Chapter Head</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Chapter"/>
+		</concept>
+		<concept id="ChapterBody">
+			<preferredLabel>Chapter Body</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Chapter"/>
+		</concept>
+		<concept id="ChapterFoot">
+			<preferredLabel>Chapter Foot</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Chapter"/>
+		</concept>
+		<concept id="Section">
+			<preferredLabel>Section</preferredLabel>
+			<definition>A grouping of content below the chapter level.</definition>
+			<examples/>
+			<bt idref="Chapter"/>
+		</concept>
+		<concept id="MathML">
+			<preferredLabel>MathML</preferredLabel>
+			<definition>An XML markup language used for mathematical equations.</definition>
+			<examples/>
+			<bt idref="XML"/>
+		</concept>
+		<concept id="CALS">
+			<preferredLabel>CALS</preferredLabel>
+			<definition>An XML markup model used for tables.</definition>
+			<examples/>
+			<bt idref="XML"/>
+		</concept>
+		<concept id="Image">
+			<preferredLabel>Images</preferredLabel>
+			<definition/>
+			<examples/>
+			<nt idref="Photograph"/>
+			<nt idref="Halftone"/>
+			<nt idref="Illustration"/>
+			<nt idref="Lineart"/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Photograph">
+			<preferredLabel>Photograph</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Image"/>
+		</concept>
+		<concept id="Halftone">
+			<preferredLabel>Half tone</preferredLabel>
+			<definition>A process used in printing to represent photographs.</definition>
+			<examples/>
+			<bt idref="Image"/>
+		</concept>
+		<concept id="Illustration">
+			<preferredLabel>Illustration</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Image"/>
+		</concept>
+		<concept id="Lineart">
+			<preferredLabel>Line Art</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Image"/>
+		</concept>
+		<concept id="Jacket_Copy">
+			<preferredLabel>Jacket_Copy</preferredLabel>
+			<definition>Textual components that are found on the cover, jacket, or spine of a book.  Copy normally includes bibliographic information, information about the author and information about the book or series.</definition>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Book_Metadata">
+			<preferredLabel>Metadata</preferredLabel>
+			<definition>Information about a book including title, author, ISBN, price, and synopsis.</definition>
+			<examples/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Physical_Book_Components" seq="45">
+			<preferredLabel>Physical Book Components</preferredLabel>
+			<definition/>
+			<examples/>
+			<nt idref="FrontCover"/>
+			<nt idref="InsideFrontCover"/>
+			<nt idref="BackCover"/>
+			<nt idref="InsideBackCover"/>
+			<nt idref="Spine"/>
+			<nt idref="TextBlock"/>
+			<nt idref="Endpapers"/>
+			<nt idref="HeadBands"/>
+			<nt idref="Crash"/>
+			<nt idref="Boards"/>
+			<nt idref="Jacket"/>
+			<nt idref="Inserts"/>
+		</concept>
+		<concept id="Endpapers">
+			<preferredLabel>End Papers</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="Boards">
+			<preferredLabel>Boards</preferredLabel>
+			<definition>The material which gives hardcover books their stiffness. Generally thick cardboard.</definition>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="Inserts">
+			<preferredLabel>Inserts</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="Jacket">
+			<preferredLabel>Jacket</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="Crash">
+			<preferredLabel>Crash</preferredLabel>
+			<definition>Loose weave material used to re-inforce the spine and hinge of a book.</definition>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="TextBlock">
+			<preferredLabel>Text Block</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="HeadBands">
+			<preferredLabel>Head bands</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="FrontCover">
+			<preferredLabel>Front Cover</preferredLabel>
+			<definition>Also known as "C1"</definition>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="InsideFrontCover">
+			<preferredLabel>Inside Front Cover</preferredLabel>
+			<definition>Also known as "C2"</definition>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="BackCover">
+			<preferredLabel>Back Cover</preferredLabel>
+			<definition>Also known as "C4"</definition>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="InsideBackCover">
+			<preferredLabel>Inside Back Cover</preferredLabel>
+			<definition>Also known as "C3"</definition>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="Spine">
+			<preferredLabel>Spine</preferredLabel>
+			<definition/>
+			<examples/>
+			<bt idref="Physical_Book_Components"/>
+		</concept>
+		<concept id="Page">
+			<preferredLabel>Page</preferredLabel>
+			<definition>The content contained on a single side of a single leaf of a book.</definition>
+			<examples/>
+			<nt idref="Running_Head"/>
+			<nt idref="Running_Foot"/>
+			<nt idref="Folio"/>
+			<nt idref="Text_Box"/>
+			<nt idref="Margin"/>
+			<nt idref="Footnotes"/>
+			<nt idref="Marginalia"/>
+			<nt idref="Sidebars"/>
+			<nt idref="CallOutBoxes"/>
+			<bt idref="Book_Content_Components"/>
+		</concept>
+		<concept id="Sidebars">
+			<preferredLabel>Sidebars</preferredLabel>
+			<definition>Out of line notes that runs along the side of a page encroaching into the text box that offer additional information to the body text.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="CallOutBoxes">
+			<preferredLabel>Call Out Boxes</preferredLabel>
+			<definition>Out of line notes that are inserted into the running text that offer additional information to the body text.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Footnotes">
+			<preferredLabel>Footnotes</preferredLabel>
+			<definition>Out of line notes that runs along the foot of a page that offers additional information to the body text.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Marginalia">
+			<preferredLabel>Marginalia</preferredLabel>
+			<definition>Out of line notes that are placed in the margin of a page that offers additional information to the body text.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Running_Head">
+			<preferredLabel>Running Head</preferredLabel>
+			<definition>The text across the top margin of a page that is used for page navigation. The running head can include title, author, chapter, folio or other information depending on the book design.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Running_Foot">
+			<preferredLabel>Running Foot</preferredLabel>
+			<definition>The text across the bottom margin of a page that is used for page navigation. The running foot can include title, author, chapter, folio or other information depending on the book design.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Folio">
+			<preferredLabel>Folio</preferredLabel>
+			<definition>The numeral used to represent page number.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Text_Box">
+			<preferredLabel>Text Box</preferredLabel>
+			<definition>The area of the page used to contain the main content.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+		<concept id="Margin">
+			<preferredLabel>Margin</preferredLabel>
+			<definition>The area of the page on all four sides of the text box.  Margins include head margin, foot margin, gutter margin and outer margin.</definition>
+			<examples/>
+			<bt idref="Page"/>
+		</concept>
+	</categories>
+</document>

@@ -1,0 +1,146 @@
+.allbody {
+	width: 863px;
+	margin: auto;
+	background-image: url(images/TMG_bkgdbar.jpg);
+	border: thin groove #E0E2C2;
+}
+.allbody .banner {
+	height: 126px;
+	width: 856px;
+	padding: 0px;
+}
+.allbody .right .content form {
+	margin-left: 40px;
+}
+.term {
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.alphahead {
+	font: bold xx-large Verdana, Arial, Helvetica, sans-serif;
+}
+.allbody .subhead {
+	background: #1B1453 url(images/TMG_subhead.jpg) no-repeat;
+	height: 30px;
+	width: 839px;
+	font: normal medium "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	text-align: left;
+	padding: 10px 0px 0px 24px;
+	border-top: 1px solid #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-right-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.allbody .right {
+	background: url(images/TMG_right.jpg) repeat-y right;
+	text-align: left;
+	color: #1A1352;
+	font: normal small Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 40px;
+	margin-right: 10px;
+	float: right;
+	width: 623px;
+	height: auto;
+}
+.allbody .navbar {
+	width: 590px;
+	margin: 0px auto 0px 16px;
+	border-right: 1px solid #1A1352;
+	border-left: 1px solid #1A1352;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-color: #1A1352;
+	border-bottom-color: #1A1352;
+}
+.allbody .navigation {
+	width: 200px;
+	margin: 30px 10px 10px 20px;
+}
+.allbody .navigation .leftnavbarhead {
+	width: 170px;
+	margin: 0px auto;
+	background: #96ABD6;
+	border: 1px solid #1A1352;
+	padding: 10px;
+	text-align: center;
+	font: normal small Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.allbody .navigation .leftnavbarlinks {
+	background: #C8D4F0;
+	margin: 0px auto;
+	width: 160px;
+	border-top: 0px none #1A1352;
+	border-right: 1px solid #1A1352;
+	border-bottom: 1px solid #1A1352;
+	border-left: 1px solid #1A1352;
+	padding: 10px 10px 10px 20px;
+	text-align: left;
+	font: small Geneva, Arial, Helvetica, sans-serif;
+}
+.allbody .brclear {
+	clear: both;
+	font: x-small Geneva, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+	text-align: center;
+	height: 30px;
+}
+.navbarbutton {
+	width: 96px;
+	border: 1px solid #1B1352;
+	float: left;
+	background: #96ABD6;
+	text-align: center;
+	vertical-align: middle;
+	height: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #FFFFFF;
+}
+.allbody .searchbar {
+	width: 200px;
+	float: left;
+	height: 20px;
+	margin: 20px auto 10px;
+}
+.allbody .right .content {
+	margin: 60px 60px 0px;
+	padding-bottom: 40px;
+}
+.allbody .PageFooter {
+	width: 623px;
+	background: #E0E2C2 url(images/TMG_footer.jpg) no-repeat;
+	text-align: center;
+	font: x-small Verdana, Arial, Helvetica, sans-serif;
+	padding-top: 60px;
+	padding-bottom: 10px;
+}
+.youarehere {
+	color: #1A1352;
+	font: small Verdana, Arial, Helvetica, sans-serif;
+}
+.title {
+	font: bold normal large Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+}
+a {
+	text-decoration: none;
+	color: #1B1352;
+}
+.allbody .right .navbar .navbarbutton a {
+	color: #FFFFFF;
+}
+.contact {
+	font: x-small Geneva, Arial, Helvetica, sans-serif;
+	color: #1B1352;
+}
+.contactemail {
+	font: x-small Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+}
+.allbody .navigation iframe {
+	margin: 20px 10px;
+}

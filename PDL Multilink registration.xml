@@ -1,0 +1,2391 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) by Ken Brooks (Publishing Dimensions) -->
+<!DOCTYPE DoiRegister SYSTEM "http://doi.contentdirections.com/dtd/doiregister.dtd">
+<DoiRegister>
+	<Product>
+		<Doi>10.1335/0000000001</Doi>
+		<Url>http://www.pubdimensions.com/articles/where_is_money.stm</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/where_is_money.stm</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000002</Doi>
+		<Url>http://www.pubdimensions.com/articles/Optimizing content for multichannel publishing.htm</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/Optimizing content for multichannel publishing.htm</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000003</Doi>
+		<Url>http://www.pubdimensions.com/articles/eBook Supply Chain.pdf</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/eBook Supply Chain.pdf</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000004</Doi>
+		<Url>http://www.pubdimensions.com/articles/CommonFormats.stm</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/CommonFormats.stm</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000005</Doi>
+		<Url>http://www.pubdimensions.com/articles/file_formats.pdf</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/file_formats.pdf</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000006</Doi>
+		<Url>http://www.pubdimensions.com/articlesPublisher Conversion Strategy.pdf</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articlesPublisher Conversion Strategy.pdf</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000007</Doi>
+		<Url>http://www.pubdimensions.com/articles/PIRA Distributed Print-on-demand.htm</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/PIRA Distributed Print-on-demand.htm</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000008</Doi>
+		<Url>http://www.pubdimensions.com/articles/PODBookSupplyChain.stm</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/PODBookSupplyChain.stm</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000009</Doi>
+		<Url>http://www.pubdimensions.com/articles/Clearing the Rights Bottleneck.stm</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Read the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/Clearing the Rights Bottleneck.stm</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>See related articles</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000010</Doi>
+		<Url>http://www.pubdimensions.com</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000011</Doi>
+		<Url>http://www.quietislandbooks.com</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about Quiet Island Books</AdhocLabel>
+				<Url>http://www.quietislandbooks.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000012</Doi>
+		<Url>http://www.digitalgalley.com</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about Digital Galley</AdhocLabel>
+				<Url>http://www.digitalgalley.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000013</Doi>
+		<Url>http://www.pubdimensions.com/services/econsulting</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about digital consulting</AdhocLabel>
+				<Url>http://www.pubdimensions.com/services/econsulting</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000014</Doi>
+		<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about consulting</AdhocLabel>
+				<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000015</Doi>
+		<Url>http://www.pubdimensions.com/services/conversion</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about conversion</AdhocLabel>
+				<Url>http://www.pubdimensions.com/services/conversion</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000016</Doi>
+		<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about rights conversion</AdhocLabel>
+				<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000017</Doi>
+		<Url>http://www.pubdimensions.com/news/quiet</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>See the press release</AdhocLabel>
+				<Url>http://www.pubdimensions.com/news/quiet</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Other news</AdhocLabel>
+				<Url>http://www.pubdimensions.com/news/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000018</Doi>
+		<Url>http://www.pubdimensions.com/news/fire</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>See the press release</AdhocLabel>
+				<Url>http://www.pubdimensions.com/news/fire</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Other news</AdhocLabel>
+				<Url>http://www.pubdimensions.com/news/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000019</Doi>
+		<Url>http://www.pubdimensions.com/services/composition</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>Learn more about composition</AdhocLabel>
+				<Url>http://www.pubdimensions.com/services/composition</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000020</Doi>
+		<Url>http://www.pubdimensions.com/articles/XMLinBookPublishing.pdf</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>See the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/XMLinBookPublishing.pdf</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0000000021</Doi>
+		<Url>http://www.pubdimensions.com/articles/DOIBuildingBlocks.pdf</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>See the article</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/DOIBuildingBlocks.pdf</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Visit our home page</AdhocLabel>
+				<Url>http://www.pubdimensions.com</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Our services</AdhocLabel>
+				<Menu>
+					<Item>
+						<AdhocLabel>Conversion</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/conversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>ePublishing Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/econsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Traditional Consulting</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/pconsulting</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Rights Management Services</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/rightsconversion</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Marketing</AdhocLabel>
+						<Url>http://www.digitalgalley.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Book Distribution</AdhocLabel>
+						<Url>http://www.QuietIslandBooks.com</Url>
+					</Item>
+					<Item>
+						<AdhocLabel>Composition</AdhocLabel>
+						<Url>http://www.pubdimensions.com/services/composition</Url>
+					</Item>
+				</Menu>
+			</Item>
+			<Item>
+				<AdhocLabel>Articles, speeches and white papers</AdhocLabel>
+				<Url>http://www.pubdimensions.com/articles/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>eBook and POD resources</AdhocLabel>
+				<Url>http://www.pubdimensions.com/resources/</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Contact us</AdhocLabel>
+				<Url>mailto:info@pubdimensions.com</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200110</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200110</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200110</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200110</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200129</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200129</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200129</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200129</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200145</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200145</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200145</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200145</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200137</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200137</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200137</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200137</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200153</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200153</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200153</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200153</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200161</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200161</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200161</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200161</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200188</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200188</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200188</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200188</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520017x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520017x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520017x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520017x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200196</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200196</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200196</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200196</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520020x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520020x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520020x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520020x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200226</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200226</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200226</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200226</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200218</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200218</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200218</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200218</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200234</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200234</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200234</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200234</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200242</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200242</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200242</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200242</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200269</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200269</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200269</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200269</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200250</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200250</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200250</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200250</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200277</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200277</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200277</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200277</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200285</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200285</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200285</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200285</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200307</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200307</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200307</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200307</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200293</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200293</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200293</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200293</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200315</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200315</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200315</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200315</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200323</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200323</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200323</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200323</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520034x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520034x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520034x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520034x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200331</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200331</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200331</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200331</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200358</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200358</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200358</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200358</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200366</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200366</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200366</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200366</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200382</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200382</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200382</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200382</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200374</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200374</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200374</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200374</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200390</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200390</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200390</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200390</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200404</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200404</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200404</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200404</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200420</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200420</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200420</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200420</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200412</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200412</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200412</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200412</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200439</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200439</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200439</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200439</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200447</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200447</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200447</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200447</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200463</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200463</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200463</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200463</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200455</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200455</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200455</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200455</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200471</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200471</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200471</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200471</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520048x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520048x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520048x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520048x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200501</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200501</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200501</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200501</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200498</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200498</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200498</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200498</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520051x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520051x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520051x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520051x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200528</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200528</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200528</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200528</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200544</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200544</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200544</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200544</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200536</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200536</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200536</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200536</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200552</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200552</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200552</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200552</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200560</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200560</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200560</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200560</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200587</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200587</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200587</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200587</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200579</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200579</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200579</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200579</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200595</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200595</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200595</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200595</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200609</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200609</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200609</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200609</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200625</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200625</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200625</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200625</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200617</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200617</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200617</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200617</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200633</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200633</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200633</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200633</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200641</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200641</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200641</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200641</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200668</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200668</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200668</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200668</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520065x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520065x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520065x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520065x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200676</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200676</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200676</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200676</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200684</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200684</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200684</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200684</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200706</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200706</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200706</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200706</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200692</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200692</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200692</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200692</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200714</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200714</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200714</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200714</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200722</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200722</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200722</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200722</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200749</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200749</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200749</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200749</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200730</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200730</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200730</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200730</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200757</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200757</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200757</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200757</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200765</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200765</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200765</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200765</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200781</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200781</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200781</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200781</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200773</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200773</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200773</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200773</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520079x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520079x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520079x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520079x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200803</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200803</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200803</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200803</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/079520082x</Doi>
+		<Url>http://pubdimensions.net:8080/rover/079520082x</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/079520082x</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/079520082x</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200811</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200811</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200811</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200811</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200838</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200838</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200838</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200838</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200846</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200846</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200846</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200846</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200862</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200862</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200862</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200862</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200854</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200854</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200854</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200854</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200870</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200870</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200870</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200870</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200889</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200889</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200889</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200889</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200900</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200900</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200900</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200900</Url>
+			</Item>
+		</Menu>
+	</Product>
+	<Product>
+		<Doi>10.1335/0795200897</Doi>
+		<Url>http://pubdimensions.net:8080/rover/0795200897</Url>
+		<Menu>
+			<Item>
+				<AdhocLabel>RoverBooks Home Page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/covers</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>View catalog page</AdhocLabel>
+				<Url>http://pubdimensions.net:8080/rover/0795200897</Url>
+			</Item>
+			<Item>
+				<AdhocLabel>Email a friend about this item</AdhocLabel>
+				<Url>mailto:?subject=A book you might be interested in&amp;body=I thought you might be interested in this book: http://dx.doi.org/10.1335/0795200897</Url>
+			</Item>
+		</Menu>
+	</Product>
+</DoiRegister>

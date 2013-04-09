@@ -1,0 +1,300 @@
+
+<html>
+<head>
+<meta http-equiv="charset" content="UTF-8" />
+<title>Publishing Dimensions | Articles</title>
+<meta name="Keywords" content="eBook, e-book, OEB, XML, DTD, PDF, LIT, RB, SB, Rocket eBook, 
+SoftBook, REB 1100, REB 1200, Microsoft Reader, Peanut Press, Palm Digital Media, Quark, 
+PostScript, data conversion, document conversion, book conversion,
+digital content, HTML, OEB conversion, XML conversion, PDF conversion, OEB conversion, 
+LIT conversion, RB conversion, SB conversion, Rocket eBook conversion, SoftBook conversion,
+REB 1100 conversion, REB 1200 conversion, Microsoft Reader conversion, Peanut Press conversion,
+Palm Digital Media conversion, Quark conversion, PostScript conversion, HTML conversion,
+digital content, content management, data entry, keying, scanning, prepress, typesetting, page composition, web delivery, 
+publishing, publishers, SGML, Open eBook, OeBF, Open eBook Forum, e-text, eText, ePublishing, 
+e-Publishing, digital rights, digital rights management, DRM, Ken Brooks, Kathleen Doody"/>
+<link rel="STYLESHEET" type="text/css" href="../Pubdimensions.css"/>
+<script src="http://www.pubdimensions.com:8080/jmultilink_javascript_generator.jsp?doi=10.1335/0000000001&doi=10.1335/0000000002&doi=10.1335/0000000008"></script>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+
+// sniff browser
+HM_DOM = (document.getElementById) ? true : false;
+HM_NS4 = (document.layers) ? true : false;
+HM_IE = (document.all) ? true : false;
+HM_IE4 = HM_IE && !HM_DOM;
+HM_Mac = (navigator.appVersion.indexOf("Mac") != -1);
+HM_IE4M = HM_IE4 && HM_Mac;
+HM_Opera = (navigator.userAgent.indexOf("Opera")!=-1);
+HM_Konqueror = (navigator.userAgent.indexOf("Konqueror")!=-1);
+HM_IsMenu = !HM_Opera && !HM_Konqueror && !HM_IE4M && (HM_DOM || HM_NS4 || HM_IE4);
+HM_BrowserString = HM_NS4 ? "NS4" : HM_DOM ? "DOM" : "IE4";
+
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+
+// location of the HierMenus package (must include trailing slash!!)
+var HMPath ="http://doi.contentdirections.com/lib/HM4-1-3/";
+
+HM_PG_MenuWidth = 185;
+HM_PG_FontFamily = "Arial,sans-serif";
+HM_PG_FontSize = 10;
+HM_PG_FontBold = 0;
+HM_PG_FontItalic = 0;
+HM_PG_FontColor = "black";
+HM_PG_FontColorOver = "white";
+HM_PG_BGColor = "white";
+HM_PG_BGColorOver = "#990000";
+HM_PG_ItemPadding = 3;
+
+HM_PG_BorderWidth = 2;
+HM_PG_BorderColor = "black";
+HM_PG_BorderStyle = "solid";
+HM_PG_SeparatorSize = 2;
+HM_PG_SeparatorColor = "black";
+
+HM_PG_ImageSrc = HMPath+"HM_More_black_right.gif";
+HM_PG_ImageSrcLeft = HMPath+"HM_More_black_left.gif";
+HM_PG_ImageSrcOver = HMPath+"HM_More_white_right.gif";
+HM_PG_ImageSrcLeftOver = HMPath+"HM_More_white_left.gif";
+
+HM_PG_ImageSize = 5;
+HM_PG_ImageHorizSpace = 0;
+HM_PG_ImageVertSpace = 2;
+
+HM_PG_KeepHilite = true; 
+HM_PG_ClickStart = 0;
+HM_PG_ClickKill = false;
+HM_PG_ChildOverlap = 20;
+HM_PG_ChildOffset = 10;
+HM_PG_ChildPerCentOver = null;
+HM_PG_TopSecondsVisible = .5;
+HM_PG_StatusDisplayBuild =0;
+HM_PG_StatusDisplayLink = 0;
+HM_PG_UponDisplay = null;
+HM_PG_UponHide = null;
+HM_PG_RightToLeft = 0;
+
+HM_PG_CreateTopOnly = 0;
+HM_PG_ShowLinkCursor = 1;
+HM_PG_NSFontOver = true;
+
+//-->
+</SCRIPT>
+</head>
+<body>
+	<div class="navline"><a href="http://www.pubdimensions.com/">Home</a>> Articles
+	</div>
+	<div class="header">	<!-- header.stm -->
+
+<table width="100%" cellpadding="5" cellspacing="0">
+
+	<tr>
+		<td bgcolor="#0000CC" width="140">
+			<a href="http://www.pubdimensions.com/"><img src="/includes/logo.gif" border="0"/></a>
+		</td>
+		<td bgcolor="#0000CC" width="500">
+			<font size="4" color="#FFFFFF"><b>Publishing Dimensions</b></font><br/>
+			<font size="1" color="#C0C0C0">(212) 319-0722 | FAX (212) 758-4934 | 
+				<a href="mailto:info@pubdimensions.com"><font color="C0C0C0">info@pubdimensions.com</font></a></font>
+		</td></tr>
+	<tr>
+		<td colspan="3" bgcolor="#0000CC" align="center">	</td>
+	</tr>
+
+<tr>
+	<td colspan="3" bgcolor="#ff0000" align="center">
+		<font size="1" color="#FFFFFF">
+			<b><a href="http://www.pubdimensions.com/" class="sn">HOME</a></b> | 
+			<b><a href="/services/" class="sn">SERVICES</a></b> | 
+			<b><a href="/corporate/" class="sn">CORPORATE</a></b> | 
+			<b><a href="/faq/" class="sn">FAQ</a></b> | 
+			<b><a href="/articles/" class="sn">ARTICLES</a></b> | 
+			<b><a href="/resources/" class="sn">RESOURCES</a></b> | 
+			<b><a href="/contact/" class="sn">CONTACT</a></b> | 
+			<b><a href="/news/" class="sn">NEWS</a></b>
+		</font>
+	</td>
+</tr>
+
+</table>
+	</div>
+	<table width="100%" cellpadding="5" cellspacing="0">
+		<tr>
+			<td width="100" bgcolor="#CCCCCC" valign="top" class="leftnav">
+				<!-- lndoi.stm -->
+
+<p class="para1"><b>ARTICLES</b></p>
+<p><strong>eBook Business</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000001" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')" class="ln">Where's the Money?</a></p>
+ 		<p><a href="http://dx.doi.org/10.1335/0000000002" onmouseover="HM_f_PopUp('elMenu2',event)" onmouseout="HM_f_PopDown('elMenu2')" onmouseover="HM_f_PopUp('elMenu2',event)" onmouseout="HM_f_PopDown('elMenu2')" class="ln">Optimizing Multi-Channel Publishing</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000003" onmouseover="HM_f_PopUp('elMenu3',event)" onmouseout="HM_f_PopDown('elMenu3')" onmouseover="HM_f_PopUp('elMenu3',event)" onmouseout="HM_f_PopDown('elMenu3')" class="ln">eBook Supply Chain</a></p>
+
+<p><strong>eBook Production</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000004" onmouseover="HM_f_PopUp('elMenu4',event)" onmouseout="HM_f_PopDown('elMenu4')" onmouseover="HM_f_PopUp('elMenu4',event)" onmouseout="HM_f_PopDown('elMenu4')" class="ln">Common eBook Formats</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000005" onmouseover="HM_f_PopUp('elMenu5',event)" onmouseout="HM_f_PopDown('elMenu5')" onmouseover="HM_f_PopUp('elMenu5',event)" onmouseout="HM_f_PopDown('elMenu5')"class="ln">File Formats for Digital Distribution</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000001" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')" onmouseover="HM_f_PopUp('elMenu6',event)" onmouseout="HM_f_PopDown('elMenu6')" class="ln">Publisher Conversion Strategy</a></p>
+
+<p><strong>Print on Demand</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000007" onmouseover="HM_f_PopUp('elMenu6',event)" onmouseout="HM_f_PopDown('elMenu6')" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')" class="ln">Distributed Print-on-Demand</a></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000008" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')" onmouseover="HM_f_PopUp('elMenu8',event)" onmouseout="HM_f_PopDown('elMenu8')" class="ln">Print-on-Demand in the Book Supply Chain</a></p>
+<p><strong>Rights Management</strong></p>
+		<p><a href="http://dx.doi.org/10.1335/0000000009" onmouseover="HM_f_PopUp('elMenu8',event)" onmouseout="HM_f_PopDown('elMenu8')" onmouseover="HM_f_PopUp('elMenu9',event)" onmouseout="HM_f_PopDown('elMenu9')" class="ln">Clearing the Rights Bottleneck</a></p>
+
+			</td>
+			<td><h2 class="lefthead">Articles</h2>
+			<h3>eBook Business Issues</h3>
+				<ul>
+					<li class="para1" id="6"><b><a href="where_is_money.stm" target="article">Where's the Money?</a></b> <i>(html)</i> Article published <i>Publishing 2001: Attitudes to Technological Change, 2001</i>, BPI Communications.  Article presents a strategic framework to assist publishers in determining in which formats, platforms and channels they should be making their content available.</li>
+					<li class="para1" id="2"><b><a href="Optimizing content for multichannel publishing.htm" target="article">Optimizing Multi-Channel Publishing</a></b> <i>(html)</i> Presentation given to the Digital Content Management for Publishing conference on July 24, 2001.</li>
+					<li class="para1" id="3"><b><a href="eBook Supply Chain.pdf" target="article">eBook Supply Chain: Opportunities and Challenges</a></b> <i>(pdf)</i> Presentation at the Supply Chain Seminar, Frankfurt Book Fair, on October 9, 2001.</li>
+
+				</ul>
+			<h3>eBook Production Issues</h3>
+				<ul>
+					<li class="para1" id="9"><b><a href="CommonFormats.stm" target="article">Common eBook Formats</a></b> <i>(html)</i> Article describing the most common formats for eBooks and the advantages of each.</li>
+					<li class="para1" id="1"><b><a href="file_formats.pdf" target="article">File Formats for Digital Distribution</a></b> <i>(pdf)</i> Presentation given at Seybold San Francisco, 2001 on September 27, 2001 regarding eBook formats and recommendations on which publishers should implement.</li>
+					<li class="para1" id="5"><b><a href="Publisher Conversion Strategy.pdf" target="article">Publisher Conversion Strategy</a></b> <i>(pdf)</i> Presentation given at Book Expo America (BEA) regarding cost-effective methods that publishers can use to incrementally convert their books into various eBook formats based on expected sales in each format. Presentation also includes high-level diagrams illustrating the most common types of conversion and associated issues.</li>
+
+				</ul>
+
+			<h3>Print On Demand</h3>
+				<ul>
+					<li class="para1" id="7"><b><a href="PIRA Distributed Print-on-demand.htm" target="article">Distributed Print-on-Demand</a></b> <i>(html)</i> Presentation given to the PIRA Digital Print World conference, London, on February 13, 2001. The presentation covers the economic drivers of print-on-demand, distinctions between central and distributed print-on-demand and addresses barriers to acceptance of distributed print-on-demand.</li>
+					<li class="para1" id="10"><b><a href="http://dx.doi.org/10.1335/0000000008" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')" onmouseover="HM_f_PopUp('elMenu3',event)" onmouseout="HM_f_PopDown('elMenu3')" target="article">Print-on-Demand in the Book Supply Chain</a></b> <i>(html)</i> Article on Print-on-Demand discussing its use at various levels of the Book Supply Chain: Publisher, Wholesaler and Retailer. The article encompasses material from a number of 2001 presentations on Print-on-Demand issues.</li>
+
+				</ul>
+			<h3>Rights Management</h3>
+				<ul>
+					<li class="para1" id="8"><b><a href="Clearing the Rights Bottleneck.stm" target="article">Clearing the Rights Bottleneck</a></b> <i>(html)</i> Discussion notes from Publishers Lunch, New York, June 20, 2001.  Presents the case that all publishing transactions have a rights element that is only growing more important.</li>
+				</ul>
+			</td>
+			<td width="100" bgcolor="#CCCCCC" valign="top">
+			</td>
+		</tr>
+	</table>
+	<!-- footer.stm -->
+<table width="100%" cellpadding="5" cellspacing="0">
+	<tr bgcolor="#ff0000">
+		<td colspan="3" align="center" class="header">
+			<font size="1" color="#FFFFFF">
+				<b>
+					<a href="http://www.pubdimensions.com/" class="sn">HOME</a>
+				</b> | <b>
+					<a href="/services/" class="sn">SERVICES</a>
+				</b> | <b>
+					<a href="/corporate/" class="sn">CORPORATE</a>
+				</b> | <b>
+					<a href="/faq/" class="sn">FAQ</a>
+				</b> | <b>
+					<a href="/articles/" class="sn">ARTICLES</a>
+				</b> | <b>
+					<a href="/resources/" class="sn">RESOURCES</a>
+				</b> | <b>
+					<a href="/contact/" class="sn">CONTACT</a>
+				</b> | <b>
+					<a href="/news/" class="sn">NEWS</a>
+				</b>
+			</font>
+		</td>
+	</tr>
+	<tr bgcolor="#0000CC">
+		<td colspan="3" align="center" class="footer">	240 East 56th St., 4E | New York, NY 10022<span class="footercr">?? 2001 Publishing Dimensions</span>
+		</td>
+	</tr>
+</table>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!--
+
+if(HM_IsMenu) {
+
+HM_Array1 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/where_is_money.stm",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array2 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/Optimizing content for multichannel publishing.htm",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array3 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/eBook Supply Chain.pdf",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array4 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/CommonFormats.stm",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array5 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/file_formats.pdf",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array6 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/PIRA Distributed Print-on-demand.htm",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array7 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/PODBookSupplyChain.stm",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+HM_Array8 = [
+  [],
+  ["View Item","http://www.pubdimensions.com/articles/Clearing the Rights Bottleneck.stm",1,0,0],
+  ["Visit our home page","http://www.pubdimensions.com",1,0,0],
+  ["See related articles","http://www.pubdimensions.com/articles/",1,0,0],
+  ["Visit eBook and POD resources","http://www.pubdimensions.com/resources/",1,0,0],
+  ["Contact us","mailto:info@pubdimensions.com",1,0,0],
+]
+
+    document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='"+HMPath+"HM_Script"+ HM_BrowserString +".js' TYPE='text/javascript'></SCR" + "IPT>");
+}
+
+//-->
+</SCRIPT></body>
+</html>
+
+

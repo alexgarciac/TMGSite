@@ -1,0 +1,657 @@
+<?xml-stylesheet type="text/css"?>
+<html xmlns:HTML="http://www.w3.org/Profiles/XHTML-transitional">
+	<head>
+		<title>Treadwell Media Group - Articles - Notes on the Design of Order Management Processes</title>
+		<meta name="Description" content="Article on the elements of an order management process for book publishers." />
+		<meta name="Keywords" content="Order Processing, Order Management, Book Publishing,  Ken Brooks, Treadwell Media Group" />
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8;" />
+		<link rel="stylesheet" type="text/css" href="../includes/tmg.css" />
+	</head>
+	<body>
+		<div class="header">
+			<a href="http://www.treadwellmedia.com/">
+				<img align="left" src="../includes/logo.gif" border="0" />
+			</a>
+			<h1>Treadwell Media Group</h1>
+			<p class="navline">
+				<a href="mailto:info@treadwellmedia.com">info@treadwellmedia.com</a>
+			</p>
+			<p class="navline">
+				<b>
+					<a href="http://www.treadwellmedia.com/" class="sn">HOME</a>
+				</b> | 
+            			<b>
+					<a href="/Capabilities/index.htm" class="sn">CAPABILITIES</a>
+				</b> | 
+            			<b>
+					<a href="/Cases/index.htm" class="sn">PROJECTS</a>
+				</b>  | 
+            			<b>
+					<a href="/Articles/index.htm" class="sn">ARTICLES</a>
+				</b> | 
+            			<b>
+					<a href="/Resources/index.htm" class="sn">RESOURCES</a>
+				</b> | 
+            			<b>
+					<a href="/Taxonomy/index.htm" class="sn">TAXONOMY</a>
+				</b> |
+            			<b>
+					<a href="mailto:info@treadwellmedia.com" class="sn">CONTACT</a>
+				</b>
+			</p>
+		</div>
+		<div class="navigation">
+			<p>
+				<b>Articles:</b>
+			</p>
+			<ul>
+				<li>
+					<a href="/Articles/where_is_money.htm">Where's the Money?</a>
+				</li>
+				<li>
+					<a href="/Articles/Optimizing content for multichannel publishing.htm">Optimizing Multi-Channel Publishing</a>
+				</li>
+				<li>
+					<a href="/Articles/eBook_Supply_Chain.pdf">eBook Supply Chain: Opportunities and Challenges</a>
+				</li>
+				<li>
+					<a href="/Articles/CommonFormats.htm">Common eBook Formats</a>
+				</li>
+				<li>
+					<a href="/Articles/file_formats.pdf">File Formats for Digital Distribution</a>
+				</li>
+				<li>
+					<a href="/Articles/Publisher_Conversion_Strategy.pdf">Publisher Conversion Strategy</a>
+				</li>
+				<li>
+					<a href="/Articles/PIRA Distributed Print-on-demand.htm">Distributed Print-on-Demand</a>
+				</li>
+				<li>
+					<a href="/Articles/PODBookSupplyChain.htm">Print-on-Demand in the Book Supply Chain</a>
+				</li>
+				<li>
+					<a href="/Articles/Clearing the Rights Bottleneck.htm">Clearing the Rights Bottleneck</a>
+				</li>
+				<li>
+					<a href="/Articles/XML_in_Book_Publishing.pdf">XML in Book Publishing</a>
+				</li>
+				<li>
+					<a href="/Articles/DOI_Building_Blocks.pdf">DOI Building Blocks</a>
+				</li>
+			</ul>
+		</div>
+		<div class="content">
+			<h2 class="lefthead">Notes on the Design of Order Management Processes</h2>
+			<h3>
+				<strong>Kenneth M Brooks, Jr</strong>
+			</h3>
+			<p>The following notes were assembled over several implementations of order management systems in book publishing operations from 1997 through 2001.These precede extensive availability of eCommerce systems and focus on credit sales to bookstores and other channel partners.</p>
+			<h1 id="toc">Table of Contents</h1>
+			<ul>
+				<li>
+					<a href="#introduction">INTRODUCTION</a>
+				</li>
+				<li>
+					<a href="#principles">KEY CONCEPTS/GUIDING PRINCIPLES</a>
+				</li>
+				<li>
+					<a href="#planning">ORDER MANAGEMENT PLANNING</a>
+				</li>
+				<li>
+					<a href="#control">ORDER MANAGEMENT CONTROL</a>
+				</li>
+				<li>
+					<a href="#execution">ORDER MANAGEMENT EXECUTION</a>
+					<ol>
+						<li>
+							<a href="#oe">Order Entry</a>
+						</li>
+						<li>
+							<a href="#op">Order Processing</a>
+						</li>
+						<li>
+							<a href="#of">Order Fulfillment</a>
+						</li>
+						<li>
+							<a href="#bc">Billing and collection</a>
+						</li>
+					</ol>
+				</li>
+				<li>
+					<a href="#policies">ORDER MANAGEMENT POLICIES</a>
+					<ol>
+						<li>
+							<a href="#allocation">Allocation</a>
+						</li>
+						<li>
+							<a href="#backorders">Backorders</a>
+						</li>
+						<li>
+							<a href="#carrier">Carrier selection criteria</a>
+						</li>
+						<li>
+							<a href="#combination">Combination</a>
+						</li>
+						<li>
+							<a href="#credit">Credit Limit</a>
+						</li>
+						<li>
+							<a href="#discount">Discount</a>
+						</li>
+						<li>
+							<a href="#freight">Freight terms</a>
+						</li>
+						<li>
+							<a href="#mdq">Minimum Delivery Quantity</a>
+						</li>
+						<li>
+							<a href="#moq">Minimum Order Quantity</a>
+						</li>
+						<li>
+							<a href="#mode">Mode selection criteria</a>
+						</li>
+						<li>
+							<a href="#partial">Partial ship/split ship criteria (order, line)</a>
+						</li>
+						<li>
+							<a href="#terms">Payment terms</a>
+						</li>
+						<li>
+							<a href="#pricing">Pricing</a>
+						</li>
+						<li>
+							<a href="#promotions">Promotions</a>
+						</li>
+						<li>
+							<a href="#reservation">Reservation horizon</a>
+						</li>
+						<li>
+							<a href="#rounding">Rounding</a>
+						</li>
+						<li>
+							<a href="#sourcing">Sourcing</a>
+						</li>
+						<li>
+							<a href="#substitution">Substitution</a>
+						</li>
+					</ol>
+				</li>
+				<li>
+					<a href="#issues">ISSUES</a>
+				</li>
+			</ul>
+			<h1 id="introduction">Introduction</h1>
+			<p>Order Management is the management of customer orders from when they are placed by the customer until cash is received and applied.  It refers to the management of a number of seemingly different transactions:
+		<ul>
+					<li>Customer orders.   Although orders are traditionally thought of by either product type or by customer (for example, initials, reorders, foreign, cash sales, author sales, remainder sales, special sales), the most important distinction relates to the routing within the order management system:
+				<ul>
+							<li>Rush - simultaneous order and delivery note</li>
+							<li>Backorder - required ship date is before current date</li>
+							<li>Future order - required ship date is after current date</li>
+							<li>Cash order - collection occurs before or simultaneously with order placement</li>
+							<li>Reference order - there is no hit against either inventories or credit balances (Pro forma orders fall into this category.)</li>
+							<li>Consignment order - there is no collection generated, only a shift in inventory balance</li>
+							<li>Contract release - </li>
+							<li>Free orders</li>
+							<li>Standing orders</li>
+						</ul>
+					</li>
+					<li>Adjustments (credit and debit memos)</li>
+					<li>Sales transfers</li>
+					<li>Intercompany transfers</li>
+				</ul>
+			</p>
+			<p>Order management occurs at three levels:  planning, control and execution.  The bulk of this document refers to execution.</p>
+			<h1 id="#principles">Key Concepts/Guiding Principles</h1>
+			<p>
+				<b>Perfect order concept.</b> A perfect order one that flows through the entire order management process without delay or manual intervention.  The process is designed to ensure that most orders are perfect orders.  A key element of this concept is that all orders must flow through the system.  There are no orders processed outside the system.</p>
+			<p>
+				<b>Process perspective.</b>  Decisions regarding the order management process will be made considering the end-to-end process as a whole, i.e., from order receipt to cash application for orders and from initiation of return to putaway/scrap/etc. and customer credit for returns.  Suboptimization within a single department will be avoided, however, the current departments will retain their functional responsibilities.  End-to-end process performance will be measured and reported with respect to cycle time, cost, quality and service.</p>
+			<p>
+				<b>Available to pick status.</b>  Orders are received and processed through all necessary steps.  Once all conditions have been cleared including credit check, inventory availability, minimum order quantity, etc. they become available to pick.</p>
+			<p>
+				<b>Plan early/act late.</b>  Order processing decisions are made as early as possible to allow for more effective internal processing.  Actual physical handling of orders and shipments, however, are deferred as long as possible to allow maximum flexibility to deal with changing circumstances. </p>
+			<p>For returns this means using receipt paperwork and ASNs to setup return processing.  This gives visibility into workload, provides the ability to expedite urgently needed stock, and shorten return processing (to stock) cycle and credit memo cycle.</p>
+			<p>
+				<b>Data setup and maintenance.</b>  The first area that requires or generates information is responsible for setting up the associated data in the system.  Maintenance of data required in an area is maintained in that area.</p>
+			<p>
+				<b>Lifetime visibility and changes.</b>  Orders or other transactions are visible and can be changed at any point in their lifecycle by authorized personnel.  This could even apply to customer access to our systems.</p>
+			<p>
+				<b>Problems are resolved as they occur.</b>
+			</p>
+			<h1 id="planning">Order Management Planning</h1>
+			<p>Planning ensures that processes, resources and infrastructure are in place to handle all transactions at target quality and cost within the target time frame...</p>
+			<p>
+				<b>Facility planning.</b>  Warehouse storage and processing capacity...</p>
+			<p>
+				<b>Labor planning and scheduling.</b>  Warehouse, order processing, etc....</p>
+			<p>
+				<b>Transportation planning.</b>  The primary responsibilities of transportation planning as it relates to customer order management include:</p>
+			<ul>
+				<li>Setup of system tables used by order processing to route and price orders</li>
+				<li>Determination of carrier pickup schedules</li>
+				<li>Handling of expedited requirements</li>
+				<li>Review and handling of non-standard routing (e.g. shipments from non-standard printers, air shipments)</li>
+			</ul>
+			<p>
+				<b>Credit planning.</b>  The major activity in credit planning is the periodic recalculation of customer credit limits based on payment history, credit ratings, etc.</p>
+			<h1 id="control">Order Management Control</h1>
+			<p>Control ensures:<ol>
+					<li>Transaction flow control and tracking.  Nothing gets lost in the process. What goes in, doesn't disappear and that everything that should go in, does go in.  Actions actually happened as reported, and at the time they were supposed to happen.</li>
+					<li>Access control and tracking.  Only personnel with authorized access to orders, information, etc. can change them.  There will be an audit trail of any changes.</li>
+				</ol>
+			</p>
+			<h1 id="execution">Order Management Execution</h1>
+			<h2 id="oe">Order Entry</h2>
+			<p>Order entry is the capture and validation of incoming orders before they are processed and fulfilled.</p>
+			<p>
+				<b>Capture/input.</b>  Orders are received via EDI from customers, entered directly by the sales force or customers (and received similar to EDI orders) or key entered by order entry/customer service personnel.</p>
+			<p>
+				<b>Validation.</b>  Once customer EDI orders are received they are validated against customer and title files to ensure validity. Keyed orders are validated real time as they are entered.  This would include checks for NOP, OSI, OP, etc.  Invalid orders are held in the system for research and correction.  Lines with invalid titles or orders are marked in the system for rejection and confirmation to customers via EDI.  Restrictions, both geographic and customer class, are checked here as well.</p>
+			<p>
+				<b>Order acknowledgment.</b>  Once validated, an order acknowledgment is automatically sent via EDI, fax, or mail to customers, or suppressed, depending on customer requirements.  The sales force should have the capability to print out hard copy of any order placed by their customers.</p>
+			<h2 id="op">Order Processing</h2>
+			<p>In order processing, orders are prepared for fulfillment.  The following steps are executed <b>in sequence:</b>
+			</p>
+			<p>
+				<b>Substitution.</b>  Substitutions are processed for a variety of reasons, including changes in price, carton quantity, edition, out-of-stock, etc.  They can be allowed/disallowed at a variety of levels.  Policies:  substitution</p>
+			<p>
+				<b>Sourcing.</b>  Sourcing determines the location from which orders will be fulfilled.  The standard source is the warehouse, although other locations may be assigned (see sourcing policy).  Sourcing location is determined based on projected inventory availability, processing and delivery lead times, customer request date and order weight and distance.  Policies: sourcing</p>
+			<p>
+				<b>Combination</b>.  Combination can be executed at a variety of levels, depending on customer requirements and publisher policy. They can be allowed/disallowed as well at a variety of levels. If the customer is a candidate for order combination, new orders will be combined with pre-existing orders in the pool and other held orders (perhaps below minimum orders) before being eligible for picking.  The combined order must be reprocessed through many of the relevant steps before being made available again (these steps would not include either credit check or combination). See policies for further elaboration. Policies: combination</p>
+			<p>
+				<b>Routing</b>.  Transportation mode and carriers are assigned based on predetermined criteria. Policies: mode selection criteria, carrier selection criteria, source, destination, weight and service level are inputs to this process.</p>
+			<p>
+				<b>Pricing</b>. The price for each order line is calculated based on three factors:</p>
+			<ul>
+				<li>retail price of product</li>
+				<li>discount based on product type, customer class, and order characteristics</li>
+				<li>promotion codes based on customer, product and promotion.</li>
+			</ul>
+			<p>Once the remaining stages of order preparation are complete, taxes will be calculated, a preliminary freight cost calculated as necessary, and the total price for the shipment (invoice) determined.  Policies: discount, promotions</p>
+			<p>
+				<b>Credit check</b>.  To effectively handle future orders, future returns, etc. it is anticipated that a combined static/dynamic credit limit will be used.  The static limit constrains the amount of billed receivable outstanding.  The dynamic limit is used to constrain projected balances based on future orders, etc. over a predetermined time horizon.  An initial credit check is performed to ensure that the order does not bring the account over either its static or dynamic limit.  Above the static limit, the order is held.  Above the dynamic limit a notice to Credit is generated for investigation.  Policies: credit limit</p>
+			<p>
+				<b>Scheduling</b>.  Based on on-sale date, customer request date and standard processing and fulfillment intervals, orders are scheduled.
+		<ul>
+					<li>Calculate lead times<ul>
+							<li>Transportation dispatch</li>
+							<li>Pick/Pack</li>
+							<li>Transit</li>
+							<li>Loading</li>
+						</ul>
+					</li>
+					<li>Calculate availability date</li>
+					<li>Calculate "earliest ship date"</li>
+					<li>Compare required date to "earliest ship date" of standard, rush and air freight orders.  Note that a customer required date can be taken either from the order, a line on the order, or pre-specified in some manner.</li>
+					<li>Choose normal, then rush, then kick into extra charge shipping</li>
+					<li>Calculate "latest ship date"</li>
+				</ul>
+			</p>
+			<p>
+				<b>Rounding</b>.  For those customers and product types which are rounded, ordered quantities are rounded to the nearest full carton based on pre-established criteria. Policies:  Rounding</p>
+			<p>
+				<b>Minimum check</b>.  The cumulative value/quantity of lines scheduled for a single date of shipment are checked.  If minimums are not met the order will be processed in accordance with minimum order quantity (MOQ) policy.  Policies:  Minimum Order Quantity</p>
+			<p>
+				<b>Availability check, reservation and backorder</b>.  Projected inventory availability for the date of order picking is checked at the first location sourced.  If inventory is not available at this location, other locations are examined (see sourcing policy).  Once found, the inventory is "soft" reserved to ensure that sufficient inventory will exist for later fulfillment.  </p>
+			<p>If inventory is insufficient, the customer and title records are checked to determine requirements regarding shipping complete (either orders or lines), and the action to be taken on the unfilled quantity (cancel or backorder).  Account specific instructions may be overridden on an order-by-order basis, per customer instructions.  A determination is also made as to whether allocation procedures should be invoked.  Policies:  partial ship, allocation</p>
+			<p>
+				<b>Ship container construction</b>.  Cartons and pallets are constructed for later picking.</p>
+			<p>
+				<b>Confirmation</b>.  Confirmation of the order is automatically sent to the customer via EDI, e-mail, fax, or mailed hardcopy, depending on customer requirements.  This confirmation will note lines that will not ship, indicate the reason, and for backordered or canceled lines, indicate a projected available date.  Notification of below minimum orders and planned actions to be taken also occur at this time.</p>
+			<p>In the event that an order is canceled either by the customer or according to cancellation dates established in order processing, a confirmation of the cancellation will be generated and sent to the customer.</p>
+			<p>
+				<b>Release</b>. The warehouse operates under a pull scenario, pulling orders in for processing.  Once all conditions have been met, orders become candidates for fulfillment by the warehouse.  As part of the release process, the sourcing for non-standard orders is verified and conditions rechecked.  Any changes in carrier, freight expense, etc. are made.</p>
+			<h2 id="of">Order Fulfillment</h2>
+			<p>Order fulfillment consists of those activities necessary to pick and transport shipments (vs. orders) and close-out orders. </p>
+			<p>
+				<b>Pick, pack and ship</b>.  For details on warehouse operations, see the proposed warehouse operating procedures.  Simultaneously with shipping, a clean ASN is sent to the customer, providing notification of shipping and the contents of the shipment.</p>
+			<p>
+				<b>Transportation scheduling/dispatching</b>.  Based on the shipments scheduled, each load is assigned either to a standard carrier and route, or dispatched in accordance with transportation policy and freight terms.  In the event of a non-house carrier, the carrier is notified of a pickup and the time of pickup. Policies:  freight terms</p>
+			<p>
+				<b>Order close-out</b>.  Once all of the lines for a particular order are confirmed as picked and shipped or canceled, the order closes automatically.  Shipping and processing records are kept in the system.</p>
+			<h2 id="bc">Billing and collection</h2>
+			<p>
+				<b>Invoice creation</b>.  Once a shipment is confirmed a clean invoice is generated and sent via EDI or mail to the customer.  The invoice can be included with the shipment if that is the customer requirement.  Invoiced amounts are posted to A.R.</p>
+			<p>
+				<b>Collection</b>.  Payment is made directly via EFT into the publisher's bank with an EDI Remittance Advice sent to Accounts Receivable.  Smaller customers will continue to send payment and Remittance Advice to the bank lockbox.  The publisher will begin to encourage electronic Remittance Advice for all customers.</p>
+			<p>
+				<b>Cash application</b>. Receipts will be automatically posted to the customer account based on a MICR lookup.  The EDI Remittance Advice will be used to allow auto key-off of invoices.</p>
+			<p>Deductions (for both open credit memos and pending credit issuance) will be captured electronically from the Remittance Advice, approved and edited on line, and automatically posted.  Auto key-off of open credit memos will be done for amounts within tolerance.</p>
+			<p>
+				<b>Deduction reconciliation</b>.  Deductions are automatically matched and cleared against the corresponding credit memo (see Returns Management) based on pre-established tolerances and other criteria. Any under tolerance difference will be offset against a small balance write-off GL code.  Returns policies:  Return credit tolerances.</p>
+			<p>If the difference is greater than the tolerance and the customer provided an ASN, the difference document created during the returns process will be used to assist in reconciliation.   This difference document will provide specific details of the variance between the customer's record of shipment and the credit memo issued as part of the returns process.  These details will include titles over and under, NOP's, and price and discount discrepancies.  For customers not providing ASNs, matching will be done between the deduction total and amount of the credit detail in the traditional manner.</p>
+			<p>
+				<b>Claims</b>.  Customer claims and deductions for issues other than returns are handled in a variety of ways, depending on the reason:
+			<ul>
+					<li>Shortages (concealed, full carton)</li>
+					<li>Coop advertising</li>
+					<li>Price claims</li>
+					<li>Discount claims</li>
+					<li>Customer-assessed penalties</li>
+					<li>Rack allowances</li>
+				</ul>
+			</p>
+			<h1 id="policies">Order Management Policies</h1>
+			<h2 id="allocation">Allocation</h2>
+			<p>In the event that insufficient stock is available to handle all customer orders, it may be necessary to allocate the remaining inventory. Allocation policy consists of the methods in which customers are prioritized to receive inventory and for which items these methods are invoked.  The publisher will utilize differing methods depending on the items ordered:</p>
+			<ul>
+				<li>Initials.  In the event of a projected shortfall, the following allocation procedures will be utilized to generate a system-recommended allocation:<ul>
+						<li>  </li>
+						<li>  </li>
+						<li>  </li>
+					</ul>
+				</li>
+				<li>This allocation will be forwarded to sales administration for review and override.  If an override is not received by the time that picking must begin, orders will be picked as suggested.</li>
+				<li>Hot reorders.  For hot title reorders, normal backorder procedures will apply</li>
+				<li>Other orders.  For other orders, normal backorder procedures will apply.</li>
+			</ul>
+			<h2 id="backorders">Backorders</h2>
+			<p>Backorders consist of those orders that cannot be confirmed for shipment to arrive by the publisher scheduled delivery date due to insufficient stock availability.  Issues associated with backorders include the eligibility for backordering, the backorder cancellation date, and the backorder release and shipping interval.
+		<ul>
+					<li>
+						<b>Backorder eligibility</b>. Eligibility for backordering can be set at a variety of levels including customer, customer class, order type (both publisher and customer), title and format.  Publisher policy is that all initials backorder regardless of customer-requested processing.  Once the combine date is reached, normal customer-requested backorder processing is performed.</li>
+					<li>
+						<b>Backorder cancellation interval</b>.  Set from immediate (no backorders) to some period beyond the requested delivery date.  The publisher default for this will be 60 days, although customer preference should be allowed.</li>
+					<li>
+						<b>Backorder release and shipping interval</b>.  Backordered hot titles will release immediately upon availability of stock.  All others will release on daily intervals, regardless of value.</li>
+				</ul>
+			</p>
+			<h2 id="carrier">Carrier selection criteria</h2>
+			<p>Carrier selection is driven by shipment weight, required service interval, origin, destination, and mode.  It is set up by transportation planning for use in order processing.</p>
+			<h2 id="combination">Combination</h2>
+			<p>The business requirement of the publisher and the customer requires many different sorts of combination.  Combination policy governs the type of order elements (orders, lines, etc.) that can be combined into various shipping elements (shipments, trucks, pallets, cartons, etc.).  In general if the publisher ships a customer freight absorbed, the publisher reserves the right to combine orders as much as possible to achieve processing and shipping economies.</p>
+			<ul>
+				<li>
+					<p>Combinations allowed/disallowed.  Because of various customer requirements, certain types of combination may be required:</p>
+					<table border="1px">
+						<tr>
+							<th>
+								<p>Customer Requirement</p>
+							</th>
+							<th>
+								<p>Combination implications</p>
+							</th>
+						</tr>
+						<tr>
+							<td>
+								<p>Predistribution</p>
+							</td>
+							<td>
+								<ul>
+									<li>Store lines cannot combine into a single carton</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p>Superstore opening</p>
+							</td>
+							<td>
+								<ul>
+									<li>Store lines cannot combine into a single carton </li>
+									<li>Category lines cannot combine into a single carton</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p>"Walden DC" receiving</p>
+							</td>
+							<td>
+								<ul>
+									<li>Multiple PO's cannot combine onto a single pallet</li>
+									<li>Less-than-pallet-load full cases must be on a single pallet</li>
+									<li>A less-than-trailer-load shipment must be in a single trailer</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p>"Borders" receiving</p>
+							</td>
+							<td>
+								<ul>
+									<li>Order types cannot combine into a single shipment</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<p>"General" receiving</p>
+							</td>
+							<td>
+								<ul>
+									<li>Multiple PO lines cannot combine into a single carton</li>
+									<li>Multiple PO's cannot combine into a single pallet</li>
+								</ul>
+							</td>
+						</tr>
+					</table>
+					<p>The publisher default is combination of multiple PO's into a single carton.</p>
+				</li>
+				<li>
+					<b>Combination interval</b>.  Each order will have an earliest and latest start date.  Orders may be combined if they have not been assigned to a wave and their intervals overlap.  Once combined, earliest and latest dates are recalculated to be the most restrictive (latest early date and earliest late date).  This will automatically adjust the combined orders priority for release to waves.</li>
+				<li>
+					<b>Timing of combination</b>.  Depending on the type of combination envisioned, and the infrastructure involved, physical combination can occur at several points in the process:
+		<ul>
+						<li>Prior to picking</li>
+						<li>Shipping consolidation</li>
+						<li>Post carrier pickup (by the carrier).  These can be viewed as two pieces of the same shipment.</li>
+					</ul>
+				</li>
+			</ul>
+			<p>Notes:  Load planning can also be viewed as a type of combination, but across customers to achieve economics of transportation.</p>
+			<h2 id="credit">Credit Limit</h2>
+			<p>Both static and dynamic credit limits are planned.<ul>
+					<li>Static limit.  Orders are held when open receivables exceed the static credit limit.  As always, a manual override is available to release held orders.</li>
+					<li>Dynamic limit.  A notice for credit review is generated when the sum of billed and unbilled receivable and projected return credits exceed the dynamic credit limit within the dynamic limit horizon.  This is used as a predictive, preventive measure to reduce the number of orders held for credit review and to provide a proactive task list for the credit department.</li>
+					<li>Dynamic credit limit horizon.  The dynamic credit limit horizon is the time period into the future that the billed and unbilled balance, credit and projected return credit is checked against the dynamic credit limit.  It is used so that credit risk is minimized with minimum effort, without unnecessarily holding up orders.</li>
+				</ul>
+			</p>
+			<h2 id="discount">Discount</h2>
+			<p>Base discount will be driven by product type and customer class.  Additional discount will be based on a number of factors:<ul>
+					<li>Handling criteria (carton quantity ordering)</li>
+					<li>Returns level</li>
+					<li>Depth of stock carried (customer specific)</li>
+					<li>Order size (minimum fee, see below)</li>
+					<li>Expedited processing fee (Quick Delivery)</li>
+					<li>etc.</li>
+				</ul>
+			</p>
+			<h2 id="freight">Freight terms</h2>
+			<h3>Payment (4 types)</h3>
+			<p>The publisher will support a number of different freight terms, depending on customer requirements:<ul>
+					<li>Freight absorbed.  Current policy.  Under this policy order combination will be used unless overridden in the customer master.</li>
+					<li>Freight prepay and add.  Freight cost will be added to the invoice.</li>
+					<li>Consignee bill.  Carrier will be selected by the either the customer or the publisher.  Although shipments will be dispatched by the publisher, the carrier will bill the customer.</li>
+					<li>Will call.  Carrier will be selected and dispatched by the customer.  Under these terms, however, the carrier must call the publisher for a pickup appointment.</li>
+				</ul>
+			</p>
+			<h3>FOB point</h3>
+			<p>Under freight absorbed and freight prepay and add, FOB point will be the point of delivery.  Under consignee bill and will call, FOB will be the publisher's shipping dock.</p>
+			<h2 id="mdq">Minimum Delivery Quantity</h2>
+			<p>The publisher does not have a minimum delivery quantity.  This means that backorders are filled as the capability exists without being held for combination.</p>
+			<h2 id="moq">Minimum Order Quantity</h2>
+			<p>Minimum Order Quantity policy consists of the type of orders which are checked for minimum, the minimum value or quantity, the action taken on below minimum orders, the period that minimums are held before cancellation, and the schedule with which minimums are released.	<ul>
+					<li>
+						<b>Type of orders checked</b>.   All orders will be checked for minimum.  This check will be performed against the cumulative value/quantity of items on an order scheduled for a single ship date, regardless of whether that title is temporarily out-of-stock.  If another order is received for the same destination while the minimum order is still active, and the customer allows combination, the combined order will be checked for minimum and processed appropriately.</li>
+					<li>
+						<b>Minimum value or quantity</b>. The publisher will utilize Minimum Order Quantity restrictions of $50 ($100 is proposed).  This restriction will be on the actual amount that passes the validation stage, i.e., excluding OSI, NOP OP, etc., not the manner in which we choose to ship it.  It is not a Minimum Delivery Quantity.</li>
+					<li>
+						<b>Action taken on below minimum orders</b>. Orders below minimum will have either of the following three resolutions apply:<ol>
+							<li>The order will backorder until it either cancels (see backorder handling) or reaches the minimum through combination.</li>
+							<li>The order will cancel after the hold period specified by the customer.</li>
+							<li>The order will incur incremental charges or fees.<ul>
+									<li>Different discounts</li>
+									<li>Freight charges</li>
+									<li>Handling fees</li>
+								</ul>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<b>Schedule with which minimums are released</b>.  This governs the frequency with which minimum hold orders that have achieved minimum are released.  The publisher default policy will be that orders are released as they achieve minimum.</li>
+				</ul>
+			</p>
+			<h2 id="mode">Mode selection criteria</h2>
+			<p>Mode selection is table driven based on shipment weight, required service interval, origin, and destination, and is determined by transportation planning.</p>
+			<h2 id="partial">Partial ship/split ship criteria (order, line)</h2>
+			<p>The partial ship policy governs order processing when either complete orders or complete lines cannot be shipped at the same time.  It can be set by customer and product format and consists of the following elements:<ul>
+					<li>
+						<b>Order ship complete</b>. This determines if an order must ship complete.  If this option is selected, the entire order will either be held, or canceled depending on selections below.  The publisher default for this will be no.</li>
+					<li>
+						<b>Line ship complete</b>.  This determines if a line must ship complete.  If this option is selected, the entire quantity of the particular title will either be held, or canceled depending on selections below.  The publisher default for this will be no.</li>
+					<li>
+						<b>Number of partials allowed</b>.  The customer can establish a maximum number of shipments to fulfill an order.  The publisher default for this will be no limit.</li>
+					<li>
+						<b>Action taken on unfulfilled partial lines</b>. The unfulfilled portion of a partial order can be either backordered or canceled, depending on the customer requirements.  The publisher default for this will be backorder.  For further details on backorders, see the backorder policy</li>
+					<li>
+						<b>Minimum partial shipment</b>.  In the event of a split shipment, it should be possible to specify the minimum size of each partial.  If below the partial shipment minimum, the shipment should hold or cancel, depending on policy.</li>
+				</ul>
+			</p>
+			<h2 id="terms">Payment terms</h2>
+			<p>Payment terms consist of discount amount and expiration date, net due date and finance charges.	<ul>
+					<li>
+						<b>Discount amount</b>.  Discount amount is the percentage discount applied for early payment.  Publisher policy is net due.</li>
+					<li>
+						<b>Discount expiration date</b>.  Discount expiration date is not relevant since the publisher does not discount for early payment</li>
+					<li>
+						<b>Due date</b>.  The publisher's net due date is dependent on customer class.</li>
+					<li>
+						<b>Finance charge</b>.  Finance charges apply to past due amounts.  The publisher's default is no finance charge.</li>
+				</ul>
+			</p>
+			<h2 id="pricing">Pricing</h2>
+			<h3>Pricing mechanism</h3>
+			<ul>
+				<li>Cover price less discount or plus markup, specified on either a dollar or percent basis.</li>
+				<li>Unit (manufacturing cost/standard cost/arbitrary price) pricing price less discount or plus markup, specified on either a dollar or percent basis.</li>
+			</ul>
+			<h3>Discount basis</h3>
+			<ul>
+				<li>Order size</li>
+				<li>Customer, Customer class</li>
+				<li>Format</li>
+				<li>Product, product type</li>
+			</ul>
+			<h3>Handling factors</h3>
+			<ul>
+				<li>Quantity breaks</li>
+			</ul>
+			<h3>Pricing elements</h3>
+			<ul>
+				<li>Base price (cover, negotiated, cost)</li>
+				<li>Discount/markup, specified on either a dollar or percent basis.</li>
+				<li>Discount basis</li>
+				<li>Taxes (state; GST/PST; local; foreign; premium and cash sales)</li>
+				<li>Handling/freight</li>
+			</ul>
+			<h2 id="promotions">Promotions</h2>
+			<p>Promotions are differential pricing, terms, etc. applied in addition to normal terms of sale, usually to induce some sort of incremental buying behavior.  They consist of the following elements:<ul>
+					<li>Promotion type.  Promotions can be of several sorts including, percentage discount, value discount, payment terms, free product, etc.</li>
+					<li>Promotion basis.  The basis for promotions can be one time or cumulative purchases over a period based on unit quantities, dollar quantities, etc.</li>
+					<li>Level at which promotion is applied.  Promotions can be applied at the line, the order, or at a period's purchases level.</li>
+					<li>Promotion eligibility.  Eligibility for promotions can be at the customer, customer class, product and product class level, or any combination of the above.</li>
+				</ul>
+			</p>
+			<h2 id="reservation">Reservation horizon</h2>
+			<p>The reservation horizon is the time at which inventory is "soft" reserved for orders.  For the publisher this will be set at the replenishment lead time.  Hard, i.e., non-reversible reservation, is applied when paperwork is generated for picking.</p>
+			<h2 id="rounding">Rounding</h2>
+			<p>Rounding is used either at customer request or to implement publisher policy on less-than-case shipping.  It may be selected at the customer, customer class, product, product type or order type level or any combination.  the publisher's policy is to round for all initial or quick delivery orders from distributors. </p>
+			<p>Rounding can also take place at the pallet or even at the TL/CL level.  These situations are rare.</p>
+			<h3>Rules</h3>
+			<ul>
+				<li>Rounding can be done either up or down</li>
+				<li>Round up if the quantity ordered is less than a specified percent of total units, else round down</li>
+				<li>Rounding maximum, either up or down</li>
+				<li>Rounding minimum: either up or down</li>
+				<li>Round to the nearest carton, pallet, etc.</li>
+			</ul>
+			<h3>Conditions</h3>
+			<ul>
+				<li>Customer class and customer</li>
+				<li>Product format, group/type</li>
+			</ul>
+			<h2 id="sourcing">Sourcing</h2>
+			<p>Sourcing policy governs the locations from which orders are fulfilled.  The warehouse is the publisher's standard source, although it is likely that we will develop criteria governing direct shipment from printers.  The publisher's default will be direct ship only when a truckload quantity can be generated without backlist titles or displays requiring special construction. </p>
+			<p>Sourcing against inbound stock, or stock at the printers is important to allow for both direct shipping and cross-docking when economically feasible.  ASNs and schedule status from printers allows sourcing against inventory that is not physically present in the warehouse</p>
+			<h2 id="substitution">Substitution</h2>
+			<p>Substitution chains are developed to reflect pre-established sku-by-sku substitutions allowed.  This capability is used to support coordination of price, edition, and carton quantity changes, and to handle out-of-stock and other conditions.  Substitution is governed by the following issues:<ul>
+					<li>Customers/order types affected.  Substitution can be allowed/disallowed at the product, product category, customer, customer class, or order type level.  </li>
+					<li>Mandatory or conditional.  Substitution can be either mandatory at a certain date or conditional,</li>
+					<li>Conditions driving substitution.  If substitution is conditional, the conditions requiring substitution must be defined.  Conditions may be based on stock level, i.e. out of stock, existence of a temporary edition, existence of an edition targeted at a specific customer class or geography, etc.  Conditions may also require that a substitution apply for the entire order, that is, that a line may not be split across multiple skus within the same substitution chain.</li>
+					<li>Substitution chains.  Substitution chains govern the definition of which sku can be substituted for which other skus.</li>
+					<li>Substitution effective dates.  Each substitution has an effective date.  These dates are primarily used to govern planned price, carton quantity and edition changes. </li>
+				</ul>
+			</p>
+			<p>The publisher's substitution rules require that:<ul>
+					<li>Orders by Canadian customers for a U.S. edition for which a Canadian edition exists, be substituted back to the Canadian edition.</li>
+					<li>In stockout situations, a higher price point title may be substituted as long a split price shipment isn't created.</li>
+				</ul>
+			</p>
+			<h1 id="#issues">Issues</h1>
+			<ol>
+				<li>
+					<p>Hot title definition<ul>
+							<li>Who defines hot titles?  What are the criteria?  What processing is required that is different from other titles?</li>
+						</ul>
+					</p>
+				</li>
+				<li>
+					<p>Price change, edition and carton quantity coordination, OSI/OP notification<ul>
+							<li>How will this be accomplished so that customers cannot order the wrong items?</li>
+						</ul>
+					</p>
+				</li>
+				<li>
+					<p>Returns write-off accounting<ul>
+							<li>Returns credit variances may be written off either to either corporate GL accounts, or may be applied to individual titles, either directly or through allocation.  Which method will be used by The publisher in the future?</li>
+						</ul>
+					</p>
+				</li>
+				<li>
+					<p>No special prepacks<ul>
+							<li>What are the criteria under which a prepack is justified?  What accounting is performed?</li>
+						</ul>
+					</p>
+				</li>
+				<li>
+					<p>Are returns efforts worth it?<ul>
+							<li>Is the extra processing required in returns management worth the increased visibility into workload, the ability to expedite urgently needed stock, shortening of the return processing (to stock) and credit memo cycles, and accelerated credit reconciliation?</li>
+						</ul>
+					</p>
+				</li>
+				<li>
+					<p>Scheduling<ul>
+							<li>Does scheduling handle periodic shipping as described?</li>
+							<li>Is logic entirely complete?</li>
+						</ul>
+					</p>
+				</li>
+			</ol>
+		</div>
+		<div class="footer">
+			<p class="navline">
+				<b>
+					<a href="http://www.treadwellmedia.com/" class="sn">HOME</a>
+				</b> | <b>
+					<a href="/Capabilities/index.htm" class="sn">CAPABILITIES</a>
+				</b> | <b>
+					<a href="/Cases/index.htm" class="sn">PROJECTS</a>
+				</b> | <b>
+					<a href="/Articles/index.htm" class="sn">ARTICLES</a>
+				</b> | <b>
+					<a href="/Resources/index.htm" class="sn">RESOURCES</a>
+				</b> | 
+            			<b>
+					<a href="/Taxonomy/index.htm" class="sn">TAXONOMY</a>
+				</b> |
+				<b>
+					<a href="mailto:info@treadwellmedia.com" class="sn">CONTACT</a>
+				</b>
+			</p>
+			<p class="footercr">Copyright 2007 Treadwell Media Group</p>
+		</div>
+	</body>
+</html>

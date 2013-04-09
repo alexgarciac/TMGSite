@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+   <concept id="Functions">
+      <preferredLabel>Functions</preferredLabel>
+      <definition>The major activities of a publishing concern.</definition>
+      <concept id="Strategy">
+         <preferredLabel>Strategy</preferredLabel>
+         <definition>That function of publishing that determines positioning of the publishing concern relative to the market, customers and competitors and ensures correct allocation of resources to achieve the business objectives.</definition>
+      </concept>
+      <concept id="Finance">
+         <preferredLabel>Finance</preferredLabel>
+         <definition>Those functions of publishing that ensure the existence of sufficient cash to allow publishing operations.</definition>
+      </concept>
+      <concept id="Editorial">
+         <preferredLabel>Editorial</preferredLabel>
+         <definition>Those stages of the publishing process between identification of the need for a particular publication through completion of the content prior to production.</definition>
+      </concept>
+      <concept id="Sales_Marketing">
+         <preferredLabel>Sales &amp; Marketing</preferredLabel>
+         <definition>Creation of demand for content through receipt of an actual order.</definition>
+      </concept>
+      <concept id="Distribution">
+         <preferredLabel>Distribution</preferredLabel>
+         <definition>The movement of content in finished form from publisher warehouses or servers to the ultimate consumer.</definition>
+         <concept id="Physical_Distribution">
+            <preferredLabel>Physical Distribution</preferredLabel>
+            <definition>The stages of the physical supply chain including printing, order processing, warehousing and transportation.</definition>
+         </concept>
+      </concept>
+      <concept id="Rights_Management">
+         <preferredLabel>Rights Management</preferredLabel>
+         <definition>That function of publishing responsible for managing rights acquired from and licensed to third parties.</definition>
+      </concept>
+      <concept id="Production">
+         <preferredLabel>Production</preferredLabel>
+         <definition>The stages of the publishing process from essential completion of the editorial content through initial publication.</definition>
+         <concept id="Composition">
+            <preferredLabel>Composition Vendors</preferredLabel>
+            <definition>Composition vendors transform marked up manuscripts into pages ready for printing according to publisher designs using such tools as Quark, InDesign, XPP, APP and XSL:FO formatters.</definition>
+         </concept>
+         <concept id="Conversion">
+            <preferredLabel>Conversion Houses</preferredLabel>
+            <definition>Companies that assist in the conversion of books from print formats to digital formats.</definition>
+         </concept>
+      </concept>
+   </concept>
+   <concept id="Formats">
+      <preferredLabel>Formats</preferredLabel>
+      <definition>The manifestation in which a piece of content is published.</definition>
+      <concept id="Print">
+         <preferredLabel>Print Formats</preferredLabel>
+         <definition>Books and content published in ink on paper formats</definition>
+      </concept>
+      <concept id="Digital">
+         <preferredLabel>Digital Formats</preferredLabel>
+         <definition>Books and content published in electronic formats for use either online or offline.</definition>
+         <concept id="eBooks">
+            <preferredLabel>eBooks</preferredLabel>
+            <definition>Books sold in digital format for consumption either online or offline. These editions may either consist of substantially the same content as the print edition or contain multimedia or interactive elements that extend substantially beyond the print edition.</definition>
+            <concept id="eBook_Device">
+               <preferredLabel>eBook Devices</preferredLabel>
+               <definition>Dedicated reading devices. These devices are specifically designed for reading books and perform only limited other functions.</definition>
+            </concept>
+            <concept id="eBook_Software">
+               <preferredLabel>eBook Reading Software</preferredLabel>
+               <definition>Software for reading books.  This software runs on general purpose machines such as PCs, PDAs or smartphones.</definition>
+            </concept>
+         </concept>
+      </concept>
+   </concept>
+   <concept id="Standards">
+      <preferredLabel>Standards Bodies</preferredLabel>
+      <definition>Organizations that develop standards for use in the publishing industry.</definition>
+   </concept>
+   <concept id="Book_Fairs">
+      <preferredLabel>Book Fairs</preferredLabel>
+      <definition>Where the industry gets together to buy rights, books and do deals</definition>
+   </concept>
+   <concept id="Consultants">
+      <preferredLabel>Consultants</preferredLabel>
+      <definition>Individuals or companies that assist publishers, wholesalers or others in the publishing industry solve particular problems of a strategic or operational nature.</definition>
+   </concept>
+   <concept id="Supply_Chain">
+      <preferredLabel>Supply Chain</preferredLabel>
+      <definition>The publishing supply chain encompasses the stages of physical, digital and rights distribution from author to reader.</definition>
+      <concept id="Distributor">
+         <preferredLabel>Distributors</preferredLabel>
+         <definition> Business entities that form exclusive arrangements with either specific publishers or particular channels of distribution in order to increase the effectiveness of publishers in reaching that market.</definition>
+      </concept>
+      <concept id="Wholesale">
+         <preferredLabel>Wholesalers</preferredLabel>
+         <definition>Business entities that buy books from publishers and distributors and sell to retailers.</definition>
+      </concept>
+      <concept id="Retail">
+         <preferredLabel>Retailers</preferredLabel>
+         <definition>Business entities that sell primarily to consumers.</definition>
+         <concept id="eBooks_Retailer">
+            <preferredLabel>eBook Retailers</preferredLabel>
+            <definition>Book retailers that are primarly focused on selling eBooks to consumers.</definition>
+         </concept>
+      </concept>
+      <concept id="Custom_Publishing">
+         <preferredLabel>Custom Publishing</preferredLabel>
+         <definition>The recombination of content on-the-fly in response to a customer request. This content can be delivered either in physical format via POD or other printing technology, or in digital format.</definition>
+      </concept>
+      <concept id="POD">
+         <preferredLabel>Print-on-Demand</preferredLabel>
+         <definition>Digital printing used in book publishing for short print runs (as low as runs of a single unit). POD printing is used for pre-publication of galleys, for life-of-print printing where traditional prining would be excessively expensive, or end-of-life titles where demand is low and the cost of carrying inventory isn't justified.</definition>
+      </concept>
+      <concept id="DAD">
+         <preferredLabel>Digital Asset Distributors</preferredLabel>
+         <definition>Companies that maintain digital files of publisher titles and distribute them both to consumers and to other publisher-designated channels. These companies are cost-efffective alternatives for publishers that would like to avoid a substantial investment in Digital Asset management systems and digitization programs.</definition>
+      </concept>
+   </concept>
+   <concept id="Technology">
+      <preferredLabel>Technology</preferredLabel>
+      <definition>Tools and systems used to manipulate information used in publishing content.</definition>
+      <concept id="POD">
+         <preferredLabel>Print-on-Demand</preferredLabel>
+         <definition>Digital printing used in book publishing for short print runs (as low as runs of a single unit). POD printing is used for pre-publication of galleys, for life-of-print printing where traditional prining would be excessively expensive, or end-of-life titles where demand is low and the cost of carrying inventory isn't justified.</definition>
+      </concept>
+      <concept id="DOI">
+         <preferredLabel>Digital Object Identifier (DOI)</preferredLabel>
+         <definition>The DOI is an identifier applied to items (physical or otherwise) to increase their findability on the web.</definition>
+      </concept>
+      <concept id="XML">
+         <preferredLabel>XML</preferredLabel>
+         <definition>e(X)tensible (M)arkup (L)anguage is used to decrease cost of production and increase the ability to re-use content for multiple formats or multiple editions.</definition>
+      </concept>
+   </concept>
+   <concept id="Sectors">
+      <preferredLabel>Sectors</preferredLabel>
+      <definition>The major types of publishing distinguished by the types of customers and uses to which they put information published.</definition>
+      <concept id="Trade">
+         <preferredLabel>Trade</preferredLabel>
+         <definition>That sector of publishing focused primarily on consumers. </definition>
+      </concept>
+      <concept id="Higher_Ed">
+         <preferredLabel>Higher Ed</preferredLabel>
+         <definition>That sector of publishing focused primarily on providing content to institutions of higher learning for use in classrooms.</definition>
+      </concept>
+      <concept id="Professional">
+         <preferredLabel>Professional</preferredLabel>
+         <definition>That sector of publishing focused on providing information to professionals for use in pursuit of their professional duties.</definition>
+      </concept>
+      <concept id="Academic">
+         <preferredLabel>Academic</preferredLabel>
+         <definition>That sector of publishing focused on publishing material, generally monographs, of interest to academics. This sector is primarly, though not exclusively, the domain of University Presses.</definition>
+      </concept>
+      <concept id="K12">
+         <preferredLabel>K12</preferredLabel>
+         <definition>That sector of publishing focused on providing content to pre-elementary, elementary, and secondary schools for use in the classroom.</definition>
+      </concept>
+   </concept>
+</document>

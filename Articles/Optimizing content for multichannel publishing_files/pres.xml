@@ -1,0 +1,73 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint">
+ <p:presentation notessizey="5856">
+  <p:master id="12" type="main" href="master12.htm" xmlhref="master12.xml"
+   template="PDI Color" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#8453FF,#FFFFFF,#050014,#FAFD00,#DC0081,#00DFCA,#F57B49,#B192FF"/>
+    <p:colorscheme
+     colors="#C0C0FF,#000000,#8080FF,#0000FF,#E000E0,#00FF00,#FF0000,#4040FF"/>
+    <p:colorscheme
+     colors="#FFFFFF,#000000,#232323,#000000,#474747,#DADADA,#000000,#919191"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="13" type="title" href="master13.htm" xmlhref="master13.xml"
+   layout="title_subtitle"
+   slots="centerTitle,subTitle,dateTime,footer,slideNumber"/>
+  <p:master id="1" type="notes" href="master01.htm" layout="notes"
+   slots="header,dateTime,slideImage,body,footer,slideNumber"/>
+  <p:master id="2" type="handout" href="master02.htm" layout="handout"
+   slots="header,dateTime,footer,slideNumber"/>
+  <p:slide id="1" href="slide0001.htm" masterhref="master13.htm"
+   layout="title_subtitle" slots="centerTitle,subTitle"/>
+  <p:slide id="87" href="slide0087.htm" layout="title_only" slots="title"/>
+  <p:slide id="88" href="slide0088.htm" layout="title_only" slots="title"/>
+  <p:slide id="79" href="slide0079.htm" layout="title_only" slots="title"/>
+  <p:slide id="74" href="slide0074.htm" layout="title_only" slots="title"/>
+  <p:slide id="90" href="slide0090.htm" xmlhref="slide0090.xml"
+   layout="title_only" slots="title"/>
+  <p:slide id="54" href="slide0054.htm" xmlhref="slide0054.xml"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="80" href="slide0080.htm" layout="title_only" slots="title"/>
+  <p:slide id="81" href="slide0081.htm" layout="title_only" slots="title"/>
+  <p:slide id="89" href="slide0089.htm" layout="title_only" slots="title"/>
+  <p:slide id="82" href="slide0082.htm" layout="title_only" slots="title"/>
+  <p:slide id="83" href="slide0083.htm" layout="title_only" slots="title"/>
+  <p:slide id="84" href="slide0084.htm" layout="title_only" slots="title"/>
+  <p:slide id="85" href="slide0085.htm" layout="title_only" slots="title"/>
+  <p:slide id="86" href="slide0086.htm" layout="title_body" slots="title,body"
+   collapseoutline="t"/>
+  <p:slide id="49" href="slide0049.htm" masterhref="master13.htm"
+   layout="title_subtitle" slots="centerTitle,subTitle"/>
+  <p:viewstate type="slideView" slidehref="slide0082.htm" scale="66"
+   outlineformatting="t" outlinescale="50" notestextformatting="t"
+   restoredleft="283" restoredtop="873" vertbarstate="0" horizbarstate="2"
+   manualadjustleft="t" manualadjusttop="t"/>
+  <p:guide type="horizontal" position="1104"/>
+  <p:guide type="vertical" position="144"/>
+  <p:font name="Times New Roman" charset="0" type="6" family="18"/>
+  <p:font name="Tahoma" charset="0" type="6" family="34"/>
+  <p:font name="Monotype Sorts" charset="2" type="4" family="2"/>
+  <p:font name="Wingdings" charset="2" type="6" family="2"/>
+  <p:font name="Book Antiqua" charset="0" type="6" family="18"/>
+  <p:font name="Arial" charset="0" type="6" family="34"/>
+  <p:font name="Garamond" charset="0" type="6" family="18"/>
+  <p:headersfooters noheader="t"/>
+  <p:headersfooters notes="t" slidenumber="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"/>
+  <p:htmlpublishsettings browsersupport="dual"
+   href="D:\AREAS\Publishing Dimensions\Sales &amp; Marketing\Web site test material\Powerpoint to HTML\Optimizing content for multichannel publishing.htm"
+   hidespeakernote="t" noloadinbrowser="t"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="205826" fill="f" stroke="f"
+  strokecolor="none [2]">
+  <v:fill on="f"/>
+  <v:stroke startarrowwidth="narrow" startarrowlength="short" endarrowwidth="narrow"
+   endarrowlength="short" color="none [2]" color2="none [0]" on="f"/>
+  <v:shadow obscured="t" offset="6pt,6pt"/>
+  <o:colormru v:ext="edit" colors="#009,#c70fc3"/>
+  <o:colormenu v:ext="edit" shadowcolor="none" extrusioncolor="none"/>
+ </o:shapedefaults></xml>

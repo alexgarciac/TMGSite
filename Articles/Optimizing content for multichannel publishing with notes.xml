@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-702">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Acrobat Distiller 7.0.5 (Windows)</pdf:Producer>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/">
+         <xap:CreatorTool>PScript5.dll Version 5.2.2</xap:CreatorTool>
+         <xap:ModifyDate>2007-08-23T17:40:02-04:00</xap:ModifyDate>
+         <xap:CreateDate>2007-08-23T17:40:02-04:00</xap:CreateDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Microsoft PowerPoint - Optimizing content for multichannel publishing with notes.ppt</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>kbrooks</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xapMM:DocumentID>uuid:160f0f51-047b-4ccc-9980-1fc9658b9c1a</xapMM:DocumentID>
+         <xapMM:InstanceID>uuid:4a953d3e-2ab1-494d-bab0-d910c11aa858</xapMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_0.jpg"/>
+Optimizing Content for Multi-Channel Publishing July 24, 2001 Ken Brooks, President Publishing Dimensions kbrooks@pubdimensions.com </Figure>
+
+<P>Good morning. My name is Ken Brooks.  I’m President of Publishing Dimensions -formerly VP of Digital Content at Barnes &amp; Noble, Inc. Publishing Dimensions provides innovative solutions to assist publishers in generating revenue through evolving digital content and rights channels.  This usually involves conversion of pBooks, PDFs or Quark files into eBooks and setting them up at Peanut Press or LSI, but recently it’s more and more involved with XML:  using OEB, ONIX, XrML and other forms of XML in production and distribution. </P>
+
+<P>Subject: So that’s what I’m going to address today: XML as it is in use in publishing, particularly book publishing, today. </P>
+
+<P>Importance:  I think you’ll see that XML offers a pretty significant opportunity for revenue enhancement and cost savings in most aspects of your business. </P>
+
+<P>Preview: </P>
+
+<L>
+<LI>
+<LI_Label>1.	</LI_Label>
+
+<LI_Title>I’m first going to discuss some trends I’m seeing in publishing that are leading toward adoption of XML </LI_Title>
+</LI>
+
+<LI>
+<LI_Label>2.	</LI_Label>
+
+<LI_Title>I’ll then talk about its use in content and metadata and wrap up with a discussion of areas to watch </LI_Title>
+</LI>
+
+<LI>
+<LI_Label>3.	</LI_Label>
+
+<LI_Title>Katriel Reichman from LiveLinx will then go into live examples of how XML actually works in these applications </LI_Title>
+</LI>
+</L>
+
+<P>Transition: There are a number of trends in publishing that are driving adoption of XML – overall publishing is getting more difficult. </P>
+
+<P>Revenue opportunities: Platforms and formats </P>
+
+<Table>
+<TR>
+<TH>Channels </TH>
+
+<TH>Platforms </TH>
+</TR>
+
+<TR>
+<TH>On-line </TH>
+
+<TD> Books24x7  netLibrary </TD>
+
+<TD> Browser – proprietary and otherwise </TD>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> Questia </TD>
+
+<TD/>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> eBrary </TD>
+
+<TD/>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> YourNews </TD>
+
+<TD/>
+</TR>
+
+<TR>
+<TH>Off-line </TH>
+
+<TD> Palm Digital Media </TD>
+
+<TD> PalmOS, PocketPC PDA </TD>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> Gemstar </TD>
+
+<TD> ReB 1100, 1200 </TD>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> Franklin </TD>
+
+<TD> eBookman </TD>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> bn.com </TD>
+
+<TD> AER, MSR, ReB 1100 </TD>
+</TR>
+
+<TR>
+<TH>Print-on-Demand </TH>
+
+<TD> Lightning Source  Replica Books </TD>
+
+<TD> Digital Print PDF, TIFF, PostScript </TD>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> Anthony Rowe </TD>
+
+<TD/>
+</TR>
+
+<TR>
+<TH/>
+
+<TD> Gardners </TD>
+
+<TD/>
+</TR>
+
+<TR>
+<TH>Copyright ©2001 Publishing Dimensions, LLC </TH>
+
+<TD/>
+
+<TD/>
+</TR>
+</Table>
+
+<P>Reading platforms consist of combinations of hardware, operating system and reader applications.  An example of a platform would be the a Windows PC running Acrobat, Glassbook or the Microsoft reader (that’s 3 separate platforms) or a PocketPC PDA running either the Microsoft Reader or the Peanut Press Reader. A final example before we move on would be the Gemstar platform consisting of device and reading application or Franklin eBookman also running its own application. </P>
+
+<P>Transition: Naturally with the constant changing of the channels and platforms comes a great deal of format instability </P>
+
+<P>Format churn is endemic </P>
+
+<Table>
+<TR>
+<TH>Format Family </TH>
+
+<TH/>
+
+<TH>Variant </TH>
+</TR>
+
+<TR>
+<TH> </TH>
+
+<TD>XML-based </TD>
+
+<TD>        </TD>
+
+<TD>DocBook, DocBook Lite TEI, TEI Lite OEB, RHI Public Implementation OEB, netLibrary spec Gemstar (RB, SB, ReB 1100, 1200) MSR (.LIT) Palm Digital Media (PML) MobiPocket </TD>
+</TR>
+
+<TR>
+<TH> </TH>
+
+<TD>PDF </TD>
+
+<TD>   </TD>
+
+<TD>AER optimized Standard PDF POD PDF </TD>
+</TR>
+
+<TR>
+<TH>Copyright ©2001 Publishing Dimensions, LLC </TH>
+
+<TD/>
+
+<TD/>
+</TR>
+</Table>
+
+<P>Transition: This leads to a necessity of re-using / reformatting content a lot Transition: XML is really the key to get there </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_1.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC A comprehensive transformation process is needed Digitization Customer Interface &amp; Transaction Process Content Formats &amp; Channels Metadata Catalogs Content and Metadata Transform Rights Exchanges Distribution Palm bn.com Gemstar Adobe R.R. Bowker Ingram Baker &amp; Taylor bn.com RightsCenter.com Frankfurt Publisher Interface &amp; Transaction ProcessContent Marketing Information Rights Information Text Electronic Pages Paper Bibliographic data Image databases Electronic copy Paper Contracts 3x5 cards Databases </Figure>
+
+<Table>
+<TR>
+<TH>Text </TH>
+
+<TH>Straight text </TH>
+
+<TH>ASCII </TH>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Structured </TD>
+
+<TD>HTML, XML, OEB </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Styled (formatted) </TD>
+
+<TD>RTF, Word, WordPerfect, typesetting (3B2, etc.) </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Structured and styled </TD>
+
+<TD>XML w/CSS, HTML w/CSS, SGML </TD>
+</TR>
+
+<TR>
+<TD>Elect. Pages </TD>
+
+<TD>Application files </TD>
+
+<TD>Quark, InDesign, PageMaker, Frame, </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Ventura, LaTex </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>PDF </TD>
+</TR>
+
+<TR>
+<TD>Fixed Pages </TD>
+
+<TD>Hardcopy </TD>
+
+<TD>Books, </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Scan </TD>
+
+<TD>TIFF, PDF-Image </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Other </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD>Microfilm, printing film, etc. </TD>
+</TR>
+</Table>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_2.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC XML addresses the output side of the problem Web Print eBooks Phones, Pagers Semantic Markup Presentation Markup Rendering Transformation Technologies Content Repository (XML) XSLT HTML W/CSS PDF OEB, PDF WAP, WML </Figure>
+
+<P>I’m going to leave the conversion to XML (digitization) aside for the moment.  That’s something that </P>
+
+<P>Publishing Dimensions and others handle every day Rather, let’s focus on what happens once the content and metadata is in some sort of XML.  The fact is that once you have your content and metadata expressed in a rich markup, it’s relatively easy to move it into other formats – including other dialects of XML </P>
+
+<P>Introduce XSL </P>
+
+<P>Tools are more prevalent, some being not terribly expensive and quite useful – primarily I’m talking </P>
+
+<P>about XMLSpy which is available under $200 per copy Many publishers are beginning to adopt XML for a variety of applications – both archival and presentation. Higher ed and STM publishers have used XML (or SGML) for a long time to archive their materials.  Trade publishers are really just now getting into it with OEB. </P>
+
+<P>Finally, nothing proves the point better than the number of applications that are out there in actual use.  XML is becoming a serious transaction management standard to rival EDI – witness Microsoft BizTalk.  OEB and other XML DTDs, along with XSL, are being used at many publishers to generate multiple title formats, and a newer standard, ONIX, is being used to govern the exchange of title metadata between publishers and their retailers. </P>
+
+<P>Transition: So now we’ve seen that XML offers a solution, let’s get into some more detail on XML as it is used in content markup.  The first thing to realize is that books are really 3 separate things rolled together. </P>
+
+<P>A generic print book production process… </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_3.jpg"/>
+Page Design Compose Film Prep Text Print BindCopy Edit Interior Art Interior Color Sep’n Cover/Jkt Design Color Sep, Film Prep Cover/Jkt Plates Cover/Jkt Print Procure MS 1st Pass Review 2nd Pass 3rd Pass (misc pgs) Blues Plates </Figure>
+
+<P>Copyright ©2001 Publishing Dimensions, LLC </P>
+
+<P>Production processes begin to look different </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_4.jpg"/>
+XML Repository Structure Author Re-Purpose Design Compose / Render Print 0n Demand eBooks On-line Content Structure Design </Figure>
+
+<P>Copyright ©2001 Publishing Dimensions, LLC </P>
+
+<P>The key is to realize that you have three separate elements to contend with:  content, structure and design. Each of these have processes associated with them. These are also offset in time from each other.  Structuring usually starts first as the author and editor work out the outline.  Then comes content development and finally design. </P>
+
+<P>Re-purposing cuts across each component and involves extraction of each of the three elements.  This is the role of the many conversion vendors out there, including Publishing Dimensions, that specialize in such processes. </P>
+
+<P>These development processes flow into three “virtual” databases – probably contained within the same document management system.  To get final output the content then comes together with format-specific designs, usually contained in XSL and CSS stylesheets, in a composition/rendering process. </P>
+
+<P>At a high level these feed the three major branches of ePublishing:  print-on-demand, eBooks, and on-line access. There’s clearly much more to this than this high-level diagram, but it’s a good way to think of the overall process. </P>
+
+<P>Transition: Let’s now move into metadata.  The key pieces are marketing metadata to populate industry catalogs and rights metadata to inform both rights sales and DRM solutions. </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_5.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC Conversion of archived PDFs to PDF eBook formats is straightforward… -PDF-eBooks PDF OptimizePDF • Crop to trim size • Distill • Insert cover image • Insert page numbers • Link TOC, etc. • Insure readability </Figure>
+
+<P>I’m illustrating this process with this very straightforward, indeed boring, flow chart.  You start with an archived, high-resolution PDF generally with crop marks and possibly split into chapters or forms.  You put them all together with Acrobat or one of its plug-ins, then optimize the PDF by cropping to final trim, distilling using the eBook settings suggested by Adobe, setting page numbers and linking the Table of Contents. All of this is done in Acrobat.  You can also generate bookmarks, thumbnails and the like within Acrobat, as well. You then attach a cover image to the title – created very easily in Photoshop – and you’re done! </P>
+
+<P>As reflowable PDF-based eBooks become popular, I imagine that we’ll probably add some more tagging in here, but the accessibility tools offered through Acrobat 5.0 look likely to provide some help there. </P>
+
+<P>Transition: If you’re starting with files in InDesign, PageMaker or Quark the process is only slightly more complex… </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_6.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC …and from page makeup files to PDF-based eBooks only slightly more complex… -PDF-eBooks PDF OptimizePDF Quark, etc. </Figure>
+
+<P>It requires only that you “print” the PDFs first – something that’s becoming quite natural for anyone to do.  You just have to make sure that you have *all* of the files before you begin.  Preflighting software helps a great deal with this. </P>
+
+<P>Transition: I’m about to make the leap into preparing OEB-based eBooks, but before I do I’d like to introduce you to a key concept that most folks readily appreciate even if they weren’t aware of it explicitly:  from a content and design perspective books consist of 3 main elements… </P>
+
+<P>Aside: A book consists of three classes of elements </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_7.jpg"/>
+Tagged “chunks” DTDs Title-specific BOMs Structure Master pages Styles Type specs. Content &lt;p&gt;To be or not to be, that is the question. Whether ’tis nobler ...&lt;/p&gt; Design </Figure>
+
+<P>Copyright ©2001 Publishing Dimensions, LLC </P>
+
+<P>Content – semantic and  syntactically tagged. </P>
+
+<P>Structure – DTDs at the highest level or specific BOMs at the title level. The components that a particular title is made up of – which might not even exist until call for (configuration-on-the-fly) </P>
+
+<P>All must be tied together with a common tag set – the structure of a book </P>
+
+<P>Transition: Let’s look in greater detail at content tagging </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_8.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC …and to XML-based eBooks also relatively straightforward. -PDF-eBooks Transcode -OEB-eBooks PDFQuark, etc. OptimizePDF Extract Content, etc. • Generate format-specific tags • Style to match original • Insure readability &amp; design • Capture/regenerate text • Maintain text • De-hyphenate • Maintain structure • Paragraphs • Space breaks • Chapters • Capture design </Figure>
+
+<P>The main trick in converting PDFs to OEB-based eBooks is the extraction of the content, design and structure from the PDF. Remember you’re extracting content, structure and design so as to match the final output as closely as possible to the original.  There aren’t very many good tools for this, although the accessibility plug-ins for Acrobat 5.0 are starting to get there.  Texterity is making some progress here as are others out there, but this process still requires manual intervention.  The main issues that I’ve seen are removing hyphens, dealing with strange fonts and undoing all of the tricks that designers used to make an attractive page.  Also there are some books that defy creation of OEB representations just due to their sheer complexity – there are many textbooks like this.  Coming out of this extraction process you’ll end up with XML – usually OEB, and some sort of style sheet. </P>
+
+<P>The next stage of the process is something I call “transcoding” mostly because I like the sound of the word.  This is where you generate all of the different output formats and style them so that they look as close to the original as possible. These days if you store your intermediate format as some sort of XML, you’ll likely use some sort of XSLT translations of the style sheets derived in the previous step.  Coming out of this step you’ll end up with the various formats that will display on the readers. </P>
+
+<P>From all of this I’d like you to remember these two forks of the process – one to PDF eBooks and the other to OEB eBooks. BTW, the PDF editions can also be used for POD, although you would more than likely use different settings in distilling the archive formats. </P>
+
+<P>Transition: So where’s the staging here? For that we need to look at repositories. </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_9.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC Hardcopy conversion to POD is alsostraightforward… Scan /ImageEdit PODHard Copy Compose Image • Place in standard template • Adjust pagination • Generate PDF / postscript • Scan text • Despeckle • Deskew • Edit text • Copyright page • Scan cover • Color correct • Edit cover • Adjust spine • Edit barcode </Figure>
+
+<P>We start this process by debinding the book, going through a scanning and image editing process to take out skew and speckles and end up with clean page images.  BTW, this isn’t necessarily as easy as it sounds.  I remember one vendor I was working with that had the tolerances on his “speckles” set a little to high.  The program went right in and took out all of the periods and dots on the “i”s – it was most entertaining fixing that one! </P>
+
+<P>The images are then slotted into a PDF template that positions them correctly for printing on a digital press such as at LSI, for example </P>
+
+<P>Transition: The next step isn’t so simple – getting to OEB-based eBooks </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_10.jpg"/>
+13 Copyright ©2001 Publishing Dimensions, LLC …but to XML-based eBooks a bit more involved… Scan /ImageEdit Extract Content, etc. POD Transcode OEB eBooks Hard Copy Compose Image • Extract text, images, etc. • Apply OCR • Edit (manual, rule-base) • (Proofread) • Extract structure • Select DTD • Tag and validate • Capture design Here the Extraction process generally involves Optical Character Recognition (OCR) and a heavy dose of post-OCR editing.  The content then has to be tagged into an intermediate format. The big problem here is that there are very few clues as to the design.  In a source PDF you get the names of the fonts to work with.  Here you need a very experienced typographer or designer to tell you what the original fonts were. Transcoding is the same as in the electronic editions – moving the title out to the various end-formats and making sure they are correctly styled. Transition: The next step is to take the flowed text and regenerate nice-looking pages </Figure>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_11.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC …and to PDF-based eBooks, more involved still. Scan /ImageEdit Extract Content, etc. POD Transcode Compose PDF eBooks OEB eBooks Hard Copy Compose Image OptimizePDF • Select template • Import text • Position images, footnotes, etc. • Create pages • Adjust pages </Figure>
+
+<P>Here we’re going through another page makeup process similar to what was done for the book originally.  <br /></P>
+
+<P>The difference is that the specs are coming from the original title, not a design.<br />I’ve heard of various experiments in round-tripping that have occurred, but this is still not easy to do, <br />particularly if there is any kind of manual adjustment necessary to the pages.<br /></P>
+
+<P>We then go into the normal PDF optimization process to get AER editions.<br /></P>
+
+<P>Transition: Again there’s an issue about where the repository sits<br /></P>
+
+<Part>
+<H5>The priorities </H5>
+
+<P>Breakeven Increment. </P>
+
+<P>Type of Conversion </P>
+
+<P>List Affected </P>
+
+<P>Volume * </P>
+
+<P>Breakeven Frontlist POD, AER 18 18</P>
+
+<P>(Backlist) </P>
+
+<P>Electronic </P>
+
+<P>Frontlist </P>
+
+<P>MS, Palm, etc. </P>
+
+<P>31 12</P>
+
+<P>(Backlist) </P>
+
+<P>POD </P>
+
+<P>Backlist </P>
+
+<P>28 28 </P>
+
+<P>Hardcopy MS, Palm, etc. </P>
+
+<P>Backlist </P>
+
+<P>77 54 </P>
+
+<P>AER </P>
+
+<P>Backlist </P>
+
+<P>102 25 </P>
+
+<P>* Based on a $12.95 list book, up-priced for POD and down-priced for eBook formats </P>
+
+<P>Copyright ©2001 Publishing Dimensions, LLC </P>
+
+<P>I’ve listed the 5 paths you can take up here as “type of conversion” You’ll see that I’ve split them into rough families that align with the flow charts I went through earlier – the electronic family (from electronic files) and the hardcopy family (from bound books).  I’ve also put up here what part of a publishers list is affected (frontlist or backlist), and most critically, what the breakeven volume is:  the cost at which the gross margin from units sold pays for the cost of conversion.  To get this I took conversion costs that are widely available in the industry and banged them up against a calculated Gross Margin per book. This GM included pricing with any required adjustments, discounts to the channel participants – I’m assuming retail distribution so there’s a big hit there, cost of manufacturing if relevant, and cost of royalties to authors.  </P>
+
+<P>The final column is the incremental breakeven – that is if you take the previous step, what is the incremental units you’ll have to sell to recover the extra cost of conversion.  For example if we’re in the electronic conversion family, and we’ve gone ahead and done the Acrobat eBook Reader format, how many more units would we have to sell to recover the cost of getting to the next version – say the Palm or Microsoft edition.  The answer here is only 12 more units.  For most books, I’d do this in a flash. </P>
+
+<P>Let me go through what I see are the main conclusions here: </P>
+
+<L>
+<LI>
+<LI_Label>1.	</LI_Label>
+
+<LI_Title>First notice that these breakevens aren’t too high to begin with.  The main point is if you have the book, you might as well get it into eBook and/or POD formats. </LI_Title>
+</LI>
+
+<LI>
+<LI_Label>2.	</LI_Label>
+
+<LI_Title>As you would expect for eBooks, it’s much better to be working from electronic files. </LI_Title>
+</LI>
+
+<LI>
+<LI_Label>3.	</LI_Label>
+
+<LI_Title>As long as you’re not competing with previously printed editions, it also seems like a slam-dunk to put all of your slow-moving titles into POD.  The market is definitely there and you’ll most likely sell far more than your breakeven </LI_Title>
+</LI>
+</L>
+
+<P>Transition: so that’s the end of my material Review: </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_12.jpg"/>
+Optimizing Content for Multi-Channel Publishing July 24, 2001 Ken Brooks, President Publishing Dimensions kbrooks@pubdimensions.com </Figure>
+
+<L>
+<LI>
+<LI_Label>1.	</LI_Label>
+
+<LI_Title>I discussed some trends I’m seeing in publishing that are leading toward adoption of XML </LI_Title>
+</LI>
+
+<LI>
+<LI_Label>2.	</LI_Label>
+
+<LI_Title>I then talked about the use of XML in content and metadata and wrapped up with a discussion of areas to watch </LI_Title>
+</LI>
+</L>
+
+<P>Importance:  	I think you’ll agree that XML is becoming a major tool in cost control, in substantially increasing the breadth of offerings a publisher can provide and in substantially reducing time to market. </P>
+
+<P>Transition: Katriel Reichman from LiveLinx will then go into live examples of how XML actually works in these applications </P>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_13.jpg"/>
+17 Copyright ©2001 Publishing Dimensions, LLC Text input… Transcode OEB eBooks Tag Text, RTF • Select DTD • Tag content • Validate tagging Experienced editors required here </Figure>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_14.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC OEB input… Transcode OEB eBooks OEB Tag Text, RTF </Figure>
+<Figure>
+
+<ImageData src="images/Optimizing content for multichannel publishing with notes_img_15.jpg"/>
+Copyright ©2001 Publishing Dimensions, LLC Text and OEB inputs to PDF eBooks Transcode Compose PDF eBooks OEB eBooks OEB OptimizePDF Tag Text, RTF </Figure>
+
+<P>Here we’re going through another page makeup process similar to what was done for the book originally.  <br /></P>
+
+<P>The difference is that the specs are coming from the original title, not a design.<br />I’ve heard of various experiments in round-tripping that have occurred, but this is still not easy to do, <br />particularly if there is any kind of manual adjustment necessary to the pages.<br /></P>
+
+<P>We then go into the normal PDF optimization process to get AER editions.<br /></P>
+
+<P>Transition: Again there’s an issue about where the repository sits<br /></P>
+</Part>
+</TaggedPDF-doc>

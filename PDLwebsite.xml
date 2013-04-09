@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) by Ken Brooks (Treadwell Media Group) -->
+<!-- <!DOCTYPE document SYSTEM "http://treadwellmedia.org/website/XML/PDLsite.dtd"> -->
+<?xml-stylesheet type="text/xsl" href="S:\Treadwell Media Group\TMG Site\PDL2HTML.xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="S:\Treadwell Media Group\TMG Site\TMG Site.xsd">
+	<welcome>
+		<para>
+			<bold>Innovative Publishing Solutions</bold>: eBooks, consulting, editorial, marketing, distribution...a single solutions source</para>
+		<para>Backed by seasoned publishing professionals across the editorial, production and marketing/sales spectrum, TMG provides affordable solutions to publishers at a critical stage of growth by grouping and supporting shared services. We allow our clients to concentrate on crafting their best assets and delivering their core competencies while we provide the rest.</para>
+		<para>Services include:</para>
+		<bulletList>
+			<listItem>Distribution in print and electronic formats specializing in small lists into key markets</listItem>
+			<listItem>eBook and other electronic content and graphics development including rich media</listItem>
+			<listItem>Packaging, offering a full range of services from concept to disc</listItem>
+			<listItem>State of the art production and manufacturing</listItem>
+			<listItem>Editorial - from start to finish including content creation, editing, copyediting and proofing</listItem>
+			<listItem>Creative design</listItem>
+			<listItem>Consulting</listItem>
+		</bulletList>
+		<para>Whether you are a publisher interested in building value through the addition of digital delivery and eBook formats, an international publisher hoping to establish a foothold in the US market, or a content provider or publisher who needs an experienced packager, TMG is your single source for solutions.</para>
+		<para>The founders of TMG have been adding value to publishers and authors in the trade and professional fields for more than a decade, working in both electronic media as well as traditional publishing. Through a creative and consultative approach to solving client needs, and drawing on networks of publishing professionals in the field, they support an enterprise dedicated to achievement and profit for their clients. TMG favors the team approach to solutions, believing that success follows from the interaction of a community of inspired equals.</para>
+	</welcome>
+	<services>
+		<masterServiceLine shortName="marketing">
+			<articleHeader>
+				<subject>Book marketing, galley, ARC, print on demand, POD, eBook galleys, bound galley</subject>
+				<DOI>10.13350000000012</DOI>
+			</articleHeader>
+			<masterServiceLineName>DigitalGalley Book Marketing Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Treadwell Media Group has built its reputation by offering high-quality content conversion and consulting services to publishers entering the eBook space. Now it offers DigitalGalley, a new program that removes costs from the galley and ARC distribution process while simultaneously adding flexibility to it.</para>
+				<para>Publishers have long known that the best way to build distribution and then sell-through for a book is through word-of-mouth initiated by "thought" leaders such as reviewers, librarians, and booksellers. It has always been difficult to reach these thought leaders, not only because of the expense of printing and distributing bound galleys and advance reader's copies, but also because these leaders vary by book type and subject; a source well regarded for his/her business book recommendations can't always recommend the latest thriller.</para>
+				<para>Treadwell Media Group has recognized this problem, and with the introduction of our DigitalGalley service, <xrefURL href="http://www.DigitalGalley.com">www.DigitalGalley.com</xrefURL>, we have taken the first step toward addressing it. This service delivers digital copies of forthcoming books in many popular formats—including the most popular—Palm Digital Media (formerly Peanut Press). Naturally, this process can be applied to either a selection from a book or a book in its entirety. With DigitalGalley publishers have a low-cost and fast new channel through which they can reach reviewers, librarians and booksellers. For those yet to adopt the new technology, we also offer traditional bound galley production and distribution services.</para>
+				<para>DigitalGalley is the first of an anticipated suite of marketing services to come from Treadwell Media Group. During the months ahead we will continue to add services to make book marketing an increasingly painless but fruitful process for publishers.</para>
+				<para>For further information on DigitalGalley or the ways in which Treadwell Media Group can assist you with your book production, distribution and marketing needs, please contact Ken Brooks at kbrooks@treadwellmedia.com.</para>
+				<para>Features of DigitalGalley:</para>
+				<unOrderedList>
+					<listItem>Create your own publisher galley page or use one of ours</listItem>
+					<listItem>Create your own title page or use one of ours</listItem>
+					<listItem>Secure or "shareable" distribution of eBook content, either as selections or full titles</listItem>
+					<listItem>Registration of eBook downloads to know who is looking at which title</listItem>
+					<listItem>Direct connection with reviewers allowing them to request printed galleys</listItem>
+					<listItem>Access to Treadwell Media Group mailing list of reviewers to enhance your own</listItem>
+					<listItem>Printing and distribution of traditional bound galleys and ARCs in conjunction with or in place of eBook distribution</listItem>
+					<listItem>Customized book marketing services available on request: let our team of designers and engineers work with you to achieve your book marketing goals</listItem>
+				</unOrderedList>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="distribution">
+			<articleHeader>
+				<subject>ebook distribution, book distribution, ebooks, Quiet Island, Treadwell Media Group, Ken Brooks</subject>
+				<DOI>10.13350000000011</DOI>
+			</articleHeader>
+			<masterServiceLineName>Quiet Island Books eBook and POD Distribution Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>
+					<xrefURL href="http://www.QuietIslandBooks.com">Quiet Island Books</xrefURL> Quiet Island Books assists small publishers and previously published authors by distributing their content through secure eBook and print-on-demand wholesale and retail channels.</para>
+				<para>Currently, Treadwell Media Group distributes to most on-line and eBook retailers through:</para>
+				<unOrderedList>
+					<listItem>
+						<xrefURL href="http://www.eReader.com">eReader.com</xrefURL> (formerly Palm Digital Media)
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.mobipocket.com">Mobipocket</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.contentreserve.com">ContentReserve</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.lightningsource.com">Lightning Source</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.ebooks.com">eBooks.com</xrefURL>
+					</listItem>
+				</unOrderedList>
+				<para>Current members of the Quiet Island Books community include:</para>
+				<unOrderedList>
+					<listItem>
+						<xrefURL href="http://www.10step.com">10 Step Publications</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.advisorworks.com">AdvisorWorks</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.americantri.com">American Tri Magazine</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.AtmaGlobal.com">Atma Global</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.clementeonline.com">Clemente Online</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.jobsandmoms.com">Nancy Collamer</xrefURL>
+					</listItem>
+					<listItem>Barbara Foster</listItem>
+					<listItem>
+						<xrefURL href="http://www.idealog.com">Idea Logical Company</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.paraview.com">Paraview Press</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.donpendleton.com">Linda Pendleton</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.roverbooks.com">Rover Books</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.softskull.com">Soft Skull Press</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.stormkingpress.com">Storm King Press</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.firstjob.com">Teen Talk Communications</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.veroben.com">Veroben Solutions</xrefURL>
+					</listItem>
+					<listItem>
+						<xrefURL href="http://www.antelopepress.com">WPR Publishing</xrefURL>
+					</listItem>
+				</unOrderedList>
+				<para>Visit Quiet Island Books online at <xrefURL href="http://www.QuietIsland.com">Quiet Island Books</xrefURL>.</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="econsulting">
+			<articleHeader>
+				<subject>ebook consulting, XML, PDF, workflow, digital workflow, digital distribution, ebooks, publishing consulting</subject>
+				<DOI>10.13350000000013</DOI>
+			</articleHeader>
+			<masterServiceLineName>ePublishing Consulting Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>For those publishers who are uncertain on how to best prepare for the digital revolution, Treadwell Media Group delivers digital content strategy, operations and marketing consulting services. Whether you are concerned about what platforms, formats or channels to pursue, or how best to integrate eBooks and print-on-demand into your existing productions process, Treadwell Media Group team of eBook and traditional publishing experts can help you prepare for your company’s future.</para>
+				<para>Sample engagements include:<projectList ref="econsulting"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="pconsulting">
+			<articleHeader>
+				<subject>Treadwell Media Group Services, Book Publishing, Publishing, Consulting, Strategy, Production, Operations, Finance</subject>
+				<DOI>10.13350000000014</DOI>
+			</articleHeader>
+			<masterServiceLineName>Traditional Publishing Consulting Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Treadwell Media Group offers a wide range of consulting services within traditional publishing functions. Those services include:</para>
+				<unOrderedList>
+					<listItem>Corporate and Functional Strategy</listItem>
+					<listItem>Production</listItem>
+					<listItem>Inventory Management</listItem>
+					<listItem>Warehousing/Fulfillment</listItem>
+					<listItem>Order Management</listItem>
+					<listItem>Customer Service</listItem>
+					<listItem>Rights Management</listItem>
+					<listItem>Finance</listItem>
+				</unOrderedList>
+				<para>Sample engagements include:<projectList ref="pconsulting"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="rightsconversion">
+			<articleHeader>
+				<subject>Treadwell Media Group Services, Book Publishing, Contracts, Rights Management, DRM, Digital Rights Management</subject>
+				<DOI>10.13350000000016</DOI>
+			</articleHeader>
+			<masterServiceLineName>Rights Conversion Services</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Treadwell Media Group provides innovative solutions in capturing information on publishers' largest asset: the rights that they control and exploit. Our solutions include cost-effective capture of rights data from author and subrights contracts and integration of that data into popular rights management services, applications and on-line sales channels.</para>
+				<para>By having rights information digitized and readily accessible in a rights management system, publishers achieve a number of direct revenue benefits:</para>
+				<unOrderedList>
+					<listItem>The capture of missed revenue opportunities including unsold sub-rights (beyond the frontlist), renegotiation of expiring deals, and uncollected royalties from deals that have already been negotiated.</listItem>
+					<listItem>Generating new revenue streams from digital publishing, content recombination, and from electronic rights brokerage exchanges.</listItem>
+					<listItem>Facilitation of better publishing decisions through go/no-go decisions based not just on anecdotal evidence but also on true understanding of rights sales history of similar titles.</listItem>
+					<listItem>Increasing margin / reducing write-offs by enabling the targeting of sales efforts to titles with unearned advances.</listItem>
+					<listItem>Reducing time-to-market in evaluating new revenue opportunities by enabling rapid determination of the rights held.</listItem>
+				</unOrderedList>
+				<para>Beyond the direct revenue benefits of having rights information readily available, capturing contracts in digital form yields substantial productivity, timeliness and business continuation benefits over time. Some of these include:</para>
+				<unOrderedList>
+					<listItem>Increasing margin by reducing staff time and effort associated with the management of contracts including indexing, storage and retrieval. These benefits accrue across the organization in legal, rights marketing, editorial, finance, and royalty departments.</listItem>
+					<listItem>Better disaster recovery - fewer in-process contracts lost, faster speed of recovery and increased ability to store multiple copies in separate remote locations.</listItem>
+					<listItem>More timely initial entry of data into enterprise systems including royalties, order processing, financial, production, and editorial systems</listItem>
+					<listItem>Reduction of document management expense associated with storage and retrieval of paper contracts</listItem>
+					<listItem>More timely response to internal and external inquiries on contract-related issues</listItem>
+				</unOrderedList>
+				<para>Publishers achieve a number of advantages from the Treadwell Media Group approach:</para>
+				<unOrderedList>
+					<listItem>High quality, consistent rights data output requiring little intervention for validation</listItem>
+					<listItem>A cost-effective solution offering quick turnaround on most types of contracts</listItem>
+					<listItem>Experienced staff with traditional and electronic publishing experience</listItem>
+					<listItem>Knowledge of functional and data requirements of most rights management systems</listItem>
+					<listItem>Delivery of rights information to publisher-specified channels of distribution</listItem>
+					<listItem>Detailed tracking of contract conversion through each stage of production</listItem>
+					<listItem>Real-time availability of production status via secure web page</listItem>
+					<listItem>Hassle-free customer service with knowledgeable representatives</listItem>
+					<listItem>Largest conversion capacity in the industry</listItem>
+					<listItem>Exceptionally fast ramp-up capability</listItem>
+					<listItem>Built in disaster recovery through site mirroring and multiple redundant conversion sites</listItem>
+					<listItem>Global state-of-the-art facilities and telecommunications network</listItem>
+				</unOrderedList>
+				<para>Our credentials in rights management are wide and varied. Some of our representative experiences include: <projectList ref="rights"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="custompublishing">
+			<articleHeader>
+				<subject>Treadwell Media Group Services, Book Publishing, Editorial, Page Makeup, Composition, Production, Book Production, eBooks, XML, XSL, Custom Publishing</subject>
+				<DOI>10.13350000000050</DOI>
+			</articleHeader>
+			<masterServiceLineName>Custom Publishing</masterServiceLineName>
+			<serviceLineDescription>
+				<para>A common challenge for reference and professional publishers is finding a way to present a large amount of material out of which only a small amount is going to be selected by the user. Treadwell Media Group' solution to this often undiagnosed publishing problem is to develop a custom application built off of an xml database structure. This database of the publishers content allows the reader to select only the content they need and to then retrieve an online pdf or html file, an eBook (to be read offline if they choose), or even to order a printed and bound print-on-demand edition–printed cost effectively a single time. Treadwell Media Group proven solution has been used by several large-scale operations.</para>
+				<para>Sample engagements include:<projectList ref="custompublishing"/>
+				</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+	</services>
+	<projects>
+		<project>
+			<clientName>BDD</clientName>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="rights"/>
+			<projectType>Rights Management Strategy</projectType>
+			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
+		</project>
+		<project>
+			<clientName>University of Chicago Press</clientName>
+			<projectCategory xref="academic"/>
+			<projectCategory xref="rights"/>
+			<projectType>Rights Database Design</projectType>
+			<projectDescription>Working with a large university press we developed the design of a rights database incorporating territories, languages, and types of rights in order to support their modernization and digital commerce initiatives.</projectDescription>
+		</project>
+		<project id="academic1">
+			<clientName>MIT Press</clientName>
+			<projectCategory xref="academic"/>
+			<projectCategory xref="rights"/>
+			<projectType>Rights DTD definition</projectType>
+			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. We prototyped it's use in capturing a number of different contract types.</projectDescription>
+		</project>
+		<project id="AIPC">
+			<clientName>AIPC</clientName>
+			<projectCategory xref="custompublishing"/>
+			<projectCategory xref="trade"/>
+			<projectType>Custom cookbook application</projectType>
+			<projectDescription>Developed a web-based cookbook application enabling a consumer to select among a database of more than 2000 recipes, enter his/her own recipes and other personalizing material and receive a printed cookbook within 5 business days. the project involved developing a recipe DTD, converting the recipes from various hardcopy and electronic forms, building a web user interface linked in with an XML database, and developing the XSLT-driven output transformations.</projectDescription>
+		</project>
+		<project id="ABS1">
+			<clientName>American Bible Society</clientName>
+			<projectCategory xref="custompublishing"/>
+			<projectCategory xref="religious"/>
+			<projectType>Comparative Bible reading</projectType>
+			<projectDescription>Timed to release simultaneously with Mel Gibson's Passion movie, developed a web-based application allowing readers to see how Matthew, Mark, Luke and John narrated the events of the Passion, Crucifixion and Resurrection. The application utilized an index of the main events to generate a 4-column parallel version to show the presentation of each event in each of the Gospels. Readers were allowed to pick the translation desired (multiple English- and Spanish-language versions were made available) and the particular events desired. A web presentation was developed that could then be downloaded as a PDF or requested as a print-on-demand edition.</projectDescription>
+		</project>
+		<project id="ABS2">
+			<clientName>American Bible Society</clientName>
+			<projectCategory xref="custompublishing"/>
+			<projectCategory xref="religious"/>
+			<projectType>Multiple language Scripture tool (diglot)</projectType>
+			<projectDescription>Developed a web-based application allowing a reader to simultaneously view two translations of the Bible in either HTML or PDF, and then order a custom printed and bound version for delivery to their home for offline use. The project used XML and XSLT technology on generally available translations of the Bible existing in OSIS 2.1 markup.</projectDescription>
+		</project>
+		<project id="OEBF">
+			<clientName>OeBF</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Standards body participation</projectType>
+			<projectDescription>Participated in the business SIG of the Open eBook Foundation.</projectDescription>
+		</project>
+		<project id="PRISM">
+			<clientName>PRISM</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="magazine"/>
+			<projectType>Standards development</projectType>
+			<projectDescription>Participated in the development of the aggregator DTD developed by the PRISM working group.</projectDescription>
+		</project>
+		<project id="HE1">
+			<clientName>Wiley</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="highered"/>
+			<projectType>Channel inventory strategy</projectType>
+			<projectDescription>For a Higher Ed publisher evaluated the economics to publisher, retailer, student and used book wholesaler of traditional buy/sell, consignment, rental and other business models. Identified key decision criteria and developed recommended approach forward.</projectDescription>
+		</project>
+		<project id="Trade1">
+			<clientName>HarperCollins</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="highered"/>
+			<projectType>Canadian physical distribution assessment</projectType>
+			<projectDescription>For a large trade publisher evaluated a number of alternatives for distributing into Canada including an owned operation, cross-docking, and use of third-party distributors.</projectDescription>
+		</project>
+		<project id="RMS1">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="rights"/>
+			<projectType>Rights Management systems design</projectType>
+			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
+		</project>
+		<project id="HE2">
+			<clientName>Wiley</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="highered"/>
+			<projectType>International textbook diversion assessment</projectType>
+			<projectDescription>Evaluated the extent to which textbooks sold overseas were being diverted back into the U.S. market and what possible actions might be that publishers could take to address the problem.</projectDescription>
+		</project>
+		<project id="Trade2">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="technology"/>
+			<projectType>SAP implementation</projectType>
+			<projectDescription>Served as process architect in 2 separate publishing industry SAP installations (Bantam Doubleday Dell, now part of Random House, and Simon &amp; Schuster) across production, inventory management, editorial, order processing, distribution and finance functions.</projectDescription>
+		</project>
+		<project id="Trade3">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Production efficiency improvement</projectType>
+			<projectDescription>At Bantam Doubleday Dell implemented improvements in vendor relationship management that resulted in a reduction of $2.1 million in pricing, reduced contract print cycle by 15-days, and improved on-time delivery to 99+ percent. BDD's president was quoted in Publishers Weekly naming manufacturing cost reduction as one of the three sources of BDD's best year ever.</projectDescription>
+		</project>
+		<project id="Trade4">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Product standardization</projectType>
+			<projectDescription>At Bantam Doubleday Dell implemented standardization measures that with no perceptible change in variety of books published decreased paper raw material inventory from $8.5 million to $6.2 million and had no effect on printing lead times.</projectDescription>
+		</project>
+		<project id="Trade5">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="rights"/>
+			<projectType>Rights Management data and functional modeling</projectType>
+			<projectDescription>As part of a customer/consultant/software provider team, developed the rights management data and functional model used by SAP for their implementation of a rights management module.</projectDescription>
+		</project>
+		<project id="Trade6">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Production cycle time improvement</projectType>
+			<projectDescription>Reduced book development cycle by 33% at a large trade publisher, now part of Random House, through process mapping and redesign.</projectDescription>
+		</project>
+		<project id="Trade7">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Consignment inventory evaluation</projectType>
+			<projectDescription>For a large trade publisher evaluated the impact of consignment sale of inventory. Although the balance sheet impact of the move was favorable, issues with delayed revenue recognition prevented implementation.</projectDescription>
+		</project>
+		<project id="Trade8">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="sales"/>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Terms of Sale evaluation</projectType>
+			<projectDescription>Performed industry analysis comparing net effective discounts offered across a range of publishers taking into account discount, RDC and freight terms, coop allowances and other common terms of sale. Analysis was used to evaluate a proposed publisher terms of sale change for retail attractiveness.</projectDescription>
+		</project>
+		<project id="Trade9">
+			<clientName>BDD</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Establish corporate purchasing department</projectType>
+			<projectDescription>At Bantam Doubleday Dell established a supply management/corporate purchasing function resulting in $1 million in purchased goods and services reductions, and an additional $2 million targeted for FY 94/95 (since attained).</projectDescription>
+		</project>
+		<project id="Trade10">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Department consolidation</projectType>
+			<projectDescription>Merged Simon &amp;Schuster's (pre-Viacom sale) customer service and credit departments to create "one face to the customer", leading to Simon &amp; Schuster being recognized by our customers as being "most improved" in customer service in the 1997 annual Market Partners survey of publisher performance.</projectDescription>
+		</project>
+		<project id="Trade11">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Key account strategy implementation</projectType>
+			<projectDescription>At Simon &amp; Schuster implemented key account management strategy to focus on joint improvement in margin and operating efficiencies with our customers.</projectDescription>
+		</project>
+		<project id="Trade12">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Call center productivity</projectType>
+			<projectDescription>Increased call center productivity by 7%, simultaneously increasing attainment of target service levels.</projectDescription>
+		</project>
+		<project id="Trade13">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Accounts Receivable improvement</projectType>
+			<projectDescription>At a large trade publisher implemented substantial changes to AR and Credit functions reducing DSO in the last 12 months by 10%. Other benefits achieved included reducing average time to clear customer deductions by almost 100 days with no change in percent written off, reducing the unmatched deduction balance by over 25%; doubled average speed of cash application; and substantially improved methods of cash receipts forecasting, leading to more reliable estimates of cash, A/R component balances, and DSO.</projectDescription>
+		</project>
+		<project id="Trade14">
+			<clientName>S&amp;S</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Transportation cost reduction</projectType>
+			<projectDescription>At Simon &amp;Schuster reduced education transportation cost per unit by over 6% (both gross and net) through consolidation of carriers used and negotiation around specific rates on heavily traveled lanes.</projectDescription>
+		</project>
+		<project id="Wholesale15">
+			<clientName>Lightning Source</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="POD"/>
+			<projectType>POD expert witness</projectType>
+			<projectDescription>Provided expert testimony regarding reasonable royalty rates in a print-on-demand patent infringement case.</projectDescription>
+		</project>
+		<project id="Wholesale16">
+			<clientName>1stBooksLibrary</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="POD"/>
+			<projectType>POD expert witness</projectType>
+			<projectDescription>Provided expert testimony regarding industry supply chain practices in a suit against a self-publishing company.</projectDescription>
+		</project>
+		<project id="Wholesale17">
+			<clientName>LightningSource</clientName>
+			<projectCategory xref="pconsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="sales"/>
+			<projectType>Customer perception assessment</projectType>
+			<projectDescription>Evaluated publisher and retailer perception of an eBook wholesale company as a basis for determining future strategy.</projectDescription>
+		</project>
+		<project id="Trade15">
+			<clientName>Stone House Press</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>ePublishing strategy</projectType>
+			<projectDescription>Developed and implemented an eBook and print-on-demand distribution strategy for a small publisher, selecting formats and channels within which to distribute their titles.</projectDescription>
+		</project>
+		<project id="HE3">
+			<clientName>Houghton Mifflin</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="highered"/>
+			<projectType>XML readiness assessment</projectType>
+			<projectDescription>Worked with a large Higher Education publisher to evaluate titles and supplementary materials across a variety of disciplines and assess XML "readiness" and determine a strategy for implementing a comprehensive XML-first production process.</projectDescription>
+		</project>
+		<project id="academic1">
+			<clientName>MIT Press</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="academic"/>
+			<projectType>Rights Management DTD development</projectType>
+			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. Prototyped it's use in capturing a number of different contract types.</projectDescription>
+		</project>
+		<project id="retail1">
+			<clientName>B&amp;N</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="retail"/>
+			<projectType>Bibliographic operations management</projectType>
+			<projectDescription>Directed bibliographic data acquisition and database management at Barnes &amp; Noble, Inc. including a redesign of the internal B&amp;N title database (over 1,000,000 titles), and negotiating new agreements with title data vendors.</projectDescription>
+		</project>
+		<project id="retail2">
+			<clientName>B&amp;N</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="retail"/>
+			<projectType>Content and metadata archive design</projectType>
+			<projectDescription>Directed design and construction of content and metadata archive for EP Ventures, a Philippines-based text and image conversion operation.</projectDescription>
+		</project>
+		<project id="service1">
+			<clientName>PDL</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="CMS"/>
+			<projectType>Content and metadata archive design</projectType>
+			<projectDescription>Developed high-level design to archive content in a format-neutral repository and generate on-the-fly formats including OEB, HTML 4.0, Microsoft Reader, Palm Digital Media, Gemstar and Adobe eBook Reader formats. Initiated implementation of this concept at EP Ventures and another large provider of conversion services.</projectDescription>
+		</project>
+		<project id="retail3">
+			<clientName>B&amp;N</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="POD"/>
+			<projectType>POD implementation</projectType>
+			<projectDescription>For Barnes &amp; Noble implemented a centralized print-on-demand operation with the capacity to print 45,000 books per month.</projectDescription>
+		</project>
+		<project id="retail4">
+			<clientName>B&amp;N</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="POD"/>
+			<projectType>ePublishing strategy</projectType>
+			<projectDescription>Founded a print-on-demand and eBook publishing entity that has more than 1,500 titles published and being sold through online retail and wholesale channels such as bn.com and Lightning Source. Program required the development of editorial, managing editorial, rights clearance and production capabilities within a very small team with no previous experience in these functions.</projectDescription>
+		</project>
+		<project id="retail5">
+			<clientName>B&amp;N</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectCategory xref="POD"/>
+			<projectType>In-store print-on-demand assessment</projectType>
+			<projectDescription>At Barnes &amp; Noble directed a feasibility study of an in-store print-on-demand and kiosk-based book delivery system. Study demonstrated that insufficient content existed in appropriate format at the time to make such a system sufficiently appealing to customers to be viable.</projectDescription>
+		</project>
+		<project id="Trade16">
+			<clientName>BDD</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="trade"/>
+			<projectType>Standards development</projectType>
+			<projectDescription>Participated in the original AAP Emerging Technologies Committee that formulated the need for and structure of the Digital Object Identifier (DOI).</projectDescription>
+		</project>
+		<project id="service3">
+			<clientName>PDL</clientName>
+			<projectCategory xref="econsulting"/>
+			<projectCategory xref="rights"/>
+			<projectCategory xref="trade"/>
+			<projectType>Standards development</projectType>
+			<projectDescription>Participated in the ONIX for subrights committee convened at Frankfurt 2001. The purpose of the committee is to define metadata standards around exchange of rights information.</projectDescription>
+		</project>
+	</projects>
+	<articles>
+		<article shortName="money">
+			<articleHeader>
+				<DOI>10.1335/0000000001</DOI>
+				<articleTitle>Where's the Money?</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Business Issues</subject>
+				<format>html</format>
+				<source>Publishing 2001: Attitudes to Technological Change, 2001, BPI Communications. </source>
+				<description>Article presents a strategic framework to assist publishers in determining in which formats, platforms and channels they should be making their content available.</description>
+				<category>eBook Business Issues</category>
+				<xrefURL href="/Articles/where_is_money.stm"/>
+			</articleHeader>
+		</article>
+		<article shortName="optimize">
+			<articleHeader>
+				<DOI>10.1335/0000000002</DOI>
+				<articleTitle>Optimizing Multi-Channel Publishing</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Business Issues</subject>
+				<format> html</format><source>Digital Content Management for Publishing conference on July 24, 2001.</source>
+				<category>eBook Business Issues</category>
+				<xrefURL href="/Articles/Optimizing content for multichannel publishing.htm"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="ebookchain">
+			<articleHeader>
+				<DOI>10.1335/0000000003</DOI>
+				<articleTitle>eBook Supply Chain: Opportunities and Challenges</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Business Issues</subject>
+				<format>pdf</format><source>Supply Chain Seminar, Frankfurt Book Fair, on October 9, 2001</source>
+					<description/><category>eBook Business Issues</category>
+				<xrefURL href="/Articles/eBook Supply Chain.pdf"/>
+			
+				
+			</articleHeader>
+		</article>
+		<article shortName="common">
+			<articleHeader>
+				<DOI>10.1335/0000000004</DOI>
+				<articleTitle>Common eBook Formats</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Production Issues</subject>
+				<format>html</format><description>Article describing the most common formats for eBooks and the advantages of each.</description>
+				<category>eBook Production Issues</category>
+				<xrefURL href="/Articles/CommonFormats.stm"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="formats">
+			<articleHeader>
+				<DOI>10.1335/0000000005</DOI>
+				<articleTitle>File Formats for Digital Distribution</articleTitle>
+				<format>pdf</format>
+				<source>Presentation given at Seybold San Francisco, 2001 on September 27, 2001</source><description>eBook formats and recommendations on which publishers should implement</description>
+				<category>eBook Production Issues</category>
+				<xrefURL href="/Articles/file_formats.pdf"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="strategy">
+			<articleHeader>
+				<DOI>10.13350000000006</DOI>
+				<articleTitle>Publisher Conversion Strategy</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBook Production Issues</subject>
+				<format>pdf</format>
+				<source>Book Expo America (BEA)</source><description>cost-effective methods that publishers can use to incrementally convert their books into various eBook formats based on expected sales in each format. Presentation also includes high-level diagrams illustrating the most common types of conversion and associated issues. </description>
+				<category>eBook Production Issues</category>
+				<xrefURL href="/Articles/file_formats.pdf"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="distropod">
+			<articleHeader>
+				<DOI>10.1335/0000000007</DOI>
+				<articleTitle>Distributed Print-on-Demand</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Print On Demand</subject>
+				<format>html</format>
+				<source>PIRA Digital Print World conference, London, on February 13, 2001</source>
+				<description>The presentation covers the economic drivers of print-on-demand, distinctions between central and distributed print-on-demand and addresses barriers to acceptance of distributed print-on-demand.</description><category>Print On Demand</category>
+				<xrefURL href="/Articles/PIRA Distributed Print-on-demand.htm"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="podchain">
+			<articleHeader>
+				<DOI>10.1335/0000000008</DOI>
+				<articleTitle>Print-on-Demand in the Book Supply Chain</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Print On Demand</subject>
+				<format>html</format><description>Article on Print-on-Demand discussing its use at various levels of the Book Supply Chain: Publisher, Wholesaler and Retailer. The article encompasses material from a number of 2001 presentations on Print-on-Demand issues.</description>
+				<category>Print On Demand</category>
+				<xrefURL href="/Articles/PODBookSupplyChain.stm"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="bottleneck">
+			<articleHeader>
+				<DOI>10.1335/0000000009</DOI>
+				<articleTitle>Clearing the Rights Bottleneck</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Rights Management</subject>
+				<format>html</format>
+				<source>Discussion notes from Publishers Lunch, New York, June 20, 2001</source>
+				<description>Presents the case that all publishing transactions have a rights element that is only growing more important.</description><category>Rights Management</category>
+				<xrefURL href="/Articles/Clearing the Rights Bottleneck.stm"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="bookXML">
+			<articleHeader>
+				<DOI>10.1335/0000000020</DOI>
+				<articleTitle>XML in Book Publishing</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Production</subject>
+				<format>PDF</format>
+				<source>Digital Smart Factory Panel Discussion, June 24, 2003</source>
+				<description>Describes a framework for implementing XML within the editorial and production workflows of traditional publishing operations.</description><category>Publishing Technology Strategy</category>
+				<xrefURL href="/Articles/XMLinBookPublishing.pdf"/>
+				
+			</articleHeader>
+		</article>
+		<article shortName="DOIBlocks">
+			<articleHeader>
+				<DOI>10.1335/0000000021</DOI>
+				<articleTitle>DOI Building Blocks</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Production</subject>
+				<format>PDF</format>
+				<source>Panel Discussion, BookExpo America, May 30, 2003</source>
+				<description>Describes the process of implementing Digital Object Identifiers to increase web traffic and sales.</description><category>Publishing Technology Strategy</category>
+				<xrefURL href="/Articles/DOIBuildingBlocks.pdf"/>
+				
+			</articleHeader>
+		</article>
+	</articles>
+	<biographies>
+		<biography>
+			<name>Kenneth M. Brooks, Jr.</name>
+			<title>President</title>
+			<biodescription>President and co-founder of Treadwell Media Group, was formerly Vice President of Digital Content at Barnes &amp; Noble, Inc. and President of EP Ventures, Inc. At Barnes &amp; Noble he founded a Philippines-based text conversion company; a public domain publishing imprint; and a distribution-center based print-on-demand operation. Currently, Mr. Brooks delivers presentations on a wide variety of electronic publishing subjects such as XML integration, print-on-demand profitability and supply chain information. He has held several senior management positions in publishing, including Vice President of Operations, Production, and Strategic Planning at Bantam Doubleday Dell, and Vice President of Customer Operations at Simon &amp; Schuster. Prior to his entry into publishing, Mr. Brooks was a Senior Manager in Andersen Consulting’s Logistics Strategy Practice.</biodescription>
+		</biography>
+	</biographies>
+	<faq>
+		<faqentry>
+			<faqquestion>
+				<para>What does Treadwell Media Group do?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Treadwell Media Group provides innovative solutions to publishers in generating revenue through evolving digital channels. These solutions include cost-effective conversion of content from electronic and paper sources into eBook and print-on-demand files, and placement of content into publisher-specified channels of distribution. For those publishers that may be uncertain as to how best proceed in the digital marketplace, Treadwell Media Group also delivers a range of consulting services in both electronic and traditional publishing.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How do your services differ from other offerings?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Our high-tech and high-touch approach to conversion effectively combines people with automation yielding a consistently superior and low-cost result while ensuring that our customers are satisfied with the quality of the product and service they receive.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>Where are my books converted?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>The bulk of Treadwell Media Group conversions are performed in conjunction with conversion partners located in Chennai India. Our partners are ISO 9000 certified and provide world-class technology and conversion services.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How is your staff trained?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>The management staff at our partner facilities all have at least a bachelor’s degree. The majority of our technicians hold the same level of education. We consider staff training of general publishing rules and publisher specifications to be the key component to top quality conversion. Staff training begins with a comprehensive introduction to publishing and elements of a book. It then proceeds into HTML, XML, composition and the many skills required for an effective conversion company within the digital market place. As staff members gain experience they tend to focus in one area or another: image editing, extraction and cleanup, tagging, and generation of one of the "standard' XML outputs (we generate OEB, DocBook, our Internal DTD as a matter of course - and can generate many more with a short ramp up period).</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is reasonable quality?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Treadwell Media Group is extremely sensitive to the requirements of the publishing industry in terms of matching formatting of the electronic file to the original printed title. We have put in place a significant number of quality control steps through the entire production process to ensure the highest level of accuracy in conversion, tagging and composition at our conversion centers.</para>
+				<para>Examples of our quality control / audit steps include:</para>
+				<para>Specification and content transmittals – use of a formal transmittal process for the sending and receiving of all files. This process is used to ensure error-free communication of specifications, expectations and files. </para>
+				<para>Pre-flight – to insure that all components of the file are received and missing components immediately identified before processing starts. </para>
+				<para>Production QC – a check is performed after every significant project step to ensure quality expectations are being achieved. </para>
+				<para>Final random QC &amp; audit – performed before files are transmitted to customer </para>
+				<para>ISO 9001/9002 certification – Our conversion partners offer among the highest service in the world, having passed among the most rigorous standards tests existing in the world today.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What should a publisher look for in a conversion partner?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Predictability. Each of your titles should follow the same pattern while working with your conversion partner.  You should never receive surprises about your title long after the book has been delivered to your partner.  You should, however, always expect some ramp-up time while your conversion partner is learning your Publisher Specific guidelines.</para>
+				<para>Other key qualities to look for in a conversion partner:</para>
+				<para>Quality. Files should be prepared so that they can be used in the manner intended without significant intervention or rework. </para>
+				<para>Service. Your conversion partner should be able to quickly and accurately handle any special instruction or exceptional situation. The partner should also be willing to take the time to explain how their process works and the significance of the different eBook standards. Service also should extend to rapid notification of any errors in received files, and periodic notification of production status in a form that is meaningful to you. </para>
+				<para>Flexibility. Your partner should be able to rapidly address any changing requirements (such as the move from Rockt eBook and Softbook to the new Gemstar file format) and handle any unexpected fluctuations up or down in the number of titles being processed. </para>
+				<para>Turnaround times. Turnaround times should be short in duration, predictable and reliable. </para>
+				<para>Cost. Costs should be reasonable, predictable, and keep "extras" to a minimum. </para>
+				<para>Industry knowledge. Your conversion partner should understand the traditional publishing industry and its expectations as well as be conversant with the emerging ePublishing business. </para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How does a publisher best work with a conversion partner?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>At Treadwell Media Group we believe strongly in clear and open communications with our customers. We would anticipate that before beginning any conversion work with a customer that we would work together to define our publisher specific documentation.  We have found that each publisher chooses to have their titles represented differently in the varying formats.  We have a constantly updated guideline for each of our publishing customers to guide us through handling the various attributes for the variety of eBook formats currently in today’s market.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is OEB?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>The Open eBook (OeB) Forum has introduced the Open eBook publication structure as an effort to bring together the formats required by most of the "reflowable" readers on the market today (Microsoft Reader, Gemstar, Mobipocket, etc.). The standard is continually being updated with input from the publishing, technology and distribution communities. </para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is PDF?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Portable Document Format (PDF) is a standard introduced quite a number of years ago by Adobe. It is a mainstream of their business and is constantly improved and updated. It is the current "lingua franca" of the publishing and graphics arts industries and most books exist in PDF at some stage of their lifecyle as they are prepared for print. With the introduction of the Adobe Acrobat eBook Reader (formerly the Glassbook reader) it is one of the key eBook formats in use today.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>Which format should I use?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Because it is too early to predict which formats will exist and prosper into the future, a publisher should make sure that his title is converted and distributed into all of the key formats and channels.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>Why should I be concerned about formats and internal markup?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>One thing is certain: formats will continue to change over time and what works today, may not work tomorrow. In order to extend the life of each title and ensure the minimum amount of rework in the future, publishers should focus on having their titles available in the most flexible and meaningful markup. This will almost certainly involve markup down to the lowest level at which a sale could be anticipated and down to the lowest level that would require different designs for effective display in various eBook platforms.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is an eBook?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>An eBook, or ‘electronic book’ is a title represented in a digital format on a computer, personal digital assistant (PDA), or a designated eBook device (Gemstar, Franklin).</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How do I get my source files to Treadwell Media Group?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Source files, or books, can be sent on disk or CD through the mail, or can be delivered to the publisher’s folder on the Treadwell Media Group secure ftp location.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What happens to my files once they are converted?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>When files are converted, they are sent to the publisher for approval. Publishers are always given all format and source files back as part of the conversion process. Treadwell Media Group will archive the publishers files on our secure servers.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How do I proof my files during the conversion process?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Through our unique xml workflow, we have streamlined what used to be a tedious proofing process on the publisher’s end.  We generate the first eBook format and deliver the file via secure ftp to the publisher.  Whatever changes the publisher requests are then made in the xml source file, and the first format is delivered a second time for final approval.  At the same time that is happening, the other eBook formats are being generated from that source xml file, ensuring that all requested corrections have been made, leaving the publisher to quickly glance at the new formats for aesthetic problems.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>Do you send files to distribution channels?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Absolutely! When we receive files from the publisher, we request the title metadata at that time.  The metadata is entered into our database.  When the files are approved and ready to go on sale, we deliver the final format file along with the appropriate metadata required for the specific channel.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>Who are your publishing partners?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>We have converted content for a large portion of the known and less known content holders in the industry.  These companies include: AOLTimeWarner, Farrar Straus &amp; Giroux, HarperCollins, Random House, Simon &amp; Schuster, Palm Digital Media, McGraw Hill, St. Martin’s Press, The MIT Press, Idea Logical Company and Paraview Press.  These companies represent varied types of publishing from, STM to Business, to Trade.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How do you determine pricing for a project?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>We have established base pricing for the various “types” of content we convert.  However, content can differ in page length and complexity.  Source is also a factor, if electonic source files are available for a given title, it will cost less to convert from the electronic files and be a faster turn around, than it would to convert the title from the printed edition of the book.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is your turn around time?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Turn around time is determined upon receipt of a project, but normally ranges between 1-3 weeks.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>How are my files protected?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Files are always backed up on Treadwell Media Group secure servers.  When the files are being delivered to the publisher for proofing, they are always sent using a secure ftp site.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is the benefit of working with Treadwell Media Group on my conversion project?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Treadwell Media Group has a strong history in the eBook market and takes pride in the quality of our services.  We offer exemplary customer service, unbeatable quality and dependable turn around. We offer a state-of-the-art, modern, conversion process using an xml workflow, which decreases the work and cost on the publishers and our end.</para>
+			</faqanswer>
+		</faqentry>
+		<faqentry>
+			<faqquestion>
+				<para>What is Quiet Island Books?</para>
+			</faqquestion>
+			<faqanswer>
+				<para>Quiet Island Books is Treadwell Media Group’ distribution division.  Small publisher’s utilize our established relationships with industry retailers and wholesalers to distribute their titles.</para>
+			</faqanswer>
+		</faqentry>
+	</faq>
+	<resources>
+		<resource href="www.amazon.com">
+			<resourceName>www.amazon.com</resourceName>
+		</resource>
+		<resource href="www.bordersstores.com">
+			<resourceName>www.bordersstores.com</resourceName>
+		</resource>
+		<resource href="www.barnesandnoble.com">
+			<resourceName>www.barnesandnoble.com</resourceName>
+		</resource>
+		<resource href="www.booksense.com">
+			<resourceName>www.booksense.com</resourceName>
+		</resource>
+		<resource href="www.booksamillion.com">
+			<resourceName>www.booksamillion.com</resourceName>
+		</resource>
+		<resource href="www.powells.com">
+			<resourceName>www.powells.com</resourceName>
+		</resource>
+		<resource href="www.frankfurt-book-fair.com">
+			<resourceName>Frankfurt Book Fair</resourceName>
+		</resource>
+		<resource href="www.londonbookfair.co.uk">
+			<resourceName>London Book Fair</resourceName>
+		</resource>
+		<resource href="www.bookexpoamerica.com">
+			<resourceName>BookExpo America</resourceName>
+		</resource>
+		<resource href="www.publishersmarketplace.com">
+			<resourceName>www.publishersmarketplace.com</resourceName>
+		</resource>
+		<resource href="www.publishersweekly.com">
+			<resourceName>www.publishersweekly.com</resourceName>
+		</resource>
+		<resource href="http://www.peanutpress.com">
+			<resourceName>eReader.com</resourceName>
+			<resourceDescription>eReader.com is the first electronic book publisher to offer contemporary fiction and non-fiction books, newspapers, and magazines for reading on handheld computers including the Palm Organizer, Sony Clié, Handspring Visor, and Pocket PC machines. Discover new reasons to carry your handheld while you work, play, and travel.</resourceDescription>
+		</resource>
+		<resource href="http://www.adobe.com">
+			<resourceName>Adobe Systems</resourceName>
+			<resourceDescription>You've done the heavy lifting. From manuscript to first edition, you've wrought a work of art. Now, thanks to industry-standard publishing tools from Adobe, you can make your book available for sale on the Web – with no significant change to your current workflow. With just a few clicks of your mouse, you can release any title in your library as an Adobe® PDF based eBook – with the same artwork, typography, and graphic design as in the print edition. The time-to-market advantage you gain by using Adobe's products is your competitive edge, and enhances the return on your investment in publishing technology. </resourceDescription>
+		</resource>
+		<resource href="http://www.adobe.com">
+			<resourceName>Microsoft</resourceName>
+			<resourceDescription>The Microsoft eBooks Story. From authors to readers: the A-to-Z solution for electronic reading.</resourceDescription>
+		</resource>
+		<resource href="http://www.franklin.com">
+			<resourceName>Franklin Electronic Publishers</resourceName>
+			<resourceDescription>From the moment Franklin introduced the world's first handheld eBook in 1986, the Company has been exploiting the potential of eBooks to create a fundamentally new way of reading. Today, we aim to build upon our expertise as the worldwide leader in eBooks in several ways. First, we have created the next generation in eBook hardware with eBookman®, the world's first handheld eBook reader that has both an open but secure architecture, is affordable, can be carried in your pocket, and gives you an optimal reading experience. Second, we strive to bring Franklin's high-quality eBook content to a wide audience of users by making it available for any platform, including today's popular Palm®, Windows CE®, and Psion handheld devices. Third, we are transforming our web site into an eBookstore where readers can come to find a wide range of titles from the most respected content providers.</resourceDescription>
+		</resource>
+		<resource href="http://www.mobipocket.com">
+			<resourceName>Mobipocket</resourceName>
+			<resourceDescription>Mobipocket.com is the universal reader for PDAs: the Mobipocket software package is freely downloadable, and consists of publishing and reading tools dedicated to PDA devices (Windows CE, Palm OS and Psion). The software is developed internally by Mobipocket and allows owners of PDAs to have access to a personalized press review, the reading of classic and contemporary ebooks, and a secure reading system.</resourceDescription>
+		</resource>
+		<resource href="http://www.lightningsource.com">
+			<resourceName>Lightning Source</resourceName>
+			<resourceDescription>Lightning Source Inc., a subsidiary of Ingram Industries Inc., offers a package of digital fulfillment and printing services to the book industry</resourceDescription>
+		</resource>
+		<resource href="http://www.btol.com">
+			<resourceName>Baker &amp; Taylor</resourceName>
+			<resourceDescription>Baker &amp; Taylor is a leading supplier of books, movies, music, and information products to libraries and retailers worldwide. The BTOL website will provide you with up-to-date information about Baker &amp; Taylor, as well as important information for your market.</resourceDescription>
+		</resource>
+		<resource href="http://www.marketpartnersinternational.com">
+			<resourceName>Market Partners International</resourceName>
+			<resourceDescription>Market Partners International, Inc. is the first consulting firm dedicated to consumer publishing. Its principals have over 40 years of industry experience relating to strategic planning, content development, marketing, sales and fulfillment, operations and executive search. Established in January of 1990, the firm also issues Publishing Trends, a monthly newsletter read by senior publishing professionals in 21 countries around the world, and writes regular columns for Inside.com.</resourceDescription>
+		</resource>
+		<resource href="http://www.publisherslunch.com">
+			<resourceName>Publishers Lunch</resourceName>
+			<resourceDescription>Publishers Lunch is the industry's "daily essential read," now shared with well over 8,000 publishing people every day. Each report gathers together stories from all over the web and print of interest to the professional trade book community, along with original reporting, plus a little perspective and the occasional wisecrack added in.</resourceDescription>
+		</resource>
+		<resource href="http://www.idpf.org">
+			<resourceName>The International Digital Publishing Forum</resourceName>
+			<resourceDescription>The International Digital Publishing Forum (IDPF) is an international trade and standards organization. Our members consist of hardware and software companies, publishers, authors, users of electronic books, and related organizations whose common goals are to establish specifications and standards for electronic publishing. The Forum’s work will foster the development of applications and products that will benefit creators of content, makers of reading systems and, most importantly, consumers.</resourceDescription>
+		</resource>
+	</resources>
+	<news>
+		<pressRelease shortName="fire">
+			<articleHeader>
+				<DOI>10.1335/0000000018</DOI>
+				<articleTitle>A Fire Upon the Deep</articleTitle>
+				<contributor>Treadwell Media Group</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBooks, Science Fiction, Vernor Vinge, A Fire Upon the Deep, Conversion Services</subject>
+				<format>html</format>
+				<description>Press release announcing the annotated edition of A Fire Upon the Deep, Vernor Vinge's science fiction classic presaging elements of the Internet.</description>
+			</articleHeader>
+			<pressReleaseTitle>SPECIAL EDITION EBOOK ENCOURAGES 
+AUTHORS AND PUBLISHERS TO "THINK OUTSIDE THE BOOK"</pressReleaseTitle>
+			<pressReleaseDate>May 1, 2002</pressReleaseDate>
+			<pressReleaseContact>
+				<company>Treadwell Media Group</company>
+				<name>Ken Brooks</name>
+				<title>President</title>
+				<phone>(212) 319-0768</phone>
+				<website href="mailto:kbrooks@treadwellmedia.com">kbrooks@treadwellmedia.com</website>
+				<e-mail href="http://www.treadwellmedia.com">www.treadwellmedia.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseContact>
+				<company>Tor/Forge and St. Martin's Press (Holtzbrinck Publishing)</company>
+				<name>Jeff Gomez</name>
+				<title>eBook and Print on Demand Manager, Tor/Forge Books and St. Martin's Press</title>
+				<phone>(212) 674-5151 ext. 339</phone>
+				<website href="mailto:jeff.gomez@stmartins.com">jeff.gomez@stmartins.com</website>
+				<e-mail href="http://www.ebookyes.com">www.ebookyes.com</e-mail>
+			</pressReleaseContact>
+			<Location>New York, NY</Location>
+			<para>Treadwell Media Group, a company dedicated to providing quality eBook and print-on-demand conversion and consulting services, together with Tor/Forge and their prize-winning author Vernor Vinge, have created a Special Edition eBook that coherently illustrates the writing process of the original novel.</para>
+			<para>
+				<italic>A Fire Upon the Deep</italic> won the prestigious Hugo Award when it was first published. A prequel, <italic>A Deepness in the Sky</italic> (also available as an eBook), was published in 1999; it too won the Hugo Award. The annotations for the <italic>A Fire Upon the Deep Special Edition eBook</italic> were written during the writing and editing process of the original novel, and were first published by Brad Templeton at Clarinet Communications as part of a CD-ROM which collected full-text versions of all five finalists for the 1993 Hugo Award for Best Science Fiction Novel. The extremely limited edition CD-ROM was only sold during the voting for that year's Hugo Award, and since then neither this edition, nor these annotations, have been made available to the general public. Until now.</para>
+			<para>"Thanks to Vinge's annotations, and the new technology that the various eBook reader applications can support, publishers and writers can finally begin thinking not only 'outside the box,' but also outside the traditional form of the original book," says Jeff Gomez, eBook and Print on Demand Manager for Tor/Forge Books. "If eBooks are finally starting to come of age, then Vinge's <italic>A Fire Upon the Deep Special Edition eBook</italic> is the first growth spurt I've seen in a while.  We also think Treadwell Media Group has done a great job tackling the challenges presented by this project: they've managed to blend the annotations into the text so that the reader's experience is enriched without being cluttered. And the cumulative effect of Vinge's numerous and insightful annotations is that of a director's commentary on a DVD.  It's rare to have an author walk a reader through a novel, and because of that we feel this Special Edition eBook will appeal to both ardent fans and general readers."</para>
+			<para>The author of this seminal work feels similarly. "In the old days, some folks collected authors' hand-marked original drafts," says Vernor Vinge. "With the rise of word processors, true working drafts are hard to come by. But there are compensations: word processors make it much easier for an author to maintain embedded notes about the work in progress. In my case, these annotations are mostly arguments and alternatives to guide me in the writing."</para>
+			<para>"We jumped at the opportunity to work with the author that foresaw so much of what the Internet is today," says Ken Brooks, President of Treadwell Media Group. "Tor/Forge and Vernor Vinge came at the project with an adventurous enthusiasm. They were really flexible and trusted us to experiment with the existing technology and to create a really terrific result. Consumers will find that the text is easy to follow, and they will get terrific insight into the editorial process. It really is exciting to read the interactions between artist and editor."</para>
+			<para>The <italic>A Fire Upon the Deep Special Edition eBook</italic> (Tor/Forge ISBN 0-312-70369-4) will go on sale June 1st, will cost $12.95, and will be available in the Adobe Acrobat eBook Reader, Palm Reader, Microsoft Reader, and Mobipocket Reader eBook formats. The eBook will be available from numerous online retailers and websites, including amazon.com, palmdigitalmedia.com, and franklin.com.</para>
+			<subHead>About Treadwell Media Group:</subHead>
+			<para>Treadwell Media Group provides innovative solutions to assist publishers in generating revenue through evolving digital content and rights channels.  Solutions include cost-effective conversion of content from electronic and paper sources into eBook and print-on-demand files, determination of rights held, and placement of both content and rights into publisher-specified channels of distribution.  Treadwell Media Group also delivers digital content strategy, operations and marketing consulting services.</para>
+			<subHead>About Tor/Forge (Holtzbrinck Publishing):</subHead>
+			<para>Tor/Forge is a division of Holtzbrinck Publishers, which is a U.S. subsidiary of Verlagsgruppe Georg Von Holtzbrinck, GmbH. Holtzbrinck Publishers includes the trade publishing houses of Henry Holt and Company, St. Martin's Press, Farrar, Straus &amp; Giroux, the academic and scholarly publishing company Palgrave, and the distribution company VHPS.</para>
+		</pressRelease>
+		<pressRelease shortName="pdlcdi">
+			<articleHeader>
+				<DOI>10.1220/pr20</DOI>
+				<articleTitle>PDL-CDI alliance</articleTitle>
+				<contributor>Treadwell Media Group</contributor>
+				<publisher/>
+				<subject/>
+				<format/>
+				<description>CONTENT DIRECTIONS INC. AND Treadwell Media Group ANNOUNCE THAT THEY HAVE ENTERED INTO A STRATEGIC ALLIANCE</description>
+			</articleHeader>
+			<pressReleaseContact>
+				<company>Treadwell Media Group</company>
+				<name>Ken Brooks</name>
+				<e-mail href="mailto:kbrooks@treadwellmedia.com">kbrooks@treadwellmedia.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseContact>
+				<company>Content Directions, Inc.</company>
+				<name>Tina Aridas</name>
+				<e-mail href="mailto:taridas@contentdirections.com">taridas@contentdirections.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseDate>January 29, 2003</pressReleaseDate>
+			<pressReleaseTitle>LEADING DOI REGISTRATION AGENCY AND LEADING CONTENT CONVERSION AND DISTRIBUTION COMPANY PARTNER TO ACCELERATE THE USE OF DOI WITHIN THE PUBLISHING INDUSTRY</pressReleaseTitle>
+			<pressReleaseSubtitle>Joint capabilities will provide publishers with an easier and faster way to adopt DOI to enhance content discoverability, increase web-based sales and improve customer service</pressReleaseSubtitle>
+			<Location>New York, NY</Location>
+			<para>Content Directions, Inc., the leading Digital Object Identifier (DOI) Registration Agency, and Treadwell Media Group, a leading provider of digital conversion and digital distribution services for the publishing industry, today announced that they have entered into
+a strategic alliance. The two companies will join forces to facilitate DOI registration throughout the publishing industry. This powerful combination of solutions will enable publishers to easily and rapidly assign DOIs to their electronic and print content marketed on the Internet.</para>
+			<para>Treadwell Media Group enables DOI registration for publishers as part of its normal metadata and content conversion services and also assists publishers in implementing DOI-related marketing programs. Treadwell Media Group is currently using DOIs to identify publisher-relevant material on eBooks, print, and print-on-demand related Intellectual Property on its website.</para>
+			<para>For a live example of the DOI technology, click on the following DOI for a white paper on Print-on-Demand in the Supply Chain <xrefURL href="http://dx.doi.org/10.1335/0000000008">http://dx.doi.org/10.1335/0000000008</xrefURL>.</para>
+			<para>"We congratulate Treadwell Media Group on being the first provider of digital conversion and distribution services for the publishing industry to take advantage of the DOI," said <bold>David Sidman, CEO of Content Directions</bold>. "As a leading fullservice provider, Publishing  Dimensions has recognized that the DOI is a key component of the online value chain, as it enables publishers to increase their revenue from Internet-based content, serve their customers anywhere online and reduce their costs throughout the sales and distribution chain. By partnering with  Treadwell Media Group, we will make the process of DOI registration even easier and more convenient for publishers."</para>
+			<para>"Treadwell Media Group offers metadata distribution for our conversion and distribution clients," said  <bold>Ken Brooks, President of Publishing  Dimensions</bold>. "Adding a registered DOI into that process is a natural next step. We believe it's important to help publishers make as much money as they can in the digital economy for print as well as electronic books. The DOI provides for excellent marketing capability in an otherwise cluttered Internet community. Assigning a DOI makes a title, an author or a subject much easier to locate and provides higher rankings as well as more targeted results on Google and other search engines."</para>
+			<subHead>About the Digital Object Identifier (DOI)</subHead>
+			<para>The DOI is a system for identifying and exchanging intellectual property in the digital
+environment. The DOI is similar to the UPC (bar code) in the physical world, but applied to Internet-based resources such as digital content published online, as well as to online references to physical content such as Print books and other physical products. It uniquely identifies these objects and provides permanent links to the publisher and/or to any related services the publisher wants to enable, thus facilitating online transactions of all kinds including e-commerce, rights management and digital distribution. Created by the primary architect of the Internet (Dr. Robert Kahn), the DOI can be thought of as "The
+Next-Generation URL," or "a URL on steroids," because it is:</para>
+			<unOrderedList>
+				<listItem>Unbreakable</listItem>
+				<listItem>Multi-linkable</listItem>
+				<listItem>Dynamic</listItem>
+				<listItem>Industry standard</listItem>
+				<listItem>Scalable</listItem>
+				<listItem>Low-cost to implement</listItem>
+			</unOrderedList>
+			<para>The
+DOI travels with the item it's registered to (book, chapter, section, database record, image, etc.) throughout the Internet, on syndicated and partner sites, and via downloads. As long as the user is connected to the Web,
+the DOI MultiLink™ functionality is fully searchable and remains in existence until the registrant
+reassigns them or shuts them off.</para>
+			<subHead>About Treadwell Media Group</subHead>
+			<para>Treadwell Media Group (<xrefURL href="http://www.treadwellmedia.com">http://www.treadwellmedia.com</xrefURL>), established in the Fall of 1999, handles content conversion for all sectors of the publishing community. Seeing a need for small publishers to get involved in the digital community, Treadwell Media Group established Quiet Island Books to handle distribution of titles through the
+major eBook and Print on Demand wholesale and retail channels. In addition to conversion and distribution solutions, Treadwell Media Group offers consulting services to the publishing industry.</para>
+			<subHead>About Content Directions, Inc. (CDI)</subHead>
+			<para>CDI assists companies to increase their sales and profitability by improving the discoverability and utilization of their intellectual property and services, both on the Internet and within their enterprises. Its major tool is the DOI, a linking mechanism developed by the primary inventor of the Internet (Dr. Robert Kahn) and representing &quot;The Next-Generation URL&quot; in terms of superior
+reliability and functionality. (See above for more information about the DOI.)</para>
+			<para>CDI is a DOI Registration Agency dedicated exclusively to implementing and
+promoting the use of the Digital Object Identifier (DOI). This includes consulting on how the DOI can
+increase an organization's revenues and cut costs, as well as actually registering DOI's for digital content. Additional information on the DOI and on CDI's products and services can be found at <xrefURL href="http://www.contentdirections.com/">http://www.contentdirections.com</xrefURL>. Live DOIs from other CDI customers can be found at <xrefURL href="http://dx.doi.org/10.1220/demo21">http://dx.doi.org/10.1220/demo21</xrefURL>. For more information, please email us at <xrefURL href="mailto:info@contentdirections.com">info@contentdirections.com</xrefURL> or click on the DOI for this press release: 
+							<xrefURL href="http://dx.doi.org/10.1220/pr20">http://dx.doi.org/10.1220/pr20</xrefURL>.</para>
+		</pressRelease>
+		<pressRelease shortName="quiet">
+			<articleHeader>
+				<DOI>10.1335/0000000017</DOI>
+				<articleTitle>Quiet Island Books Press Release</articleTitle>
+				<contributor>Treadwell Media Group</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBooks, Treadwell Media Group Services, Distribution, Print on Demand, POD</subject>
+				<format>html</format>
+				<description>Press release announcing Quiet Island Books, an eBook and Print-on-Demand Distributor for small publishers.</description>
+			</articleHeader>
+			<pressReleaseContact>
+				<company>Treadwell Media Group</company>
+				<name>Ken Brooks</name>
+				<e-mail href="mailto:kbrooks@treadwellmedia.com">kbrooks@treadwellmedia.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseDate>February 28, 2003</pressReleaseDate>
+			<pressReleaseTitle> LEADING ELECTRONIC CONVERSION AND CONSULTING COMPANY INTRODUCES EBOOK DISTRIBUTION SERVICE FOR SMALL PUBLISHERS AND PREVIOUSLY PUBLISHED AUTHORS</pressReleaseTitle>
+			<Location>New York, NY</Location>
+			<para>Treadwell Media Group, a leading content conversion and publishing consultancy today announced its new distribution division, <xrefURL href="http://www.QuietIslandBooks.com">Quiet Island Books</xrefURL>. Quiet Island Books easily becomes any publisher's eBook and print-on-demand distributor, by setting up the publisher's titles in the major secure eBook wholesale and retail channels. Quiet Island Books was founded after receiving requests from small publishers and eBook retailers needing to find a convenient way to work together.</para>
+			<para>Small publishers who cannot designate a staff member to handle eBooks for their company will find Quiet Island Books services useful. "We are just delighted to work with Quiet Island Books," stated Herb Meyer, President of Storm King Press, "They provide a service we need at a very reasonable price, and by doing so enable us to reach markets that otherwise would lie beyond our grasp." Herb Meyer, author of How to Write, a book critically acclaimed by The New York Times on how to communicate ideas and information effectively in writing, has sold over 200,000 of his title in paper format.  The timeless book is currently reaching a broader audience through various electronic formats and went as high as #4 on the Palm Digital Media overall best seller list, as well as sitting in the #1 spot for nonfiction and self-help on Palm Digital Media's list.</para>
+			<para>"We were receiving numerous eBook and print-on-demand distribution requests from smaller publishers who didn't have relationships with wholesalers and retailers through which to sell their titles. In the current eBook market the best way to sell eBooks is through the widest array of distribution partners combined with the widest variety of secure formats. Unfortunately, that strategy requires a lot of administration, from sending title metadata to issuing royalty statements.   Many publishers simply don't have the staff for that." stated Kathleen Doody, Director of Account Management at Treadwell Media Group. "We saw a definite need to enable these houses who publish respectable, marketable titles, to participate in the burgeoning eBook economy."</para>
+			<para>Quiet Island Books arranges distribution through all major on-line eBook and POD channels including Content Reserve, eBooks.com, Lightning Source, Palm Digital Media, Mobipocket.com and the major on-line eBook retailers.</para>
+			<para>Treadwell Media Group (<xrefURL href="www.treadwellmedia.com">www.treadwellmedia.com</xrefURL>), established in the Fall of 1999, is a leading content conversion company, handling conversion for all sectors of the publishing industry. Seeing a need for small publishers to get involved in the digital community, Treadwell Media Group established Quiet Island Books to handle distribution of titles through the major eBook and Print on Demand wholesale and retail channels. In addition to conversion and distribution solutions, Treadwell Media Group offers consulting services to the publishing industry.</para>
+		</pressRelease>
+		<pressRelease shortName="paraview">
+			<articleHeader>
+				<DOI>10.1220/pr23</DOI>
+				<articleTitle>Paraview Publishing Books Press Release</articleTitle>
+				<contributor>Treadwell Media Group</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>eBooks, Treadwell Media Group Services, Distribution, DOI</subject>
+				<format>html</format>
+				<description>Press release announcing Treadwell Media Group' relationship with Paraview Press to assist them in the implementation of Digital Object Identifiers (DOIs).</description>
+			</articleHeader>
+			<pressReleaseContact>
+				<company>Treadwell Media Group</company>
+				<name>Ken Brooks</name>
+				<e-mail href="mailto:kbrooks@treadwellmedia.com">kbrooks@treadwellmedia.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseContact>
+				<company>Paraview Publishing</company>
+				<name>Alex Dake</name>
+				<e-mail href="mailto:alex@paraview.com">alex@paraview.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseContact>
+				<company>Content Directions, Inc.</company>
+				<name>Tina Aridas</name>
+				<e-mail href="mailto:taridas@contentdirections.com">taridas@contentdirections.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseDate>March 11, 2003</pressReleaseDate>
+			<pressReleaseTitle>PARAVIEW PUBLISHING AND Treadwell Media Group ANNOUNCE AGREEMENT TO IMPLEMENT DIGITAL OBJECT IDENTIFIERS</pressReleaseTitle>
+			<Location>New York, NY</Location>
+			<pressReleaseSubtitle>Companies Will Use Content Directions DOI Registration Service.</pressReleaseSubtitle>
+			<para>Paraview Publishing, a publisher of streaming video, print-on-demand and eBooks for body, mind and spirit audiences and Treadwell Media Group, a leading content conversion and publishing consultancy today announce their agreement to implement Digital Object Identifiers (DOI) to aid in online marketing of Paraview Publishing titles.. Quiet Island Books easily becomes any publisher's eBook and print-on-demand distributor, by setting up the publisher's titles in the major secure eBook wholesale and retail channels. Quiet Island Books was founded after receiving requests from small publishers and eBook retailers needing to find a convenient way to work together.</para>
+			<para>"We're looking forward to utilizing DOI technology to increase the presence of our books and authors on the web. DOI technology enables us in an effortless manner to provide contextual and purchase information on our titles on the Internet. This will add to the experience of readers interested in obtaining more information than just title and price," stated Alexander Dake, CEO of Paraview Publishing. "Implementing DOIs using Treadwell Media Group' consulting services makes complete sense, since they are already handling the conversion and distribution of our titles. Treadwell Media Group' recently announced partnership with Content Directions just adds to capabilities we've come to rely on to make all of the pieces fit and flow together nicely." For a live example of a DOI applied to a Paraview title, Mysterious America, by Loren Coleman, click on the following DOI: (<xrefURL href="http://dx.doi.org/10.1334/1931044058">http://dx.doi.org/10.1334/1931044058</xrefURL>).</para>
+			<para>"It is a pleasure to partner with Treadwell Media Group and by extension Paraview Publishing," said David Sidman, CEO of Content Directions. "It's terrific to see interest in the DOI growing in many different sectors of publishing and to see how small publishers are recognizing how they can benefit from the use of DOIs to promote their authors and titles."</para>
+			<para>According to Ken Brooks, President of Treadwell Media Group, "Assigning a DOI to a piece of content is a natural fit with Treadwell Media Group conversion offering. Paraview Publishing will be able to more effectively market their titles and increase the presence of their authors on the web. We're particularly excited about the use of DOIs to promote additional sales to interested audiences."</para>
+			<para>Treadwell Media Group (<xrefURL href="http://www.treadwellmedia.com">http://www.treadwellmedia.com</xrefURL>), established in the Fall of 1999, handles content conversion for all sectors of the publishing community. Seeing a need for small publishers to get involved in the digital community, Treadwell Media Group established Quiet Island Books to handle distribution of titles through the major eBook and Print on Demand wholesale and retail channels. In addition to conversion and distribution solutions, Treadwell Media Group offers a range of consulting services to the publishing industry.</para>
+			<para>Paraview Publishing founded in 2000, is a publisher that utilizes new media technology to publish quality works in body, mind, and spirit and the frontiers of science and culture -- areas related to the transformation of society. Our imprints include Paraview Press, print-on-demand books for niche audiences; Paraview Special Editions, reprints of select out-of-print books and international books; and Paraview Pocket Books, traditionally published works for a wide audience. Based in New York City, Paraview targets a global audience, including over 50 million Americans who are interested in health lifestyles, personal development and the transformation of society. Visit us on <xrefURL href="http://www.paraview.com/">http://www.paraview.com/</xrefURL>.</para>
+			<para>Content Directions assists companies to increase their sales and profitability by improving the discoverability and utilization of their intellectual property and services, both on the Internet and within their enterprises. Its major tool is the DOIÂ®, a linking mechanism developed by the primary inventor of the Internet (Dr. Robert Kahn) and representing "The Next-Generation URL" in terms of superior reliability and functionality. Additional information on the DOI and on CDI's products and services can be found at <xrefURL href="http://www.contentdirections.com">http://www.contentdirections.com</xrefURL>. Live DOIs from other CDI customers can be found at <xrefURL href="http://dx.doi.org/10.1220/demo21">http://dx.doi.org/10.1220/demo21</xrefURL>.</para>
+			<para>For further information, click on the DOI for this press release <xrefURL href="http://dx.doi.org/10.1220/pr23">http://dx.doi.org/10.1220/pr23</xrefURL>.</para>
+		</pressRelease>
+		<pressRelease shortName="compositionrelease">
+			<articleHeader>
+				<DOI>10.1335/0000000019</DOI>
+				<articleTitle>Composition Services Press Release</articleTitle>
+				<contributor>Treadwell Media Group</contributor>
+				<publisher>Treadwell Media Group</publisher>
+				<subject>Treadwell Media Group Services, Book Publishing, Editorial, Page Makeup, Composition, Production, Book Production, eBooks, XML, XSL</subject>
+				<format>html</format>
+				<description>Press release announcing Treadwell Media Group' introduction of Composition Services.</description>
+			</articleHeader>
+			<pressReleaseContact>
+				<company>Treadwell Media Group</company>
+				<name>Ken Brooks</name>
+				<e-mail href="mailto:kbrooks@treadwellmedia.com">kbrooks@treadwellmedia.com</e-mail>
+			</pressReleaseContact>
+			<pressReleaseDate>May 5, 2003</pressReleaseDate>
+			<pressReleaseTitle>LEADING PUBLISHING SERVICES AND CONSULTING COMPANY INTRODUCES PRINT COMPOSITION SERVICES</pressReleaseTitle>
+			<Location>New York, NY</Location>
+			<para>Treadwell Media Group, a leading content conversion and publishing consultancy today announced a new service line: <bold>composition services</bold> for print and PDF publishing. This service utilizes a new approach to editing and page-makeup that uses XML from the very beginning and saves the publisher up to 25% in production costs. The process begins before an editor starts working with the manuscript – providing the speed, low cost, and flexibility available only through the use of XML technology, yet allowing the editors who prefer it to continue to work on paper.</para>
+			<para>The service offers publishers a number of significant benefits in addition to substantial cost savings: </para>
+			<bulletList>
+				<listItem>Reduced development time through simultaneous copyediting and indexing.</listItem>
+				<listItem>Enables the most rapid turn-around to meet critical deadlines at any stage in the process.</listItem>
+				<listItem>Editors and indexers can continue working on paper (if that’s what they’re used to), or if they prefer to work electronically, they have that option as well.</listItem>
+				<listItem>Title content is immediately available for other uses (special editions, large print editions, excerpts, compilations, etc.) and other formats (eBooks, POD, web, etc.) without the need for detailed proofing and re-editing.</listItem>
+				<listItem>Galleys can be generated at any time during the process complete with up-to-date edits made in the central XML file.</listItem>
+				<listItem>Designs can be rapidly altered: to optimize appearance, book length or evaluate other design alternatives.</listItem>
+				<listItem>No extra charge for delivery of printed pages (up to 3 sets).</listItem>
+				<listItem>No extra charge for reasonable amount of EAs (3 per 10 pages).</listItem>
+			</bulletList>
+			<para>For the increasing number of publishers who are integrating cross-media publishing into their products, this service offers the ideal: print, web, eBook and any other format can be delivered as part of the print production process.</para>
+			<para>"It always puzzled us why composition houses weren’t able to provide eBooks at the same time as print editions or achieve the kind of economics we knew were possible. With this service we’re finally able to demonstrate how the promise of XML can be achieved in one of the key publishing processes – moving a title from manuscript to print." said Ken Brooks, President of Treadwell Media Group. "We are actively using this process with several clients and the results really are outstanding. We were able to apply our technical skills and knowledge of the publishing industry to create an offering that bridges the digital and print world to the benefit of each."</para>
+			<subHead>About Treadwell Media Group:</subHead>
+			<para>Treadwell Media Group (<xrefURL href="http://www.treadwellmedia.com">http://www.treadwellmedia.com</xrefURL>), established in the Fall of 1999, handles content conversion for all sectors of the publishing community. Treadwell Media Group introduced XML into their workflow during the second quarter of 2002 and has seen remarkable improvements in their offering including turn around, format consistency and cost. In addition to conversion and distribution solutions, Treadwell Media Group offers a range of consulting services to the publishing industry.</para>
+			<para>For further information on our composition services please visit either:</para>
+			<bulletList>
+				<listItem>
+					<xrefURL href="http://www.treadwellmedia.com/services/composition">http://www.treadwellmedia.com/services/composition</xrefURL>
+				</listItem>
+				<listItem>
+					<xrefURL href="http://dx.doi.org/10.1335/0000000019">http://dx.doi.org/10.1335/0000000019</xrefURL>
+				</listItem>
+			</bulletList>
+		</pressRelease>
+	</news>
+</document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Folder FolderName="XML Files" ExtStr="xml;cml;math;mtx;rdf;smil;svg;wml">
+		<File FilePath="C:\Documents and Settings\kbrooks\My Documents\Areas\Personal\Taxonomy\MultiTES XML.xml" HomeFolder="Yes"/>
+		<File FilePath="TMG website.xml" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="XSL Files" ExtStr="xsl;xslt">
+		<File FilePath="ConceptRender.xsl" HomeFolder="Yes"/>
+		<File FilePath="C:\Documents and Settings\kbrooks\My Documents\Areas\Personal\Taxonomy\MultiTES2TMG.xsl" HomeFolder="Yes"/>
+		<File FilePath="C:\Documents and Settings\kbrooks\My Documents\Areas\Personal\Taxonomy\TMG2MultiTES.xsl" HomeFolder="Yes"/>
+		<File FilePath="S:\Treadwell Media Group\Book Site\TMGQA.xsl" HomeFolder="Yes"/>
+		<File FilePath="TMGSite2HTML.xsl" HomeFolder="Yes"/>
+		<File FilePath="TMGSite2HTML_test.xsl" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery"/>
+	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp">
+		<File FilePath="Cases\ABS1.htm" HomeFolder="Yes"/>
+		<File FilePath="Articles\Clearing the Rights Bottleneck.htm" HomeFolder="Yes"/>
+		<File FilePath="Articles\CommonFormats.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\custompublishing.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\distribution.htm" HomeFolder="Yes"/>
+		<File FilePath="Resources\eBook_Device.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\econsulting.htm" HomeFolder="Yes"/>
+		<File FilePath="index.htm" HomeFolder="Yes"/>
+		<File FilePath="Cases\index.htm" HomeFolder="Yes"/>
+		<File FilePath="articles\index.htm" HomeFolder="Yes"/>
+		<File FilePath="Resources\index.htm" HomeFolder="Yes"/>
+		<File FilePath="Taxonomy\index.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\index.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\marketing.htm" HomeFolder="Yes"/>
+		<File FilePath="Articles\Notes on Forecasting Demand in Publishing.htm" HomeFolder="Yes"/>
+		<File FilePath="Articles\Optimizing content for multichannel publishing (text version).htm" HomeFolder="Yes"/>
+		<File FilePath="Articles\Order Management.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\pconsulting.htm" HomeFolder="Yes"/>
+		<File FilePath="Articles\PODBookSupplyChain.htm" HomeFolder="Yes"/>
+		<File FilePath="Capabilities\rights.htm" HomeFolder="Yes"/>
+		<File FilePath="TMG Design\Treadwell Media Group Website\TMGHomepage.html" HomeFolder="Yes"/>
+		<File FilePath="TMG Design\Treadwell Media Group Website\TMGSolutions.html" HomeFolder="Yes"/>
+		<File FilePath="TMG Design\Treadwell Media Group Website\TMGSolutionsSolution.html" HomeFolder="Yes"/>
+		<File FilePath="Articles\where_is_money.htm" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="DTD/Schemas" ExtStr="dtd;dcd;xdr;biz;xsd">
+		<File FilePath="TMG Site.xsd" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="Entities" ExtStr="ent"/>
+	<File FilePath="includes\print.css" HomeFolder="Yes"/>
+	<File FilePath="includes\tmg.css" HomeFolder="Yes"/>
+	<File FilePath="TMG Design\Treadwell Media Group Website\TMG.css" HomeFolder="Yes"/>
+</Project>

@@ -1,0 +1,38 @@
+body { 
+background-color: #fff; 
+color: #000; 
+font-family: "Times New Roman", Garamond, serif; 
+font-size: 12pt; 
+
+}
+
+caption {
+caption-side: bottom;
+font-style: italic;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+table {
+float: left;
+keep-together: always;
+align: center;
+}
+
+
+div.navigation {display:none;}
+div.content {
+margin-left: 1in;
+margin-right: 1in;
+margin-top: 0.5in;
+margin-bottom: 0.5in;
+}
+div.header {display:none;}
+div.footer {display:none;}
+
+@page :left {@bottom-left {content: counter(page);}}
+@page :right { @bottom-right {content: counter(page); }}
+@page :first { @bottom-right { content: normal;}}
+ h1, h2, h3, h4, h5, h6 { page-break-after: avoid; }

@@ -1,0 +1,32 @@
+<!-- header.stm -->
+
+<table width="100%" cellpadding="5" cellspacing="0">
+
+	<tr>
+		<td bgcolor="#0000CC" width="140">
+			<a href="http://www.treadwellmedia.com/"><img src="/includes/logo.gif" border="0"/></a>
+		</td>
+		<td bgcolor="#0000CC" width="500">
+			<font size="4" color="#FFFFFF"><b>Treadwell Media Goup</b></font><br/>
+			<font size="1" color="#C0C0C0"><a href="mailto:info@treadwellmedia.com"><font color="C0C0C0">info@treadwellmedia.com</font></a></font>
+		</td></tr>
+	<tr>
+		<td colspan="3" bgcolor="#0000CC" align="center">	</td>
+	</tr>
+
+<tr>
+	<td colspan="3" bgcolor="#ff0000" align="center">
+		<font size="1" color="#FFFFFF">
+			<b><a href="http://www.treadwellmedia.com/" class="sn">HOME</a></b> | 
+			<b><a href="/services/" class="sn">SERVICES</a></b> | 
+			<b><a href="/corporate/" class="sn">CORPORATE</a></b> | 
+			<b><a href="/faq/" class="sn">FAQ</a></b> | 
+			<b><a href="/articles/" class="sn">ARTICLES</a></b> | 
+			<b><a href="/resources/" class="sn">RESOURCES</a></b> | 
+			<b><a href="/contact/" class="sn">CONTACT</a></b> | 
+			<b><a href="/news/" class="sn">NEWS</a></b>
+		</font>
+	</td>
+</tr>
+
+</table>
