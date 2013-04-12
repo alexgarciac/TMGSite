@@ -24,7 +24,7 @@
 		<masterServiceLine shortName="marketing">
 			<articleHeader>
 				<subject>Book marketing, galley, ARC, print on demand, POD, eBook galleys, bound galley</subject>
-				<DOI>10.13350000000012</DOI>
+				<DOI>10.1335/0000000013</DOI>
 				<category idref="Marketing"/>
 			</articleHeader>
 			<masterServiceLineName>DigitalGalley Book Marketing Services</masterServiceLineName>
@@ -50,7 +50,7 @@
 		<masterServiceLine shortName="distribution">
 			<articleHeader>
 				<subject>ebook distribution, book distribution, ebooks, Quiet Island, Treadwell Media Group, Ken Brooks</subject>
-				<DOI>10.13350000000011</DOI>
+				<DOI>10.1335/0000000011</DOI>
 				<category idref="Distribution"/>
 			</articleHeader>
 			<masterServiceLineName>Quiet Island Books eBook and POD Distribution Services</masterServiceLineName>
@@ -132,7 +132,7 @@
 		<masterServiceLine shortName="econsulting">
 			<articleHeader>
 				<subject>ebook consulting, XML, PDF, workflow, digital workflow, digital distribution, ebooks, publishing consulting</subject>
-				<DOI>10.13350000000013</DOI>
+				<DOI>10.1335/0000000013</DOI>
 				<category idref="Digital_Strategy"/>
 			</articleHeader>
 			<masterServiceLineName>ePublishing Consulting Services</masterServiceLineName>
@@ -145,7 +145,7 @@
 		<masterServiceLine shortName="pconsulting">
 			<articleHeader>
 				<subject>Treadwell Media Group Services, Book Publishing, Publishing, Consulting, Strategy, Production, Operations, Finance</subject>
-				<DOI>10.13350000000014</DOI>
+				<DOI>10.1335/0000000014</DOI>
 				<category idref="Cost_Reduction"/>
 			</articleHeader>
 			<masterServiceLineName>Traditional Publishing Consulting Services</masterServiceLineName>
@@ -168,7 +168,7 @@
 		<masterServiceLine shortName="rights">
 			<articleHeader>
 				<subject>Treadwell Media Group, Book Publishing, Contracts, Rights Management, DRM, Digital Rights Management, Ken Brooks, Publishing Dimensions</subject>
-				<DOI>10.13350000000016</DOI>
+				<DOI>10.1335/0000000016</DOI>
 				<category idref="Rights_Management"/>
 			</articleHeader>
 			<masterServiceLineName>Rights Conversion Services</masterServiceLineName>
@@ -594,7 +594,7 @@
 		</article>
 		<article shortName="strategy" generate="no">
 			<articleHeader>
-				<DOI>10.13350000000006</DOI>
+				<DOI>10.1335/0000000006</DOI>
 				<articleTitle>Publisher Conversion Strategy</articleTitle>
 				<contributor>Kenneth M. Brooks, Jr.</contributor>
 				<publisher>Treadwell Media Group</publisher>
@@ -678,10 +678,24 @@
 				<xrefURL href="DOI_Building_Blocks.pdf"/>
 			</articleHeader>
 		</article>
+		<article shortName="MonthlyForecast" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000022</DOI>
+				<articleTitle>Why a Rolling Monthly Demand Forecast?</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<subject>Inventory Management</subject>
+				<format>html</format>
+				<description>Why should publishers go to the effort of creating a monthly, title-level, rolling forecast?</description>
+				<category idref="Higher_Ed"/>
+				<category idref="Inventory_Management"/>
+				<category idref="Operations"/>
+				<xrefURL href="Rolling_Monthly_Forecast.htm"/>
+			</articleHeader>
+		</article>
 		<article shortName="EdPubIssues" generate="no">
 			<articleHeader>
 				<DOI>10.1335/0000000021</DOI>
-				<articleTitle>Issues in Education Publishing: Implications on Production and Operations Processes</articleTitle>
+				<articleTitle>Operational Issues in Education Publishing</articleTitle>
 				<contributor>Kenneth M. Brooks, Jr.</contributor>
 				<subject>Production</subject>
 				<format>html</format>
@@ -689,7 +703,21 @@
 				<category idref="Higher_Ed"/>
 				<category idref="Production"/>
 				<category idref="Operations"/>
-				<xrefURL href="Operational Issues in Education Publishing.doc"/>
+				<xrefURL href="Operational_Issues.htm"/>
+			</articleHeader>
+		</article>
+		<article shortName="DigitalLeap" generate="no">
+			<articleHeader>
+				<DOI>10.1335/0000000023</DOI>
+				<articleTitle>Making the Digital Leap: Protecting the Value of Your Business in the Migration from Print to Electronic</articleTitle>
+				<contributor>Kenneth M. Brooks, Jr.</contributor>
+				<subject>Digital Strategy</subject>
+				<format>html</format>
+				<description>Describes steps publishers can take to maintain value while converting processes, systems and workforce to generate digital products.</description>
+				<category idref="Higher_Ed"/>
+				<category idref="Production"/>
+				<category idref="Operations"/>
+				<xrefURL href="Making_Digital_Leap.htm"/>
 			</articleHeader>
 		</article>
 	</articles>

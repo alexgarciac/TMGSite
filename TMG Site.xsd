@@ -12,20 +12,24 @@
 				<xs:enumeration value="10.1335/0000000003"/>
 				<xs:enumeration value="10.1335/0000000004"/>
 				<xs:enumeration value="10.1335/0000000005"/>
+				<xs:enumeration value="10.1335/0000000006"/>
 				<xs:enumeration value="10.1335/0000000007"/>
 				<xs:enumeration value="10.1335/0000000008"/>
 				<xs:enumeration value="10.1335/0000000009"/>
+				<xs:enumeration value="10.1335/0000000011"/>
+				<xs:enumeration value="10.1335/0000000012"/>
+				<xs:enumeration value="10.1335/0000000013"/>
+				<xs:enumeration value="10.1335/0000000014"/>
+				<xs:enumeration value="10.1335/0000000016"/>
 				<xs:enumeration value="10.1335/0000000017"/>
 				<xs:enumeration value="10.1335/0000000018"/>
 				<xs:enumeration value="10.1335/0000000019"/>
 				<xs:enumeration value="10.1335/0000000020"/>
 				<xs:enumeration value="10.1335/0000000021"/>
-				<xs:enumeration value="10.13350000000006"/>
-				<xs:enumeration value="10.13350000000011"/>
-				<xs:enumeration value="10.13350000000012"/>
-				<xs:enumeration value="10.13350000000013"/>
-				<xs:enumeration value="10.13350000000014"/>
-				<xs:enumeration value="10.13350000000016"/>
+				<xs:enumeration value="10.1335/0000000022"/>
+				<xs:enumeration value="10.1335/0000000023"/>
+				
+
 				<xs:enumeration value="10.13350000000050"/>
 			</xs:restriction>
 		</xs:simpleType>
@@ -117,6 +121,7 @@
 				<xs:enumeration value="American Bible Society"/>
 				<xs:enumeration value="B&amp;N"/>
 				<xs:enumeration value="BDD"/>
+				<xs:enumeration value="Cengage Learning"/>
 				<xs:enumeration value="HarperCollins"/>
 				<xs:enumeration value="Houghton Mifflin"/>
 				<xs:enumeration value="Lightning Source"/>
@@ -191,8 +196,7 @@
 									<xs:sequence>
 										<xs:element ref="name"/>
 										<xs:element ref="title"/>
-										<xs:element name="biodescription" maxOccurs="unbounded">
-										</xs:element>
+										<xs:element name="biodescription" maxOccurs="unbounded"/>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
