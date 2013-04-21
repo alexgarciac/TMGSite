@@ -4,165 +4,211 @@
 <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Q:\Treadwell Media Group\TMG Site\TMG Site.xsd">
 	<welcome>
 		<para>
-			<bold>Innovative Publishing Solutions</bold>: eBooks, consulting, editorial, marketing, distribution...a single solutions source</para>
-		<para>Backed by seasoned publishing professionals across the editorial, production and marketing/sales spectrum, TMG provides affordable solutions to publishers at a critical stage of growth by grouping and supporting shared services. We allow our publishing partners to concentrate on crafting their best assets and delivering their core competencies while we provide the rest.</para>
-		<para>We focus in the following areas:</para>
+			<bold>The Challenge</bold>
+		</para>
+		<para>These days publishers face questions in many areas where process has formerly been defined by time tested methods and experience. Some of those questions are:</para>
 		<bulletList>
-			<listItem>Distribution in print and electronic formats specializing in small lists into key markets</listItem>
-			<listItem>Development of eBook and other digital content including rich media</listItem>
-			<listItem>Packaging, offering a full range of services from concept to disc</listItem>
-			<listItem>State of the art production and manufacturing</listItem>
-			<listItem>Editorial - from start to finish including content creation, editing, copyediting and proofing</listItem>
-			<listItem>Creative design</listItem>
-			<listItem>Consulting</listItem>
-			<listItem>Rights services - from acquisition, to management, to sales</listItem>
+			<listItem>How can the digital transition be managed while maintaining print output?</listItem>
+			<listItem>	How can new technologies including agile, cloud, social and mobile be integrated into products and internal processes?</listItem>
+			<listItem>Which new channels and tools are worth pursuing?</listItem>
+			<listItem>How can speed-to-market and customer engagement be improved in new and existing products?</listItem>
+			<listItem>How can financial performance be improved in key areas of operations: inventory, backorders, obsolescence, plant cost, operating expense?</listItem>
+			<listItem>	How can metrics be used to link operational performance to business results? Are there other opportunities to use advanced analytics to improve business performance?</listItem>
+			<listItem>How does one go about retooling the workforce in order to create engaging digital products from a classic print-centric organization?</listItem>
+			<listItem>What role should "agile" play in product development and editorial processes?  In platform development? In infrastructure technology?</listItem>
+			<listItem>How can the current workforce best be engaged in creating innovative products, services and processes for the future?</listItem>
+			<listItem>What does the future workforce look like and where can they be found?</listItem>
 		</bulletList>
-		<para>Whether you are a publisher interested in building value through the addition of digital delivery and eBook formats, an international publisher hoping to establish a foothold in the US market, or a content provider or publisher who needs an experienced packager, TMG is your single source for solutions.</para>
-		<para>The founders of TMG have been adding value to publishers and authors in the trade, education, and professional fields for more than a decade, working in both electronic media as well as traditional publishing. Through a creative and consultative approach to solving publisher needs, and drawing on networks of publishing professionals in the field, they support an enterprise dedicated to achievement and profit for their publishing partners. TMG favors the team approach to solutions, believing that success follows from the interaction of a community of inspired equals.</para>
+		<para>
+			<bold>The Offer</bold>
+		</para>
+		<para>Treadwell Media Group offers consulting services to help publishers address these concerns with proven results.  Our focus is in the application of technology, supplier capabilities and process innovation to improve operating effectiveness. Basically, using bottom line results to help drive top line growth.</para>
+		<para>Specific services include:</para>
+		<bulletList>
+			<listItem>Digital strategy</listItem>
+			<listItem>Technology management and integration</listItem>
+			<listItem>Product development effectiveness</listItem>
+			<listItem>Supply chain / operations management effectiveness</listItem>
+			<listItem>Outsourcing and vendor management</listItem>
+			<listItem>Rights management</listItem>
+		</bulletList>
+		<para>
+			<bold>The Client</bold>
+		</para>
+		<para>Whether you are a publisher interested in building value through the addition of digital delivery and eBook formats, or a content provider or publisher who needs to tune up existing operations, TMG is the single source for solutions.</para>
+		<para>
+			<bold>About Treadwell Media Group</bold>
+		</para>
+		<para>The founders of TMG have been adding value to publishers and authors in the trade, education, and professional fields for more than a decade, working in both electronic media as well as traditional publishing. Through a creative and consultative approach to solving publisher needs, and drawing on networks of publishing professionals in the field, they support an enterprise dedicated to achievement and profit for their publishing partners. Contact us and find out what we can do for you!</para>
 	</welcome>
 	<services>
-		<masterServiceLine shortName="marketing">
+		<masterServiceLine shortName="digitalstrategy">
 			<articleHeader>
-				<subject>Book marketing, galley, ARC, print on demand, POD, eBook galleys, bound galley</subject>
-				<DOI>10.1335/0000000013</DOI>
-				<category idref="Marketing"/>
+				<subject>Digital strategy, digital publishing, print on demand, POD</subject>
+				<DOI>10.1335/0000000024</DOI>
+				<category idref="Strategy"/>
 			</articleHeader>
-			<masterServiceLineName>DigitalGalley Book Marketing Services</masterServiceLineName>
+			<masterServiceLineName>Digital Strategy</masterServiceLineName>
 			<serviceLineDescription>
-				<para>Treadwell Media Group has built its reputation by offering high-quality content conversion and consulting services to publishers entering the eBook space. Now it offers DigitalGalley, a new program that removes costs from the galley and ARC distribution process while simultaneously adding flexibility to it.</para>
-				<para>Publishers have long known that the best way to build distribution and then sell-through for a book is through word-of-mouth initiated by "thought" leaders such as reviewers, librarians, and booksellers. It has always been difficult to reach these thought leaders, not only because of the expense of printing and distributing bound galleys and advance reader's copies, but also because these leaders vary by book type and subject; a source well regarded for his/her business book recommendations can't always recommend the latest thriller.</para>
-				<para>Treadwell Media Group has recognized this problem, and with the introduction of our DigitalGalley service, <xrefURL href="http://www.DigitalGalley.com">www.DigitalGalley.com</xrefURL>, we have taken the first step toward addressing it. This service delivers digital copies of forthcoming books in many popular formats—including the most popular—Palm Digital Media (formerly Peanut Press). Naturally, this process can be applied to either a selection from a book or a book in its entirety. With DigitalGalley publishers have a low-cost and fast new channel through which they can reach reviewers, librarians and booksellers. For those yet to adopt the new technology, we also offer traditional bound galley production and distribution services.</para>
-				<para>DigitalGalley is the first of an anticipated suite of marketing services to come from Treadwell Media Group. During the months ahead we will continue to add services to make book marketing an increasingly painless but fruitful process for publishers.</para>
-				<para>For further information on DigitalGalley or the ways in which Treadwell Media Group can assist you with your book production, distribution and marketing needs, please contact info@treadwellmedia.com.</para>
-				<para>Features of DigitalGalley:</para>
+				<para>Many of the most pressing issues facing publishers involve managing a transition to digital products, channels and marketing into existing print operations while minimizing the effect on their overall economics. For those publishers who are uncertain as to how to best participate in the digital revolution, Treadwell Media Group assists with a range of digital strategy, operations and implementation consulting services. </para>
+				<para>Some of the questions we've assisted clients answer include:</para>
 				<unOrderedList>
-					<listItem>Create your own publisher galley page or use one of ours</listItem>
-					<listItem>Create your own title page or use one of ours</listItem>
-					<listItem>Secure or "shareable" distribution of eBook content, either as selections or full titles</listItem>
-					<listItem>Registration of eBook downloads to know who is looking at which title</listItem>
-					<listItem>Direct connection with reviewers allowing them to request printed galleys</listItem>
-					<listItem>Access to Treadwell Media Group mailing list of reviewers to enhance your own</listItem>
-					<listItem>Printing and distribution of traditional bound galleys and ARCs in conjunction with or in place of eBook distribution</listItem>
-					<listItem>Customized book marketing services available on request: let our team of designers and engineers work with you to achieve your book marketing goals</listItem>
+					<listItem>How can the digital transition be managed while maintaining print output?</listItem>
+					<listItem>How can new technologies including agile, cloud, social and mobile be integrated into products and internal processes?</listItem>
+					<listItem>Which new channels and tools are worth pursuing?</listItem>
+					<listItem>How can speed-to-market and customer engagement be improved in new and existing products?</listItem>
+					<listItem>How does one go about retooling the workforce in order to create engaging digital products from a classic print-centric organization?</listItem>
+					<listItem>What role should "agile" play in product development and editorial processes?  In platform development? In infrastructure technology?</listItem>
+					<listItem>How can the current workforce best be engaged in creating innovative products, services and processes for the future?</listItem>
+					<listItem>How should pricing of print and digital be handled across channels and geography?</listItem>
+					<listItem>When should DRM be used?  When shouldn't it?</listItem>
+					<listItem>What advantages does XYZ (XML, HTML5, EPUB, responsive design, MarkLogic, NoSQL, etc.) technology offer in current processes and products? Should it be used? How can it be effectively integrated in the existing environment?</listItem>
+					<listItem>What's the most effective way to implement custom publishing or sales by chapter?</listItem>
 				</unOrderedList>
+				<para>Whether you are concerned about what platforms, formats or channels to pursue, or how best to integrate eBooks and print-on-demand into your existing production process, the Treadwell Media Group team of eBook and traditional publishing experts can help you prepare for your company’s future.</para>
 			</serviceLineDescription>
 		</masterServiceLine>
-		<masterServiceLine shortName="distribution">
+		<masterServiceLine shortName="productdevelopment">
 			<articleHeader>
-				<subject>ebook distribution, book distribution, ebooks, Quiet Island, Treadwell Media Group, Ken Brooks</subject>
-				<DOI>10.1335/0000000011</DOI>
-				<category idref="Distribution"/>
+				<subject>Publishing, Product Development, Editorial Development, Production</subject>
+				<DOI>10.1335/0000000025</DOI>
+				<category idref="product_development"/>
 			</articleHeader>
-			<masterServiceLineName>Quiet Island Books eBook and POD Distribution Services</masterServiceLineName>
+			<masterServiceLineName>Product Development Effectiveness</masterServiceLineName>
 			<serviceLineDescription>
-				<para>
-					<xrefURL href="http://www.QuietIslandBooks.com">Quiet Island Books</xrefURL> Quiet Island Books assists small publishers and previously published authors by distributing their content through secure eBook and print-on-demand wholesale and retail channels.</para>
-				<para>Currently, Treadwell Media Group distributes to most on-line and eBook retailers through:</para>
+				<para>Publishers are encountering the need to evolve their product strategies to increasingly consider digital offerings, changing customer needs and expectations, and increasing competitive pressures from both existing players and new market entrants. These trends are increasing the pressure on existing product development processes:</para>
 				<unOrderedList>
-					<listItem>
-						<xrefURL href="http://www.eReader.com">eReader.com</xrefURL> (formerly Palm Digital Media)
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.mobipocket.com">Mobipocket</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.contentreserve.com">ContentReserve</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.lightningsource.com">Lightning Source</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.ebooks.com">eBooks.com</xrefURL>
-					</listItem>
+					<listItem>Increasing number of products in increasing formats, often with decreasing units per format</listItem>
+					<listItem>Need for reduced time-to-market and ability to rapidly incorporate market feedback in offerings</listItem>
+					<listItem>Need to increase discoverability and relevance to potential readers/customers</listItem>
+					<listItem>Need to synchronize product delivery with marketing, sales, distribution and post-sale support processes</listItem>
+					<listItem>Need to customize and individualize title offerings</listItem>
+					<listItem>Need to integrate technology into products whether useful tools, interactivity or rich media</listItem>
+					<listItem>Integration with platforms: publisher proprietary and those of channel partners</listItem>
 				</unOrderedList>
-				<para>Current members of the Quiet Island Books community include:</para>
+				<para>As each new product is introduced, it is generally accompanied by its own development process, creating a situation where activities are fragmented, unpredictable and in general yield insufficient scale for maximum effectiveness, regardless of whether effectiveness is defined by cost, speed, capacity or flexibility.</para>
+				<para>At Treadwell Media Group we've lived through these challenges and have implemented processes, organization and technology to relieve the pain.  While there is no panacea, all solutions will have one or more key elements:</para>
 				<unOrderedList>
-					<listItem>
-						<xrefURL href="http://www.10step.com">10 Step Publications</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.advisorworks.com">AdvisorWorks</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.americantri.com">American Tri Magazine</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.AtmaGlobal.com">Atma Global</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.clementeonline.com">Clemente Online</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.jobsandmoms.com">Nancy Collamer</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.threeinlove.com">Barbara Foster</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.idealog.com">Idea Logical Company</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.paraview.com">Paraview Press</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.donpendleton.com">Linda Pendleton</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.roverbooks.com">Rover Books</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.softskull.com">Soft Skull Press</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.stormkingpress.com">Storm King Press</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.firstjob.com">Teen Talk Communications</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.veroben.com">Veroben Solutions</xrefURL>
-					</listItem>
-					<listItem>
-						<xrefURL href="http://www.antelopepress.com">WPR Publishing</xrefURL>
-					</listItem>
+					<listItem>Differentiation in customer-facing offerings.</listItem>
+					<listItem>Scalable platforms behind the scenes for editorial, production, content management and rights management functions.</listItem>
+					<listItem>Alignment with the product strategy whether the introduction of a few, highly-differentiated products, or a large number of low cost titles.</listItem>
+					<listItem>Alignment and coordination of centralized functions with product needs via workflow and planning tools.</listItem>
+					<listItem>Standards where they're invisible, differentiation where they're not.</listItem>
+					<listItem>Ability to quickly and easily re-use content where appropriate.</listItem>
+					<listItem>Synchronized delivery of all output and intermediate formats via continuous integration, "XML-first" and other process automation.</listItem>
+					<listItem>Synchronized and consistent design across all output formats and devices via responsive design techniques.</listItem>
+					<listItem>Direct feedback loops on product usage, competitor offerings and social trends straight into the product development teams.</listItem>
 				</unOrderedList>
-				<para>Visit Quiet Island Books online at <xrefURL href="http://www.QuietIsland.com">Quiet Island Books</xrefURL>.</para>
+				<para>Let TMG come in and discuss your product development processes and we'll help you determine if any of these solutions are appropriate for you.</para>
 			</serviceLineDescription>
 		</masterServiceLine>
-		<masterServiceLine shortName="econsulting">
+		<masterServiceLine shortName="supplychain">
 			<articleHeader>
-				<subject>ebook consulting, XML, PDF, workflow, digital workflow, digital distribution, ebooks, publishing consulting</subject>
-				<DOI>10.1335/0000000013</DOI>
-				<category idref="Digital_Strategy"/>
+				<subject>Publishing, Supply Chain, Order Management, Transportation, Warehousing, Distribution, Inventory Management, Forecasting</subject>
+				<DOI>10.1335/0000000026</DOI>
+				<category idref="Operations"/>
 			</articleHeader>
-			<masterServiceLineName>ePublishing Consulting Services</masterServiceLineName>
+			<masterServiceLineName>Supply Chain and Operations Effectiveness</masterServiceLineName>
 			<serviceLineDescription>
-				<para>For those publishers who are uncertain on how to best prepare for the digital revolution, Treadwell Media Group delivers digital content strategy, operations and marketing consulting services. Whether you are concerned about what platforms, formats or channels to pursue, or how best to integrate eBooks and print-on-demand into your existing productions process, Treadwell Media Group team of eBook and traditional publishing experts can help you prepare for your company’s future.</para>
-				<para>Sample engagements include:<projectList idref="Digital_Strategy"/>
-				</para>
+				<para>With so much attention on digital products and processes, supply chain operations are an often overlooked source of savings, working capital, customer satisfaction and business efficiency. Typically the supply chain will consist of the Order to Cash (OTC) and Procure to Pay (PTP) processes and will encompass well over 50% of P&amp;L cost and balance sheet investment. Frequently observed opportunities include:</para>
+				<unOrderedList>
+					<listItem>Supply chain integration via shared forecasts and digital transactions</listItem>
+					<listItem>Print sourcing optimization including offshore, onshore and print on demand (POD).  This often integrates well with programs to manage printers and paper suppliers more effectively.</listItem>
+					<listItem>Effective distribution of accurate title metadata</listItem>
+					<listItem>Tailoring inventory levels to changing print demand via a time-phased sales &amp; operations planning process</listItem>
+					<listItem>Integration of customer data into print planning and sales operations. This is particularly valuable if there are shifts in channel patterns or title demand is seasonal or unpredictable.</listItem>
+					<listItem>Use of channel-based print on demand to reduce impact of temporary out-of-stock lost sales</listItem>
+				</unOrderedList>
+				<para>Treadwell Media Group takes a holistic view of the supply chain starting with the customer service goals of the company including delivery times, fill rates, and flexibility. These translate into structural supply chain decisions...</para>
+				<unOrderedList>
+					<listItem>Appropriate mix of make-to-stock and make-to-order policies, possibly integrating custom or individualized printing if required by the product strategy</listItem>
+					<listItem>Inventory deployment to owned and partner facilities, whether third party or wholesale. These decisions are often paired with the company's overall go to market strategy, but can also be considered independently.</listItem>
+					<listItem>Number, location, and role of distribution facilities along with whether they are owned or outsourced</listItem>
+				</unOrderedList>
+				<para>...functional decisions...</para>
+				<unOrderedList>
+					<listItem>Order management
+						<unOrderedList>
+							<listItem>eCommerce integration with traditional credit sales</listItem>
+							<listItem>Management of channel versus consumer orders</listItem>
+							<listItem>Reconciliation of traditional order/pack/ship revenue models with sales-report driven revenue and online license, activation and access models</listItem>
+							<listItem>Rep commission management</listItem>
+						</unOrderedList>
+					</listItem>
+					<listItem>Warehouse management
+						<unOrderedList>
+							<listItem>Receive, pick, pack, ship automation and flow</listItem>
+						</unOrderedList>
+					</listItem>
+					<listItem>Transportation management
+						<unOrderedList>
+							<listItem>Shipment scheduling, consolidation and freight bill audit programs</listItem>
+						</unOrderedList>
+					</listItem>
+					<listItem>Inventory management
+						<unOrderedList>
+							<listItem>Integration of demand forecasts, return forecasts, with inventory planning and optimal print strategy</listItem>
+						</unOrderedList>
+					</listItem>
+				</unOrderedList>
+				<para>...and supporting organizational elements:</para>
+				<unOrderedList>
+					<listItem>Policy</listItem>
+					<listItem>Process</listItem>
+					<listItem>Organization</listItem>
+					<listItem>Technology</listItem>
+					<listItem>Infrastructure</listItem>
+				</unOrderedList>
+				<para>Contact TMG to review your supply chain challenges and we'll devise a strategy specifically for your company.</para>
 			</serviceLineDescription>
 		</masterServiceLine>
-		<masterServiceLine shortName="pconsulting">
+		<masterServiceLine shortName="vendormanagement">
 			<articleHeader>
-				<subject>Treadwell Media Group Services, Book Publishing, Publishing, Consulting, Strategy, Production, Operations, Finance</subject>
-				<DOI>10.1335/0000000014</DOI>
-				<category idref="Cost_Reduction"/>
+				<subject>Vendor Management, Sourcing, Purchasing, Outsourcing, Offshoring</subject>
+				<DOI>10.1335/0000000027</DOI>
+				<category idref="Vendor_Management"/>
 			</articleHeader>
-			<masterServiceLineName>Traditional Publishing Consulting Services</masterServiceLineName>
+			<masterServiceLineName>Outsourcing and Vendor Management</masterServiceLineName>
 			<serviceLineDescription>
-				<para>Treadwell Media Group offers a wide range of consulting services within traditional publishing functions. Those services include:</para>
+				<para>Establishing and effectively managing third party relationships is a key element in extending the reach and capabilities of a publishing enterprise and managing an uneven flow of work over the course of time. It allows use of specialized expertise as needed and reduces the effective cost of operations. At the same time there are legal risks associated with excessive or improper use of freelancers, and commonly accepted practices may not yield the innovative results necessary for success today.</para>
+				<para>At Treadwell Media Group we take a category approach to vendor management, looking at each type of good or service in terms of its importance to the business and the difficulty of the particular market. We extract and consolidate the expectations of the management team in each category in terms of time, quality and cost performance, and consolidate them with our experience and best practice. These expectations then lead to the optimal vendor strategy by category:</para>
 				<unOrderedList>
-					<listItem>Corporate and Functional Strategy</listItem>
-					<listItem>Production</listItem>
-					<listItem>Inventory Management</listItem>
-					<listItem>Warehousing/Fulfillment</listItem>
-					<listItem>Order Management</listItem>
-					<listItem>Customer Service</listItem>
-					<listItem>Rights Management</listItem>
-					<listItem>Finance</listItem>
+					<listItem>Strategic partnerships</listItem>
+					<listItem>Blanket contracts</listItem>
+					<listItem>Scales-based purchasing</listItem>
+					<listItem>Spot purchasing</listItem>
 				</unOrderedList>
-				<para>Sample engagements include:<projectList idref="Operations_Review"/>
-				</para>
+				<para>We have found that for many critical categories in product development and supply chain operations, developing strategic partnerships and consolidating volume into these partnerships can result in significant cost reduction and decreased time to market. Other possibilities include:</para>
+				<unOrderedList>
+					<listItem>Outsourcing / nearshoring / offshoring</listItem>
+					<listItem>Vendor consolidation</listItem>
+					<listItem>Independent contractor / freelancer program consolidation</listItem>
+					<listItem>Consolidation of services across multiple related categories into full service suppliers</listItem>
+					<listItem>Directed buy programs</listItem>
+				</unOrderedList>
+				<para>Once a vendor management strategy has been identified we then can assist in executing Request for Information (RFI), Request for Proposal (RFP) processes and negotiating Master Service Agreement (MSA) or Statement of Work (SOW) contracts. This will often lead to supply chain integration activities such as sharing forecasts of upcoming work and using EDI / XBITS to facilitate transactions.</para>
+				<para>Invite TMG in for a discussion and we'll determine which approaches sound right for you!</para>
+			</serviceLineDescription>
+		</masterServiceLine>
+		<masterServiceLine shortName="technologymanagement">
+			<articleHeader>
+				<subject>Treadwell Media Group Services, Book Publishing, Publishing, Technology, Product Technology, Integration</subject>
+				<DOI>10.1335/0000000028</DOI>
+				<category idref="Technology_Function"/>
+			</articleHeader>
+			<masterServiceLineName>Technology Management and Integration</masterServiceLineName>
+			<serviceLineDescription>
+				<para>Whether due to an environment of systematic underinvestment in technology, successive investments in different platforms and technologies, or growth through acquisition, most publishers are facing a variety of technology challenges. At Treadwell Media Group our perspective is that effective technology management starts with a strong technology management base upon which an evolving digital toolkit of cloud, social, analytics, mobile and rich media is used to drive rapid customer-facing innovation and internally-facing scalability and business efficiency.</para>
+				<para>Modern customer-facing products and platforms require rapid rollout of features and capabilities driven by strong product management and architectural discipline paired with agile development processes. Reconciliation of often-conflicting and rapidly changing priorities in a fast-paced and evolving technology environment are the biggest challenges, particularly as these new demands apply pressure to longer-cycle and more traditional editorial processes.</para>
+				<para>In internally-facing, non-product applications, this focus on innovation and agility shifts toward an emphasis on enabling business productivity via carefully defined and managed IT services. Internal priorities are set in consultation with operating executives to determine which services will drive the greatest business value. These are then designed and implemented in a controlled operations management environment on a defined technology stack.</para>
+				<para>Whatever your technology management challenges:</para>
+				<unOrderedList>
+					<listItem>Product platform rationalization</listItem>
+					<listItem>Implementation of agile development technologies in a traditional IT or editorial environment</listItem>
+					<listItem>Incorporation of mobile, cloud, analytics, social and rich media into customer-facing or internal applications</listItem>
+					<listItem>Implementation of a disciplined operations management environment</listItem>
+				</unOrderedList>
+				<para>Treadwell Media Group can help.  Give us a call!</para>
 			</serviceLineDescription>
 		</masterServiceLine>
 		<masterServiceLine shortName="rights">
@@ -209,19 +255,7 @@
 				</para>
 			</serviceLineDescription>
 		</masterServiceLine>
-		<masterServiceLine shortName="custompublishing">
-			<articleHeader>
-				<subject>Treadwell Media Group, Book Publishing, Custom Publishing, POD, Print-on-Demand, Print on Demand, Ken Brooks, Publishing Dimensions</subject>
-				<DOI>10.13350000000050</DOI>
-				<category idref="Custom_Publishing"/>
-			</articleHeader>
-			<masterServiceLineName>Custom Publishing</masterServiceLineName>
-			<serviceLineDescription>
-				<para>A common challenge for reference and professional publishers is finding a way to present a large amount of material out of which only a small amount is going to be selected by the user. Treadwell Media Group' solution to this often undiagnosed publishing problem is to develop a custom application built off of an xml database structure. This database of the publishers content allows the reader to select only the content they need and to then retrieve an online pdf or html file, an eBook (to be read offline if they choose), or even to order a printed and bound print-on-demand edition–printed cost effectively a single time. Treadwell Media Group proven solution has been used by several large-scale operations.</para>
-				<para>Sample engagements include:<projectList idref="Custom_Publishing"/>
-				</para>
-			</serviceLineDescription>
-		</masterServiceLine>
+
 	</services>
 	<projects>
 		<project id="trade16">
@@ -5180,18 +5214,22 @@
 		<concept id="Publishing_Functions" seq="20">
 			<preferredLabel>Publishing Functions</preferredLabel>
 			<definition>The major activities of a publishing concern.</definition>
-			<nt idref="editorial_function"/>
+			<nt idref="product_development"/>
 			<nt idref="Finance"/>
 			<nt idref="human_resources"/>
 			<nt idref="Legal"/>
 			<nt idref="Marketing"/>
 			<nt idref="Operations"/>
-			<nt idref="Production"/>
 			<nt idref="public_relations"/>
 			<nt idref="sales_function"/>
 			<nt idref="Strategy"/>
 			<nt idref="Technology_Function"/>
 			<subjectCategory>FN Publishing Function</subjectCategory>
+		</concept>
+		<concept id="product_development" seq="20">
+			<preferredLabel>Product Development</preferredLabel>
+			<definition>The activities associated with creating products for sale and distribution.</definition>
+			<nt idref="Production"/>
 		</concept>
 		<concept id="publishing_house">
 			<preferredLabel>Publishing house</preferredLabel>

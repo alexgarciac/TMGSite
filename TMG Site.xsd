@@ -28,8 +28,13 @@
 				<xs:enumeration value="10.1335/0000000021"/>
 				<xs:enumeration value="10.1335/0000000022"/>
 				<xs:enumeration value="10.1335/0000000023"/>
-				
-
+				<xs:enumeration value="10.1335/0000000024"/>
+				<xs:enumeration value="10.1335/0000000025"/>
+				<xs:enumeration value="10.1335/0000000026"/>
+				<xs:enumeration value="10.1335/0000000027"/>
+				<xs:enumeration value="10.1335/0000000028"/>
+				<xs:enumeration value="10.1335/0000000029"/>
+				<xs:enumeration value="10.1335/0000000030"/>
 				<xs:enumeration value="10.13350000000050"/>
 			</xs:restriction>
 		</xs:simpleType>
@@ -98,12 +103,7 @@
 	</xs:element>
 	<xs:element name="bold">
 		<xs:simpleType>
-			<xs:restriction base="xs:string">
-				<xs:enumeration value="David Sidman, CEO of Content Directions"/>
-				<xs:enumeration value="Innovative Publishing Solutions"/>
-				<xs:enumeration value="Ken Brooks, President of Publishing  Dimensions"/>
-				<xs:enumeration value="composition services"/>
-			</xs:restriction>
+			<xs:restriction base="xs:string"/>
 		</xs:simpleType>
 	</xs:element>
 	<xs:element name="bulletList">
@@ -314,6 +314,13 @@
 	<xs:element name="listItem">
 		<xs:complexType mixed="true">
 			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="unOrderedList">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="listItem" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
 				<xs:element ref="xrefURL"/>
 			</xs:choice>
 		</xs:complexType>
@@ -333,6 +340,11 @@
 						<xs:enumeration value="econsulting"/>
 						<xs:enumeration value="marketing"/>
 						<xs:enumeration value="pconsulting"/>
+						<xs:enumeration value="digitalstrategy"/>
+						<xs:enumeration value="productdevelopment"/>
+						<xs:enumeration value="supplychain"/>
+						<xs:enumeration value="vendormanagement"/>
+						<xs:enumeration value="technologymanagement"/>
 						<xs:enumeration value="rights"/>
 					</xs:restriction>
 				</xs:simpleType>
@@ -342,6 +354,11 @@
 	<xs:element name="masterServiceLineName">
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
+				<xs:enumeration value="Digital Strategy"/>
+				<xs:enumeration value="Product Development Effectiveness"/>
+				<xs:enumeration value="Supply Chain and Operations Effectiveness"/>
+				<xs:enumeration value="Outsourcing and Vendor Management"/>
+				<xs:enumeration value="Technology Management and Integration"/>
 				<xs:enumeration value="Custom Publishing"/>
 				<xs:enumeration value="DigitalGalley Book Marketing Services"/>
 				<xs:enumeration value="Quiet Island Books eBook and POD Distribution Services"/>
