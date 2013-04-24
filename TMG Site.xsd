@@ -484,47 +484,7 @@
 	<xs:element name="projectType">
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
-				<xs:enumeration value="Accounts Receivable improvement"/>
-				<xs:enumeration value="Bibliographic operations management"/>
-				<xs:enumeration value="Call center productivity"/>
-				<xs:enumeration value="Canadian physical distribution assessment"/>
-				<xs:enumeration value="Channel inventory strategy"/>
-				<xs:enumeration value="Comparative Bible reading"/>
-				<xs:enumeration value="Consignment inventory evaluation"/>
-				<xs:enumeration value="Content and metadata archive design"/>
-				<xs:enumeration value="Custom cookbook application"/>
-				<xs:enumeration value="Customer perception assessment"/>
-				<xs:enumeration value="Department consolidation"/>
-				<xs:enumeration value="Establish corporate purchasing department"/>
-				<xs:enumeration value="In-store print-on-demand assessment"/>
-				<xs:enumeration value="International textbook diversion assessment"/>
-				<xs:enumeration value="Key account strategy implementation"/>
-				<xs:enumeration value="Multiple language Scripture tool (diglot)"/>
-				<xs:enumeration value="POD expert witness"/>
-				<xs:enumeration value="POD implementation"/>
-				<xs:enumeration value="Product standardization"/>
-				<xs:enumeration value="Production cycle time improvement"/>
-				<xs:enumeration value="Production efficiency improvement"/>
-				<xs:enumeration value="Rights DTD definition"/>
-				<xs:enumeration value="Rights Database Design"/>
-				<xs:enumeration value="Rights Management DTD development"/>
-				<xs:enumeration value="Rights Management Strategy"/>
-				<xs:enumeration value="Rights Management data and functional modeling"/>
-				<xs:enumeration value="Rights Management systems design"/>
-				<xs:enumeration value="SAP implementation"/>
-				<xs:enumeration value="Standards body participation"/>
-				<xs:enumeration value="Standards development"/>
-				<xs:enumeration value="Terms of Sale evaluation"/>
-				<xs:enumeration value="Transportation cost reduction"/>
-				<xs:enumeration value="XML readiness assessment"/>
-				<xs:enumeration value="ePublishing strategy"/>
-				<xs:enumeration value="Inventory Planning"/>
-				<xs:enumeration value="Vendor Capacity Planning"/>
-				<xs:enumeration value="Customer Data Integration"/>
-				<xs:enumeration value="Inventory Planning System"/>
-				<xs:enumeration value="Vendor Capacity Planning"/>
-				<xs:enumeration value="Revenue Data Model"/>
-				<xs:enumeration value="Inventory Planning Algorithm"/>
+				
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:element>

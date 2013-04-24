@@ -599,6 +599,126 @@
 			<projectType>Inventory Planning Algorithm</projectType>
 			<projectDescription>Built algorithm to balance economic and risk factors over the life of a title to drive minimum total cost of ownership. Algorithm was implemented as part of overall inventory management system and reduced inventory levels by over 30% while decreasing backorders.</projectDescription>
 		</project>
+		<project id="HE9">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Manufacturing"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Strategic Print Sourcing</projectType>
+			<projectDescription>Developed system to automatically recommend offshore manufacturing, onshore manufacturing or POD based on recommended print quantity and manufacturing lead time.</projectDescription>
+		</project>
+		<project id="HE10">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Manufacturing"/>
+			<category idref="POD"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Print on Demand in Distribution System</projectType>
+			<projectDescription>Integrated POD into supply chain so that customer orders would automatically split into stock sourced from warehouse and sourced from a contracted POD supplier with the option of shipping directly or returning to the distribution for consolidation.</projectDescription>
+		</project>
+		<project id="HE11">
+			<clientName>Cengage Learning</clientName>
+			<category idref="product_development"/>
+			<category idref="Production"/>
+			<category idref="editorial_function"/>
+			<category idref="Analytics"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Product Development Timeliness Metrics</projectType>
+			<projectDescription>Implemented cross-functional tracking of product development status allowing automated reporting of "at risk" titles and analysis of root causes of lateness. System provided the ability to identify situations before they escalated into revenue-threatening problems.</projectDescription>
+		</project>
+		<project id="HE12">
+			<clientName>Cengage Learning</clientName>
+			<category idref="content_management_system"/>
+			<category idref="product_development"/>
+			<category idref="Technology"/>
+			<category idref="Higher_Ed"/>
+			<projectType>MarkLogic Implementation</projectType>
+			<projectDescription>Implemented MarkLogic as the asset management system used to capture and control asset and metadata information for the majority of assets used in publisher's digital products, including narrative, assessment, rich media and interactive asset types.</projectDescription>
+		</project>
+		<project id="HE13">
+			<clientName>Cengage Learning</clientName>
+			<category idref="product_development"/>
+			<category idref="Technology"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Content Readiness</projectType>
+			<projectDescription>Developed and implemented a learning content metadata and content readiness strategy, leading to 90% of titles being created in an XML-first workflow, 96% with full electronic, worldwide rights and 100% available as digital files.</projectDescription>
+		</project>
+		<project id="HE14">
+			<clientName>Cengage Learning</clientName>
+			<category idref="product_development"/>
+			<category idref="LMS"/>
+			<category idref="Technology"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Learning Management System Consolidation</projectType>
+			<projectDescription>Directed the task force assigned to consolidate eLearning platforms of multiple acquired companies as part of an initiative to merge the Higher Ed and Career and Professional Groups of this publisher.</projectDescription>
+		</project>
+		<project id="HE15">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Rights_Management"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Image Permissions Sourcing</projectType>
+			<projectDescription>Directed the team negotiating a contract with a major image source, substantially reducing the cost of images and simplifying the terms under which they could be used. This approach became the model used in all subsequent agreements and across other classes of Intellectual Property agreements.</projectDescription>
+		</project>
+		<project id="HE16">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="Mobile"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Mobile Operations Monitoring</projectType>
+			<projectDescription>Piloted a program to provide mobile access to system operational status on iOS and Android devices.  The goal of the project was to substantially reduce the time from identification of an issue to its resolution.</projectDescription>
+		</project>
+		<project id="HE17">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="Cloud"/>
+			<category idref="editorial_function"/>
+			<category idref="Higher_Ed"/>
+			<projectType>XML Authoring Solution</projectType>
+			<projectDescription>Piloted cloud-based tool to support authoring and output of content in XML, resulting in faster time to market, lower costs, consistent format, content reuse, and new product creation.</projectDescription>
+		</project>
+		<project id="HE18">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="product_development"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Digimarc and Quick Response (QR) Codes</projectType>
+			<projectDescription>Completed pilot program to use Digmarc and QR codes in popular reference material. Program tied online videos to codes embedded photos in current events titles that allowed a reader to scan the code with a phone camera and have the videos play on their phone.</projectDescription>
+		</project>
+		<project id="HE19">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="product_development"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Assessment"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Assessment Development and Production</projectType>
+			<projectDescription>Developed an approach to manage the development and production of psychometrically valid assessment items using a combination of vendor and internal staff.</projectDescription>
+		</project>
+		<project id="HE20">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="product_development"/>
+			<category idref="XML"/>
+			<category idref="Higher_Ed"/>
+			<projectType>MathML</projectType>
+			<projectDescription>Drove implementation of MathML into publisher's product development process to increase accessibility and reduce the effort associated with repurposing complex titles from print into digital.</projectDescription>
+		</project>
+		<project id="HE21">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="Manufacturing"/>
+			<category idref="RFID"/>
+			<category idref="Higher_Ed"/>
+			<projectType>RFID in Printed Titles</projectType>
+			<projectDescription>Completed business case and feasibility analysis to embed Radio Frequency Identification (RFID) chips in book spines to control returns, credit issuance and piracy. In spite of a very promising rate of return, project was shelved to allocate capital to digital projects.</projectDescription>
+		</project>
+		<project id="HE22">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Technology"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Technology Process Management</projectType>
+			<projectDescription>Initiated implementation of ITIL-based IT management for product development systems. Approach is credited with a 2x improvement in performance and significant reduction in unplanned downtime. The primary focus of the effort was in implementation of technology operations management discipline around release and change management.</projectDescription>
+		</project>
 	</projects>
 	<articles>
 		<article shortName="money" generate="no">
@@ -2882,7 +3002,7 @@
 		<concept id="editorial_function" seq="40">
 			<preferredLabel>Editorial [Function]</preferredLabel>
 			<definition>Those stages of the publishing process between identification of the need for a particular publication through completion of the content prior to production.The editorial process consists of reviewing, making changes, and otherwise shaping a manuscript or compiled text to bring it to acceptable industry and commercial standards. Editing is a broad term that can represent corrections as minor as typos and grammar changes or as broad as suggestions for revision of a theme or premise.</definition>
-			<bt idref="Publishing_Functions"/>
+			<bt idref="product_development"/>
 			<nt idref="acquisition_function"/>
 			<nt idref="Development_Edit"/>
 			<nt idref="Instructional_Design"/>
@@ -5110,10 +5230,27 @@
 			<definition/>
 			<bt idref="printing_technology"/>
 		</concept>
+		<concept id="product_development">
+			<preferredLabel>Product Development</preferredLabel>
+			<definition>The process of bringing a new product from concept to market. This can range from commissioning a title for print publication to creating a large-scale digital platform for a reference or other work.</definition>
+			<bt idref="Publishing_Functions"/>
+			<nt idref="audio_production"/>
+			<nt idref="Content_Management"/>
+			<nt idref="Courseware_Production"/>
+			<nt idref="design_function"/>
+			<nt idref="Inventory_Management"/>
+			<nt idref="Manufacturing"/>
+			<nt idref="Print_Production"/>
+			<nt idref="Project_Management"/>
+			<nt idref="Project_Planning_Scheduling"/>
+			<nt idref="typesetting_function"/>
+			<rt idref="production_services"/>
+			<subjectCategory>FN Publishing Function</subjectCategory>
+		</concept>
 		<concept id="Production">
 			<preferredLabel>Production</preferredLabel>
 			<definition>The stages of the publishing process from essential completion of the editorial content through initial publication.</definition>
-			<bt idref="Publishing_Functions"/>
+			<bt idref="product_development"/>
 			<nt idref="audio_production"/>
 			<nt idref="Content_Management"/>
 			<nt idref="Courseware_Production"/>
@@ -5269,11 +5406,6 @@
 			<nt idref="Strategy"/>
 			<nt idref="Technology_Function"/>
 			<subjectCategory>FN Publishing Function</subjectCategory>
-		</concept>
-		<concept id="product_development" seq="20">
-			<preferredLabel>Product Development</preferredLabel>
-			<definition>The activities associated with creating products for sale and distribution.</definition>
-			<nt idref="Production"/>
 		</concept>
 		<concept id="publishing_house">
 			<preferredLabel>Publishing house</preferredLabel>
@@ -6692,7 +6824,7 @@
 		</concept>
 		<concept id="Mobile">
 			<preferredLabel>Mobile</preferredLabel>
-			<examples>Smart Phones, tablets, wearable computing</examples>
+			<examples>Smart phones, tablets, wearable computers</examples>
 			<definition>The distribution of applications to handheld devices providing anywhere, anytime access business and personal tools.</definition>
 			<bt idref="Technology"/>
 			<nt idref="CALS"/>
@@ -6705,6 +6837,17 @@
 			<preferredLabel>Social</preferredLabel>
 			<examples>Sharepoint, wikis, discussion groups, LinkedIn, Facebook, Twitter.</examples>
 			<definition>Technology and applications used to promote collaboration across groups of individuals.</definition>
+			<bt idref="Technology"/>
+			<nt idref="CALS"/>
+			<nt idref="DocBook"/>
+			<nt idref="MathML"/>
+			<nt idref="OEB"/>
+			<nt idref="XHTML"/>
+		</concept>
+		<concept id="RFID">
+			<preferredLabel>RFID</preferredLabel>
+			<examples/>
+			<definition>Radio Frequency Identification is a Near Field Communication (NFC) technique consisting of embedded tag that can respond with pre-encoded information when queried by an appropriate transmitter / receiver.</definition>
 			<bt idref="Technology"/>
 			<nt idref="CALS"/>
 			<nt idref="DocBook"/>

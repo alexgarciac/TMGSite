@@ -391,8 +391,10 @@
 										<li>
 											<a>
 												<xsl:attribute name="href"><xsl:value-of select="@id"/>.htm</xsl:attribute>
-												<xsl:value-of select="preferredLabel"/>
-											</a>: <xsl:value-of select="definition"/>
+												<b>
+													<xsl:value-of select="preferredLabel"/>: </b>
+											</a>
+											<xsl:value-of select="definition"/>
 										</li>
 									</xsl:for-each>
 								</ul>
