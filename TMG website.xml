@@ -72,6 +72,7 @@
 			<articleHeader>
 				<subject>Publishing, Product Development, Editorial Development, Production</subject>
 				<DOI>10.1335/0000000025</DOI>
+				<description>test</description>
 				<category idref="product_development"/>
 			</articleHeader>
 			<masterServiceLineName>Product Development Effectiveness</masterServiceLineName>
@@ -255,7 +256,6 @@
 				</para>
 			</serviceLineDescription>
 		</masterServiceLine>
-
 	</services>
 	<projects>
 		<project id="trade16">
@@ -554,6 +554,50 @@
 			<category idref="Trade_Publishing"/>
 			<projectType>Standards development</projectType>
 			<projectDescription>Participated in the ONIX for subrights committee convened at Frankfurt 2001. The purpose of the committee is to define metadata standards around exchange of rights information.</projectDescription>
+		</project>
+		<project id="HE4">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Inventory_Management"/>
+			<category idref="Analytics"/>
+			<category idref="Operations"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Inventory Planning System</projectType>
+			<projectDescription>Implemented system to reforecast monthly title demand and returns, month-by-month at an ISBN level over a 36-month horizon. System computes projected inventory position out into the future allowing a dynamic schedule of printings that allows projection of inventory levels, cash requirements, vendor capacity, and raw materials (paper) requirements. System also provides sufficient notice of reprint requirements to allow sufficient time for corrections and offshore sourcing if available.</projectDescription>
+		</project>
+		<project id="HE5">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Vendor_Management"/>
+			<category idref="Operations"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Vendor Capacity Planning</projectType>
+			<projectDescription>Developed process and system to forecast and share required vendor capacity by service and commodity type.  Forecast is generated monthly and provided to vendors through an online vendor portal. the ability to provide these forecasts was a key factor in vendor contract negotiations.</projectDescription>
+		</project>
+		<project id="HE6">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Inventory_Management"/>
+			<category idref="Operations"/>
+			<category idref="Sales"/>
+			<category idref="Analytics"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Customer Data Integration</projectType>
+			<projectDescription>Developed plan to tie customer inventory, sales and returns data into inventory planning system using a consolidated data model. The objective was to increase the accuracy of demand and inventory positions forecasts and to provide meaningful recommendations to the customer on which titles and quantities they should be purchasing.</projectDescription>
+		</project>
+		<project id="HE7">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Sales"/>
+			<category idref="Strategy"/>
+			<category idref="Analytics"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Revenue Data Model</projectType>
+			<projectDescription>Built data model to integrate various perspectives on enrollment, discipline popularity, adoptions, format preferences, class sizes and other factors. Model was put into partial use in integrating channel sales data into inventory planning process.</projectDescription>
+		</project>
+		<project id="HE8">
+			<clientName>Cengage Learning</clientName>
+			<category idref="Inventory_Management"/>
+			<category idref="Analytics"/>
+			<category idref="Higher_Ed"/>
+			<projectType>Inventory Planning Algorithm</projectType>
+			<projectDescription>Built algorithm to balance economic and risk factors over the life of a title to drive minimum total cost of ownership. Algorithm was implemented as part of overall inventory management system and reduced inventory levels by over 30% while decreasing backorders.</projectDescription>
 		</project>
 	</projects>
 	<articles>
@@ -4570,7 +4614,7 @@
 		</concept>
 		<concept id="Operations">
 			<preferredLabel>Operations</preferredLabel>
-			<definition>Those functions n</definition>
+			<definition>Those activities associated with moving physical material from suppliers through manufacturing and distribution to customers.</definition>
 			<bt idref="Publishing_Functions"/>
 			<nt idref="Customer_Service"/>
 			<nt idref="Distribution"/>
@@ -6617,6 +6661,61 @@
 			<preferredLabel>XML</preferredLabel>
 			<examples>OEB, DocBook</examples>
 			<definition>e(X)tensible (M)arkup (L)anguage is used to decrease cost of production and increase the ability to re-use content for multiple formats or multiple editions.</definition>
+			<bt idref="Technology"/>
+			<nt idref="CALS"/>
+			<nt idref="DocBook"/>
+			<nt idref="MathML"/>
+			<nt idref="OEB"/>
+			<nt idref="XHTML"/>
+		</concept>
+		<concept id="Analytics">
+			<preferredLabel>Analytics</preferredLabel>
+			<examples>Big Data, MongoDB, MarkLogic, Logility</examples>
+			<definition>The organization and use of large amounts of structured and unstructured data to improve business performance.</definition>
+			<bt idref="Technology"/>
+			<nt idref="CALS"/>
+			<nt idref="DocBook"/>
+			<nt idref="MathML"/>
+			<nt idref="OEB"/>
+			<nt idref="XHTML"/>
+		</concept>
+		<concept id="Cloud">
+			<preferredLabel>Cloud</preferredLabel>
+			<examples>Public Cloud, Private Cloud, AWS, Google Apps</examples>
+			<definition>The distribution of access, computing and storage of information into distributed, virtual servers to increase scalability and speed of deployment.</definition>
+			<bt idref="Technology"/>
+			<nt idref="CALS"/>
+			<nt idref="DocBook"/>
+			<nt idref="MathML"/>
+			<nt idref="OEB"/>
+			<nt idref="XHTML"/>
+		</concept>
+		<concept id="Mobile">
+			<preferredLabel>Mobile</preferredLabel>
+			<examples>Smart Phones, tablets, wearable computing</examples>
+			<definition>The distribution of applications to handheld devices providing anywhere, anytime access business and personal tools.</definition>
+			<bt idref="Technology"/>
+			<nt idref="CALS"/>
+			<nt idref="DocBook"/>
+			<nt idref="MathML"/>
+			<nt idref="OEB"/>
+			<nt idref="XHTML"/>
+		</concept>
+		<concept id="Social">
+			<preferredLabel>Social</preferredLabel>
+			<examples>Sharepoint, wikis, discussion groups, LinkedIn, Facebook, Twitter.</examples>
+			<definition>Technology and applications used to promote collaboration across groups of individuals.</definition>
+			<bt idref="Technology"/>
+			<nt idref="CALS"/>
+			<nt idref="DocBook"/>
+			<nt idref="MathML"/>
+			<nt idref="OEB"/>
+			<nt idref="XHTML"/>
+		</concept>
+		<concept id="Rich_Media">
+			<preferredLabel>Rich Media</preferredLabel>
+			<examples>Video, audio, interactive objects.</examples>
+			<definition>Types of media encompassing video, audio, and interactive elements that promote engagement with the message or content being communicated.</definition>
 			<bt idref="Technology"/>
 			<nt idref="CALS"/>
 			<nt idref="DocBook"/>

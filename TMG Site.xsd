@@ -518,6 +518,13 @@
 				<xs:enumeration value="Transportation cost reduction"/>
 				<xs:enumeration value="XML readiness assessment"/>
 				<xs:enumeration value="ePublishing strategy"/>
+				<xs:enumeration value="Inventory Planning"/>
+				<xs:enumeration value="Vendor Capacity Planning"/>
+				<xs:enumeration value="Customer Data Integration"/>
+				<xs:enumeration value="Inventory Planning System"/>
+				<xs:enumeration value="Vendor Capacity Planning"/>
+				<xs:enumeration value="Revenue Data Model"/>
+				<xs:enumeration value="Inventory Planning Algorithm"/>
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:element>

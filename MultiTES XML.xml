@@ -1,0 +1,6991 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- REPORT GENERATOR -->
+<!DOCTYPE THESAURUS [
+<!ELEMENT THESAURUS (CONCEPT+)>
+<!ELEMENT CONCEPT ( (DESCRIPTOR|NON-DESCRIPTOR),SC*,EX*,ID*,PL*,SN*,SQ*,UF*,USE*,BT*,BTI*,NT*,NTI*,RT*)>
+<!ELEMENT DESCRIPTOR (#PCDATA)>
+<!ELEMENT NON-DESCRIPTOR (#PCDATA)>
+<!ELEMENT SC (#PCDATA)>
+<!ELEMENT EX (#PCDATA)>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT PL (#PCDATA)>
+<!ELEMENT SN (#PCDATA)>
+<!ELEMENT SQ (#PCDATA)>
+<!ELEMENT UF (#PCDATA)>
+<!ELEMENT USE (#PCDATA)>
+<!ELEMENT BT (#PCDATA)>
+<!ELEMENT BTI (#PCDATA)>
+<!ELEMENT NT (#PCDATA)>
+<!ELEMENT NTI (#PCDATA)>
+<!ELEMENT RT (#PCDATA)>
+]>
+
+<THESAURUS>
+<CONCEPT>
+ <DESCRIPTOR>Academic Library</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>academic_library</ID>
+ <PL>Academic Library</PL>
+ <SN>A library associated with an institution of Higher Education supporting post-graduate studies.</SN>
+ <BT>Library</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Academic Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>academic_publishing</ID>
+ <PL>Academic</PL>
+ <SN>That sector of publishing focused on publishing material, generally monographs, of interest to academics. This sector is primarly, though not exclusively, the domain of University Presses.</SN>
+ <UF>Scholarly Publishing</UF>
+ <UF>University presses</UF>
+ <BT>Book publishing [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Accounts Payable [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>accounts_payable_function</ID>
+ <BT>Finance [Function]</BT>
+ <RT>Accounts payable [Liability]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Accounts payable [Liability]</DESCRIPTOR>
+ <ID>accounts_payable_liability</ID>
+ <BT>Current liabilities</BT>
+ <RT>Accounts Payable [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Accounts Receivable [Asset]</DESCRIPTOR>
+ <ID>accounts_receivable_asset</ID>
+ <BT>Current assets</BT>
+ <RT>Accounts Receivable [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Accounts Receivable [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>accounts_receivable_function</ID>
+ <SN>The management of invoices that have been cut, but for which the cash has not yet been received.AR consists of a number of activities including collections, cash application, credit and debit reconciliation.</SN>
+ <BT>Finance [Function]</BT>
+ <RT>Accounts Receivable [Asset]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Accumulated depreciation</DESCRIPTOR>
+ <ID>accumulated_depreciation</ID>
+ <BT>Fixed Assets</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Acquisition</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>acquisition_function</ID>
+ <PL>Acquisition</PL>
+ <SN>Identification of a concept or manuscript suitable for publication through completed contract with authors or sources. &quot;Acquisition&quot; in this context generally refers to acquiring the rights to publish the material.</SN>
+ <SQ>10</SQ>
+ <BT>Editorial [Function]</BT>
+ <NT>Auction</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Adhesive Binding</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>adhesive_binding</ID>
+ <BT>Binding [Spec]</BT>
+ <NT>Burst binding</NT>
+ <NT>Notch Binding</NT>
+ <NT>Perfect binding</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Adoption process</DESCRIPTOR>
+ <ID>adoption_process</ID>
+ <BT>Sales [Function]</BT>
+ <RT>Higher Education Publishing</RT>
+ <RT>K12 Publishing</RT>
+ <RT>School</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Adult Trade</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>adult_trade_publishing</ID>
+ <PL>Adult</PL>
+ <SN>That sector of publishing focused primarily on providing content for adult consumers across fiction and non-fiction categories.</SN>
+ <BT>Trade Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advance Dating</DESCRIPTOR>
+ <ID>advance_dating</ID>
+ <BT>Terms of Sale</BT>
+ <RT>College bookstore</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advance orders</DESCRIPTOR>
+ <ID>advance_orders</ID>
+ <BT>Customer order</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advance reader copy</DESCRIPTOR>
+ <ID>advance_reader_copy</ID>
+ <BT>Lifecycle</BT>
+ <BT>Paperback</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advance Shipping Notice</DESCRIPTOR>
+ <ID>advance_shipping_notice</ID>
+ <BT>Publishing transactions</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advanced Placement</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>advanced_placement</ID>
+ <BT>Secondary School</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advertising</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>advertising</ID>
+ <BT>Marketing</BT>
+ <NT>Cooperative Advertising</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Advertising Model</DESCRIPTOR>
+ <ID>advertising_model</ID>
+ <BT>Business Models</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Agent</NON-DESCRIPTOR>
+ <ID>agent</ID>
+ <USE>Literary Agent</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Allocations</DESCRIPTOR>
+ <ID>allocations</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Alternative Publishing Configurations</DESCRIPTOR>
+ <ID>alternative_publishing_configurations</ID>
+ <PL>Alternative Publishing Configurations</PL>
+ <SN>Alternative ways of organizing the key functions of a publishing enterprise.</SN>
+ <SQ>70</SQ>
+ <NT>Custom Publishing</NT>
+ <NT>Digital Asset Distributor</NT>
+ <NT>Offshoring</NT>
+ <NT>Packaging</NT>
+ <NT>POD</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Amortization</DESCRIPTOR>
+ <ID>amortization</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Anchor</DESCRIPTOR>
+ <ID>Anchor</ID>
+ <PL>Anchor</PL>
+ <SN>The location in the text to which a note refers, generally indicated in print by a symbol or number in a superscript. In HTML an anchor is generally indicated by an underline or blue text color and signifies the starting point of a link.</SN>
+ <BT>Note</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Animation</DESCRIPTOR>
+ <ID>Animation</ID>
+ <PL>Animation</PL>
+ <SN>Media in which the illution of motion is produced by the rapid sequential display of images.</SN>
+ <BT>Video</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>ANSI X12</DESCRIPTOR>
+ <ID>ANSI_X12</ID>
+ <PL>ANSI X12</PL>
+ <SN>A set of Electronic Data Interchange (EDI) standards from the American National Standards Institute (ANSI). They are now known as ASC X12.</SN>
+ <BT>Electronic Data Interchange</BT>
+ <BT>Industry Standards</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Anthology</DESCRIPTOR>
+ <ID>Anthology</ID>
+ <PL>Anthology</PL>
+ <SN>A collection of stories, usually on a common theme.</SN>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Application [Platform]</DESCRIPTOR>
+ <ID>application_platform</ID>
+ <PL>Application</PL>
+ <SN>The software used on a computer or other platform to perform a particular function.</SN>
+ <BT>Platform</BT>
+ <NT>Browser</NT>
+ <NT>eBook Software</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Architecture</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Architecture</ID>
+ <PL>Architecture</PL>
+ <SN>That enterprise technology function that specifies the standards for enterprise systems including operating systems, hardware, databases and information structures.</SN>
+ <BT>Technology [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Art &amp; Design [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>art_design_function</ID>
+ <PL>Art &amp; Design</PL>
+ <SN>The determination of the layout and typography of both the interior and cover of a book.</SN>
+ <SQ>30</SQ>
+ <BT>Print production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Art program</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Art_program</ID>
+ <PL>Art program</PL>
+ <SN>The collection of images that will be used in a particular title. The art program will often be found as a list or series of images at the back of a manuscript.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Image</NT>
+ <RT>Manuscript</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Art Rendering</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>art_rendering_function</ID>
+ <PL>Art Rendering</PL>
+ <SN>The transformation of rough sketches or image specifications into art that is production ready.</SN>
+ <SQ>31</SQ>
+ <BT>Print production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Assessment</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>Assessment</ID>
+ <PL>Assessment</PL>
+ <SN>Evaluation of a student&apos;s competence in a body of material. Assessment ranges from low-stakes assessment such as self-tests all the way up to high-stakes assessment in which the student is graded.</SN>
+ <BT>Educational Content</BT>
+ <NT>Diagnostic Assessment</NT>
+ <NT>Formative assessment</NT>
+ <NT>Summative assessment</NT>
+ <RT>Educational Publishing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Asset improvement</DESCRIPTOR>
+ <ID>asset_improvement</ID>
+ <PL>Asset Improvement</PL>
+ <SN>Projects to improve the efficiency of corporate assets. These would include advances, inventory and accounts receivable and be reflected in a reduction in the balance sheet assets to support a given level of sales.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Assets</DESCRIPTOR>
+ <ID>Assets</ID>
+ <PL>Assets</PL>
+ <SN>The balance sheet value of everything a company owns or is due to it.  For publishers the primary assets are receivables, inventory and royalty advances.</SN>
+ <BT>Balance sheet</BT>
+ <NT>Current assets</NT>
+ <NT>Fixed Assets</NT>
+ <NT>Plant Costs</NT>
+ <NT>Royalty advances &amp; guarantees</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Auction</DESCRIPTOR>
+ <ID>Auction</ID>
+ <PL>Auction</PL>
+ <SN>A process by which a literary agent or manager solicits bids from publishers for publishing rights to a property.</SN>
+ <BT>Acquisition</BT>
+ <RT>Literary Agent</RT>
+ <RT>Rights</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Audio [Rights]</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>audio_rights</ID>
+ <PL>Audio rights</PL>
+ <SN>The rights to publish books and content in audio formats.</SN>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Audio cassette</DESCRIPTOR>
+ <ID>audio_cassette</ID>
+ <SN>The primary audio recording and distribution format prior to the compact disk.  An audio cassette contains two small reels of magnetic tape enclosed inside a plastic shell.</SN>
+ <BT>Media [Audio]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Audio content</DESCRIPTOR>
+ <ID>audio_content</ID>
+ <PL>Audio content</PL>
+ <SN>Content that is consumed aurally, by listening to it.</SN>
+ <BT>Multimedia</BT>
+ <NT>Music</NT>
+ <NT>Sound effects</NT>
+ <NT>Voice</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Audio Production</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>audio_production</ID>
+ <PL>Audio Production</PL>
+ <SN>The publishing functions used to produce audio books and spoken materials.</SN>
+ <SQ>40</SQ>
+ <BT>Production</BT>
+ <NT>Casting</NT>
+ <NT>Mastering</NT>
+ <NT>Narration</NT>
+ <NT>Performing</NT>
+ <NT>Scoring</NT>
+ <NT>Script Writing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Audiovisual materials</NON-DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>audiovisual_materials</ID>
+ <USE>Multimedia</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Author</DESCRIPTOR>
+ <ID>author</ID>
+ <PL>Author</PL>
+ <SN>The writer of a book or other literary work.</SN>
+ <BT>Contributor</BT>
+ <RT>Author biography</RT>
+ <RT>Author contract</RT>
+ <RT>Author image</RT>
+ <RT>Contract Management</RT>
+ <RT>Publicity</RT>
+ <RT>Royalty advances &amp; guarantees</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Author biography</DESCRIPTOR>
+ <ID>author_biography</ID>
+ <PL>Author biography</PL>
+ <SN>The biographical sketch of the author of a work that is generally contained somewhere on the book jacket or cover, or web site devoted to the title.</SN>
+ <BT>Book metadata</BT>
+ <RT>Author</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Author contract</DESCRIPTOR>
+ <ID>author_contract</ID>
+ <PL>Author contract</PL>
+ <SN>The contract between an author and a publisher that lays out the conditions under which a work will be published.</SN>
+ <BT>Contract</BT>
+ <RT>Author</RT>
+ <RT>Book Publisher</RT>
+ <RT>Rights</RT>
+ <RT>Royalty advances &amp; guarantees</RT>
+ <RT>Royalty expense</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Author image</DESCRIPTOR>
+ <ID>author_image</ID>
+ <PL>Author image</PL>
+ <SN>The photograph of the author of a work that is generally contained somewhere on the book jacket or cover, or web site devoted to the title.</SN>
+ <BT>Book metadata</BT>
+ <RT>Author</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Author name</DESCRIPTOR>
+ <ID>author_name</ID>
+ <PL>Author name</PL>
+ <SN>The name of the author of a work contained in the book metadata and printed on cover, spine, title page, copyright page and in other places throughout a book and other media.</SN>
+ <BT>Book metadata</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Autobiography</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>autobiography</ID>
+ <PL>Autobiography</PL>
+ <SN>A biography that is written by the subject of the work.</SN>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Awards</DESCRIPTOR>
+ <ID>awards</ID>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Back cover</DESCRIPTOR>
+ <ID>Back_cover</ID>
+ <PL>Back cover</PL>
+ <SN>The back cover of a book. A back cover may be blank, or it may carry promotional or descriptive jacket or other copy intended to be helpful to a potential buyer of the book.</SN>
+ <UF>C4</UF>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Backlist</DESCRIPTOR>
+ <ID>backlist</ID>
+ <PL>Backlist</PL>
+ <SN>Books published in a previous season but still in print and available for sale.</SN>
+ <BT>Lifecycle</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Backmatter</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Backmatter</ID>
+ <PL>Back Matter</PL>
+ <SN>That part of the text of a book that follows the last page of the last chapter.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Bibliography</NT>
+ <NT>Colophon [Typography]</NT>
+ <NT>Endnote</NT>
+ <NT>Glossary</NT>
+ <NT>Index [Book]</NT>
+ <NT>Reference list</NT>
+ <RT>Pagination guide</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Backorder</DESCRIPTOR>
+ <ID>backorder</ID>
+ <PL>Backorder</PL>
+ <SN>An item or line on a customer order that cannot ship due to inventory being out of stock, but which would otherwise ship. This is distinct from a future order which has inventory availability, but is being held for other reasons.</SN>
+ <BT>Customer order</BT>
+ <RT>Future order</RT>
+ <RT>Order processing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Balance sheet</DESCRIPTOR>
+ <ID>balance_sheet</ID>
+ <PL>Balance sheet</PL>
+ <SN>That financial statement on which the assets, liabilities and equity of a company are recorded.</SN>
+ <BT>Financial Statement</BT>
+ <NT>Assets</NT>
+ <NT>Equity</NT>
+ <NT>Liabilities</NT>
+ <NT>Working Capital</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Basis weight</DESCRIPTOR>
+ <ID>Basis_weight</ID>
+ <SN>The amount of pulp content contained in a sheet.  Basis weight is measured in pounds in Imperial systems and grams per square meter or gsm in metric systems.</SN>
+ <BT>Paper grade</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Benefits</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>benefits</ID>
+ <PL>Benefits</PL>
+ <SN>That function of human resources that deals with compensation other than wages, such as health insurance.</SN>
+ <BT>Human Resources</BT>
+ <BT>Salary-related costs</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Berne Convention</DESCRIPTOR>
+ <ID>berne_convention</ID>
+ <PL>Berne Convention</PL>
+ <SN>An international treaty that defines copyright protection among participating nations.  It was signed in 1886 and updated in 1971.</SN>
+ <BT>Copyright</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Bibliography</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>bibliography</ID>
+ <PL>Bibliography</PL>
+ <SN>A list of books, articles, etc. used and/or cited in the compilation of a particular title.</SN>
+ <BT>Backmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Binding [Function]</DESCRIPTOR>
+ <ID>binding_function</ID>
+ <PL>Binding function</PL>
+ <SN>That part of the manufacturing of a book in which the pages or signature are bound together.</SN>
+ <BT>Manufacturing</BT>
+ <RT>Binding [Spec]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Binding [Spec]</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>book_binding</ID>
+ <PL>Binding</PL>
+ <SN>The part of a book or magazine that holds the pages together</SN>
+ <BT>Physical book component</BT>
+ <NT>Adhesive Binding</NT>
+ <NT>Case binding</NT>
+ <NT>Mechanical binding</NT>
+ <NT>Sewn binding</NT>
+ <RT>Binding [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Blade coated freesheet</DESCRIPTOR>
+ <ID>blade_coated_freesheet</ID>
+ <PL>Blade coated freesheet</PL>
+ <SN>Higher quality paper that does not contain groundwood which has been coated by a process that uses a flexible steel blade to smooth and remove the excess coating. This results in a sheet with a higher coat weight and an optimal print surface.</SN>
+ <BT>Coated paper</BT>
+ <BT>Freesheet</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Blade coated groundwood</DESCRIPTOR>
+ <ID>blade_coated_groundwood</ID>
+ <PL>Blade coated groundwood</PL>
+ <SN>Groundwood paper that is coated by a process uses a flexible steel blade to smooth and remove the excess coating. This results in a sheet with a higher coat weight and an optimal print surface.</SN>
+ <BT>Coated paper</BT>
+ <BT>Groundwood Paper</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Blurb</DESCRIPTOR>
+ <ID>blurb</ID>
+ <PL>Blurb</PL>
+ <SN>A short summary of a book used for promotion purposes in marketing materials or on the jacket of a book.</SN>
+ <BT>Book metadata</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Board books</DESCRIPTOR>
+ <ID>board_books</ID>
+ <PL>Board books</PL>
+ <SN>Small books for very young children with pages of cardboard to resist chewing or tearing.</SN>
+ <BT>Children&apos;s Books</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Boards</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>Boards</ID>
+ <PL>Boards</PL>
+ <SN>The material which gives the covers of hardcover books their stiffness. Generally thick cardboard.</SN>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Body matter</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Bodymatter</ID>
+ <PL>Body Matter</PL>
+ <SN>The content of the book, generally consisting of parts, chapters and sections.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Chapter</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Bonus</DESCRIPTOR>
+ <ID>bonus</ID>
+ <PL>Bonus</PL>
+ <SN>Non-wage or salary compensation paid generally once per year upon the attainment of personal or company objectives.</SN>
+ <BT>Salary-related costs</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book [Content Structure]</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>book_content_structure</ID>
+ <PL>Book Content Structure</PL>
+ <SN>The logical structure of a book including frontmatter, chapters, etc. This is opposed to the physical structure of a book which would include such elements as the jacket, binding, text block and signatures.</SN>
+ <SQ>35</SQ>
+ <NT>Art program</NT>
+ <NT>Backmatter</NT>
+ <NT>Body matter</NT>
+ <NT>Book metadata</NT>
+ <NT>Cover copy</NT>
+ <NT>Flap copy</NT>
+ <NT>Frontmatter</NT>
+ <NT>Jacket copy</NT>
+ <NT>Page [Logical]</NT>
+ <NT>Part</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book [Format]</DESCRIPTOR>
+ <ID>book_format</ID>
+ <PL>Book format</PL>
+ <SN>The physical form in which a book is published.</SN>
+ <SQ>30</SQ>
+ <NT>Digital Format</NT>
+ <NT>Print [Format]</NT>
+ <RT>Book [Media]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book [Media]</DESCRIPTOR>
+ <ID>book</ID>
+ <PL>Book</PL>
+ <SN>A written work that is published as bound pages.</SN>
+ <BT>Media [Textual]</BT>
+ <RT>Book [Format]</RT>
+ <RT>Literary genre</RT>
+ <RT>One-time delivery</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book club [Channel]</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>book_club</ID>
+ <PL>Book club</PL>
+ <SN>A direct mail marketing organization in which a defined selection of books are sold to members, generally at reduced prices.</SN>
+ <BT>Sales Channel</BT>
+ <NT>Negative option</NT>
+ <NT>Professional Book Clubs</NT>
+ <RT>Book club [Rights]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book club [Rights]</DESCRIPTOR>
+ <ID>book_club_rights</ID>
+ <PL>Book club rights</PL>
+ <SN>The rights to publish a book club edition.</SN>
+ <BT>Subsidiary Rights [Rights]</BT>
+ <RT>Book club [Channel]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book design</DESCRIPTOR>
+ <ID>book_design</ID>
+ <PL>Book design</PL>
+ <SN>The typography and layout of a book that merges the content of the book with the physical structure of the book.</SN>
+ <NT>Page layout</NT>
+ <NT>Pagination guide</NT>
+ <NT>Typography</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book fair</DESCRIPTOR>
+ <ID>book_fair</ID>
+ <PL>Book fair</PL>
+ <SN>A publishing convention in which publishers, agents and bookstores come together to buy and sell rights and see what is available for sale.</SN>
+ <BT>Support organizations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book metadata</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>book_metadata</ID>
+ <PL>Book metadata</PL>
+ <SN>Information about a book including title, author, ISBN, price, and synopsis.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Author biography</NT>
+ <NT>Author image</NT>
+ <NT>Author name</NT>
+ <NT>Blurb</NT>
+ <NT>Cataloging in Publication data</NT>
+ <NT>Cover image</NT>
+ <NT>DOI</NT>
+ <NT>ISBN</NT>
+ <NT>ISBN-13</NT>
+ <NT>Title</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book Publisher</DESCRIPTOR>
+ <ID>book_publisher</ID>
+ <PL>Book publisher</PL>
+ <SN>An entity that produces and distributes books for public consumption.</SN>
+ <BT>Publisher</BT>
+ <BT>Value Chain</BT>
+ <NT>Imprint</NT>
+ <NT>Small presses</NT>
+ <RT>Author contract</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Book publishing [Sector]</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>book_publishing_sector</ID>
+ <PL>Book Publishing Sector</PL>
+ <SN>The major types of book publishing distinguished by the types of customers and uses to which they put information published.</SN>
+ <BT>Media Sector</BT>
+ <NT>Academic Publishing</NT>
+ <NT>Educational Publishing</NT>
+ <NT>Professional Publishing</NT>
+ <NT>Reference Publishing</NT>
+ <NT>Self-Publishing</NT>
+ <NT>Trade Publishing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Booksellers</NON-DESCRIPTOR>
+ <ID>booksellers</ID>
+ <USE>Bookstore</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>bookstore</ID>
+ <PL>Bookstore</PL>
+ <SN>A retailer that deals primarily in books.</SN>
+ <UF>Booksellers</UF>
+ <BT>Retail</BT>
+ <BT>Retailer</BT>
+ <BT>Value Chain</BT>
+ <NT>Chain bookstore</NT>
+ <NT>College bookstore</NT>
+ <NT>Independent Bookstore</NT>
+ <NT>Medical Bookstore</NT>
+ <NT>Online bookstore</NT>
+ <NT>Religious Bookstore</NT>
+ <RT>Cooperative Advertising</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Bottom margin</DESCRIPTOR>
+ <ID>bottom_margin</ID>
+ <PL>Bottom margin</PL>
+ <SN>The blank space beneath the text on a page.  Sometimes a page number, or folio, is displayed in the bottom margin.</SN>
+ <BT>Margin</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Bound galley</DESCRIPTOR>
+ <ID>bound_galley</ID>
+ <PL>Bound galley</PL>
+ <SN>A bound set of early pages sent out by a publisher for marketing purposes.</SN>
+ <UF>Uncorrected proofs</UF>
+ <BT>Lifecycle</BT>
+ <BT>Paperback</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Boxed text</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>boxed_text</ID>
+ <PL>Boxed text</PL>
+ <SN>Out of line notes that are inserted into the running text that offer additional information to the body text. Boxed text is set off from the main text typographically through the use of lines creating a box.</SN>
+ <BT>Note</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Brightness</DESCRIPTOR>
+ <ID>Brightness</ID>
+ <BT>Paper grade</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>British Commonwealth [Rights]</DESCRIPTOR>
+ <ID>British_Commonwealth</ID>
+ <PL>British Commonwealth</PL>
+ <SN>A group of nations including the UK and former British colonies that pay allegiance to the British Crown.  These include Canada, Australia, Republic of Ireland, Republic of India, New Zealand, and the Republic of South Africa.</SN>
+ <BT>Territory [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>British Copyright Act of 1710</DESCRIPTOR>
+ <ID>copyright_act_1710</ID>
+ <PL>Copyright Act of 1710</PL>
+ <SN>England&apos;s Statute of Anne (1710) is generally regarded as the first law establishing copyright. It established a public copyright system, established copyright as originating with the author, and established a term for copyright protection.</SN>
+ <BT>Copyright</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Broadcast television</DESCRIPTOR>
+ <ID>broadcast_television</ID>
+ <PL>Broadcast television</PL>
+ <SN>Television that is synchronously broadcast via radio waves to household receivers. Broadcast television is characterized by homogeneous program offerings that will appeal to a mass audience.</SN>
+ <BT>Media [Visual]</BT>
+ <RT>Television [Genre]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Broadsheet</DESCRIPTOR>
+ <ID>broadsheet</ID>
+ <PL>Broadsheet</PL>
+ <SN>The standard, or large-sized newspaper with pages that are double that of a tabloid.  The New York Times is a broadsheet format.</SN>
+ <BT>Newspaper [Format]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Browser</DESCRIPTOR>
+ <ID>browser</ID>
+ <PL>Browser</PL>
+ <SN>A software program that is used to interact with information on the World Wide Web.</SN>
+ <BT>Application [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Budgeting</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>budgeting</ID>
+ <PL>Budgeting</PL>
+ <SN>The finance function in which plans for all elements of the financial statements are established and monitored.</SN>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Burst binding</DESCRIPTOR>
+ <ID>burst_binding</ID>
+ <PL>Burst binding</PL>
+ <SN>A type of adhesive binding in which glue is forced up through slots in each signature during the binding process.</SN>
+ <BT>Adhesive Binding</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Business Books</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>business_books</ID>
+ <PL>Business books</PL>
+ <SN>Books about management, economics, finance and investing, accounting, auditing, tax, HR/training and careers, advertising/marketing/sales, real estate, and small business.</SN>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Business Models</DESCRIPTOR>
+ <ID>business_models</ID>
+ <PL>Business models</PL>
+ <SN>The manner in which a company receives money for products or services.</SN>
+ <SQ>60</SQ>
+ <NT>Advertising Model</NT>
+ <NT>Pay per use model</NT>
+ <NT>Purchase model</NT>
+ <NT>Subscription Model</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Business Systems</DESCRIPTOR>
+ <ID>business_systems</ID>
+ <PL>Business systems</PL>
+ <SN>Core systems used by a company to support its mission critical applications.  These would include financial systems, sales, order processing, and operations management systems.</SN>
+ <BT>Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>C1</NON-DESCRIPTOR>
+ <ID>C1</ID>
+ <USE>Front cover</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>C1S</NON-DESCRIPTOR>
+ <ID>C1S</ID>
+ <USE>Coated paper</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>C2</NON-DESCRIPTOR>
+ <ID>C2</ID>
+ <USE>Inside front cover</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>C2S</NON-DESCRIPTOR>
+ <ID>C2S</ID>
+ <USE>Coated paper</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>C3</NON-DESCRIPTOR>
+ <ID>C3</ID>
+ <USE>Inside back cover</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>C4</NON-DESCRIPTOR>
+ <ID>C4</ID>
+ <USE>Back cover</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cable television</DESCRIPTOR>
+ <ID>cable_television</ID>
+ <SN>Television that is synchronously broadcast via cable to household receivers. Cable television is characterized by a large variety of channels carrying programming of different sorts.</SN>
+ <BT>Media [Visual]</BT>
+ <RT>Television [Genre]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Caliper</DESCRIPTOR>
+ <ID>Caliper</ID>
+ <SN>The thickness of a sheet of paper, also measured in pages per inch, or PPI.</SN>
+ <UF>PPI</UF>
+ <BT>Paper grade</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>CALS</DESCRIPTOR>
+ <ID>CALS</ID>
+ <PL>CALS</PL>
+ <SN>An XML markup model used for tables.</SN>
+ <BT>XML</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cameron Belt Press</DESCRIPTOR>
+ <ID>cameron_belt_press</ID>
+ <SN>A type of belt press that both prints and binds a book as part of the same process. Cameron belt presses result in inexpensive printing, but are not suitable for halftones or linescreens.</SN>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Card deck</DESCRIPTOR>
+ <ID>card_deck</ID>
+ <SN>A packet of post card sized advertisements with a common theme that are mailed to consumers.</SN>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Case binding</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>case_binding</ID>
+ <SN>A binding style characterized by a hard cover (case) made from boards or other stiff material.</SN>
+ <BT>Binding [Spec]</BT>
+ <NT>Library binding</NT>
+ <NT>McCain binding</NT>
+ <NT>Notch Binding</NT>
+ <NT>Side-sewn</NT>
+ <NT>Smyth-sewn</NT>
+ <RT>Cover</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cash</DESCRIPTOR>
+ <ID>cash</ID>
+ <SN>Money in bank accounts or other readily accessible form.</SN>
+ <BT>Current assets</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cash flow projection</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <SC>FN Publishing Function</SC>
+ <ID>cash_flow_projection</ID>
+ <SN>A financial projection of future cash flows as part of business planning.</SN>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cash flow statement</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>cash_flow_statement</ID>
+ <SN>One of the three major financial statements used by businesses to monitor their operations.  The cash flow statement profiles all incoming cash streams against outgoing cash streams.</SN>
+ <BT>Financial Statement</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Casting</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Casting</ID>
+ <PL>Casting</PL>
+ <SN>In audio and video production the function of selecting talent for performances.</SN>
+ <SQ>10</SQ>
+ <BT>Audio Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Catalog marketing</DESCRIPTOR>
+ <ID>catalog_marketing</ID>
+ <SN>A form of direct marketing in which a catalog of various items is printed and delivered to a consumer.</SN>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cataloging in Publication data</DESCRIPTOR>
+ <ID>cataloging_in_publication_data</ID>
+ <SN>The bibiographic data printed on a book&apos;s copyright page that is an abbreviated version of the MARC record created by the Library of Congress.</SN>
+ <UF>CIP data</UF>
+ <BT>Book metadata</BT>
+ <BT>Copyright page</BT>
+ <RT>Library of Congress</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>CD [Rights]</DESCRIPTOR>
+ <ID>CD_rights</ID>
+ <SN>The rights to publish material on CD-ROM.</SN>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>CD-Audio</DESCRIPTOR>
+ <ID>CD_audio</ID>
+ <SN>A CD used in audio players for music or audio books.</SN>
+ <BT>Media [Audio]</BT>
+ <BT>Physical medium</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>CD-ROM</DESCRIPTOR>
+ <ID>CD_ROM</ID>
+ <SN>A CD for data as opposed to audio.</SN>
+ <BT>Physical medium</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cellular phone</DESCRIPTOR>
+ <ID>cellular_phone</ID>
+ <SN>Also called a mobile phone, a cellular phone is a wireless telephone that sends and receives calls in an area served by cellular towers.</SN>
+ <BT>Hardware [Platform]</BT>
+ <BT>Mobile technology</BT>
+ <NT>Smartphones</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Censorship</DESCRIPTOR>
+ <ID>censorship</ID>
+ <SN>Suppression of a part of a work that is deemed objectionable. Censorship is generally an issue when applied by a government or regulatory agency.</SN>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Chain bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>chain_bookstore</ID>
+ <SN>Chain Book retailers consisting of multiple stores.</SN>
+ <BT>Bookstore</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Chapter</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>chapter</ID>
+ <PL>Chapter</PL>
+ <SN>A grouping of content within a book that generally shares a common theme.</SN>
+ <UF>Chapter body</UF>
+ <BT>Body matter</BT>
+ <BT>Part</BT>
+ <NT>Chemical notation</NT>
+ <NT>Epigraph</NT>
+ <NT>Figure</NT>
+ <NT>Image</NT>
+ <NT>List</NT>
+ <NT>Mathematical equation</NT>
+ <NT>Note</NT>
+ <NT>Paragraph</NT>
+ <NT>Reference</NT>
+ <NT>Section</NT>
+ <NT>Sidebar</NT>
+ <NT>Table</NT>
+ <NT>Text</NT>
+ <RT>Pagination guide</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Chapter body</NON-DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>chapter_body</ID>
+ <USE>Chapter</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Chart</NON-DESCRIPTOR>
+ <ID>chart</ID>
+ <USE>Graph</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Chemical notation</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>chemical_notation</ID>
+ <SN>Notation used to describe chemical reactions and relationships.</SN>
+ <BT>Chapter</BT>
+ <BT>Specialized notation</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Children&apos;s Books</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>childrens_books</ID>
+ <SN>Books published for use by children.</SN>
+ <BT>Literary genre</BT>
+ <NT>Board books</NT>
+ <NT>Illustrated books</NT>
+ <NT>Young adult</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Children&apos;s Publishing</NON-DESCRIPTOR>
+ <ID>childrens_publishing</ID>
+ <USE>Childrens Trade Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Childrens Trade Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>childrens_trade</ID>
+ <SN>That sector of publishing focused primarily on providing content for children across fiction and non-fiction categories.</SN>
+ <UF>Children&apos;s Publishing</UF>
+ <UF>Juvenile Publishing</UF>
+ <BT>Trade Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Christian Publishers</NON-DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>christian_publishers</ID>
+ <USE>Religious Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>CIP data</NON-DESCRIPTOR>
+ <ID>CIP_data</ID>
+ <USE>Cataloging in Publication data</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Classics</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>classics</ID>
+ <SN>Traditionally this has been the study of the literary works of ancient Greece and Rome.  It has taken on a more expanded meaning to represent well-respected literary works of any age prior to the present.</SN>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>CMS</NON-DESCRIPTOR>
+ <ID>cms</ID>
+ <USE>Content Management System</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Coated paper</DESCRIPTOR>
+ <ID>coated_paper</ID>
+ <SN>Paper with a surface coating applied to one side (C1S) or two sides (C2S) to allow for better reproduction of halftones and other images.</SN>
+ <UF>C1S</UF>
+ <UF>C2S</UF>
+ <BT>Paper grade</BT>
+ <NT>Blade coated freesheet</NT>
+ <NT>Blade coated groundwood</NT>
+ <NT>Film coated freesheet</NT>
+ <NT>Film coated groundwood</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Collection agencies</DESCRIPTOR>
+ <ID>collection_agencies</ID>
+ <SN>Companies that aid in the collection of debts from consumers and other businesses.</SN>
+ <BT>Service providers</BT>
+ <RT>Credit and collections</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>College bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <EX>Follet College Bookstores, Barnes &amp; Noble College</EX>
+ <ID>college_bookstore</ID>
+ <PL>College Bookstore</PL>
+ <SN>Bookstores associated with institutions of higher education that sell textbooks and many other types of merchandise to students.</SN>
+ <BT>Bookstore</BT>
+ <RT>Advance Dating</RT>
+ <RT>Four Year Colleges</RT>
+ <RT>Two Year Colleges</RT>
+ <RT>Used Books</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>College Publishing</NON-DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>college_publishing</ID>
+ <USE>Higher Education Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>College radio</DESCRIPTOR>
+ <ID>college_radio</ID>
+ <SN>Radio stations that are run by the students of a college or university. They generally feature programming that is very different than that provided by commercial stations.</SN>
+ <BT>Radio format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>College textbooks</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>college_textbooks</ID>
+ <SN>Textbooks that are used in university courses that present a broad scope of material related to a particular discipline. These same textbooks can be used in honors courses or advanced placement courses in high schools.</SN>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Colophon</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>colophon</ID>
+ <SN>Logo of a publishing firm generally printed on the title page of a book.</SN>
+ <BT>Title page</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Colophon [Typography]</DESCRIPTOR>
+ <ID>colophon_typography</ID>
+ <SN>A page in the backmatter on which details of the typography are described.</SN>
+ <BT>Backmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Color illustration</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>color_illustration</ID>
+ <SN>An illustration that is presented in multiple colors. This is distinct from a black and white illustration or single color illustrations presented in the same color as the text.</SN>
+ <BT>Illustration</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Comics</DESCRIPTOR>
+ <ID>comics</ID>
+ <SN>An illustrated medium in which the main narrative is presented in images with textual support.</SN>
+ <BT>Literary genre</BT>
+ <NT>Graphic novel</NT>
+ <NT>Japanese comics</NT>
+ <NT>Manga</NT>
+ <NT>Superhero</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Commercial radio</DESCRIPTOR>
+ <ID>commercial_radio</ID>
+ <SN>Broadcasting for profit generally via on-air advertising.</SN>
+ <BT>Radio format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Commission</DESCRIPTOR>
+ <ID>commission</ID>
+ <SN>Compensation paid only in relation to the value or quantity of what was sold.</SN>
+ <BT>Salary-related costs</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Commission reps</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>commission_reps</ID>
+ <SN>Independent sales people, generally self-employed, that work on commission and will generally represent multiple publishers.</SN>
+ <BT>Sales Force</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Community radio</DESCRIPTOR>
+ <ID>community_radio</ID>
+ <SN>Nonprofit radio stations that are generally operated to serve a local interest.</SN>
+ <BT>Radio format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Compensation</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>compensation</ID>
+ <SN>Money paid to employees for fulfilling their daily responsibilities.</SN>
+ <BT>Salary-related costs</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Compensation [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>compensation_function</ID>
+ <SN>That function in a company that determines equitable salary ranges and guidelines for employees and oversees pay and bonus programs.</SN>
+ <BT>Human Resources</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Composition</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>composition</ID>
+ <SN>The transformation of manuscripts to finished pages suitable for printing.</SN>
+ <SQ>32</SQ>
+ <BT>Print production</BT>
+ <RT>Composition systems</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Composition systems</DESCRIPTOR>
+ <EX>3B2 (APP), XPP, Miles 33, Penta</EX>
+ <ID>composition_systems</ID>
+ <SN>Systems used to compose pages, transforming from a manuscript to final format for printing.</SN>
+ <BT>Production Technology</BT>
+ <RT>Composition</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Consulting</DESCRIPTOR>
+ <EX>Market Partners, The Idea Logical Company</EX>
+ <ID>consultants</ID>
+ <PL>Consultants</PL>
+ <SN>Providing advice to publishers, wholesalers or others in the publishing industry to solve particular problems of a strategic or operational nature.</SN>
+ <BT>Service providers</BT>
+ <NT>Asset improvement</NT>
+ <NT>Cost Reduction</NT>
+ <NT>Digital Strategy</NT>
+ <NT>Expert witness</NT>
+ <NT>Market Assessment</NT>
+ <NT>Operations review</NT>
+ <NT>Organization Alignment</NT>
+ <NT>Productivity Improvement</NT>
+ <NT>Systems Integration</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Consumer magazine [Sector]</DESCRIPTOR>
+ <ID>consumer_magazine_sector</ID>
+ <SN>Periodicals targeted at consumers that are party supported by subscription and partly by advertising.</SN>
+ <BT>Magazine Publishing [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Content management</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Content_Management</ID>
+ <SN>The ingestion, maintenance and (generally internal) distribution of content supporting publishing operations.  This can support content development and production workflows or be targeted at content post-production.</SN>
+ <SQ>90</SQ>
+ <BT>Production</BT>
+ <RT>Content Management System</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Content Management System</DESCRIPTOR>
+ <ID>content_management_system</ID>
+ <SN>A Content Management System (CMS) is used to manage a company&apos;s digital assets for either development or distribution.</SN>
+ <UF>CMS</UF>
+ <BT>Technology</BT>
+ <RT>Content management</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Content Type</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>content_type</ID>
+ <SN>Forms of content that are perceived in different ways, textually, visually, aurally or in some meaningful spatial or temporal combination.</SN>
+ <SQ>40</SQ>
+ <NT>Image</NT>
+ <NT>Interactive</NT>
+ <NT>List</NT>
+ <NT>Multimedia</NT>
+ <NT>Specialized notation</NT>
+ <NT>Table</NT>
+ <NT>Text</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Continuous delivery</DESCRIPTOR>
+ <ID>continuous_delivery</ID>
+ <SN>A channel of delivery that is continuously available and in fact requires continuous connection for delivery of content. Examples would include broadcast and two-way channels such as the Internet.</SN>
+ <BT>Delivery [Platform]</BT>
+ <RT>Web site</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Contract</DESCRIPTOR>
+ <ID>contract</ID>
+ <SN>A document in which the terms and conditions of an agreement between two parties is laid out.</SN>
+ <NT>Author contract</NT>
+ <NT>Contributor contracts</NT>
+ <NT>Distribution agreements</NT>
+ <NT>Editor contracts</NT>
+ <NT>EULA</NT>
+ <NT>Freelance contracts</NT>
+ <NT>License agreements</NT>
+ <NT>Strategic relationship agreements</NT>
+ <NT>Subsidiary rights contracts</NT>
+ <RT>Contract Management</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Contract Management</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>contract_management</ID>
+ <SN>That publishing function in which contracts, generally with authors, but also with other parties are executed and maintained.</SN>
+ <BT>Legal</BT>
+ <RT>Author</RT>
+ <RT>Contract</RT>
+ <RT>Literary Agent</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Contribution</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>contribution</ID>
+ <SN>A cut at the operating statement at a product line or operating unit level that identifies the margin generated by the product line including revenue, COGS, and any directly attributable overhead costs.</SN>
+ <BT>Operating statement</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Contributor</DESCRIPTOR>
+ <ID>contributor</ID>
+ <BT>Value Chain</BT>
+ <NT>Author</NT>
+ <NT>Illustrator</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Contributor contracts</DESCRIPTOR>
+ <ID>contributor_contracts</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Controlled circulation magazines</DESCRIPTOR>
+ <ID>controlled_circulation_magazines</ID>
+ <SN>Advertising supported business magazines in which the publisher guarantees to the advertisers that the subscribers are relevant to the advertisers&apos; interests.</SN>
+ <BT>Trade magazine [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Conversion</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Conversion</ID>
+ <PL>Data Conversion</PL>
+ <SN>The transformation of content from an original format to a derivative format. Often this involves taking content from a previously published format in either paper, PDF or application files into XML or fielded format.</SN>
+ <SQ>21</SQ>
+ <BT>Print production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>CookBooks</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>cookbooks</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Coop</NON-DESCRIPTOR>
+ <ID>Coop</ID>
+ <USE>Cooperative Advertising</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cooperative Advertising</DESCRIPTOR>
+ <ID>cooperative_advertising</ID>
+ <UF>Coop</UF>
+ <BT>Advertising</BT>
+ <BT>Terms of Sale</BT>
+ <RT>Bookstore</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Copy edited manuscript</DESCRIPTOR>
+ <ID>copy_edited_manuscript</ID>
+ <BT>Manuscript</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Copy editing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Copy_Edit</ID>
+ <PL>Copy Editing</PL>
+ <SN>Ensuring grammatical correctness and terminology consistency in a manuscript. Copy editing also generally includes fact checking.</SN>
+ <SQ>24</SQ>
+ <BT>Print production</BT>
+ <RT>Foul matter</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Copy/paste</DESCRIPTOR>
+ <ID>copy_paste</ID>
+ <BT>User rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Copying</DESCRIPTOR>
+ <ID>copying</ID>
+ <UF>Photocopying</UF>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Copyright</DESCRIPTOR>
+ <ID>copyright</ID>
+ <NT>Berne Convention</NT>
+ <NT>British Copyright Act of 1710</NT>
+ <NT>Fair Use</NT>
+ <NT>First sale doctrine</NT>
+ <NT>Register of Copyrights</NT>
+ <NT>Universal Copyright Convention</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Copyright page</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>CopyrightPage</ID>
+ <PL>Copyright Page</PL>
+ <SN>The page placed in the frontmatter of a book that contains key identifying information about the book such as ISBN, CIP data, copyright year and other data that assists in registering and categorizing a book for filing and locating later on as well as other practical functions associated with publishing, cataloguing, filing, or reading a book.</SN>
+ <BT>Frontmatter</BT>
+ <NT>Cataloging in Publication data</NT>
+ <NT>ISBN</NT>
+ <RT>User rights</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Corporate</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>corporate</ID>
+ <BT>Sales Channel</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Corporate Library</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Corporate_Library</ID>
+ <PL>Corporate Library</PL>
+ <SN>A library associated with a corporation.</SN>
+ <BT>Library</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cost of Goods Sold</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>cost_of_goods_sold</ID>
+ <BT>Operating statement</BT>
+ <NT>Distributor fees</NT>
+ <NT>Inbound transportation</NT>
+ <NT>Inventory obsolescence</NT>
+ <NT>Outbound transportation</NT>
+ <NT>Paper, Print and Bind</NT>
+ <NT>Plate write-off</NT>
+ <NT>Printing</NT>
+ <NT>Return reserve change</NT>
+ <NT>Royalty expense</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cost Reduction</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Cost_Reduction</ID>
+ <PL>Cost Reduction</PL>
+ <SN>Projects to reduce the cost of operations. These projects can be applied to any function.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Costs</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>costs</ID>
+ <BT>Operating statement</BT>
+ <RT>Estimating</RT>
+ <RT>Outbound transportation</RT>
+ <RT>Paper</RT>
+ <RT>Printing</RT>
+ <RT>Reprint</RT>
+ <RT>Transportation</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Course Cartridge</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Course_Cartridge</ID>
+ <PL>Course Cartridge</PL>
+ <SN>Courseware in a format suitable for delivery via LMS systems such as Blackboard.</SN>
+ <BT>Courseware</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Courseware</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Courseware</ID>
+ <PL>Courseware</PL>
+ <SN>Online content provided to students consisting of learning materials and a course environmement. Generally courseware will include a syllabus, course objectives, core content (text, multimedia and interactive components), tutorial or homework conent, low-stakes assessment/quizzing, and notes and materials provided by an instructor.</SN>
+ <BT>Media [Textual]</BT>
+ <NT>Course Cartridge</NT>
+ <RT>Courseware Production</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Courseware Production</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Courseware_Production</ID>
+ <PL>Courseware Production</PL>
+ <SN>Execution of multimedia and interactive components of courseware. This can be delivered as custom coding or in an LMS cartridge format.</SN>
+ <SQ>50</SQ>
+ <BT>Production</BT>
+ <RT>Courseware</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cover</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>cover</ID>
+ <BT>Physical book component</BT>
+ <NT>Back cover</NT>
+ <NT>Boards</NT>
+ <NT>Cover stock</NT>
+ <NT>Crash</NT>
+ <NT>Fabric</NT>
+ <NT>Front cover</NT>
+ <NT>Head bands</NT>
+ <NT>Inside back cover</NT>
+ <NT>Inside front cover</NT>
+ <NT>Laminate</NT>
+ <NT>One-piece cover</NT>
+ <NT>Spine</NT>
+ <NT>Three-piece cover</NT>
+ <RT>Case binding</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cover copy</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>cover_copy</ID>
+ <BT>Book [Content Structure]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cover image</DESCRIPTOR>
+ <ID>cover_image</ID>
+ <BT>Book metadata</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cover stock</DESCRIPTOR>
+ <ID>cover_stock</ID>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Crash</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Crash</ID>
+ <PL>Crash</PL>
+ <SN>Loose weave material used to re-inforce the spine and hinge of a book.</SN>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Credit and collections</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>credit_and_collections</ID>
+ <BT>Finance [Function]</BT>
+ <RT>Collection agencies</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Credit memorandum</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>credit_memorandum</ID>
+ <BT>Publishing transactions</BT>
+ <RT>Return [Transaction]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Cross-reference</DESCRIPTOR>
+ <ID>crossreference</ID>
+ <BT>Reference</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Current assets</DESCRIPTOR>
+ <ID>current_assets</ID>
+ <BT>Assets</BT>
+ <NT>Accounts Receivable [Asset]</NT>
+ <NT>Cash</NT>
+ <NT>Inventory [Asset]</NT>
+ <RT>Inventory Management [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Current liabilities</DESCRIPTOR>
+ <ID>current_liabilities</ID>
+ <BT>Liabilities</BT>
+ <NT>Accounts payable [Liability]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Custom Publishing</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Custom_Publishing</ID>
+ <PL>Custom Publishing</PL>
+ <SN>The recombination of content on-the-fly in response to a customer request. This content can be delivered either in physical format via POD or other printing technology, or in digital format.</SN>
+ <BT>Alternative Publishing Configurations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Customer invoice</DESCRIPTOR>
+ <ID>customer_invoice</ID>
+ <BT>Publishing transactions</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Customer order</DESCRIPTOR>
+ <ID>customer_order</ID>
+ <BT>Publishing transactions</BT>
+ <NT>Advance orders</NT>
+ <NT>Backorder</NT>
+ <NT>Future order</NT>
+ <NT>Single Title Order Plan</NT>
+ <NT>Special Orders</NT>
+ <NT>Standing Orders</NT>
+ <RT>Order processing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Customer Service</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Customer_Service</ID>
+ <PL>Customer Service</PL>
+ <SN>That function that works with customers in placement of orders, handling of inquiries and resolution of issues.</SN>
+ <BT>Operations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>DAD</NON-DESCRIPTOR>
+ <ID>dad</ID>
+ <USE>Digital Asset Distributor</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Debt</DESCRIPTOR>
+ <ID>debt</ID>
+ <BT>Liabilities</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Deduction</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>deduction</ID>
+ <BT>Publishing transactions</BT>
+ <RT>Return [Transaction]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Delivery</NON-DESCRIPTOR>
+ <ID>delivery</ID>
+ <USE>Order fulfillment</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Delivery [Platform]</DESCRIPTOR>
+ <ID>delivery_platform</ID>
+ <BT>Platform</BT>
+ <NT>Continuous delivery</NT>
+ <NT>One-time delivery</NT>
+ <NT>Periodic delivery</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Dental textbooks</DESCRIPTOR>
+ <ID>dental_textbooks</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Depreciation</DESCRIPTOR>
+ <ID>Depreciation</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Derivative [Rights]</DESCRIPTOR>
+ <ID>derivative_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Design [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>design_function</ID>
+ <BT>Production</BT>
+ <RT>Standardization</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Desk Copy</NON-DESCRIPTOR>
+ <ID>desk_copy</ID>
+ <USE>Review Copy</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Desktop Publishing systems</DESCRIPTOR>
+ <ID>desktop_publishing_systems</ID>
+ <BT>Production Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Development and Maintenance</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Development_Maintenance</ID>
+ <PL>Development &amp; Maintenance</PL><!-- unknown line type [@@@] -->
+
+ <BT>Technology [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Development Edit</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Development_Edit</ID>
+ <PL>Development Edit</PL>
+ <SN>Working with an author to develop a finished manuscript that is ready for production, complete with all necessary third party content specified.</SN>
+ <SQ>30</SQ>
+ <UF>Line Editing</UF>
+ <BT>Editorial [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Diagnostic Assessment</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Diagnostic_Assessment</ID>
+ <PL>Diagnostic Assessment</PL>
+ <SN>Determination of each student&apos;s strengths, weaknesses, knowledge, and skills prior to instruction.</SN>
+ <BT>Assessment</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Dialogue</DESCRIPTOR>
+ <ID>dialogue</ID>
+ <BT>Prose</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Digital Asset Distributor</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>DAD</ID>
+ <PL>Digital Asset Distributors</PL>
+ <SN>Companies that maintain digital files of publisher titles and distribute them both to consumers and to other publisher-designated channels. These companies are cost-efffective alternatives for publishers that would like to avoid a substantial investment in Digital Asset management systems and digitization programs.</SN>
+ <UF>DAD</UF>
+ <BT>Alternative Publishing Configurations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Digital Format</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Digital</ID>
+ <PL>Digital Formats</PL>
+ <SN>Books and content published in electronic formats for use either online or offline.</SN>
+ <BT>Book [Format]</BT>
+ <NT>Downloaded</NT>
+ <NT>Online</NT>
+ <NT>Physical medium</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Digital printing</DESCRIPTOR>
+ <ID>digital_printing</ID>
+ <BT>Printing Technology</BT>
+ <RT>POD</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Digital Strategy</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Digital_Strategy</ID>
+ <PL>Digital Strategy</PL>
+ <SN>Projects undertaken with the purpose of helping publishers determine how to move from print to digital formats and channels.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Direct Mail</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>direct_mail</ID>
+ <BT>Direct to Consumer</BT>
+ <NT>Card deck</NT>
+ <NT>Catalog marketing</NT>
+ <NT>Enclosure Mailings</NT>
+ <NT>Mail Order Publishing</NT>
+ <NT>Mailing lists</NT>
+ <NT>Sales Letters</NT>
+ <NT>Self-Mailers</NT>
+ <NT>Split Test</NT>
+ <RT>Direct Mail Marketing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Direct Mail Marketing</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>direct_mail_marketing</ID>
+ <BT>Direct to Consumer</BT>
+ <RT>Direct Mail</RT>
+ <RT>Mail Order Publishing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Direct to Consumer</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Direct</ID>
+ <PL>Direct</PL>
+ <SN>Sales made directly to consumers.</SN>
+ <BT>Sales Channel</BT>
+ <NT>Direct Mail</NT>
+ <NT>Direct Mail Marketing</NT>
+ <NT>Home School</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Discounts</DESCRIPTOR>
+ <ID>discounts</ID>
+ <BT>Terms of Sale</BT>
+ <NT>RDC terms</NT>
+ <NT>Short discount</NT>
+ <NT>Trade discount</NT>
+ <NT>Wholesale discount</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Distribution [Cost]</DESCRIPTOR>
+ <ID>distribution_cost</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Distribution [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Distribution</ID>
+ <PL>Distribution</PL>
+ <SN>The movement of content in finished form from publisher warehouses or servers to the ultimate consumer.</SN>
+ <BT>Operations</BT>
+ <NT>Invoicing</NT>
+ <NT>Transportation</NT>
+ <NT>Warehousing [Function]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Distribution agreements</DESCRIPTOR>
+ <ID>distribution_agreements</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Distribution Technology</DESCRIPTOR>
+ <ID>distribution_technology</ID>
+ <BT>Technology</BT>
+ <NT>PUBNET</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Distributor</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <EX>Formerly PGW, NBN</EX>
+ <ID>Distributor</ID>
+ <PL>Distributor</PL>
+ <SN>Business entities that form exclusive arrangements with either specific publishers or particular channels of distribution in order to increase the effectiveness of publishers in reaching that market.</SN>
+ <BT>Sales Channel</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Distributor fees</DESCRIPTOR>
+ <ID>distributor_fees</ID>
+ <BT>Cost of Goods Sold</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>DocBook</DESCRIPTOR>
+ <ID>DocBook</ID>
+ <BT>XML</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>DOI</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>DOI</ID>
+ <PL>Digital Object Identifier (DOI)</PL>
+ <SN>The DOI is an identifier applied to items (physical or otherwise) to increase their findability on the web.</SN>
+ <BT>Book metadata</BT>
+ <BT>Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Downloaded</DESCRIPTOR>
+ <ID>downloaded</ID>
+ <BT>Digital Format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>DRM</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>DRM</ID>
+ <PL>DRM</PL>
+ <SN>(D)igital (R)ights (M)anagement refers to systems of specifying and enforcing user rights over digital items such as eBooks or Music.</SN>
+ <BT>Technology</BT>
+ <RT>User rights</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>DVD [Rights]</DESCRIPTOR>
+ <ID>dvd_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>DVD-ROM</DESCRIPTOR>
+ <ID>dvd_rom</ID>
+ <BT>Physical medium</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Early in Stock (EIS)</DESCRIPTOR>
+ <ID>early_in_stock</ID>
+ <BT>Lifecycle</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>EBITDA</DESCRIPTOR>
+ <ID>ebitda</ID>
+ <BT>Operating statement</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>eBook [Format]</DESCRIPTOR>
+ <ID>ebook_format</ID>
+ <NT>OEB-based format</NT>
+ <NT>PDF-based format</NT>
+ <RT>eBook [Media]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>eBook [Media]</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>eBooks</ID>
+ <PL>eBooks</PL>
+ <SN>Books sold in digital format for consumption either online or offline. These editions may either consist of substantially the same content as the print edition or contain multimedia or interactive elements that extend substantially beyond the print edition.</SN>
+ <BT>Media [Textual]</BT>
+ <NT>eBook Device</NT>
+ <NT>eBook Software</NT>
+ <RT>eBook [Format]</RT>
+ <RT>Literary genre</RT>
+ <RT>One-time delivery</RT>
+ <RT>Platform</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>eBook [Rights]</DESCRIPTOR>
+ <ID>ebook_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>eBook Device</DESCRIPTOR>
+ <EX>Sony Reader, iRex iLiad</EX>
+ <ID>eBook_Device</ID>
+ <PL>eBook Devices</PL>
+ <SN>Dedicated reading devices. These devices are specifically designed for reading books and perform only limited other functions.</SN>
+ <BT>eBook [Media]</BT>
+ <BT>Hardware [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>eBook Retailer</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>ebook_retailer</ID>
+ <PL>eBook Retailers</PL>
+ <SN>Book retailers that are primarily focused on selling eBooks to consumers.</SN>
+ <BT>Retail</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>eBook Software</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>eBook_Software</ID>
+ <PL>eBook Reading Software</PL>
+ <SN>Software for reading books.  This software runs on general purpose machines such as PCs, PDAs or smartphones.</SN>
+ <BT>Application [Platform]</BT>
+ <BT>eBook [Media]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>EDI</NON-DESCRIPTOR>
+ <ID>EDI</ID>
+ <USE>Electronic Data Interchange</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Editing</NON-DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Editing</ID>
+ <PL>Editing</PL><!-- unknown line type [@@@] -->
+
+ <USE>Editorial [Function]</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Editor contracts</DESCRIPTOR>
+ <ID>editor_contracts</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Editorial [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>editorial_function</ID>
+ <PL>Editorial</PL>
+ <SN>Those stages of the publishing process between identification of the need for a particular publication through completion of the content prior to production.The editorial process consists of reviewing, making changes, and otherwise shaping a manuscript or compiled text to bring it to acceptable industry and commercial standards. Editing is a broad term that can represent corrections as minor as typos and grammar changes or as broad as suggestions for revision of a theme or premise.</SN>
+ <SQ>40</SQ>
+ <UF>Editing</UF>
+ <UF>Editors</UF>
+ <BT>Product Development</BT>
+ <NT>Acquisition</NT>
+ <NT>Development Edit</NT>
+ <NT>Instructional Design</NT>
+ <NT>Rights Management [Function]</NT>
+ <RT>Editorial services</RT>
+ <RT>Manuscript</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Editorial services</DESCRIPTOR>
+ <ID>editorial_services</ID>
+ <BT>Service providers</BT>
+ <RT>Editorial [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Editors</NON-DESCRIPTOR>
+ <ID>editors</ID>
+ <USE>Editorial [Function]</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Educational Content</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Ed_Content</ID>
+ <PL>Educational Content</PL>
+ <SN>Material delivered to support educational objectives.</SN>
+ <NT>Assessment</NT>
+ <NT>Instructional material</NT>
+ <NT>Learning object</NT>
+ <NT>Simulation</NT>
+ <NT>Tool sets</NT>
+ <NT>Tutorial</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Educational Materials</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>educational_materials</ID>
+ <BT>Literary genre</BT>
+ <NT>General Education</NT>
+ <NT>Textbooks</NT>
+ <NT>Upper Division</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Educational Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>educational_publishing</ID>
+ <BT>Book publishing [Sector]</BT>
+ <NT>ESL</NT>
+ <NT>Higher Education Publishing</NT>
+ <NT>K12 Publishing</NT>
+ <RT>Assessment</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Electronic Data Interchange</DESCRIPTOR>
+ <ID>electronic_data_interchange</ID>
+ <UF>EDI</UF>
+ <BT>Technology</BT>
+ <NT>ANSI X12</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Elementary Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>elementary_publishing</ID>
+ <BT>K12 Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Elementary Schools</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>Elementary_Schools</ID>
+ <BT>School</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Elementary textbooks</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>elementary_textbooks</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Elhi Publishing</NON-DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>elhi_publishing</ID>
+ <USE>K12 Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>ELT</NON-DESCRIPTOR>
+ <ID>ELT</ID>
+ <USE>ESL</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Enclosure Mailings</DESCRIPTOR>
+ <ID>enclosure_mailings</ID>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Encyclopedias</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>encyclopedias</ID>
+ <BT>Reference Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Endnote</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Endnotes</ID>
+ <PL>Endnotes</PL><!-- unknown line type [@@@] -->
+
+ <BT>Backmatter</BT>
+ <BT>Note</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Endpapers</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>endpapers</ID>
+ <PL>End Papers</PL>
+ <SN>The affixed paper, sometimes printed, sometimes blank, between the cover and the pages of a book, serving as a finishing effect and transition between the two.</SN>
+ <BT>Physical book component</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Epigraph</DESCRIPTOR>
+ <ID>epigraph</ID>
+ <BT>Chapter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Equity</DESCRIPTOR>
+ <ID>equity</ID>
+ <BT>Balance sheet</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>ESL</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>ESL</ID>
+ <SN>English as a Second Language.  Also known as ELT, or English Language Training.</SN>
+ <UF>ELT</UF>
+ <BT>Educational Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Estimating</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Estimating</ID>
+ <PL>Estimating</PL>
+ <SN>Determining the manufactured price of a book given specifications, lead times and quantities.</SN>
+ <SQ>10</SQ>
+ <BT>Manufacturing</BT>
+ <RT>Costs</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>EULA</DESCRIPTOR>
+ <ID>EULA</ID>
+ <BT>Contract</BT>
+ <RT>User rights</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Evangelical Books</NON-DESCRIPTOR>
+ <ID>evangelical_books</ID>
+ <USE>Religion [Genre]</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Exclusivity [Rights]</DESCRIPTOR>
+ <ID>exclusivity_rights</ID>
+ <BT>Rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Expert witness</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Expert_Witness</ID>
+ <PL>Expert Witness</PL>
+ <SN>Providing testimony in support of legal proceedings based on expert knowledge.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>External reference</DESCRIPTOR>
+ <ID>external_reference</ID>
+ <BT>Reference</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>F&amp;G</NON-DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>f_and_g</ID>
+ <SN>Folded and Gathered signatures that are used for reviewing purposes prior to binding, and may be stored to avoid the immediate cost of binding, or for use in custom publications.</SN>
+ <USE>Text block</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Fabric</DESCRIPTOR>
+ <ID>fabric</ID>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Facilities</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Facilities</ID>
+ <PL>Facilities Management</PL>
+ <SN>Management of real estate, leases and facilities.</SN>
+ <BT>Operations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Fair Use</DESCRIPTOR>
+ <ID>fair_use</ID>
+ <BT>Copyright</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Federal Government</DESCRIPTOR>
+ <ID>federal_government_channel</ID>
+ <BT>Government</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Fiction</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>fiction</ID>
+ <BT>Literary genre</BT>
+ <NT>Literary fiction</NT>
+ <NT>Novel</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Field Sales</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Field_Sales</ID>
+ <PL>Field Sales</PL><!-- unknown line type [@@@] -->
+
+ <BT>Sales Force</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Figure</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>figure</ID>
+ <PL>Figure</PL>
+ <SN>An illustration, image, or other graphic element within a book. A figure may also refer to a group of elements that together form a single entity set off within a body of text.</SN>
+ <BT>Chapter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Film coated freesheet</DESCRIPTOR>
+ <ID>film_coated_freesheet</ID>
+ <SN>Higher quality paper that does not contain groundwood which has been coated by a process that consists of additives and is distributed by the rollers on the web. While this grade offers a good print surface it is not as favorable as the bladecoated process.</SN>
+ <BT>Coated paper</BT>
+ <BT>Freesheet</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Film coated groundwood</DESCRIPTOR>
+ <ID>film_coated_groundwood</ID>
+ <SN>Groundwood which has been coated by a process that consists of additives and is distributed by the rollers on the web. While this grade offers a good print surface it is not as favorable as the bladecoated process.</SN>
+ <BT>Coated paper</BT>
+ <BT>Groundwood Paper</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Finance [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Finance</ID>
+ <PL>Finance</PL>
+ <SN>Those functions of publishing that ensure the existence of sufficient cash to allow publishing operations.</SN>
+ <BT>Publishing Functions</BT>
+ <NT>Accounts Payable [Function]</NT>
+ <NT>Accounts Receivable [Function]</NT>
+ <NT>Budgeting</NT>
+ <NT>Cash flow projection</NT>
+ <NT>Credit and collections</NT>
+ <NT>General accounting</NT>
+ <NT>Investor relations</NT>
+ <NT>Invoicing</NT>
+ <NT>Planning and budgeting</NT>
+ <NT>Royalty accounting [Function]</NT>
+ <NT>Statutory Reporting</NT>
+ <NT>Tax</NT>
+ <NT>Treasury</NT>
+ <RT>Financial Statement</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Financial Statement</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>financial_statement</ID>
+ <NT>Balance sheet</NT>
+ <NT>Cash flow statement</NT>
+ <NT>Operating statement</NT>
+ <RT>Finance [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>First Amendment</DESCRIPTOR>
+ <ID>first_amendment</ID>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>First Printing</DESCRIPTOR>
+ <ID>first_printing</ID>
+ <SN>The first time a book is printed. First printing can also refer to the quantity printed in the first print run.</SN>
+ <BT>Print [Rights]</BT>
+ <RT>Inventory Management [Function]</RT>
+ <RT>Manufacturing</RT>
+ <RT>Printing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>First sale doctrine</DESCRIPTOR>
+ <ID>first_sale_doctrine</ID>
+ <SN>The practice in which once a physical book is sold, the purchaser can do anything with it he likes so long as the original copyright isn&apos;t violated.</SN>
+ <BT>Copyright</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>First serial [Rights]</DESCRIPTOR>
+ <ID>first_serial_rights</ID>
+ <SN>The rights to publish a work in a magazine.</SN>
+ <BT>Serial Rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Fixed Assets</DESCRIPTOR>
+ <ID>fixed_assets</ID>
+ <SN>Tangible assets such as computers, furniture and warehouse equipment.</SN>
+ <BT>Assets</BT>
+ <NT>Accumulated depreciation</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Fixed manufacturing cost</DESCRIPTOR>
+ <ID>fixed_manufacturing_cost</ID>
+ <SN>The amount spent in a manufacturing purchase that is not dependent on quantity.  In publishing this refers to the cost of makeready, plates and other costs prior to printing the first unit. In many cases the fixed manufacturing cost is buried in the unit print cost, resulting in substantial apparent reductions in per unit as the quantity printed increases.</SN>
+ <BT>Paper, Print and Bind</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Flap copy</DESCRIPTOR>
+ <ID>flap_copy</ID>
+ <SN>The information about the story, author and publisher that is included on the flaps of a book jacket.</SN>
+ <BT>Book [Content Structure]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Flatbed press</DESCRIPTOR>
+ <ID>flatbed_press</ID>
+ <SN>A printing press in which printing is done on a flat surface. Flatbed presses are seldom used in industrial printing applications.</SN>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Folio</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Folio</ID>
+ <SN>The numeral used to represent page number.</SN>
+ <BT>Page [Logical]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Footnote</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Footnote</ID>
+ <SN>Out of line notes that runs along the foot of a page that offers additional information to the body text.</SN>
+ <BT>Note</BT>
+ <BT>Page [Logical]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Foreign Rights</NON-DESCRIPTOR>
+ <SC>RGTS Rights</SC>
+ <ID>foreign_rights</ID>
+ <USE>Territory [Rights]</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Foreword</DESCRIPTOR>
+ <ID>foreword</ID>
+ <SN>Introductory comments about a text written by someone other than the author, most often an authority in the field or celebrity, to add importance or recognition to the work.</SN>
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Formative assessment</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>Formative_assessment</ID>
+ <SN>Assessment that is an integral part of instruction that informs and guides teachers as they make instructional decisions.</SN>
+ <BT>Assessment</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Foul matter</DESCRIPTOR>
+ <ID>foul_matter</ID>
+ <SN>The physical source materials which have been reproduced into a typeset form, after they are not longer of use. These might include original photographs, paintings, or marked up manuscript.</SN>
+ <BT>Manuscript</BT>
+ <RT>Copy editing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Four Year Colleges</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>Four_year_college</ID>
+ <SN>Institutions of higher education that grant bachelor&apos;s degrees generally taking four years to earn.</SN>
+ <BT>Higher Education Channel</BT>
+ <RT>College bookstore</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Free Copy</NON-DESCRIPTOR>
+ <ID>free_copy</ID>
+ <USE>Review Copy</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Free Freight</DESCRIPTOR>
+ <ID>free_freight</ID>
+ <SN>Terms of sale in which shipping to the customer is paid for by the publisher.</SN>
+ <BT>Freight terms</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Freelance contracts</DESCRIPTOR>
+ <ID>freelance_contracts</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Freelancers</DESCRIPTOR>
+ <ID>freelancers</ID>
+ <BT>Service providers</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Freesheet</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>freesheet</ID>
+ <SN>Higher quality paper that does not contain groundwood.</SN>
+ <BT>Paper grade</BT>
+ <NT>Blade coated freesheet</NT>
+ <NT>Film coated freesheet</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Freight Pass Through</DESCRIPTOR>
+ <ID>freight_pass_through</ID>
+ <SN>A shipping allowance provided to booksellers to cover freight. The allowance is added to the price of the book prior to applying the retail discount. Author royalties are still calculated from the list price, so there is no effect upon royalties.  Freight pass through has largely been supplanted by free freight.</SN>
+ <BT>Freight terms</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Freight terms</DESCRIPTOR>
+ <ID>freight_terms</ID>
+ <BT>Terms of Sale</BT>
+ <NT>Free Freight</NT>
+ <NT>Freight Pass Through</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Front cover</DESCRIPTOR>
+ <ID>front_cover</ID>
+ <SN>Also known as &quot;C1&quot;</SN>
+ <UF>C1</UF>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Frontispiece</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Frontis</ID>
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Frontmatter</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Frontmatter</ID>
+ <SN>That part of the text of a book that precedes the first page of the first chapter. Front matter is generally foliod with roman numerals.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Copyright page</NT>
+ <NT>Foreword</NT>
+ <NT>Frontispiece</NT>
+ <NT>Half title page</NT>
+ <NT>Illustration list</NT>
+ <NT>Introduction</NT>
+ <NT>Preface</NT>
+ <NT>Table of Contents</NT>
+ <NT>Title page</NT>
+ <RT>Pagination guide</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Fulfillment</NON-DESCRIPTOR>
+ <ID>fulfillment</ID>
+ <USE>Order fulfillment</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Future order</DESCRIPTOR>
+ <ID>future_order</ID>
+ <BT>Customer order</BT>
+ <RT>Backorder</RT>
+ <RT>Order processing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Galley proofs</NON-DESCRIPTOR>
+ <ID>galley_proofs</ID>
+ <USE>Page proofs</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Game guide</DESCRIPTOR>
+ <ID>game_guide</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Game show</DESCRIPTOR>
+ <ID>game_show</ID>
+ <BT>Television [Genre]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Game system</DESCRIPTOR>
+ <ID>game_system</ID>
+ <BT>Hardware [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>General accounting</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>General_accounting</ID>
+ <PL>General Accounting</PL>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>General Education</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>general_education</ID>
+ <SN>Educational materials for the first two years of a four year program.</SN>
+ <BT>Educational Materials</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Glossary</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>glossary</ID>
+ <PL>Glossary</PL>
+ <SN>A group of definitions of key words within a book, usually found in the backmatter.</SN>
+ <BT>Backmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Government</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>government</ID>
+ <PL>Government</PL>
+ <SN>A government entity: local, state, or national.</SN>
+ <BT>Sales Channel</BT>
+ <NT>Federal Government</NT>
+ <NT>Local Government</NT>
+ <NT>State Government</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Graph</DESCRIPTOR>
+ <ID>graph</ID>
+ <UF>Chart</UF>
+ <BT>Image</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Graphic novel</DESCRIPTOR>
+ <ID>graphic_novel</ID>
+ <BT>Comics</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Gravure press</DESCRIPTOR>
+ <ID>gravure_press</ID>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Gross margin</DESCRIPTOR>
+ <ID>gross_margin</ID>
+ <BT>Operating statement</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Gross revenue</DESCRIPTOR>
+ <ID>gross_revenue</ID>
+ <BT>Revenue</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Groundwood Paper</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>groundwood_Paper</ID>
+ <BT>Paper grade</BT>
+ <NT>Blade coated groundwood</NT>
+ <NT>Film coated groundwood</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Guarantees</NON-DESCRIPTOR>
+ <ID>guarantees</ID>
+ <USE>Royalty guarantees</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Gutter margin</DESCRIPTOR>
+ <ID>gutter_margin</ID>
+ <UF>Inside margin</UF>
+ <BT>Margin</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Half title page</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>HalfTitlePage</ID>
+ <PL>Half Title Page</PL><!-- unknown line type [@@@] -->
+
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Halftone</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Halftone</ID>
+ <PL>Half tone</PL>
+ <SN>A process used in printing to represent photographs or illustrations in process colors for print.</SN>
+ <BT>Image</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Hand-setting</DESCRIPTOR>
+ <ID>hand_setting</ID>
+ <BT>Production Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Hardcover Books</DESCRIPTOR>
+ <ID>hardcover_books</ID>
+ <BT>Print [Format]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Hardware [Platform]</DESCRIPTOR>
+ <ID>hardware_platform</ID>
+ <BT>Platform</BT>
+ <NT>Cellular phone</NT>
+ <NT>eBook Device</NT>
+ <NT>Game system</NT>
+ <NT>Macintosh computer</NT>
+ <NT>MP3 player</NT>
+ <NT>PDA</NT>
+ <NT>Personal computer</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Head bands</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>HeadBands</ID>
+ <PL>Head bands</PL><!-- unknown line type [@@@] -->
+
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>High school textbooks</NON-DESCRIPTOR>
+ <ID>high_school_textbooks</ID>
+ <USE>Secondary textbooks</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Higher Education Channel</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Higher_Education_Channel</ID>
+ <PL>Higher Education Channel</PL>
+ <SN>Institutions for post-secondary education</SN>
+ <BT>Sales Channel</BT>
+ <NT>Four Year Colleges</NT>
+ <NT>Professional Education Institutions</NT>
+ <NT>Two Year Colleges</NT>
+ <NT>Votech</NT>
+ <RT>Review Copy</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Higher Education Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>Higher_Ed</ID>
+ <PL>Higher Ed</PL>
+ <SN>That sector of publishing focused primarily on providing content to institutions of higher learning for use in classrooms.</SN>
+ <UF>College Publishing</UF>
+ <BT>Educational Publishing</BT>
+ <RT>Adoption process</RT>
+ <RT>Used book wholesaler</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Home School</DESCRIPTOR>
+ <ID>home_school</ID>
+ <BT>Direct to Consumer</BT>
+ <BT>School</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Honors</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>honors</ID>
+ <BT>Secondary School</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Hospital</DESCRIPTOR>
+ <ID>hospital</ID>
+ <BT>Institutional</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Human Resources</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>human_resources</ID>
+ <BT>Publishing Functions</BT>
+ <NT>Benefits</NT>
+ <NT>Compensation [Function]</NT>
+ <NT>Recruiting</NT>
+ <NT>Training</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Hymnal publishing</DESCRIPTOR>
+ <ID>hymnal_publishing</ID>
+ <BT>Music publishing [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Hymnals</DESCRIPTOR>
+ <ID>hymnals</ID>
+ <BT>Music [Genre]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Illustrated books</DESCRIPTOR>
+ <ID>illustrated_books</ID>
+ <BT>Children&apos;s Books</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Illustration</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Illustration</ID>
+ <PL>Illustration</PL>
+ <SN>One of several types of graphic elements used to demonstrate a point visually within a book. The term may also be used loosely to describe all of the graphic elements within a volume.</SN>
+ <BT>Image</BT>
+ <NT>Color illustration</NT>
+ <NT>Line art</NT>
+ <NT>One Color Illustrations</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Illustration list</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>illustration_list</ID>
+ <PL>Table of Illustrations</PL>
+ <SN>A list of all of the titles of the graphic elements within a book, usually found within the frontmatter and typically citing the page number where each can be found.</SN>
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Illustrator</DESCRIPTOR>
+ <ID>illustrator</ID>
+ <BT>Contributor</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Image</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Image</ID>
+ <PL>Images</PL>
+ <SN>A type of graphic element found in a book that makes or describes a point visually. Images are typically created by means of a photographic process, and include reference to xrays, CT scans, and other radiographic views.</SN>
+ <BT>Art program</BT>
+ <BT>Chapter</BT>
+ <BT>Content Type</BT>
+ <NT>Graph</NT>
+ <NT>Halftone</NT>
+ <NT>Illustration</NT>
+ <NT>Photograph</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Imprint</DESCRIPTOR>
+ <ID>imprint</ID>
+ <BT>Book Publisher</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>In Service</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>in_service</ID>
+ <SN>Post sales support to assist instructors in using educational materials.</SN>
+ <BT>Sales [Function]</BT>
+ <RT>Sales Force</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inbound transportation</DESCRIPTOR>
+ <ID>inbound_transportation</ID>
+ <BT>Cost of Goods Sold</BT>
+ <BT>Operations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Income statement</NON-DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>income_statement</ID>
+ <USE>Operating statement</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Independent Bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Independent_Bookstore</ID>
+ <PL>Independent Bookseller</PL>
+ <SN>Booksellers not affiliated with a major chain.</SN>
+ <BT>Bookstore</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Index [Book]</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>index_back_of_book</ID>
+ <PL>Book Index</PL>
+ <SN>An alphabetized list of important terms and concepts in a book accompanied by the page reference of each.</SN>
+ <BT>Backmatter</BT>
+ <RT>Indexing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Indexing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Indexing</ID>
+ <PL>Indexing</PL>
+ <SN>Identification and structuring of the key concepts in a book, linking them to the specific pages on which they are found. Traditionally indexing is accomplished after the typeset pages have stabilized where there is little chance of reflow - generally after the first pass through composition. With XML it is possible to link concepts directly to their appearance in the manuscript via internal references that allow dynamic index creation without concern for reflow.</SN>
+ <SQ>70</SQ>
+ <BT>Print production</BT>
+ <RT>Index [Book]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Industry association</DESCRIPTOR>
+ <ID>industry_association</ID>
+ <BT>Support organizations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Industry magazines</DESCRIPTOR>
+ <EX>Publishers Marketplace</EX>
+ <ID>Industry_Magazines</ID>
+ <PL>Publishing Industry Magazines</PL>
+ <SN>Trade magazines focused on the book publishing industry</SN>
+ <BT>Media</BT>
+ <BT>Review media</BT>
+ <NT>Library Journal</NT>
+ <NT>New York Review of Books</NT>
+ <NT>New York Times Book Review</NT>
+ <NT>New York Times Magazine</NT>
+ <NT>Publishers Weekly</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Industry resources</DESCRIPTOR>
+ <ID>industry_resources</ID>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Industry Standards</DESCRIPTOR>
+ <ID>industry_standards</ID>
+ <NT>ANSI X12</NT>
+ <NT>ISBN</NT>
+ <NT>ISBN-13</NT>
+ <NT>OEB</NT>
+ <NT>XBITS</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Initial print order</DESCRIPTOR>
+ <ID>initial_print_order</ID>
+ <BT>Print order</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Insert</DESCRIPTOR>
+ <ID>insert</ID>
+ <BT>Physical book component</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inside back cover</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>inside_back_cover</ID>
+ <PL>Inside Back Cover</PL>
+ <SN>Also known as &quot;C3&quot;</SN>
+ <UF>C3</UF>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inside front cover</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>inside_front_cover</ID>
+ <PL>Inside Front Cover</PL>
+ <SN>Also known as &quot;C2&quot;</SN>
+ <UF>C2</UF>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Inside margin</NON-DESCRIPTOR>
+ <ID>inside_margin</ID>
+ <USE>Gutter margin</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inside sales [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Inside_sales_function</ID>
+ <PL>Inside Sales</PL>
+ <SN>That part of the sales function comprised by internal selling staff as opposed to the field-based staff. Inside sales most commonly refers to telephone sales.</SN>
+ <BT>Sales Force</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Institutional</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Institutional</ID>
+ <PL>Institutional</PL>
+ <SN>A non-education, non-government institution such as a hospital.</SN>
+ <BT>Sales Channel</BT>
+ <NT>Hospital</NT>
+ <NT>NGO</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Instructional Design</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Instructional_Design</ID>
+ <PL>Instructional Design</PL>
+ <SN>Pedagogical design of courseware consisting of multimedia and interactive elements.</SN>
+ <BT>Editorial [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Instructional material</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Instructional_Material</ID>
+ <PL>Instructional Material</PL>
+ <SN>Didactic material delivered in a variety of formats for the purpose of competence in a domain.</SN>
+ <BT>Educational Content</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Instructor edition</DESCRIPTOR>
+ <ID>instructor_edition</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Instructor solutions manual</DESCRIPTOR>
+ <ID>instructor_solutions_manual</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Intaglio Printing</NON-DESCRIPTOR>
+ <ID>intaglio_printing</ID>
+ <USE>Photogravure printing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Interactive</DESCRIPTOR>
+ <ID>interactive</ID>
+ <BT>Content Type</BT>
+ <NT>Simulation</NT>
+ <NT>Tutorial</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>International</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>International</ID>
+ <PL>International</PL>
+ <SN>In most US publishing sectors International refers to non-U.S. sales channels.</SN>
+ <BT>Sales Channel</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>International Standard Book Number</NON-DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>international_standard_book_number</ID>
+ <USE>ISBN</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Internet radio</DESCRIPTOR>
+ <ID>internet_radio</ID>
+ <BT>Radio format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Introduction</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>Introduction</ID>
+ <SN>Comments written by the author or other individual preceding a text intended to explain the purpose and goals of the work.</SN>
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inventory [Asset]</DESCRIPTOR>
+ <ID>inventory_asset</ID>
+ <BT>Current assets</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inventory control</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>inventory_control</ID>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inventory Management [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Inventory_Management</ID>
+ <PL>Inventory Management</PL>
+ <SN>Management of finished goods inventory. This generally includes forecasting the need for stock over time, and determining the quantity and timing delivery.</SN>
+ <SQ>75</SQ>
+ <BT>Production</BT>
+ <RT>Current assets</RT>
+ <RT>First Printing</RT>
+ <RT>Out-of-print</RT>
+ <RT>Out of Stock Indefinitely</RT>
+ <RT>Remainder</RT>
+ <RT>Reprint</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Inventory obsolescence</DESCRIPTOR>
+ <ID>inventory_obsolescence</ID>
+ <BT>Cost of Goods Sold</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Investor relations</DESCRIPTOR>
+ <ID>Investor_relations</ID>
+ <SN>That corporate function which provides information to shareholders, analysts and potential investors for the purpose of influencing the value of investments in the company.</SN>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Invoicing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>invoicing</ID>
+ <BT>Distribution [Function]</BT>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>ISBN</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>ISBN</ID>
+ <UF>International Standard Book Number</UF>
+ <BT>Book metadata</BT>
+ <BT>Copyright page</BT>
+ <BT>Industry Standards</BT>
+ <RT>ISBN-13</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>ISBN-13</DESCRIPTOR>
+ <ID>ISBN_13</ID>
+ <BT>Book metadata</BT>
+ <BT>Industry Standards</BT>
+ <RT>ISBN</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Issues</DESCRIPTOR>
+ <ID>issues</ID>
+ <NT>Censorship</NT>
+ <NT>Copying</NT>
+ <NT>First Amendment</NT>
+ <NT>Libel</NT>
+ <NT>Obscenity</NT>
+ <NT>Overproduction</NT>
+ <NT>Packaging</NT>
+ <NT>Piracy</NT>
+ <NT>Returns</NT>
+ <NT>Standardization</NT>
+ <NT>Used Books</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>j2ee</DESCRIPTOR>
+ <ID>j2ee</ID>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Jacket</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Jacket</ID>
+ <PL>Jacket</PL>
+ <SN>A paper cover made to fit loosely around a book to protect or enhance it aesthetically.</SN>
+ <BT>Physical book component</BT>
+ <NT>Jacket stock</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Jacket copy</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Jacket_Copy</ID>
+ <PL>Jacket_Copy</PL>
+ <SN>Textual components that are found on the cover, jacket, or spine of a book.  Copy normally includes bibliographic information, information about the author and information about the book or series.</SN>
+ <BT>Book [Content Structure]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Jacket stock</DESCRIPTOR>
+ <ID>jacket_stock</ID>
+ <BT>Jacket</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Japanese comics</DESCRIPTOR>
+ <ID>japanese_comics</ID>
+ <BT>Comics</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Jobber</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>jobber</ID>
+ <BT>Wholesale</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Journal</DESCRIPTOR>
+ <ID>journal</ID>
+ <BT>Media [Textual]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Journal publisher</DESCRIPTOR>
+ <ID>journal_publisher</ID>
+ <BT>Publisher</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Juvenile Publishing</NON-DESCRIPTOR>
+ <ID>juvenile_publishing</ID>
+ <USE>Childrens Trade Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>K12 Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>K12</ID>
+ <PL>K12</PL>
+ <SN>That sector of publishing focused on providing content to pre-elementary, elementary, and secondary schools for use in the classroom.</SN>
+ <UF>Elhi Publishing</UF>
+ <BT>Educational Publishing</BT>
+ <NT>Elementary Publishing</NT>
+ <NT>Secondary Publishing</NT>
+ <NT>Supplemental Publishing</NT>
+ <RT>Adoption process</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Kindergarten</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>kindergarten</ID>
+ <BT>School</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Laminate</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>laminate</ID>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Language [Rights]</DESCRIPTOR>
+ <ID>language_rights</ID>
+ <BT>Rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Learning object</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Learning_Object</ID>
+ <PL>Learning Object</PL>
+ <SN>A self-contained collection of assets placed in a pedagogical context that is used to teach or learn a particular objective within a course of study.</SN>
+ <BT>Educational Content</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Legal</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Legal</ID>
+ <PL>Legal</PL>
+ <SN>Management of agreements among authors, customers, and other partners.</SN>
+ <BT>Publishing Functions</BT>
+ <NT>Contract Management</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Legal publishing</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Legal_Publishing</ID>
+ <PL>Legal</PL>
+ <SN>Legal publishing</SN>
+ <BT>Professional Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Legal textbooks</DESCRIPTOR>
+ <ID>legal_textbooks</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Letterpress</DESCRIPTOR>
+ <ID>letterpress</ID>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Liabilities</DESCRIPTOR>
+ <ID>liabilities</ID>
+ <BT>Balance sheet</BT>
+ <NT>Current liabilities</NT>
+ <NT>Debt</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Libel</DESCRIPTOR>
+ <ID>libel</ID>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Library</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Library</ID>
+ <PL>Library</PL>
+ <SN>An institution that loans books to its patrons for either on-site or offsite use.</SN>
+ <BT>Sales Channel</BT>
+ <BT>Value Chain</BT>
+ <NT>Academic Library</NT>
+ <NT>Corporate Library</NT>
+ <NT>Public library</NT>
+ <NT>School library</NT>
+ <NTI>Library of Congress</NTI>
+ <RT>Library binding</RT>
+ <RT>Library jobber</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Library binding</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>library_binding</ID>
+ <BT>Case binding</BT>
+ <RT>Library</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Library jobber</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>library_jobber</ID>
+ <BT>Wholesale</BT>
+ <RT>Library</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Library Journal</DESCRIPTOR>
+ <ID>library_journal</ID>
+ <BT>Industry magazines</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Library of Congress</DESCRIPTOR>
+ <ID>library_of_congress</ID>
+ <BTI>Library</BTI>
+ <NT>Register of Copyrights</NT>
+ <RT>Cataloging in Publication data</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>License agreements</DESCRIPTOR>
+ <ID>license_agreements</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Lifecycle</DESCRIPTOR>
+ <ID>lifecycle</ID>
+ <NT>Advance reader copy</NT>
+ <NT>Backlist</NT>
+ <NT>Bound galley</NT>
+ <NT>Early in Stock (EIS)</NT>
+ <NT>Manuscript</NT>
+ <NT>Midlist</NT>
+ <NT>Out-of-print</NT>
+ <NT>Page proofs</NT>
+ <NT>Remainder</NT>
+ <NT>Reprint</NT>
+ <NT>Returns</NT>
+ <NT>Review Copy</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Line art</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Lineart</ID>
+ <PL>Line Art</PL><!-- unknown line type [@@@] -->
+
+ <BT>Illustration</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Line Editing</NON-DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>line_editing</ID>
+ <USE>Development Edit</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Linotype machines</DESCRIPTOR>
+ <ID>linotype_machines</ID>
+ <BT>Production Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Linux</DESCRIPTOR>
+ <ID>linux</ID>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>List</DESCRIPTOR>
+ <ID>list</ID>
+ <BT>Chapter</BT>
+ <BT>Content Type</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Literary Agent</DESCRIPTOR>
+ <ID>literary_agent</ID>
+ <UF>Agent</UF>
+ <BT>Value Chain</BT>
+ <RT>Auction</RT>
+ <RT>Contract Management</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Literary fiction</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>literary_fiction</ID>
+ <BT>Fiction</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Literary genre</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>literary_genre</ID>
+ <NT>Anthology</NT>
+ <NT>Autobiography</NT>
+ <NT>Business Books</NT>
+ <NT>Children&apos;s Books</NT>
+ <NT>Classics</NT>
+ <NT>Comics</NT>
+ <NT>CookBooks</NT>
+ <NT>Educational Materials</NT>
+ <NT>Fiction</NT>
+ <NT>Game guide</NT>
+ <NT>Maps</NT>
+ <NT>Music [Genre]</NT>
+ <NT>Nonfiction</NT>
+ <NT>Pamphlets</NT>
+ <NT>Plays</NT>
+ <NT>Poetry [Genre]</NT>
+ <NT>Reference [Genre]</NT>
+ <NT>Religion [Genre]</NT>
+ <NT>Self-improvement</NT>
+ <RT>Book [Media]</RT>
+ <RT>eBook [Media]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Lithography</NON-DESCRIPTOR>
+ <ID>lithography</ID>
+ <USE>Offset Printing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>LMS</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>LMS</ID>
+ <PL>LMS</PL>
+ <SN>A (L)earning (M)anagement (S)ystem is a system used to manage classroom and online delivery of education.  It generally consists of a roster, calendar and assignment list. It can also be referred to as an LCMS (Learning Content Management System) or CMS (Course Management System), not to be confused with a Content Management System.</SN>
+ <BT>Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Local Government</DESCRIPTOR>
+ <ID>local_government_channel</ID>
+ <BT>Government</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Looseleaf</DESCRIPTOR>
+ <ID>looseleaf</ID>
+ <BT>Print [Format]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Looseleaf binding</DESCRIPTOR>
+ <ID>looseleaf_binding</ID>
+ <BT>Mechanical binding</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Macintosh computer</DESCRIPTOR>
+ <ID>macintosh_computer</ID>
+ <BT>Hardware [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>MacOS</DESCRIPTOR>
+ <ID>MacOS</ID>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Magazine</DESCRIPTOR>
+ <ID>magazine</ID>
+ <BT>Media [Textual]</BT>
+ <RT>Periodic delivery</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Magazine Publisher</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>magazine_publisher</ID>
+ <BT>Publisher</BT>
+ <RT>Magazine Publishing [Sector]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Magazine Publishing [Sector]</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>magazine_publishing_sector</ID>
+ <BT>Media Sector</BT>
+ <NT>Consumer magazine [Sector]</NT>
+ <NT>Trade magazine [Sector]</NT>
+ <RT>Magazine Publisher</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mail Order Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>mail_order_publishing</ID>
+ <BT>Direct Mail</BT>
+ <NT>Card deck</NT>
+ <NT>Catalog marketing</NT>
+ <NT>Enclosure Mailings</NT>
+ <NT>Mailing lists</NT>
+ <NT>Sales Letters</NT>
+ <NT>Self-Mailers</NT>
+ <NT>Split Test</NT>
+ <RT>Direct Mail Marketing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mailing lists</DESCRIPTOR>
+ <ID>mailing_lists</ID>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Maintenance &amp; repairs</DESCRIPTOR>
+ <ID>maintenance_and_repairs</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Manga</DESCRIPTOR>
+ <ID>manga</ID>
+ <BT>Comics</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Manufacturing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Manufacturing</ID>
+ <PL>Manufacturing</PL>
+ <SN>All of those steps necessary to create printed books.  These generally include paper buying, text printing, cover printing, component printing and binding.</SN>
+ <SQ>80</SQ>
+ <BT>Production</BT>
+ <NT>Binding [Function]</NT>
+ <NT>Estimating</NT>
+ <NT>Paper buying</NT>
+ <NT>Print buying</NT>
+ <NT>Printing</NT>
+ <NT>scheduling</NT>
+ <NT>Supplier Selection</NT>
+ <RT>First Printing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Manuscript</DESCRIPTOR>
+ <ID>manuscript</ID>
+ <UF>mss</UF>
+ <BT>Lifecycle</BT>
+ <NT>Copy edited manuscript</NT>
+ <NT>Foul matter</NT>
+ <NT>Unsolicited manuscript</NT>
+ <RT>Art program</RT>
+ <RT>Editorial [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Maps</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>maps</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Margin</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Margin</ID>
+ <PL>Margin</PL>
+ <SN>The area of the page on all four sides of the text box.  Margins include head margin, foot margin, gutter margin and outer margin.</SN>
+ <BT>Page [Logical]</BT>
+ <NT>Bottom margin</NT>
+ <NT>Gutter margin</NT>
+ <NT>Outside margin</NT>
+ <NT>Top margin</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Marginalia</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Marginalia</ID>
+ <PL>Marginalia</PL>
+ <SN>Out of line notes that are placed in the margin of a page that offers additional information to the body text.</SN>
+ <BT>Note</BT>
+ <BT>Page [Logical]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Market Assessment</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Market_Assessment</ID>
+ <PL>Market Assessment</PL>
+ <SN>Development of business plans in support of entry into a new market.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Marketing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Marketing</ID>
+ <PL>Marketing</PL>
+ <SN>Creation of demand for content.</SN>
+ <BT>Publishing Functions</BT>
+ <NT>Advertising</NT>
+ <NT>Marketing Communications</NT>
+ <NT>Promotion</NT>
+ <NT>Publicity</NT>
+ <RT>New York Review of Books</RT>
+ <RT>New York Times Book Review</RT>
+ <RT>Review Copy</RT>
+ <RT>Review media</RT>
+ <RT>Reviewers</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Marketing Communications</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>marketing_communications</ID>
+ <BT>Marketing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Marketing, sales &amp; promotions</DESCRIPTOR>
+ <ID>marketing_sales_and_promotions</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Marketplace</DESCRIPTOR>
+ <EX>Publishers Marketplace</EX>
+ <ID>Marketplace</ID>
+ <PL>Market place</PL>
+ <SN>Extranets and web sites devoted to furthering the publishing industry.</SN>
+ <BT>Media</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Mass market</NON-DESCRIPTOR>
+ <ID>mass_market</ID>
+ <USE>Mass market paperback</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mass market paperback</DESCRIPTOR>
+ <ID>mass_market_paperback</ID>
+ <UF>Mass market</UF>
+ <BT>Paperback</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mass Merchant</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Mass_Merchant</ID>
+ <PL>Mass Merchant</PL>
+ <SN>Retailers that sell a wide variety of merchandise to consumers often at a significant discount.</SN>
+ <BT>Retail</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mastering</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Mastering</ID>
+ <PL>Mastering</PL><!-- unknown line type [@@@] -->
+
+ <SQ>50</SQ>
+ <BT>Audio Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mathematical equation</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>mathematical_equation</ID>
+ <BT>Chapter</BT>
+ <BT>Specialized notation</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>MathML</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>MathML</ID>
+ <PL>MathML</PL>
+ <SN>An XML markup language used for mathematical equations.</SN>
+ <BT>XML</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>McCain binding</DESCRIPTOR>
+ <ID>mccain_binding</ID>
+ <BT>Case binding</BT>
+ <BT>Sewn binding</BT>
+ <BT>Side-sewn</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mechanical binding</DESCRIPTOR>
+ <ID>mechanical_binding</ID>
+ <BT>Binding [Spec]</BT>
+ <NT>Looseleaf binding</NT>
+ <NT>Spiral Binding</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Media</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Media</ID>
+ <PL>Media</PL>
+ <SN>Trade magazines, websites and other similar resources that report on activities within the industry.</SN>
+ <BT>Support organizations</BT>
+ <NT>Industry magazines</NT>
+ <NT>Marketplace</NT>
+ <RT>Review media</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Media [Audio]</DESCRIPTOR>
+ <ID>media_audio</ID>
+ <NT>Audio cassette</NT>
+ <NT>CD-Audio</NT>
+ <NT>Radio</NT>
+ <NT>Record, Vinyl</NT>
+ <NT>Streamed audio</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Media [Textual]</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>media_textual</ID>
+ <PL>Content Types</PL>
+ <SN>Media presented in a primarily textual manner for the main purpose of reading.</SN>
+ <NT>Book [Media]</NT>
+ <NT>Courseware</NT>
+ <NT>eBook [Media]</NT>
+ <NT>Journal</NT>
+ <NT>Magazine</NT>
+ <NT>Newspaper</NT>
+ <NT>Web site</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Media [Visual]</DESCRIPTOR>
+ <ID>media_visual</ID>
+ <NT>Broadcast television</NT>
+ <NT>Cable television</NT>
+ <NT>Satellite television</NT>
+ <NT>Streamed video</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Media Sector</DESCRIPTOR>
+ <ID>media_sector</ID>
+ <SQ>10</SQ>
+ <NT>Book publishing [Sector]</NT>
+ <NT>Magazine Publishing [Sector]</NT>
+ <NT>Music publishing [Sector]</NT>
+ <NT>Newspaper publishing [Sector]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Medical Bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>medical_bookstore</ID>
+ <BT>Bookstore</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Medical Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>medical_publishing</ID>
+ <BT>STM Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Medical textbooks</DESCRIPTOR>
+ <ID>medical_textbooks</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Meetings &amp; Conferences</DESCRIPTOR>
+ <ID>meetings_and_conferences</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Metadata</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Metadata</ID>
+ <PL>Metadata</PL>
+ <SN>Data about content.  This usually refers to descriptive, bibliographic data about titles, but can also include formatting, structural and administrative information.</SN>
+ <BT>Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Midlist</DESCRIPTOR>
+ <ID>midlist</ID>
+ <BT>Lifecycle</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Mobile technology</DESCRIPTOR>
+ <ID>mobile_technology</ID>
+ <NT>Cellular phone</NT>
+ <NT>PalmOS</NT>
+ <NT>PDA</NT>
+ <NT>RIM</NT>
+ <NT>Symbian</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Monotype composition</DESCRIPTOR>
+ <ID>monotype_composition</ID>
+ <BT>Production Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Motion picture [Rights]</DESCRIPTOR>
+ <SC>RGTS Rights</SC>
+ <ID>motion_picture_rights</ID>
+ <UF>Movie Rights</UF>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Movie</DESCRIPTOR>
+ <ID>movie</ID>
+ <BT>Video</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Movie Rights</NON-DESCRIPTOR>
+ <ID>movie_rights</ID>
+ <USE>Motion picture [Rights]</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>MP3 player</DESCRIPTOR>
+ <ID>mp3_player</ID>
+ <BT>Hardware [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>mss</NON-DESCRIPTOR>
+ <ID>mss</ID>
+ <USE>Manuscript</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Multimedia</DESCRIPTOR>
+ <ID>multimedia</ID>
+ <UF>Audiovisual materials</UF>
+ <BT>Content Type</BT>
+ <NT>Audio content</NT>
+ <NT>Video</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Multimedia rights</DESCRIPTOR>
+ <ID>multimedia_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Music</DESCRIPTOR>
+ <ID>music</ID>
+ <BT>Audio content</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Music [Genre]</DESCRIPTOR>
+ <ID>music_genre</ID>
+ <BT>Literary genre</BT>
+ <NT>Hymnals</NT>
+ <NT>Music collections</NT>
+ <NT>Sheet music</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Music collection publishing</DESCRIPTOR>
+ <ID>music_collection_publishing</ID>
+ <BT>Music publishing [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Music collections</DESCRIPTOR>
+ <ID>music_collections</ID>
+ <BT>Music [Genre]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Music Notation</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>music_notation</ID>
+ <BT>Specialized notation</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Music publishing [Sector]</DESCRIPTOR>
+ <ID>music_publishing_sector</ID>
+ <BT>Media Sector</BT>
+ <NT>Hymnal publishing</NT>
+ <NT>Music collection publishing</NT>
+ <NT>Sheet music publishing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Narration</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Narration</ID>
+ <PL>Narration</PL><!-- unknown line type [@@@] -->
+
+ <SQ>25</SQ>
+ <BT>Audio Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Narrative</DESCRIPTOR>
+ <ID>narrative</ID>
+ <BT>Prose</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>National Accounts</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>National_Accounts</ID>
+ <PL>National Accounts</PL><!-- unknown line type [@@@] -->
+
+ <BT>Sales Force</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Negative option</DESCRIPTOR>
+ <ID>negative_option</ID>
+ <PL>Negative option</PL>
+ <SN>A direct marketing technique in which books or other goods are sent on a periodic basis unless the customer sends a refusal notice prior to the shipment occurring.</SN>
+ <BT>Book club [Channel]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Net profit</DESCRIPTOR>
+ <ID>net_profit</ID>
+ <BT>Operating statement</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>New York Review of Books</DESCRIPTOR>
+ <ID>new_york_review_of_books</ID>
+ <BT>Industry magazines</BT>
+ <RT>Marketing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>New York Times Book Review</DESCRIPTOR>
+ <ID>new_york_times_book_review</ID>
+ <BT>Industry magazines</BT>
+ <RT>Marketing</RT>
+ <RT>Review media</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>New York Times Magazine</DESCRIPTOR>
+ <ID>new_york_times_magazine</ID>
+ <BT>Industry magazines</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Newspaper</DESCRIPTOR>
+ <ID>newspaper</ID>
+ <BT>Media [Textual]</BT>
+ <RT>Newspaper [Format]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Newspaper [Format]</DESCRIPTOR>
+ <ID>newspaper_format</ID>
+ <NT>Broadsheet</NT>
+ <NT>Tabloid</NT>
+ <RT>Newspaper</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Newspaper Publisher</DESCRIPTOR>
+ <ID>newspaper_publisher</ID>
+ <BT>Publisher</BT>
+ <RT>Newspaper publishing [Sector]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Newspaper publishing [Sector]</DESCRIPTOR>
+ <ID>newspaper_publishing_sector</ID>
+ <BT>Media Sector</BT>
+ <RT>Newspaper Publisher</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>NGO</DESCRIPTOR>
+ <ID>NGO</ID>
+ <BT>Institutional</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Nonfiction</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>nonfiction</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>North American [Rights]</DESCRIPTOR>
+ <ID>north_american_rights</ID>
+ <BT>Territory [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Notch Binding</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>notch_binding</ID>
+ <BT>Adhesive Binding</BT>
+ <BT>Case binding</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Note</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Note</ID>
+ <PL>Notes</PL><!-- unknown line type [@@@] -->
+
+ <BT>Chapter</BT>
+ <NT>Anchor</NT>
+ <NT>Boxed text</NT>
+ <NT>Endnote</NT>
+ <NT>Footnote</NT>
+ <NT>Marginalia</NT>
+ <NT>Sidebar</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Novel</DESCRIPTOR>
+ <ID>novel</ID>
+ <BT>Fiction</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Obscenity</DESCRIPTOR>
+ <ID>obscenity</ID>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Occupancy</DESCRIPTOR>
+ <ID>occupancy</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>OEB</DESCRIPTOR>
+ <ID>OEB</ID>
+ <BT>Industry Standards</BT>
+ <BT>XML</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>OEB-based format</DESCRIPTOR>
+ <ID>oeb_based_format</ID>
+ <BT>eBook [Format]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Offset Printing</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>offset_printing</ID>
+ <UF>Lithography</UF>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Offshoring</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Offshoring</ID>
+ <PL>Offshoring</PL>
+ <SN>Utilization of offshore vendors for any of the major publishing functions, composition, printing, etc.</SN>
+ <BT>Alternative Publishing Configurations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>One Color Illustrations</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>one_color_illustrations</ID>
+ <BT>Illustration</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>One-piece cover</DESCRIPTOR>
+ <ID>one_piece_cover</ID>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>One-time delivery</DESCRIPTOR>
+ <ID>one_time_delivery</ID>
+ <BT>Delivery [Platform]</BT>
+ <RT>Book [Media]</RT>
+ <RT>eBook [Media]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Online</DESCRIPTOR>
+ <ID>online</ID>
+ <BT>Digital Format</BT>
+ <NT>Streaming media</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Online bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Online_Bookstore</ID>
+ <PL>Online Bookstore</PL>
+ <SN>Retailers that sell primarily physical books to consumers online.</SN>
+ <BT>Bookstore</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>OP</NON-DESCRIPTOR>
+ <ID>OP</ID>
+ <USE>Out-of-print</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Opacity</DESCRIPTOR>
+ <ID>Opacity</ID>
+ <BT>Paper grade</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Operating statement</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>operating_statement</ID>
+ <UF>Income statement</UF>
+ <UF>Profit-and-loss statement</UF>
+ <BT>Financial Statement</BT>
+ <NT>Contribution</NT>
+ <NT>Cost of Goods Sold</NT>
+ <NT>Costs</NT>
+ <NT>EBITDA</NT>
+ <NT>Gross margin</NT>
+ <NT>Net profit</NT>
+ <NT>Revenue</NT>
+ <NT>Selling, General &amp; Administrative</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Operating System [Platform]</DESCRIPTOR>
+ <ID>operating_system_platform</ID>
+ <BT>Platform</BT>
+ <NT>j2ee</NT>
+ <NT>Linux</NT>
+ <NT>MacOS</NT>
+ <NT>PalmOS</NT>
+ <NT>RIM</NT>
+ <NT>Symbian</NT>
+ <NT>Windows</NT>
+ <NT>Windows Mobile</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Operations</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Operations</ID>
+ <PL>Operations</PL>
+ <SN>Those activities associated with moving physical material from suppliers through manufacturing and distribution to customers.</SN>
+ <BT>Publishing Functions</BT>
+ <NT>Customer Service</NT>
+ <NT>Distribution [Function]</NT>
+ <NT>Facilities</NT>
+ <NT>Inbound transportation</NT>
+ <NT>Order fulfillment</NT>
+ <NT>Order processing</NT>
+ <NT>Outbound transportation</NT>
+ <NT>Vendor Management</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Operations review</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Operations_Review</ID>
+ <PL>Operations Review</PL>
+ <SN>Diagnostic assessment of publishing (or other) operations to examine effectiveness and efficiency at accomplishing organizational objectives.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Order fulfillment</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>order_fulfillment</ID>
+ <UF>Delivery</UF>
+ <UF>Fulfillment</UF>
+ <BT>Operations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Order processing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Order_Processing</ID>
+ <PL>Order Processing</PL>
+ <SN>The management of customer orders from entry, availability check, and pricing through dispatch for fulfillment.</SN>
+ <BT>Operations</BT>
+ <RT>Backorder</RT>
+ <RT>Customer order</RT>
+ <RT>Future order</RT>
+ <RT>Single Title Order Plan</RT>
+ <RT>Special Orders</RT>
+ <RT>Standing Orders</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Organization Alignment</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Org_Alignment</ID>
+ <PL>Organization Alignment</PL>
+ <SN>Projects involving definition of organization structures and staff &quot;right sizing&quot; to better achieve the objectives of the organization.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>OSI</NON-DESCRIPTOR>
+ <ID>OSI</ID>
+ <USE>Out of Stock Indefinitely</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Out of Stock Indefinitely</DESCRIPTOR>
+ <ID>out_of_stock_indefinitely</ID>
+ <SN>An inventory status indicating that no further printings are planned, but avoiding an Out of Print (OP) classification that would lead to rights reversion.</SN>
+ <UF>OSI</UF>
+ <BT>Stock status change</BT>
+ <RT>Inventory Management [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Outbound transportation</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>outbound_transportation</ID>
+ <BT>Cost of Goods Sold</BT>
+ <BT>Operations</BT>
+ <RT>Costs</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Out-of-print</DESCRIPTOR>
+ <ID>out_of_print</ID>
+ <SN>An stock classification indicating that the title is not available and will not be reprinted. Declaring a title out of print is a first step in reverting rights.</SN>
+ <UF>OP</UF>
+ <BT>Lifecycle</BT>
+ <BT>Stock status change</BT>
+ <RT>Inventory Management [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Outside margin</DESCRIPTOR>
+ <ID>outside_margin</ID>
+ <BT>Margin</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Outside services</DESCRIPTOR>
+ <ID>outside_services</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Overproduction</DESCRIPTOR>
+ <ID>overproduction</ID>
+ <BT>Issues</BT>
+ <RT>Remainder</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Overseas vendors</DESCRIPTOR>
+ <ID>overseas_vendors</ID>
+ <BT>Service providers</BT>
+ <RT>Supplier Selection</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pack</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>pack_function</ID>
+ <SN>The warehousing function in which items selected for customer orders are assembled and packed for shipping.</SN>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Packagers</DESCRIPTOR>
+ <ID>packagers</ID>
+ <BT>Value Chain</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Packaging</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Packaging</ID>
+ <PL>Packaging</PL>
+ <SN>A publishing strategy in which a third party assembles all of the content necessary for publication into final form prior to delivery to the publisher. Packaging can also include any necessary manufacturing steps.</SN>
+ <BT>Alternative Publishing Configurations</BT>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Page [Logical]</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Page</ID>
+ <PL>Page</PL>
+ <SN>The content contained on a single side of a single leaf of a book.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Folio</NT>
+ <NT>Footnote</NT>
+ <NT>Margin</NT>
+ <NT>Marginalia</NT>
+ <NT>Running foot</NT>
+ <NT>Running head</NT>
+ <NT>Text box</NT>
+ <RT>Page [Physical]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Page [Physical]</DESCRIPTOR>
+ <ID>page_physical</ID>
+ <SN>A leaf in a book.</SN>
+ <BT>Signature</BT>
+ <RT>Page [Logical]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Page layout</DESCRIPTOR>
+ <ID>page_layout</ID>
+ <SN>The geometry of a page design which includes the trim size, margins, etc.</SN>
+ <BT>Book design</BT>
+ <NT>Spread</NT>
+ <NT>Trim sizes</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Page proofs</DESCRIPTOR>
+ <ID>page_proofs</ID>
+ <SN>Typeset pages which are used to review typesetting and content prior to publiication.</SN>
+ <UF>Galley proofs</UF>
+ <UF>Proofs</UF>
+ <UF>Reproduction proofs</UF>
+ <BT>Lifecycle</BT>
+ <RT>Typesetting [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pagination guide</DESCRIPTOR>
+ <ID>pagination_guide</ID>
+ <BT>Book design</BT>
+ <RT>Backmatter</RT>
+ <RT>Chapter</RT>
+ <RT>Frontmatter</RT>
+ <RT>Signature</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>PalmOS</DESCRIPTOR>
+ <ID>Palmos</ID>
+ <BT>Mobile technology</BT>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pamphlets</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>pamphlets</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Paper</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>paper</ID>
+ <BT>Signature</BT>
+ <RT>Costs</RT>
+ <RT>Paper grade</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Paper buying</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Paper_Buying</ID>
+ <PL>Paper Buying</PL>
+ <SN>Purchasing of paper for printing operations.</SN>
+ <SQ>20</SQ>
+ <BT>Manufacturing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Paper grade</DESCRIPTOR>
+ <ID>paper_grade</ID>
+ <SN>The quality of paper that is used reflected by pulp type, coating, basis weight, thickness (caliper), brightness, and opacity.</SN>
+ <NT>Basis weight</NT>
+ <NT>Brightness</NT>
+ <NT>Caliper</NT>
+ <NT>Coated paper</NT>
+ <NT>Freesheet</NT>
+ <NT>Groundwood Paper</NT>
+ <NT>Opacity</NT>
+ <RT>Paper</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Paper, Print and Bind</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>paper_print_and_bind</ID>
+ <SN>The cost of manufacturing a book. Paper, print and bind refers to the major cost elements in manufacturing.</SN>
+ <UF>PP&amp;B</UF>
+ <BT>Cost of Goods Sold</BT>
+ <NT>Fixed manufacturing cost</NT>
+ <NT>Variable manufacturing cost</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Paperback</DESCRIPTOR>
+ <ID>paperback</ID>
+ <SN>A book with a paper cover.</SN>
+ <UF>Soft cover</UF>
+ <BT>Print [Format]</BT>
+ <NT>Advance reader copy</NT>
+ <NT>Bound galley</NT>
+ <NT>Mass market paperback</NT>
+ <NT>Trade paperback</NT>
+ <RT>Perfect binding</RT>
+ <RT>Reprint [Rights]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Paragraph</DESCRIPTOR>
+ <ID>paragraph</ID>
+ <BT>Chapter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Part</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Part</ID>
+ <PL>Part</PL>
+ <SN>The highest level of grouping of content within a book.  A Part will generally contain multiple chapters.</SN>
+ <BT>Book [Content Structure]</BT>
+ <NT>Chapter</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pay per use model</DESCRIPTOR>
+ <ID>pay_per_use_model</ID>
+ <SN>A business model in which the customer pays for every use of the material. Pay-per-view movies are an example of this business model.</SN>
+ <BT>Business Models</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>PDA</DESCRIPTOR>
+ <ID>PDA</ID>
+ <SN>PDA is an acronym for Personal Digital Assisant, a portable handheld device that generally includes applications for calendar, to-do lists, contacts and note-taking.</SN>
+ <BT>Hardware [Platform]</BT>
+ <BT>Mobile technology</BT>
+ <NT>Smartphones</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>PDF-based format</DESCRIPTOR>
+ <ID>pdf_based_format</ID>
+ <SN>An eBook format that is based on Adobe&apos;s popular PDF format.</SN>
+ <BT>eBook [Format]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pension</DESCRIPTOR>
+ <ID>pension</ID>
+ <BT>Salary-related costs</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Perfect binding</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>perfect_binding</ID>
+ <BT>Adhesive Binding</BT>
+ <RT>Paperback</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Performance rights</DESCRIPTOR>
+ <ID>performance_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Performing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Performing</ID>
+ <PL>Performing</PL><!-- unknown line type [@@@] -->
+
+ <SQ>30</SQ>
+ <BT>Audio Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Periodic delivery</DESCRIPTOR>
+ <ID>periodic_delivery</ID>
+ <BT>Delivery [Platform]</BT>
+ <RT>Magazine</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Permissions [Function]</DESCRIPTOR>
+ <ID>permissions_function</ID>
+ <BT>Rights Management [Function]</BT>
+ <RT>Permissions [Rights]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Permissions [Rights]</DESCRIPTOR>
+ <SC>RGTS Rights</SC><!-- unknown line type [@@@] -->
+
+ <ID>Permissions</ID>
+ <PL>Permissions</PL>
+ <SN>A minor grant of rights on a non-exclusive basis generally to allow the use of an excerpt in another publication.</SN>
+ <BT>Rights</BT>
+ <RT>Permissions [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Personal computer</DESCRIPTOR>
+ <ID>personal_computer</ID>
+ <BT>Hardware [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Photocopying</NON-DESCRIPTOR>
+ <ID>photocopying</ID>
+ <USE>Copying</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Photograph</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Photograph</ID>
+ <PL>Photograph</PL><!-- unknown line type [@@@] -->
+
+ <BT>Image</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Photogravure printing</DESCRIPTOR>
+ <ID>photogravure_printing</ID>
+ <UF>Intaglio Printing</UF>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Physical book component</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Physical_Book_Components</ID>
+ <PL>Physical Book Components</PL><!-- unknown line type [@@@] -->
+
+ <SQ>45</SQ>
+ <NT>Binding [Spec]</NT>
+ <NT>Cover</NT>
+ <NT>Endpapers</NT>
+ <NT>Insert</NT>
+ <NT>Jacket</NT>
+ <NT>Text block</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Physical medium</DESCRIPTOR>
+ <ID>physical_medium</ID>
+ <BT>Digital Format</BT>
+ <NT>CD-Audio</NT>
+ <NT>CD-ROM</NT>
+ <NT>DVD-ROM</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pick</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>pick_function</ID>
+ <SN>The warehousing function in which items are selected from stock to fulfill customer orders.</SN>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Piracy</DESCRIPTOR>
+ <ID>piracy</ID>
+ <BT>Issues</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pirate radio</DESCRIPTOR>
+ <ID>pirate_radio</ID>
+ <BT>Radio format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Planning and budgeting</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Planning_Budgeting</ID>
+ <PL>Planning &amp; Budgeting</PL><!-- unknown line type [@@@] -->
+
+ <BT>Finance [Function]</BT>
+ <NT>Title performance analysis</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Plant Costs</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>plant_costs</ID>
+ <UF>Plate Costs</UF>
+ <BT>Assets</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Plate Costs</NON-DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>plate_costs</ID>
+ <USE>Plant Costs</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Plate write-off</DESCRIPTOR>
+ <ID>plate_write_off</ID>
+ <BT>Cost of Goods Sold</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Platen presses</DESCRIPTOR>
+ <ID>platen_presses</ID>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Platform</DESCRIPTOR>
+ <ID>platform</ID>
+ <NT>Application [Platform]</NT>
+ <NT>Delivery [Platform]</NT>
+ <NT>Hardware [Platform]</NT>
+ <NT>Operating System [Platform]</NT>
+ <RT>eBook [Media]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Plays</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>plays</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>POD</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>POD</ID>
+ <PL>Print-on-Demand</PL>
+ <SN>Digital printing used in book publishing for short print runs (as low as runs of a single unit). POD printing is used for pre-publication of galleys, for life-of-print printing where traditional prining would be excessively expensive, or end-of-life titles where demand is low and the cost of carrying inventory isn&apos;t justified.</SN>
+ <BT>Alternative Publishing Configurations</BT>
+ <BT>Technology</BT>
+ <RT>Digital printing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Poetry [Genre]</DESCRIPTOR>
+ <ID>poetry_genre</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>PP&amp;B</NON-DESCRIPTOR>
+ <ID>pp_and_b</ID>
+ <USE>Paper, Print and Bind</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>PPI</NON-DESCRIPTOR>
+ <ID>PPI</ID>
+ <USE>Caliper</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Preface</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Preface</ID>
+ <SN>Introductory comments written by an author to describe his or her intent in writng the work.</SN>
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Pre-Kindergarten</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>pre_kindergarten</ID>
+ <BT>School</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Print [End user rights]</DESCRIPTOR>
+ <ID>print_end_user_rights</ID>
+ <BT>User rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Print [Format]</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Print</ID>
+ <PL>Print Formats</PL>
+ <SN>Books and content published in ink on paper formats</SN>
+ <BT>Book [Format]</BT>
+ <NT>Hardcover Books</NT>
+ <NT>Looseleaf</NT>
+ <NT>Paperback</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Print [Rights]</DESCRIPTOR>
+ <ID>print_rights</ID>
+ <BT>Rights</BT>
+ <NT>First Printing</NT>
+ <NT>Reprint [Rights]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Print buying</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Print_Buying</ID>
+ <PL>Print Buying</PL>
+ <SN>Acquiring printed books from printers.</SN>
+ <SQ>30</SQ>
+ <BT>Manufacturing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Print order</DESCRIPTOR>
+ <ID>print_order</ID>
+ <BT>Publishing transactions</BT>
+ <NT>Initial print order</NT>
+ <NT>Reprint order</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Print production</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Print_Production</ID>
+ <PL>Print Production</PL><!-- unknown line type [@@@] -->
+
+ <SQ>30</SQ>
+ <BT>Production</BT>
+ <NT>Art &amp; Design [Function]</NT>
+ <NT>Art Rendering</NT>
+ <NT>Composition</NT>
+ <NT>Conversion</NT>
+ <NT>Copy editing</NT>
+ <NT>Indexing</NT>
+ <NT>Proofreading</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Printer</DESCRIPTOR>
+ <ID>printer</ID>
+ <BT>Service providers</BT>
+ <RT>Printing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Printing</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Printing</ID>
+ <PL>Printing</PL>
+ <SN>Printing and binding of complete books.</SN>
+ <SQ>40</SQ>
+ <BT>Cost of Goods Sold</BT>
+ <BT>Manufacturing</BT>
+ <RT>Costs</RT>
+ <RT>First Printing</RT>
+ <RT>Printer</RT>
+ <RT>Reprint</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Printing Form</NON-DESCRIPTOR>
+ <ID>printing_form</ID>
+ <USE>Signature</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Printing Technology</DESCRIPTOR>
+ <ID>printing_technology</ID>
+ <BT>Technology</BT>
+ <NT>Cameron Belt Press</NT>
+ <NT>Digital printing</NT>
+ <NT>Flatbed press</NT>
+ <NT>Gravure press</NT>
+ <NT>Letterpress</NT>
+ <NT>Offset Printing</NT>
+ <NT>Photogravure printing</NT>
+ <NT>Platen presses</NT>
+ <NT>Process Color</NT>
+ <NT>Rotary presses</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Process Color</DESCRIPTOR>
+ <ID>process_color</ID>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Product Development</DESCRIPTOR>
+ <BT>Publishing Functions</BT>
+ <NT>Editorial [Function]</NT>
+ <NT>Production</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Production</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Production</ID>
+ <PL>Production</PL>
+ <SN>The stages of the publishing process from essential completion of the editorial content through initial publication.</SN>
+ <BT>Product Development</BT>
+ <NT>Audio Production</NT>
+ <NT>Content management</NT>
+ <NT>Courseware Production</NT>
+ <NT>Design [Function]</NT>
+ <NT>Inventory Management [Function]</NT>
+ <NT>Manufacturing</NT>
+ <NT>Print production</NT>
+ <NT>Project management</NT>
+ <NT>Project planning and scheduling</NT>
+ <NT>Typesetting [Function]</NT>
+ <RT>Production services</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Production services</DESCRIPTOR>
+ <ID>production_services</ID>
+ <BT>Service providers</BT>
+ <RT>Production</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Production Technology</DESCRIPTOR>
+ <ID>production_technology</ID>
+ <BT>Technology</BT>
+ <NT>Composition systems</NT>
+ <NT>Desktop Publishing systems</NT>
+ <NT>Hand-setting</NT>
+ <NT>Linotype machines</NT>
+ <NT>Monotype composition</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Productivity Improvement</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Productivity_Improvement</ID>
+ <PL>Productivity Improvement</PL>
+ <SN>Projects undertaken to increase the amount of output that can be generated by a given number of people.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Professional Book Clubs</DESCRIPTOR>
+ <ID>professional_book_clubs</ID>
+ <BT>Book club [Channel]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Professional Books</NON-DESCRIPTOR>
+ <ID>professional_books</ID>
+ <USE>Professional Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Professional Education Institutions</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Professional_Education_Channel</ID>
+ <PL>Professional Education</PL>
+ <SN>Institutions providing trade and para-professional education.These can also be called &quot;Career&quot; or &quot;For Profit&quot; post-secondary institutions.</SN>
+ <BT>Higher Education Channel</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Professional Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>professional_publishing</ID>
+ <UF>Professional Books</UF>
+ <BT>Book publishing [Sector]</BT>
+ <NT>Legal publishing</NT>
+ <NT>STM Publishing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Profit-and-loss statement</NON-DESCRIPTOR>
+ <ID>profit_and_loss_statement</ID>
+ <USE>Operating statement</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Project management</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Project_Management</ID>
+ <PL>Project Management</PL>
+ <SN>Trafficking and management of production schedules</SN>
+ <SQ>20</SQ>
+ <BT>Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Project planning and scheduling</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Project_Planning_Scheduling</ID>
+ <PL>Project Planning &amp; Scheduling</PL>
+ <SN>Determining the overall schedule of a project relative to date of publication.</SN>
+ <SQ>10</SQ>
+ <BT>Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Promotion</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Promotions</ID>
+ <PL>Promotions</PL><!-- unknown line type [@@@] -->
+
+ <BT>Marketing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Proofreading</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Proofreading</ID>
+ <PL>Proofreading</PL>
+ <SN>The reading and markup of typeset pages to identify errors that have been introduced during various production steps. These will be corrected in the various correction passes.</SN>
+ <SQ>60</SQ>
+ <BT>Print production</BT>
+ <NT>Slugging</NT>
+ <NT>Soft Proofing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Proofs</NON-DESCRIPTOR>
+ <ID>proofs</ID>
+ <USE>Page proofs</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Prose</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Prose</ID>
+ <PL>Prose</PL><!-- unknown line type [@@@] -->
+
+ <BT>Text</BT>
+ <NT>Dialogue</NT>
+ <NT>Narrative</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Public library</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Public_Library</ID>
+ <PL>Public Library</PL>
+ <SN>A library associated with a town or city.</SN>
+ <BT>Library</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Public radio</DESCRIPTOR>
+ <ID>public_radio</ID>
+ <BT>Radio format</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Public relations</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>public_relations</ID>
+ <BT>Publishing Functions</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Publicity</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Publicity</ID>
+ <PL>Publicity</PL><!-- unknown line type [@@@] -->
+
+ <BT>Marketing</BT>
+ <RT>Author</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Publisher</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>publisher</ID>
+ <UF>Publishing house</UF>
+ <NT>Book Publisher</NT>
+ <NT>Journal publisher</NT>
+ <NT>Magazine Publisher</NT>
+ <NT>Newspaper Publisher</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Publishers Weekly</DESCRIPTOR>
+ <ID>publishers_Weekly</ID>
+ <BT>Industry magazines</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Publishing Functions</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Publishing_Functions</ID>
+ <PL>Publishing Functions</PL>
+ <SN>The major activities of a publishing concern.</SN>
+ <SQ>20</SQ>
+ <NT>Finance [Function]</NT>
+ <NT>Human Resources</NT>
+ <NT>Legal</NT>
+ <NT>Marketing</NT>
+ <NT>Operations</NT>
+ <NT>Product Development</NT>
+ <NT>Public relations</NT>
+ <NT>Sales [Function]</NT>
+ <NT>Strategy [Function]</NT>
+ <NT>Technology [Function]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Publishing house</NON-DESCRIPTOR>
+ <ID>publishing_house</ID>
+ <USE>Publisher</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Publishing transactions</DESCRIPTOR>
+ <ID>publishing_transactions</ID>
+ <SN>The business transactions that take place among a publisher, its suppliers, and its customers.</SN>
+ <NT>Advance Shipping Notice</NT>
+ <NT>Credit memorandum</NT>
+ <NT>Customer invoice</NT>
+ <NT>Customer order</NT>
+ <NT>Deduction</NT>
+ <NT>Print order</NT>
+ <NT>Purchase Order</NT>
+ <NT>Return [Transaction]</NT>
+ <NT>Stock status change</NT>
+ <NT>Supplier invoice</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>PUBNET</DESCRIPTOR>
+ <ID>pubnet</ID>
+ <BT>Distribution Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Purchase model</DESCRIPTOR>
+ <ID>purchase_model</ID>
+ <BT>Business Models</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Purchase Order</DESCRIPTOR>
+ <ID>purchase_order</ID>
+ <BT>Publishing transactions</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Putaway</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>putaway</ID>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Radio</DESCRIPTOR>
+ <ID>radio</ID>
+ <BT>Media [Audio]</BT>
+ <NT>Radio format</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Radio format</DESCRIPTOR>
+ <ID>radio_format</ID>
+ <BT>Radio</BT>
+ <NT>College radio</NT>
+ <NT>Commercial radio</NT>
+ <NT>Community radio</NT>
+ <NT>Internet radio</NT>
+ <NT>Pirate radio</NT>
+ <NT>Public radio</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>RDC terms</DESCRIPTOR>
+ <ID>rdc_terms</ID>
+ <BT>Discounts</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reality show</DESCRIPTOR>
+ <ID>reality_show</ID>
+ <BT>Television [Genre]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Receiving</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>receiving</ID>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Record, Vinyl</DESCRIPTOR>
+ <ID>record_vinyl</ID>
+ <BT>Media [Audio]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Recruiting</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>recruiting</ID>
+ <BT>Human Resources</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Recruitment</DESCRIPTOR>
+ <ID>recruitment</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reference</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Reference</ID>
+ <PL>References</PL>
+ <SN>Pointers to other content. In books these are often by figure, chapter or page number. In electronic materials references are executed with links.</SN>
+ <BT>Chapter</BT>
+ <BT>Reference list</BT>
+ <NT>Cross-reference</NT>
+ <NT>External reference</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reference [Genre]</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Reference_Content</ID>
+ <PL>Reference</PL>
+ <SN>Content provided for occasional use to answer specific questions.</SN>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reference list</DESCRIPTOR>
+ <ID>reference_list</ID>
+ <BT>Backmatter</BT>
+ <NT>Reference</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reference Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>reference_publishing</ID>
+ <BT>Book publishing [Sector]</BT>
+ <NT>Encyclopedias</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Register of Copyrights</DESCRIPTOR>
+ <ID>register_of_copyrights</ID>
+ <BT>Copyright</BT>
+ <BT>Library of Congress</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Religion [Genre]</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>religion_genre</ID>
+ <UF>Evangelical Books</UF>
+ <BT>Literary genre</BT>
+ <RT>Religious Bookstore</RT>
+ <RT>Religious Publishing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Religious Bookstore</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>religious_bookstore</ID>
+ <BT>Bookstore</BT>
+ <RT>Religion [Genre]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Religious Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>Religious</ID>
+ <PL>Religious</PL>
+ <SN>That sector of publishing focused primarily on providing content for religious use, whether for study or devotional use.</SN>
+ <UF>Christian Publishers</UF>
+ <BT>Trade Publishing</BT>
+ <RT>Religion [Genre]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Remainder</DESCRIPTOR>
+ <ID>remainder</ID>
+ <BT>Lifecycle</BT>
+ <RT>Inventory Management [Function]</RT>
+ <RT>Overproduction</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reprint</DESCRIPTOR>
+ <ID>reprint</ID>
+ <BT>Lifecycle</BT>
+ <RT>Costs</RT>
+ <RT>Inventory Management [Function]</RT>
+ <RT>Printing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reprint [Rights]</DESCRIPTOR>
+ <ID>reprint_rights</ID>
+ <BT>Print [Rights]</BT>
+ <RT>Paperback</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reprint order</DESCRIPTOR>
+ <ID>reprint_order</ID>
+ <BT>Print order</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Reproduction proofs</NON-DESCRIPTOR>
+ <ID>reproduction_proofs</ID>
+ <USE>Page proofs</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Retail</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Retail</ID>
+ <PL>Retail</PL>
+ <SN>Business entities that sell primarily to consumers.</SN>
+ <BT>Sales Channel</BT>
+ <NT>Bookstore</NT>
+ <NT>eBook Retailer</NT>
+ <NT>Mass Merchant</NT>
+ <NT>Specialty retail</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Retailer</DESCRIPTOR>
+ <ID>retailer</ID>
+ <BT>Value Chain</BT>
+ <NT>Bookstore</NT>
+ <RT>Special Orders</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Return [Transaction]</DESCRIPTOR>
+ <ID>return_transaction</ID>
+ <BT>Publishing transactions</BT>
+ <RT>Credit memorandum</RT>
+ <RT>Deduction</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Return reserve change</DESCRIPTOR>
+ <ID>return_reserve_change</ID>
+ <BT>Cost of Goods Sold</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Returns</DESCRIPTOR>
+ <ID>returns</ID>
+ <BT>Issues</BT>
+ <BT>Lifecycle</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Returns [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>returns_function</ID>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Returns reserve provision</DESCRIPTOR>
+ <ID>returns_reserve_provision</ID>
+ <BT>Revenue</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Revenue</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>revenue</ID>
+ <UF>Sales</UF>
+ <BT>Operating statement</BT>
+ <NT>Gross revenue</NT>
+ <NT>Returns reserve provision</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Review Copy</DESCRIPTOR>
+ <ID>review_copy</ID>
+ <UF>Desk Copy</UF>
+ <UF>Free Copy</UF>
+ <BT>Lifecycle</BT>
+ <RT>Higher Education Channel</RT>
+ <RT>Marketing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Review media</DESCRIPTOR>
+ <ID>review_media</ID>
+ <NT>Industry magazines</NT>
+ <NT>Reviewers</NT>
+ <RT>Marketing</RT>
+ <RT>Media</RT>
+ <RT>New York Times Book Review</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Reviewers</DESCRIPTOR>
+ <ID>reviewers</ID>
+ <BT>Review media</BT>
+ <RT>Marketing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Rights</DESCRIPTOR>
+ <ID>rights</ID>
+ <NT>Exclusivity [Rights]</NT>
+ <NT>Language [Rights]</NT>
+ <NT>Permissions [Rights]</NT>
+ <NT>Print [Rights]</NT>
+ <NT>Subsidiary Rights [Rights]</NT>
+ <NT>Term [Rights]</NT>
+ <NT>Territory [Rights]</NT>
+ <NT>User rights</NT>
+ <RT>Auction</RT>
+ <RT>Author contract</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Rights Management [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Rights_Management</ID>
+ <PL>Rights Management</PL>
+ <SN>That function of publishing responsible for managing rights acquired from and licensed to third parties.</SN>
+ <BT>Editorial [Function]</BT>
+ <NT>Permissions [Function]</NT>
+ <NT>Subsidiary Rights [Function]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Rights services</DESCRIPTOR>
+ <ID>rights_services</ID>
+ <BT>Service providers</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>RIM</DESCRIPTOR>
+ <ID>rim</ID>
+ <BT>Mobile technology</BT>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Rotary presses</DESCRIPTOR>
+ <ID>rotary_presses</ID>
+ <BT>Printing Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Royalty accounting [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>royalty_accounting_function</ID>
+ <BT>Finance [Function]</BT>
+ <RT>Royalty advances &amp; guarantees</RT>
+ <RT>Royalty expense</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Royalty advances</DESCRIPTOR>
+ <ID>royalty_advances</ID>
+ <BT>Royalty advances &amp; guarantees</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Royalty advances &amp; guarantees</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>royalty_advances_and_guarantees</ID>
+ <BT>Assets</BT>
+ <NT>Royalty advances</NT>
+ <NT>Royalty guarantees</NT>
+ <RT>Author</RT>
+ <RT>Author contract</RT>
+ <RT>Royalty accounting [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Royalty expense</DESCRIPTOR>
+ <ID>royalty_expense</ID>
+ <BT>Cost of Goods Sold</BT>
+ <RT>Author contract</RT>
+ <RT>Royalty accounting [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Royalty guarantees</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>royalty_guarantees</ID>
+ <UF>Guarantees</UF>
+ <BT>Royalty advances &amp; guarantees</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Running Costs</NON-DESCRIPTOR>
+ <ID>running_costs</ID>
+ <USE>Variable manufacturing cost</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Running foot</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Running_Foot</ID>
+ <PL>Running Foot</PL>
+ <SN>The text across the bottom margin of a page that is used for page navigation. The running foot can include title, author, chapter, folio or other information depending on the book design.</SN>
+ <BT>Page [Logical]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Running head</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Running_Head</ID>
+ <PL>Running Head</PL>
+ <SN>The text across the top margin of a page that is used for page navigation. The running head can include title, author, chapter, folio or other information depending on the book design.</SN>
+ <BT>Page [Logical]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Salary</DESCRIPTOR>
+ <ID>salary</ID>
+ <SN>Direct compensation to employees for fulfilling their job responsibilities.</SN>
+ <BT>Salary-related costs</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Salary-related costs</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>salary_related_costs</ID>
+ <UF>SRCs</UF>
+ <BT>Selling, General &amp; Administrative</BT>
+ <NT>Benefits</NT>
+ <NT>Bonus</NT>
+ <NT>Commission</NT>
+ <NT>Compensation</NT>
+ <NT>Pension</NT>
+ <NT>Salary</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Sales</NON-DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Sales</ID>
+ <PL>Sales</PL>
+ <SN>Customer contact through placement of order.</SN>
+ <USE>Revenue</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sales [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>sales_function</ID>
+ <BT>Publishing Functions</BT>
+ <NT>Adoption process</NT>
+ <NT>In Service</NT>
+ <NT>Sales Force</NT>
+ <NT>Subsidiary Rights Sales</NT>
+ <RT>Sales Conference</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sales Channel</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>Sales_Channel</ID>
+ <PL>Sales Channel</PL>
+ <SN>From a publisher&apos;s perspective, the route through which content moves to the ultimate consumer. The channel is generally named for the location in which the first sale is made.</SN>
+ <SQ>45</SQ>
+ <NT>Book club [Channel]</NT>
+ <NT>Corporate</NT>
+ <NT>Direct to Consumer</NT>
+ <NT>Distributor</NT>
+ <NT>Government</NT>
+ <NT>Higher Education Channel</NT>
+ <NT>Institutional</NT>
+ <NT>International</NT>
+ <NT>Library</NT>
+ <NT>Retail</NT>
+ <NT>School</NT>
+ <NT>Wholesale</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sales Conference</DESCRIPTOR>
+ <ID>sales_conference</ID>
+ <RT>Sales [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sales Force</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>sales_force</ID>
+ <BT>Sales [Function]</BT>
+ <NT>Commission reps</NT>
+ <NT>Field Sales</NT>
+ <NT>Inside sales [Function]</NT>
+ <NT>National Accounts</NT>
+ <NT>Special Sales</NT>
+ <RT>In Service</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sales Letters</DESCRIPTOR>
+ <ID>sales_letters</ID>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Samples</DESCRIPTOR>
+ <ID>samples</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Satellite television</DESCRIPTOR>
+ <ID>satellite_television</ID>
+ <BT>Media [Visual]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>scheduling</DESCRIPTOR>
+ <ID>scheduling</ID>
+ <BT>Manufacturing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Scholarly Publishing</NON-DESCRIPTOR>
+ <ID>scholarly_publishing</ID>
+ <USE>Academic Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>School</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>School</ID>
+ <PL>School</PL>
+ <SN>An institution for pre-Kindergarten, Kindergarten, primary or secondary education.</SN>
+ <BT>Sales Channel</BT>
+ <NT>Elementary Schools</NT>
+ <NT>Home School</NT>
+ <NT>Kindergarten</NT>
+ <NT>Pre-Kindergarten</NT>
+ <NT>Secondary School</NT>
+ <RT>Adoption process</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>School library</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>School_Library</ID>
+ <PL>School Library</PL>
+ <SN>A library associated with a primary or secondary school.</SN>
+ <BT>Library</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Scoring</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Scoring</ID>
+ <PL>Scoring</PL><!-- unknown line type [@@@] -->
+
+ <SQ>27</SQ>
+ <BT>Audio Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Script Writing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Script_Writing</ID>
+ <PL>Script Writing</PL><!-- unknown line type [@@@] -->
+
+ <BT>Audio Production</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Second serial [Rights]</DESCRIPTOR>
+ <ID>second_serial_rights</ID>
+ <BT>Serial Rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Secondary Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>secondary_publishing</ID>
+ <BT>K12 Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Secondary School</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>secondary_school</ID>
+ <BT>School</BT>
+ <NT>Advanced Placement</NT>
+ <NT>Honors</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Secondary textbooks</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>secondary_textbooks</ID>
+ <UF>High school textbooks</UF>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Section</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Section</ID>
+ <PL>Section</PL>
+ <SN>A grouping of content below the chapter level.</SN>
+ <BT>Chapter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Self-improvement</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>self_improvement</ID>
+ <BT>Literary genre</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Self-Mailers</DESCRIPTOR>
+ <ID>self_mailers</ID>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Self-Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>self_publishing</ID>
+ <UF>Vanity Publishing</UF>
+ <BT>Book publishing [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Selling, General &amp; Administrative</DESCRIPTOR>
+ <ID>selling_general_and_administrative</ID>
+ <UF>SG&amp;A</UF>
+ <BT>Operating statement</BT>
+ <NT>Allocations</NT>
+ <NT>Amortization</NT>
+ <NT>Depreciation</NT>
+ <NT>Distribution [Cost]</NT>
+ <NT>Maintenance &amp; repairs</NT>
+ <NT>Marketing, sales &amp; promotions</NT>
+ <NT>Meetings &amp; Conferences</NT>
+ <NT>Occupancy</NT>
+ <NT>Outside services</NT>
+ <NT>Recruitment</NT>
+ <NT>Salary-related costs</NT>
+ <NT>Samples</NT>
+ <NT>Severance</NT>
+ <NT>Telecommunications</NT>
+ <NT>Travel &amp; Entertainment</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Serial Rights</DESCRIPTOR>
+ <SC>RGTS Rights</SC>
+ <ID>serial_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+ <NT>First serial [Rights]</NT>
+ <NT>Second serial [Rights]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Service providers</DESCRIPTOR>
+ <ID>service_providers</ID>
+ <NT>Collection agencies</NT>
+ <NT>Consulting</NT>
+ <NT>Editorial services</NT>
+ <NT>Freelancers</NT>
+ <NT>Overseas vendors</NT>
+ <NT>Printer</NT>
+ <NT>Production services</NT>
+ <NT>Rights services</NT>
+ <RT>Vendor Management</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Severance</DESCRIPTOR>
+ <ID>severance</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sewn binding</DESCRIPTOR>
+ <ID>sewn_binding</ID>
+ <BT>Binding [Spec]</BT>
+ <NT>McCain binding</NT>
+ <NT>Side-sewn</NT>
+ <NT>Smyth-sewn</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>SG&amp;A</NON-DESCRIPTOR>
+ <ID>sg_and_a</ID>
+ <USE>Selling, General &amp; Administrative</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sheet music</DESCRIPTOR>
+ <ID>sheet_music</ID>
+ <BT>Music [Genre]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sheet music publishing</DESCRIPTOR>
+ <ID>sheet_music_publishing</ID>
+ <BT>Music publishing [Sector]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Shipping</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>shipping</ID>
+ <BT>Warehousing [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Short discount</DESCRIPTOR>
+ <ID>short_discount</ID>
+ <BT>Discounts</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sidebar</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Sidebars</ID>
+ <PL>Sidebars</PL>
+ <SN>Out of line notes that runs along the side of a page encroaching into the text box that offer additional information to the body text.</SN>
+ <BT>Chapter</BT>
+ <BT>Note</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Side-sewn</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>side_sewn</ID>
+ <BT>Case binding</BT>
+ <BT>Sewn binding</BT>
+ <NT>McCain binding</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Signature</DESCRIPTOR>
+ <ID>signature</ID>
+ <UF>Printing Form</UF>
+ <BT>Text block</BT>
+ <NT>Page [Physical]</NT>
+ <NT>Paper</NT>
+ <RT>Pagination guide</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Simulation</DESCRIPTOR>
+ <EX>Immersive environments providing a model of real-world behavior. Classic examples include The Beer Game for supply chain simulation and Mike&apos;s Bikes for accounting. Case studies are a form of simulation.</EX>
+ <ID>Simulation</ID>
+ <PL>Simulation</PL><!-- unknown line type [@@@] -->
+
+ <BT>Educational Content</BT>
+ <BT>Interactive</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Single Title Order Plan</DESCRIPTOR>
+ <ID>single_title_order_plan</ID>
+ <UF>STOP</UF>
+ <BT>Customer order</BT>
+ <RT>Order processing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sitcom</DESCRIPTOR>
+ <ID>sitcom</ID>
+ <BT>Television [Genre]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Slugging</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Slugging</ID>
+ <PL>Slugging</PL>
+ <SN>Comparing the first and last word on each page to ensure that no content has been dropped during composition.</SN>
+ <BT>Proofreading</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Small presses</DESCRIPTOR>
+ <ID>small_presses</ID>
+ <BT>Book Publisher</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Smartphones</DESCRIPTOR>
+ <ID>smartphones</ID>
+ <BT>Cellular phone</BT>
+ <BT>PDA</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Smyth-sewn</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>smyth_sewn</ID>
+ <BT>Case binding</BT>
+ <BT>Sewn binding</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Soft cover</NON-DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>soft_cover</ID>
+ <USE>Paperback</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Soft Proofing</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Soft_Proofing</ID>
+ <PL>Soft Proofing</PL>
+ <SN>Proofreading using an electronic copy of the pages. Soft proofing can save considerable time and cost by avoiding the printing and shipping of proofs.</SN>
+ <BT>Proofreading</BT>
+ <BT>Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Sound effects</DESCRIPTOR>
+ <ID>sound_effects</ID>
+ <BT>Audio content</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Special Orders</DESCRIPTOR>
+ <ID>special_orders</ID>
+ <BT>Customer order</BT>
+ <RT>Order processing</RT>
+ <RT>Retailer</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Special Sales</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>special_sales</ID>
+ <BT>Sales Force</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Specialized notation</DESCRIPTOR>
+ <ID>specialized_notation</ID>
+ <BT>Content Type</BT>
+ <NT>Chemical notation</NT>
+ <NT>Mathematical equation</NT>
+ <NT>Music Notation</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Specialty retail</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Specialty_Retail</ID>
+ <PL>Specialty Retailers</PL>
+ <SN>Business entities that sell items other than books primarily to consumers.</SN>
+ <BT>Retail</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Spine</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Spine</ID>
+ <PL>Spine</PL><!-- unknown line type [@@@] -->
+
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Spiral Binding</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>spiral_binding</ID>
+ <BT>Mechanical binding</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Split Test</DESCRIPTOR>
+ <ID>split_test</ID>
+ <BT>Direct Mail</BT>
+ <BT>Mail Order Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Spread</DESCRIPTOR>
+ <ID>spread</ID>
+ <BT>Page layout</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>SRCs</NON-DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>SRCs</ID>
+ <USE>Salary-related costs</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Standardization</DESCRIPTOR>
+ <ID>standardization</ID>
+ <BT>Issues</BT>
+ <RT>Design [Function]</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Standards</DESCRIPTOR>
+ <EX>BISG, IDPF, NASTA</EX>
+ <ID>Standards</ID>
+ <PL>Standards</PL>
+ <SN>Standards used in the publishing industry and organizations responsible for their development and maintenance.</SN>
+ <BT>Support organizations</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Standing Orders</DESCRIPTOR>
+ <ID>standing_orders</ID>
+ <BT>Customer order</BT>
+ <RT>Order processing</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>State Government</DESCRIPTOR>
+ <ID>state_government</ID>
+ <BT>Government</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Statutory Reporting</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Statutory_Reporting</ID>
+ <PL>Statutory Reporting</PL><!-- unknown line type [@@@] -->
+
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>STM Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>STM</ID>
+ <PL>STM</PL>
+ <SN>(S)cientific, (T)echnical, and (M)edical publishing actually consists of Science, Computing, Architecture, Engineering, Construction, Medicine and Healthcare publishing.</SN>
+ <BT>Professional Publishing</BT>
+ <NT>Medical Publishing</NT>
+ <NT>Technical and scientific Publishing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Stock status change</DESCRIPTOR>
+ <ID>stock_status_change</ID>
+ <BT>Publishing transactions</BT>
+ <NT>Out-of-print</NT>
+ <NT>Out of Stock Indefinitely</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>STOP</NON-DESCRIPTOR>
+ <ID>STOP</ID>
+ <USE>Single Title Order Plan</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Strategic relationship agreements</DESCRIPTOR>
+ <ID>strategic_relationship_agreements</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Strategy [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Strategy</ID>
+ <PL>Strategy</PL>
+ <SN>That function of publishing that determines positioning of the publishing concern relative to the market, customers and competitors and ensures correct allocation of resources to achieve the business objectives.</SN>
+ <BT>Publishing Functions</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Streamed audio</DESCRIPTOR>
+ <ID>streamed_audio</ID>
+ <BT>Media [Audio]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Streamed video</DESCRIPTOR>
+ <ID>streamed_video</ID>
+ <BT>Media [Visual]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Streaming media</DESCRIPTOR>
+ <ID>streaming_media</ID>
+ <BT>Online</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Student edition</DESCRIPTOR>
+ <ID>student_edition</ID>
+ <BT>Textbooks</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Student Information Systems</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>SIS</ID>
+ <PL>Student Information Systems</PL>
+ <SN>Student Information Systems are used by educational institutions to capture information on enrolled student including their personal information, academic records, and demographics</SN>
+ <BT>Technology</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Subscription Model</DESCRIPTOR>
+ <ID>subscription_model</ID>
+ <BT>Business Models</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Subsidiary Rights [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Subrights</ID>
+ <PL>Subsidiary Rights</PL><!-- unknown line type [@@@] -->
+
+ <BT>Rights Management [Function]</BT>
+ <NT>Subsidiary Rights Sales</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Subsidiary Rights [Rights]</DESCRIPTOR>
+ <SC>RGTS Rights</SC>
+ <ID>subsidiary_rights_rights</ID>
+ <BT>Rights</BT>
+ <NT>Audio [Rights]</NT>
+ <NT>Book club [Rights]</NT>
+ <NT>CD [Rights]</NT>
+ <NT>Derivative [Rights]</NT>
+ <NT>DVD [Rights]</NT>
+ <NT>eBook [Rights]</NT>
+ <NT>Motion picture [Rights]</NT>
+ <NT>Multimedia rights</NT>
+ <NT>Performance rights</NT>
+ <NT>Serial Rights</NT>
+ <NT>TV Rights</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Subsidiary rights contracts</DESCRIPTOR>
+ <ID>subsidiary_rights_contracts</ID>
+ <BT>Contract</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Subsidiary Rights Sales</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>subsidiary_rights_sales</ID>
+ <BT>Sales [Function]</BT>
+ <BT>Subsidiary Rights [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Summative assessment</DESCRIPTOR>
+ <SC>BT Book Type</SC><!-- unknown line type [@@@] -->
+
+ <ID>Summative_Assessment</ID>
+ <PL>Summative Assessment</PL>
+ <SN>Summative assessment is a test given at the end of a term, chapter, semester, etc. to evaluate the knowledge of the student. High-stakes tests such as ACT, GRE, SAT, and the WASL are also summative assessments.</SN>
+ <BT>Assessment</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Superhero</DESCRIPTOR>
+ <ID>superhero</ID>
+ <BT>Comics</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Supplemental Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC>
+ <ID>supplemental_publishing</ID>
+ <BT>K12 Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Supplier invoice</DESCRIPTOR>
+ <ID>supplier_invoice</ID>
+ <BT>Publishing transactions</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Supplier Selection</DESCRIPTOR>
+ <ID>Supplier_Selection</ID>
+ <BT>Manufacturing</BT>
+ <BT>Vendor Management</BT>
+ <RT>Overseas vendors</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Support organizations</DESCRIPTOR>
+ <ID>Support_Organizations</ID>
+ <PL>Support Organizations</PL>
+ <SN>Organizations that aren&apos;t part of the industry value chain, but that provide support of various types to members of the value chain.</SN>
+ <SQ>80</SQ>
+ <NT>Book fair</NT>
+ <NT>Industry association</NT>
+ <NT>Media</NT>
+ <NT>Standards</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Symbian</DESCRIPTOR>
+ <ID>symbian</ID>
+ <BT>Mobile technology</BT>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Systems Integration</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Systems_Design</ID>
+ <PL>Systems_Design</PL>
+ <SN>Systems design and integration services.</SN>
+ <BT>Consulting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Table</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Table</ID>
+ <PL>Tables</PL><!-- unknown line type [@@@] -->
+
+ <BT>Chapter</BT>
+ <BT>Content Type</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Table of Contents</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>table_of_contents</ID>
+ <UF>TOC</UF>
+ <BT>Frontmatter</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Tabloid</DESCRIPTOR>
+ <ID>tabloid</ID>
+ <BT>Newspaper [Format]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Tax</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Tax</ID>
+ <PL>Tax</PL>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Technical and scientific Publishing</DESCRIPTOR>
+ <ID>technical_and_scientific_publishing</ID>
+ <BT>STM Publishing</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Technology</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Technology</ID>
+ <PL>Technologies</PL>
+ <SN>Tools and systems used to manipulate information used in publishing content.</SN>
+ <NT>Business Systems</NT>
+ <NT>Content Management System</NT>
+ <NT>Distribution Technology</NT>
+ <NT>DOI</NT>
+ <NT>DRM</NT>
+ <NT>Electronic Data Interchange</NT>
+ <NT>LMS</NT>
+ <NT>Metadata</NT>
+ <NT>POD</NT>
+ <NT>Printing Technology</NT>
+ <NT>Production Technology</NT>
+ <NT>Soft Proofing</NT>
+ <NT>Student Information Systems</NT>
+ <NT>XML</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Technology [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Technology_Function</ID>
+ <PL>Technology</PL>
+ <SN>Management of information systems and business technology to support the publishing enterprise.</SN>
+ <SQ>50</SQ>
+ <BT>Publishing Functions</BT>
+ <NT>Architecture</NT>
+ <NT>Development and Maintenance</NT>
+ <NT>Technology Operations</NT>
+ <NT>User Support</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Technology Operations</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Technology_Operations</ID>
+ <PL>Operations</PL>
+ <SN>Management of data centers.</SN>
+ <BT>Technology [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Telecommunications</DESCRIPTOR>
+ <ID>telecommunications</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Television [Genre]</DESCRIPTOR>
+ <ID>television_genre</ID>
+ <NT>Game show</NT>
+ <NT>Reality show</NT>
+ <NT>Sitcom</NT>
+ <RT>Broadcast television</RT>
+ <RT>Cable television</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Term [Rights]</DESCRIPTOR>
+ <ID>term_rights</ID>
+ <BT>Rights</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Terms of Sale</DESCRIPTOR>
+ <ID>terms_of_sale</ID>
+ <NT>Advance Dating</NT>
+ <NT>Cooperative Advertising</NT>
+ <NT>Discounts</NT>
+ <NT>Freight terms</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Territory [Rights]</DESCRIPTOR>
+ <ID>territory_rights</ID>
+ <UF>Foreign Rights</UF>
+ <BT>Rights</BT>
+ <NT>British Commonwealth [Rights]</NT>
+ <NT>North American [Rights]</NT>
+ <NT>World [Rights]</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Text</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Text</ID>
+ <PL>Text</PL><!-- unknown line type [@@@] -->
+
+ <BT>Chapter</BT>
+ <BT>Content Type</BT>
+ <NT>Prose</NT>
+ <NT>Verse</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Text block</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>TextBlock</ID>
+ <PL>Text Block</PL><!-- unknown line type [@@@] -->
+
+ <UF>F&amp;G</UF>
+ <BT>Physical book component</BT>
+ <NT>Signature</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Text box</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Text_Box</ID>
+ <PL>Text Box</PL>
+ <SN>The area of the page used to contain the main content.</SN>
+ <BT>Page [Logical]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Textbooks</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>textbooks</ID>
+ <BT>Educational Materials</BT>
+ <NT>College textbooks</NT>
+ <NT>Dental textbooks</NT>
+ <NT>Elementary textbooks</NT>
+ <NT>Instructor edition</NT>
+ <NT>Instructor solutions manual</NT>
+ <NT>Legal textbooks</NT>
+ <NT>Medical textbooks</NT>
+ <NT>Secondary textbooks</NT>
+ <NT>Student edition</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Three-piece cover</DESCRIPTOR>
+ <ID>three_piece_cover</ID>
+ <BT>Cover</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Title</DESCRIPTOR>
+ <ID>title</ID>
+ <BT>Book metadata</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Title page</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>TitlePage</ID>
+ <PL>Title Page</PL><!-- unknown line type [@@@] -->
+
+ <BT>Frontmatter</BT>
+ <NT>Colophon</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Title performance analysis</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>title_performance_analysis</ID>
+ <BT>Planning and budgeting</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>TOC</NON-DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>TOC</ID>
+ <PL>Table of Contents</PL><!-- unknown line type [@@@] -->
+
+ <USE>Table of Contents</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Tool sets</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Tool_Sets</ID>
+ <PL>Tool Sets</PL>
+ <SN>Tools for organizing, sequencing and offering content.</SN>
+ <BT>Educational Content</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Top margin</DESCRIPTOR>
+ <ID>top_margin</ID>
+ <BT>Margin</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Trade discount</DESCRIPTOR>
+ <ID>trade_discount</ID>
+ <BT>Discounts</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Trade magazine [Sector]</DESCRIPTOR>
+ <ID>trade_magazine_sector</ID>
+ <BT>Magazine Publishing [Sector]</BT>
+ <NT>Controlled circulation magazines</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Trade paperback</DESCRIPTOR>
+ <ID>trade_paperback</ID>
+ <BT>Paperback</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Trade Publishing</DESCRIPTOR>
+ <SC>SECT Publishing Sector</SC><!-- unknown line type [@@@] -->
+
+ <ID>Trade_Publishing</ID>
+ <PL>Trade</PL>
+ <SN>That sector of publishing focused primarily on consumers.</SN>
+ <BT>Book publishing [Sector]</BT>
+ <NT>Adult Trade</NT>
+ <NT>Childrens Trade Publishing</NT>
+ <NT>Religious Publishing</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Training</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>training</ID>
+ <BT>Human Resources</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Transportation</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Transportation</ID>
+ <PL>Transportation</PL>
+ <SN>Movement of books from printer to warehouse (inbound transportation) or from warehouse to customer (outbound transportation).</SN>
+ <BT>Distribution [Function]</BT>
+ <RT>Costs</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Travel &amp; Entertainment</DESCRIPTOR>
+ <ID>travel_and_entertainment</ID>
+ <BT>Selling, General &amp; Administrative</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Treasury</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>Treasury</ID>
+ <PL>Treasury</PL>
+ <BT>Finance [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Trim sizes</DESCRIPTOR>
+ <SC>SPEC Physical Book Component</SC>
+ <ID>trim_sizes</ID>
+ <BT>Page layout</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Tutorial</DESCRIPTOR><!-- unknown line type [@@@] -->
+
+ <ID>Tutorial</ID>
+ <PL>Tutorial</PL>
+ <SN>Interactive educational content in which the student steps through a solution to learn problem solving. Tutorials can be either instructor mediated, or self-study.</SN>
+ <BT>Educational Content</BT>
+ <BT>Interactive</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>TV Rights</DESCRIPTOR>
+ <ID>tv_rights</ID>
+ <BT>Subsidiary Rights [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Two Year Colleges</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Two_Year</ID>
+ <PL>Two Year</PL>
+ <SN>Two Year institutions that grant Associates degrees</SN>
+ <BT>Higher Education Channel</BT>
+ <RT>College bookstore</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Type</NON-DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>type</ID>
+ <USE>Typefaces</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Typefaces</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC>
+ <ID>typefaces</ID>
+ <UF>Type</UF>
+ <BT>Typography</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Typesetting [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC>
+ <ID>typesetting_function</ID>
+ <BT>Production</BT>
+ <RT>Page proofs</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Typography</DESCRIPTOR>
+ <ID>typography</ID>
+ <BT>Book design</BT>
+ <NT>Typefaces</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Uncorrected proofs</NON-DESCRIPTOR>
+ <ID>uncorrected_proofs</ID>
+ <USE>Bound galley</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Universal Copyright Convention</DESCRIPTOR>
+ <ID>universal_copyright_convention</ID>
+ <BT>Copyright</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>University presses</NON-DESCRIPTOR>
+ <ID>university_presses</ID>
+ <USE>Academic Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Unsolicited manuscript</DESCRIPTOR>
+ <ID>unsolicited_manuscript</ID>
+ <BT>Manuscript</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Upper Division</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>upper_division</ID>
+ <SN>Materials used in years 3-4 of a 4 year college program.</SN>
+ <BT>Educational Materials</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Used book wholesaler</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>used_book_wholesaler</ID>
+ <BT>Wholesale</BT>
+ <RT>Higher Education Publishing</RT>
+ <RT>Used Books</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Used Books</DESCRIPTOR>
+ <ID>used_books</ID>
+ <BT>Issues</BT>
+ <RT>College bookstore</RT>
+ <RT>Used book wholesaler</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>User rights</DESCRIPTOR>
+ <ID>user_rights</ID>
+ <BT>Rights</BT>
+ <NT>Copy/paste</NT>
+ <NT>Print [End user rights]</NT>
+ <RT>Copyright page</RT>
+ <RT>DRM</RT>
+ <RT>EULA</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>User Support</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>User_Support</ID>
+ <PL>Support</PL><!-- unknown line type [@@@] -->
+
+ <BT>Technology [Function]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Value Chain</DESCRIPTOR>
+ <ID>value_chain</ID>
+ <NT>Book Publisher</NT>
+ <NT>Bookstore</NT>
+ <NT>Contributor</NT>
+ <NT>Library</NT>
+ <NT>Literary Agent</NT>
+ <NT>Packagers</NT>
+ <NT>Retailer</NT>
+ <NT>Wholesale</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>Vanity Publishing</NON-DESCRIPTOR>
+ <ID>vanity_publishing</ID>
+ <USE>Self-Publishing</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Variable manufacturing cost</DESCRIPTOR>
+ <ID>variable_manufacturing_cost</ID>
+ <UF>Running Costs</UF>
+ <BT>Paper, Print and Bind</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Vendor Management</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Vendor_Management</ID>
+ <PL>Vendor Management</PL>
+ <SN>Management of vendors including identification, qualification, sourcing, negotiation, and vendor performance tracking.</SN>
+ <BT>Operations</BT>
+ <NT>Supplier Selection</NT>
+ <RT>Service providers</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Verse</DESCRIPTOR>
+ <SC>COMP Logical Book Component</SC><!-- unknown line type [@@@] -->
+
+ <ID>Verse</ID>
+ <PL>Verse</PL><!-- unknown line type [@@@] -->
+
+ <BT>Text</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Video</DESCRIPTOR>
+ <ID>video</ID>
+ <BT>Multimedia</BT>
+ <NT>Animation</NT>
+ <NT>Movie</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Voice</DESCRIPTOR>
+ <ID>voice</ID>
+ <BT>Audio content</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Votech</DESCRIPTOR>
+ <SC>CH Sales Channel</SC><!-- unknown line type [@@@] -->
+
+ <ID>Votech</ID>
+ <PL>Vocational/Technical schools</PL>
+ <SN>Post secondary institutions with a mission of teaching a trade.</SN>
+ <BT>Higher Education Channel</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Warehousing [Function]</DESCRIPTOR>
+ <SC>FN Publishing Function</SC><!-- unknown line type [@@@] -->
+
+ <ID>Warehousing</ID>
+ <PL>Warehousing</PL>
+ <SN>The function of a company that is responsible for holding finished goods awaiting shipment to customers. A warehouse generally is associated with the receipt, put-away, storage, selection, shipping of books.  It also generally handles customer returns.</SN>
+ <BT>Distribution [Function]</BT>
+ <NT>Inventory control</NT>
+ <NT>Pack</NT>
+ <NT>Pick</NT>
+ <NT>Putaway</NT>
+ <NT>Receiving</NT>
+ <NT>Returns [Function]</NT>
+ <NT>Shipping</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Web site</DESCRIPTOR>
+ <ID>web_site</ID>
+ <BT>Media [Textual]</BT>
+ <RT>Continuous delivery</RT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Wholesale</DESCRIPTOR>
+ <SC>CH Sales Channel</SC>
+ <ID>Wholesale</ID>
+ <PL>Wholesale</PL>
+ <SN>Business entities that buy books from publishers and distributors and sell to retailers</SN>
+ <BT>Sales Channel</BT>
+ <BT>Value Chain</BT>
+ <NT>Jobber</NT>
+ <NT>Library jobber</NT>
+ <NT>Used book wholesaler</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Wholesale discount</DESCRIPTOR>
+ <ID>wholesale_discount</ID>
+ <BT>Discounts</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Windows</DESCRIPTOR>
+ <ID>windows</ID>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Windows Mobile</DESCRIPTOR>
+ <ID>windows_mobile</ID>
+ <UF>WindowsCE</UF>
+ <BT>Operating System [Platform]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <NON-DESCRIPTOR>WindowsCE</NON-DESCRIPTOR>
+ <ID>windowsce</ID>
+ <USE>Windows Mobile</USE>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Work</DESCRIPTOR>
+ <ID>work</ID>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Working Capital</DESCRIPTOR>
+ <SC>FIN Financial in Nature</SC>
+ <ID>working_capital</ID>
+ <BT>Balance sheet</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>World [Rights]</DESCRIPTOR>
+ <ID>world_rights</ID>
+ <BT>Territory [Rights]</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>XBITS</DESCRIPTOR>
+ <ID>XBITS</ID>
+ <SN>(X)ML (B)ook (I)ndustry (T)ransaction (S)tandards.  A set of XML standards to handle transactions among publishers, paper suppliers and printers.</SN>
+ <BT>Industry Standards</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>XHTML</DESCRIPTOR>
+ <ID>XHTML</ID>
+ <SN>A version of HTML that is XML compliant.</SN>
+ <BT>XML</BT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>XML</DESCRIPTOR>
+ <EX>OEB, DocBook</EX>
+ <ID>XML</ID>
+ <PL>XML</PL>
+ <SN>e(X)tensible (M)arkup (L)anguage is used to decrease cost of production and increase the ability to re-use content for multiple formats or multiple editions.</SN>
+ <BT>Technology</BT>
+ <NT>CALS</NT>
+ <NT>DocBook</NT>
+ <NT>MathML</NT>
+ <NT>OEB</NT>
+ <NT>XHTML</NT>
+</CONCEPT>
+
+<CONCEPT>
+ <DESCRIPTOR>Young adult</DESCRIPTOR>
+ <SC>BT Book Type</SC>
+ <ID>young_adult</ID>
+ <SN>Books published for a teenaged audience.</SN>
+ <BT>Children&apos;s Books</BT>
+</CONCEPT>
+</THESAURUS>
