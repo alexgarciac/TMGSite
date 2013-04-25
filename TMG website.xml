@@ -46,7 +46,8 @@
 			<articleHeader>
 				<subject>Digital strategy, digital publishing, print on demand, POD</subject>
 				<DOI>10.1335/0000000024</DOI>
-				<category idref="Strategy"/>
+				<description>Identify and create the most effective lineup of digital products (eBooks, web-based products, apps, etc.) and channels to support your future growth.</description>
+				<category idref="Digital_Strategy"/>
 			</articleHeader>
 			<masterServiceLineName>Digital Strategy</masterServiceLineName>
 			<serviceLineDescription>
@@ -54,17 +55,19 @@
 				<para>Some of the questions we've assisted clients answer include:</para>
 				<unOrderedList>
 					<listItem>How can the digital transition be managed while maintaining print output?</listItem>
-					<listItem>How can new technologies including agile, cloud, social and mobile be integrated into products and internal processes?</listItem>
+					<listItem>How can new technologies including agile development, cloud, social and mobile be integrated into products and internal processes?</listItem>
 					<listItem>Which new channels and tools are worth pursuing?</listItem>
 					<listItem>How can speed-to-market and customer engagement be improved in new and existing products?</listItem>
 					<listItem>How does one go about retooling the workforce in order to create engaging digital products from a classic print-centric organization?</listItem>
-					<listItem>What role should "agile" play in product development and editorial processes?  In platform development? In infrastructure technology?</listItem>
+					<listItem>What role should agile development approaches play in product development and editorial processes?  In platform development? In infrastructure technology?</listItem>
 					<listItem>How can the current workforce best be engaged in creating innovative products, services and processes for the future?</listItem>
 					<listItem>How should pricing of print and digital be handled across channels and geography?</listItem>
 					<listItem>When should DRM be used?  When shouldn't it?</listItem>
 					<listItem>What advantages does XYZ (XML, HTML5, EPUB, responsive design, MarkLogic, NoSQL, etc.) technology offer in current processes and products? Should it be used? How can it be effectively integrated in the existing environment?</listItem>
-					<listItem>What's the most effective way to implement custom publishing or sales by chapter?</listItem>
+					<listItem>What's the most effective way to implement custom publishing?</listItem>
 				</unOrderedList>
+				<para>Some of our representative experiences include:</para>
+				<projectList idref="Digital_Strategy"/>
 				<para>Whether you are concerned about what platforms, formats or channels to pursue, or how best to integrate eBooks and print-on-demand into your existing production process, the Treadwell Media Group team of eBook and traditional publishing experts can help you prepare for your company’s future.</para>
 			</serviceLineDescription>
 		</masterServiceLine>
@@ -72,7 +75,7 @@
 			<articleHeader>
 				<subject>Publishing, Product Development, Editorial Development, Production</subject>
 				<DOI>10.1335/0000000025</DOI>
-				<description>test</description>
+				<description>Create more innovative and engaging products by effectively integrating customer feedback, technology and existing editorial and production operations.</description>
 				<category idref="product_development"/>
 			</articleHeader>
 			<masterServiceLineName>Product Development Effectiveness</masterServiceLineName>
@@ -107,6 +110,7 @@
 			<articleHeader>
 				<subject>Publishing, Supply Chain, Order Management, Transportation, Warehousing, Distribution, Inventory Management, Forecasting</subject>
 				<DOI>10.1335/0000000026</DOI>
+				<description>Streamline your inbound and outbound supply chains to improve customer satisfaction and reduce cost, investment.</description>
 				<category idref="Operations"/>
 			</articleHeader>
 			<masterServiceLineName>Supply Chain and Operations Effectiveness</masterServiceLineName>
@@ -167,6 +171,7 @@
 			<articleHeader>
 				<subject>Vendor Management, Sourcing, Purchasing, Outsourcing, Offshoring</subject>
 				<DOI>10.1335/0000000027</DOI>
+				<description>Effectively use third party relationships to extend the reach and capabilities of your publishing enterprise.</description>
 				<category idref="Vendor_Management"/>
 			</articleHeader>
 			<masterServiceLineName>Outsourcing and Vendor Management</masterServiceLineName>
@@ -195,6 +200,7 @@
 			<articleHeader>
 				<subject>Treadwell Media Group Services, Book Publishing, Publishing, Technology, Product Technology, Integration</subject>
 				<DOI>10.1335/0000000028</DOI>
+				<description>Rationalize and extend your existing technology environment to more rapidly develop innovative products and more effectively support business operations.</description>
 				<category idref="Technology_Function"/>
 			</articleHeader>
 			<masterServiceLineName>Technology Management and Integration</masterServiceLineName>
@@ -216,11 +222,12 @@
 			<articleHeader>
 				<subject>Treadwell Media Group, Book Publishing, Contracts, Rights Management, DRM, Digital Rights Management, Ken Brooks, Publishing Dimensions</subject>
 				<DOI>10.1335/0000000016</DOI>
+				<description>Effectively capture, integrate and utilize rights data in products and rights sales channels.</description>
 				<category idref="Rights_Management"/>
 			</articleHeader>
-			<masterServiceLineName>Rights Conversion Services</masterServiceLineName>
+			<masterServiceLineName>Rights Management</masterServiceLineName>
 			<serviceLineDescription>
-				<para>Treadwell Media Group provides innovative solutions in capturing information on publishers' largest asset: the rights that they control and exploit. Our solutions include cost-effective capture of rights data from author and subrights contracts and integration of that data into popular rights management services, applications and on-line sales channels.</para>
+				<para>Treadwell Media Group provides innovative solutions in capturing and utilizing information on publishers' largest asset: the rights that they control and exploit. Our solutions include cost-effective capture of rights data from author, permissions, work-for-hire and blanket contracts, utilization of that data through popular and custom rights management systems and effective integration of that data into both products and on-line sales channels.</para>
 				<para>By having rights information digitized and readily accessible in a rights management system, publishers achieve a number of direct revenue benefits:</para>
 				<unOrderedList>
 					<listItem>The capture of missed revenue opportunities including unsold sub-rights (beyond the frontlist), renegotiation of expiring deals, and uncollected royalties from deals that have already been negotiated.</listItem>
@@ -237,23 +244,8 @@
 					<listItem>Reduction of document management expense associated with storage and retrieval of paper contracts</listItem>
 					<listItem>More timely response to internal and external inquiries on contract-related issues</listItem>
 				</unOrderedList>
-				<para>Publishers achieve a number of advantages from the Treadwell Media Group approach:</para>
-				<unOrderedList>
-					<listItem>High quality, consistent rights data output requiring little intervention for validation</listItem>
-					<listItem>A cost-effective solution offering quick turnaround on most types of contracts</listItem>
-					<listItem>Experienced staff with traditional and electronic publishing experience</listItem>
-					<listItem>Knowledge of functional and data requirements of most rights management systems</listItem>
-					<listItem>Delivery of rights information to publisher-specified channels of distribution</listItem>
-					<listItem>Detailed tracking of contract conversion through each stage of production</listItem>
-					<listItem>Real-time availability of production status via secure web page</listItem>
-					<listItem>Hassle-free customer service with knowledgeable representatives</listItem>
-					<listItem>Largest conversion capacity in the industry</listItem>
-					<listItem>Exceptionally fast ramp-up capability</listItem>
-					<listItem>Built in disaster recovery through site mirroring and multiple redundant conversion sites</listItem>
-					<listItem>Global state-of-the-art facilities and telecommunications network</listItem>
-				</unOrderedList>
-				<para>Our credentials in rights management are wide and varied. Some of our representative experiences include: <projectList idref="Rights_Management"/>
-				</para>
+				<para>Our credentials in rights management are wide and varied. Some of our representative experiences include:</para>
+				<projectList idref="Rights_Management"/>
 			</serviceLineDescription>
 		</masterServiceLine>
 	</services>
@@ -262,14 +254,14 @@
 			<clientName>BDD</clientName>
 			<category idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
-			<projectType>Rights Management Strategy</projectType>
+			<projectType>Rights management strategy</projectType>
 			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
 		</project>
 		<project id="academic3">
 			<clientName>University of Chicago Press</clientName>
 			<category idref="academic_publishing"/>
 			<category idref="Rights_Management"/>
-			<projectType>Rights Database Design</projectType>
+			<projectType>Rights database design</projectType>
 			<projectDescription>Working with a large university press we developed the design of a rights database incorporating territories, languages, and types of rights in order to support their modernization and digital commerce initiatives.</projectDescription>
 		</project>
 		<project id="academic1">
@@ -335,7 +327,7 @@
 			<clientName>BDD</clientName>
 			<category idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
-			<projectType>Rights Management systems design</projectType>
+			<projectType>Rights management systems design</projectType>
 			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
 		</project>
 		<project id="HE2">
@@ -376,7 +368,7 @@
 			<category idref="Rights_Management"/>
 			<category idref="business_systems"/>
 			<category idref="Systems_Design"/>
-			<projectType>Rights Management data and functional modeling</projectType>
+			<projectType>Rights management data and functional modeling</projectType>
 			<projectDescription>As part of a customer/consultant/software provider team, developed the rights management data and functional model used by SAP for their implementation of a rights management module.</projectDescription>
 		</project>
 		<project id="Trade6">
@@ -398,7 +390,7 @@
 			<category idref="Trade_Publishing"/>
 			<category idref="Sales"/>
 			<category idref="Strategy"/>
-			<projectType>Terms of Sale evaluation</projectType>
+			<projectType>Terms of sale evaluation</projectType>
 			<projectDescription>Performed industry analysis comparing net effective discounts offered across a range of publishers taking into account discount, RDC and freight terms, coop allowances and other common terms of sale. Analysis was used to evaluate a proposed publisher terms of sale change for retail attractiveness.</projectDescription>
 		</project>
 		<project id="Trade9">
@@ -436,7 +428,7 @@
 			<category idref="Trade_Publishing"/>
 			<category idref="accounts_receivable_function"/>
 			<category idref="asset_improvement"/>
-			<projectType>Accounts Receivable improvement</projectType>
+			<projectType>Accounts receivable improvement</projectType>
 			<projectDescription>At a large trade publisher implemented substantial changes to AR and Credit functions reducing DSO in the last 12 months by 10%. Other benefits achieved included reducing average time to clear customer deductions by almost 100 days with no change in percent written off, reducing the unmatched deduction balance by over 25%; doubled average speed of cash application; and substantially improved methods of cash receipts forecasting, leading to more reliable estimates of cash, A/R component balances, and DSO.</projectDescription>
 		</project>
 		<project id="Trade14">
@@ -476,7 +468,7 @@
 			<clientName>Stone House Press</clientName>
 			<category idref="Digital_Strategy"/>
 			<category idref="Trade_Publishing"/>
-			<projectType>ePublishing strategy</projectType>
+			<projectType>Small publisher ePublishing strategy</projectType>
 			<projectDescription>Developed and implemented an eBook and print-on-demand distribution strategy for a small publisher, selecting formats and channels within which to distribute their titles.</projectDescription>
 		</project>
 		<project id="HE3">
@@ -491,7 +483,7 @@
 			<clientName>MIT Press</clientName>
 			<category idref="Rights_Management"/>
 			<category idref="academic_publishing"/>
-			<projectType>Rights Management DTD development</projectType>
+			<projectType>Rights management DTD development</projectType>
 			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. Prototyped it's use in capturing a number of different contract types.</projectDescription>
 		</project>
 		<project id="retail1">
@@ -530,7 +522,7 @@
 			<category idref="Digital_Strategy"/>
 			<category idref="Trade_Publishing"/>
 			<category idref="POD"/>
-			<projectType>ePublishing strategy</projectType>
+			<projectType>Public domain ePublishing strategy</projectType>
 			<projectDescription>Founded a print-on-demand and eBook publishing entity that has more than 1,500 titles published and being sold through online retail and wholesale channels such as bn.com and Lightning Source. Program required the development of editorial, managing editorial, rights clearance and production capabilities within a very small team with no previous experience in these functions.</projectDescription>
 		</project>
 		<project id="retail5">
@@ -561,7 +553,7 @@
 			<category idref="Analytics"/>
 			<category idref="Operations"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Inventory Planning System</projectType>
+			<projectType>Inventory planning system</projectType>
 			<projectDescription>Implemented system to reforecast monthly title demand and returns, month-by-month at an ISBN level over a 36-month horizon. System computes projected inventory position out into the future allowing a dynamic schedule of printings that allows projection of inventory levels, cash requirements, vendor capacity, and raw materials (paper) requirements. System also provides sufficient notice of reprint requirements to allow sufficient time for corrections and offshore sourcing if available.</projectDescription>
 		</project>
 		<project id="HE5">
@@ -569,7 +561,7 @@
 			<category idref="Vendor_Management"/>
 			<category idref="Operations"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Vendor Capacity Planning</projectType>
+			<projectType>Vendor capacity planning</projectType>
 			<projectDescription>Developed process and system to forecast and share required vendor capacity by service and commodity type.  Forecast is generated monthly and provided to vendors through an online vendor portal. the ability to provide these forecasts was a key factor in vendor contract negotiations.</projectDescription>
 		</project>
 		<project id="HE6">
@@ -579,7 +571,7 @@
 			<category idref="Sales"/>
 			<category idref="Analytics"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Customer Data Integration</projectType>
+			<projectType>Customer data integration</projectType>
 			<projectDescription>Developed plan to tie customer inventory, sales and returns data into inventory planning system using a consolidated data model. The objective was to increase the accuracy of demand and inventory positions forecasts and to provide meaningful recommendations to the customer on which titles and quantities they should be purchasing.</projectDescription>
 		</project>
 		<project id="HE7">
@@ -588,7 +580,7 @@
 			<category idref="Strategy"/>
 			<category idref="Analytics"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Revenue Data Model</projectType>
+			<projectType>Revenue data model</projectType>
 			<projectDescription>Built data model to integrate various perspectives on enrollment, discipline popularity, adoptions, format preferences, class sizes and other factors. Model was put into partial use in integrating channel sales data into inventory planning process.</projectDescription>
 		</project>
 		<project id="HE8">
@@ -596,7 +588,7 @@
 			<category idref="Inventory_Management"/>
 			<category idref="Analytics"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Inventory Planning Algorithm</projectType>
+			<projectType>Inventory planning algorithm</projectType>
 			<projectDescription>Built algorithm to balance economic and risk factors over the life of a title to drive minimum total cost of ownership. Algorithm was implemented as part of overall inventory management system and reduced inventory levels by over 30% while decreasing backorders.</projectDescription>
 		</project>
 		<project id="HE9">
@@ -604,7 +596,7 @@
 			<category idref="Manufacturing"/>
 			<category idref="Vendor_Management"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Strategic Print Sourcing</projectType>
+			<projectType>Strategic print sourcing</projectType>
 			<projectDescription>Developed system to automatically recommend offshore manufacturing, onshore manufacturing or POD based on recommended print quantity and manufacturing lead time.</projectDescription>
 		</project>
 		<project id="HE10">
@@ -612,7 +604,7 @@
 			<category idref="Manufacturing"/>
 			<category idref="POD"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Print on Demand in Distribution System</projectType>
+			<projectType>Print on demand in distribution system</projectType>
 			<projectDescription>Integrated POD into supply chain so that customer orders would automatically split into stock sourced from warehouse and sourced from a contracted POD supplier with the option of shipping directly or returning to the distribution for consolidation.</projectDescription>
 		</project>
 		<project id="HE11">
@@ -622,7 +614,7 @@
 			<category idref="editorial_function"/>
 			<category idref="Analytics"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Product Development Timeliness Metrics</projectType>
+			<projectType>Product development timeliness metrics</projectType>
 			<projectDescription>Implemented cross-functional tracking of product development status allowing automated reporting of "at risk" titles and analysis of root causes of lateness. System provided the ability to identify situations before they escalated into revenue-threatening problems.</projectDescription>
 		</project>
 		<project id="HE12">
@@ -631,15 +623,16 @@
 			<category idref="product_development"/>
 			<category idref="Technology"/>
 			<category idref="Higher_Ed"/>
-			<projectType>MarkLogic Implementation</projectType>
+			<projectType>MarkLogic implementation</projectType>
 			<projectDescription>Implemented MarkLogic as the asset management system used to capture and control asset and metadata information for the majority of assets used in publisher's digital products, including narrative, assessment, rich media and interactive asset types.</projectDescription>
 		</project>
 		<project id="HE13">
 			<clientName>Cengage Learning</clientName>
 			<category idref="product_development"/>
+			<category idref="Digital_Strategy"/>
 			<category idref="Technology"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Content Readiness</projectType>
+			<projectType>Content readiness improvement</projectType>
 			<projectDescription>Developed and implemented a learning content metadata and content readiness strategy, leading to 90% of titles being created in an XML-first workflow, 96% with full electronic, worldwide rights and 100% available as digital files.</projectDescription>
 		</project>
 		<project id="HE14">
@@ -648,7 +641,7 @@
 			<category idref="LMS"/>
 			<category idref="Technology"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Learning Management System Consolidation</projectType>
+			<projectType>Learning management system consolidation</projectType>
 			<projectDescription>Directed the task force assigned to consolidate eLearning platforms of multiple acquired companies as part of an initiative to merge the Higher Ed and Career and Professional Groups of this publisher.</projectDescription>
 		</project>
 		<project id="HE15">
@@ -656,7 +649,7 @@
 			<category idref="Rights_Management"/>
 			<category idref="Vendor_Management"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Image Permissions Sourcing</projectType>
+			<projectType>Image permissions sourcing</projectType>
 			<projectDescription>Directed the team negotiating a contract with a major image source, substantially reducing the cost of images and simplifying the terms under which they could be used. This approach became the model used in all subsequent agreements and across other classes of Intellectual Property agreements.</projectDescription>
 		</project>
 		<project id="HE16">
@@ -664,7 +657,7 @@
 			<category idref="Technology"/>
 			<category idref="Mobile"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Mobile Operations Monitoring</projectType>
+			<projectType>Mobile operations monitoring</projectType>
 			<projectDescription>Piloted a program to provide mobile access to system operational status on iOS and Android devices.  The goal of the project was to substantially reduce the time from identification of an issue to its resolution.</projectDescription>
 		</project>
 		<project id="HE17">
@@ -673,7 +666,7 @@
 			<category idref="Cloud"/>
 			<category idref="editorial_function"/>
 			<category idref="Higher_Ed"/>
-			<projectType>XML Authoring Solution</projectType>
+			<projectType>XML authoring solution</projectType>
 			<projectDescription>Piloted cloud-based tool to support authoring and output of content in XML, resulting in faster time to market, lower costs, consistent format, content reuse, and new product creation.</projectDescription>
 		</project>
 		<project id="HE18">
@@ -681,7 +674,7 @@
 			<category idref="Technology"/>
 			<category idref="product_development"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Digimarc and Quick Response (QR) Codes</projectType>
+			<projectType>Digimarc and Quick Response (QR) codes</projectType>
 			<projectDescription>Completed pilot program to use Digmarc and QR codes in popular reference material. Program tied online videos to codes embedded photos in current events titles that allowed a reader to scan the code with a phone camera and have the videos play on their phone.</projectDescription>
 		</project>
 		<project id="HE19">
@@ -691,7 +684,7 @@
 			<category idref="Vendor_Management"/>
 			<category idref="Assessment"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Assessment Development and Production</projectType>
+			<projectType>Assessment development and production</projectType>
 			<projectDescription>Developed an approach to manage the development and production of psychometrically valid assessment items using a combination of vendor and internal staff.</projectDescription>
 		</project>
 		<project id="HE20">
@@ -709,14 +702,14 @@
 			<category idref="Manufacturing"/>
 			<category idref="RFID"/>
 			<category idref="Higher_Ed"/>
-			<projectType>RFID in Printed Titles</projectType>
+			<projectType>RFID in printed titles</projectType>
 			<projectDescription>Completed business case and feasibility analysis to embed Radio Frequency Identification (RFID) chips in book spines to control returns, credit issuance and piracy. In spite of a very promising rate of return, project was shelved to allocate capital to digital projects.</projectDescription>
 		</project>
 		<project id="HE22">
 			<clientName>Cengage Learning</clientName>
 			<category idref="Technology"/>
 			<category idref="Higher_Ed"/>
-			<projectType>Technology Process Management</projectType>
+			<projectType>Technology process management</projectType>
 			<projectDescription>Initiated implementation of ITIL-based IT management for product development systems. Approach is credited with a 2x improvement in performance and significant reduction in unplanned downtime. The primary focus of the effort was in implementation of technology operations management discipline around release and change management.</projectDescription>
 		</project>
 	</projects>

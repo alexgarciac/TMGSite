@@ -225,8 +225,10 @@
 										<li>
 											<xsl:variable name="uri" select="concat (@shortName,'.htm')"/>
 											<a href="{$uri}">
-												<xsl:value-of select="masterServiceLineName"/>
+												<b>
+													<xsl:value-of select="masterServiceLineName"/>:</b>
 											</a>
+											<xsl:value-of select="articleHeader/description"/>
 										</li>
 									</xsl:for-each>
 								</ul>
@@ -594,15 +596,17 @@
 		<xsl:variable name="category">
 			<xsl:value-of select="ancestor::masterServiceLine/articleHeader/category/@idref"/>
 		</xsl:variable>
-		<xsl:for-each select="//project[child::category[@idref=$category]]">
-			<xsl:sort select="@id" order="ascending"/>
-			<li>
-				<a>
-					<xsl:attribute name="href">../Cases/<xsl:value-of select="@id"/>.htm</xsl:attribute>
-					<xsl:value-of select="projectType"/>
-				</a>
-			</li>
-		</xsl:for-each>
+		<ul>
+			<xsl:for-each select="//project[child::category[@idref=$category]]">
+				<xsl:sort select="@id" order="ascending"/>
+				<li>
+					<a>
+						<xsl:attribute name="href">../Cases/<xsl:value-of select="@id"/>.htm</xsl:attribute>
+						<xsl:value-of select="projectType"/>
+					</a>
+				</li>
+			</xsl:for-each>
+		</ul>
 	</xsl:template>
 	<!--	
 	     Resources index page

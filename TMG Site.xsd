@@ -362,7 +362,7 @@
 				<xs:enumeration value="Custom Publishing"/>
 				<xs:enumeration value="DigitalGalley Book Marketing Services"/>
 				<xs:enumeration value="Quiet Island Books eBook and POD Distribution Services"/>
-				<xs:enumeration value="Rights Conversion Services"/>
+				<xs:enumeration value="Rights Management"/>
 				<xs:enumeration value="Traditional Publishing Consulting Services"/>
 				<xs:enumeration value="ePublishing Consulting Services"/>
 			</xs:restriction>
@@ -483,9 +483,7 @@
 	</xs:element>
 	<xs:element name="projectType">
 		<xs:simpleType>
-			<xs:restriction base="xs:string">
-				
-			</xs:restriction>
+			<xs:restriction base="xs:string"/>
 		</xs:simpleType>
 	</xs:element>
 	<xs:element name="publisher" type="xs:string"/>
@@ -534,6 +532,7 @@
 			<xs:choice maxOccurs="unbounded">
 				<xs:element ref="para"/>
 				<xs:element ref="unOrderedList"/>
+				<xs:element ref="projectList"/>
 			</xs:choice>
 		</xs:complexType>
 	</xs:element>
