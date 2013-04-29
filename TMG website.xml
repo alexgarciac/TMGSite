@@ -1059,12 +1059,13 @@
 		<resource type="conversion" href="http://www.jouve.com/en">
 			<category idref="content_services"/>
 			<resourceName>Jouve</resourceName>
-			<resourceDescription/>
+			<resourceDescription>Jouve offers a variety of content services including composition, translation, conversion, project management and content development. Based in France, Jouve has substantial operations in Europe, North America, India and Africa.</resourceDescription>
 		</resource>
 		<resource type="conversion" href="http://www.firstsource.com/">
 			<category idref="content_services"/>
+			<category idref="rights_services"/>
 			<resourceName>FirstSource</resourceName>
-			<resourceDescription/>
+			<resourceDescription>FirstSource provides a variety of composition, conversion, QA and rights services.</resourceDescription>
 		</resource>
 		<resource type="conversion" href="http://www.innodata.com">
 			<category idref="content_services"/>
@@ -1084,29 +1085,27 @@
 		<resource type="conversion" href="http://www.datamatics.com">
 			<category idref="technology_services"/>
 			<category idref="content_services"/>
+			<category idref="consultants"/>
 			<resourceName>Datamatics</resourceName>
-			<resourceDescription/>
+			<resourceDescription>Datamatics is a global BPO, content services and technology services company with offices around the world. They have demonstrated expertise in handling very complex technology development projects and offer strong professional services capabilities, as well.</resourceDescription>
 		</resource>
 		<resource type="composition" href="http://www.sourcehov.com">
 			<category idref="content_services"/>
 			<resourceName>SourceHOV</resourceName>
-			<resourceDescription/>
+			<resourceDescription>SourceHOV is the aggregation of multiple content services and BPO companies over many years. They offer conversion, composition and QA services among many others.</resourceDescription>
 		</resource>
 		<resource type="composition" href="http://www.premediaglobal.com/">
 			<category idref="content_services"/>
+			<category idref="rights_services"/>
 			<resourceName>PreMedia Global</resourceName>
-			<resourceDescription>Pre-Press Company, now Pre-PressPMG, is owned by the Premedia Group.  They focus on composition, art and production services for educational publishers. Pre-Press PMG is located in Plymouth, MA.</resourceDescription>
+			<resourceDescription>Pre-Press Company, now Pre-PressPMG, is owned by the Premedia Group.  They focus on rights, development, project management, composition, art and production services for educational publishers. They have recently introduced psychometrically valid assessment item development as a new service line. Pre-Press PMG is located in Plymouth, MA.</resourceDescription>
 		</resource>
 		<resource type="composition" href="http://www.s4carlisle.com">
 			<category idref="content_services"/>
 			<resourceName>S4Carlisle</resourceName>
 			<resourceDescription>S4Carlisle represents the merger of S4 Ind Software Pvt. Ldt. and Carlisle Publishing Services. They have offices in Dubuque, Iowa, and Chennai, India. They offer a range of services from development to project management to design, composition and data management.</resourceDescription>
 		</resource>
-		<resource type="composition" href="http://www.premediaglobal.com">
-			<category idref="content_services"/>
-			<resourceName>Premedia</resourceName>
-			<resourceDescription>Based in Chennai, India, Premedia owns Prepress, Beacon, and Westwords.</resourceDescription>
-		</resource>
+
 		<resource type="composition" href="http://www.spi-global.com/">
 			<category idref="content_services"/>
 			<category idref="technology_services"/>
@@ -1115,8 +1114,20 @@
 		</resource>
 		<resource type="composition" href="http://www.aptaracorp.com/">
 			<category idref="content_services"/>
+			<category idref="rights_services"/>
 			<resourceName>Aptara</resourceName>
 			<resourceDescription>Formerly known as TechBooks, Aptara has capabilities in development, composition, data conversion, and media production.</resourceDescription>
+		</resource>
+		<resource type="composition" href="http://www.copyright.com/" >
+			<category idref="rights_services"/>
+			<resourceName>Copyright Clearance Center</resourceName>
+			<resourceDescription>CCC provides a wide variety of services that assist not only with clearing rights, but also in handling permissions and rights granting.</resourceDescription>
+		</resource>
+		<resource href="http://www.qbslearning.com" type="composition">
+			<category idref="rights_services"/>
+			<category idref="content_services"/>
+			<resourceName>Q2ABillSmith (QBS)</resourceName>
+			<resourceDescription>QBS provides print and digital development across a range of services including content development, instructional design, design, composition, and rights research.</resourceDescription>
 		</resource>
 		<resource href="http://www.newgen.co/" type="composition">
 			<category idref="content_services"/>
@@ -5582,7 +5593,7 @@
 		</concept>
 		<concept id="rights_services">
 			<preferredLabel>Rights services</preferredLabel>
-			<definition/>
+			<definition>Service providers that research, clear and document permissions and/or rights grants for current or historical titles. Services can apply to any content type or any rights source.</definition>
 			<bt idref="service_providers"/>
 		</concept>
 		<concept id="rim">

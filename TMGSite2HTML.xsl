@@ -771,8 +771,10 @@
 											<li>
 												<a target="popup">
 													<xsl:attribute name="href"><xsl:value-of select="@href"/></xsl:attribute>
-													<xsl:value-of select="resourceName"/>
-												</a>: <xsl:value-of select="resourceDescription"/>
+													<b>
+														<xsl:value-of select="resourceName"/>: </b>
+												</a>
+												<xsl:value-of select="resourceDescription"/>
 											</li>
 										</xsl:for-each>
 									</ul>
