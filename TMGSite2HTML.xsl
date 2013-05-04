@@ -334,7 +334,8 @@
 					<title>Treadwell Media Group - Projects</title>
 					<meta name="Description" content="Consulting services for the publishing industry"/>
 					<meta http-equiv="Content-type" content="text/html; charset=UTF-8;"/>
-					<link rel="stylesheet" type="text/css" href="../includes/tmg.css"/>
+					<link rel="stylesheet" type="text/css" media="all" href="../includes/tmg.css"/>
+					<link rel="stylesheet" type="text/css" media="print" href="../includes/print.css"/>
 					<meta name="Keywords">
 						<xsl:attribute name="content">Treadwell Media Group, <xsl:for-each select="//project"><xsl:value-of select="projectType"/>, </xsl:for-each></xsl:attribute>
 					</meta>
@@ -512,7 +513,8 @@
 							<xsl:attribute name="content"><xsl:value-of select="definition[parent::concept[@id=@idref]]"/></xsl:attribute>
 						</meta>
 						<meta http-equiv="Content-type" content="text/html; charset=UTF-8;"/>
-						<link rel="stylesheet" type="text/css" href="../includes/tmg.css"/>
+						<link rel="stylesheet" type="text/css" media="all" href="../includes/tmg.css"/>
+						<link rel="stylesheet" type="text/css" media="print" href="../includes/print.css"/>
 						<meta name="Keywords">
 							<xsl:attribute name="content">Treadwell Media Group, <xsl:value-of select="preferredLabel[parent::concept[@id=@idref]]"/></xsl:attribute>
 						</meta>

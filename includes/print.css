@@ -1,38 +1,131 @@
-body { 
-background-color: #fff; 
-color: #000; 
-font-family: "Times New Roman", Garamond, serif; 
-font-size: 12pt; 
+/* Treadwell Media Group print stylesheet */
+
+
+body {
+	color: #000;
+background: white;
 
 }
 
-caption {
-caption-side: bottom;
-font-style: italic;
-}
-img {
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
-table {
-float: left;
-keep-together: always;
-align: center;
+@page {
+		margin: 0.5in;
+		}
+
+@page :header {
+		content: "Treadwell Media Group";
+		}
+
+.allbody {
+	margin: 0;;
+	text-align: left;
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000;
+	border-style:none;
 }
 
 
-div.navigation {display:none;}
-div.content {
-margin-left: 1in;
-margin-right: 1in;
-margin-top: 0.5in;
-margin-bottom: 0.5in;
-}
-div.header {display:none;}
-div.footer {display:none;}
 
-@page :left {@bottom-left {content: counter(page);}}
-@page :right { @bottom-right {content: counter(page); }}
-@page :first { @bottom-right { content: normal;}}
- h1, h2, h3, h4, h5, h6 { page-break-after: avoid; }
+.allbody .banner {
+	display: none;
+}
+
+.allbody .subhead {
+	display: none;
+}
+
+.allbody .left {
+	display: none;
+}
+
+.allbody .left .searchbar {
+	display: none;
+}
+
+
+.allbody .left .navigation {
+	display: none;
+}
+
+
+.allbody .left .navigation .leftnavbarhead {
+	display: none;
+}
+.allbody .left .navigation .leftnavbarlinks {
+	display: none;
+}
+
+.allbody .right {
+
+	width:auto;
+	height: auto;
+
+}
+
+.allbody .right .navbar{
+	display: none;
+} 
+
+.allbody .right .navbar .navbarbutton {
+	display: none;
+}
+
+
+.allbody .right .navbar .navbarbutton a {
+	color: #FFFFFF;
+}
+
+.allbody .right .navbar .navbarbutton .youarehere {
+	color: #1A1352;
+	text-decoration:none;
+	font: small Verdana, Arial, Helvetica, sans-serif;
+}
+
+.allbody .right .content {
+	width:auto;
+}
+
+
+.allbody .right .content .title {
+	margin-bottom:2em;
+	text-align:center;
+}
+
+.author {
+	text-align:center;
+}
+
+
+.allbody .right .pagefooter {
+	display: none;
+}
+
+.youarehere {
+	color: #1A1352;
+	font: small Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #1B1352;
+}
+
+.contact {
+	font: x-small Geneva, Arial, Helvetica, sans-serif;
+	color: #1B1352;
+}
+.contactemail {
+	font: x-small Verdana, Arial, Helvetica, sans-serif;
+	color: #1A1352;
+}
+
+.allbody .brclear {
+
+	display:none;
+}
+
+.term {
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+

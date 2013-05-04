@@ -252,49 +252,49 @@
 	<projects>
 		<project id="trade16">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
 			<projectType>Rights management strategy</projectType>
 			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
 		</project>
 		<project id="academic3">
 			<clientName>University of Chicago Press</clientName>
-			<category idref="academic_publishing"/>
+			<industry idref="academic_publishing"/>
 			<category idref="Rights_Management"/>
 			<projectType>Rights database design</projectType>
 			<projectDescription>Working with a large university press we developed the design of a rights database incorporating territories, languages, and types of rights in order to support their modernization and digital commerce initiatives.</projectDescription>
 		</project>
 		<project id="academic1">
 			<clientName>MIT Press</clientName>
-			<category idref="academic_publishing"/>
+			<industry idref="academic_publishing"/>
 			<category idref="Rights_Management"/>
 			<projectType>Rights DTD definition</projectType>
 			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. We prototyped it's use in capturing a number of different contract types.</projectDescription>
 		</project>
 		<project id="AIPC">
 			<clientName>AIPC</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Custom_Publishing"/>
 			<projectType>Custom cookbook application</projectType>
 			<projectDescription>Developed a web-based cookbook application enabling a consumer to select among a database of more than 2000 recipes, enter his/her own recipes and other personalizing material and receive a printed cookbook within 5 business days. the project involved developing a recipe DTD, converting the recipes from various hardcopy and electronic forms, building a web user interface linked in with an XML database, and developing the XSLT-driven output transformations.</projectDescription>
 		</project>
 		<project id="ABS1">
 			<clientName>American Bible Society</clientName>
-			<category idref="Religious"/>
+			<industry idref="Religious"/>
 			<category idref="Custom_Publishing"/>
 			<projectType>Comparative Bible reading</projectType>
 			<projectDescription>Timed to release simultaneously with Mel Gibson's Passion movie, developed a web-based application allowing readers to see how Matthew, Mark, Luke and John narrated the events of the Passion, Crucifixion and Resurrection. The application utilized an index of the main events to generate a 4-column parallel version to show the presentation of each event in each of the Gospels. Readers were allowed to pick the translation desired (multiple English- and Spanish-language versions were made available) and the particular events desired. A web presentation was developed that could then be downloaded as a PDF or requested as a print-on-demand edition.</projectDescription>
 		</project>
 		<project id="ABS2">
 			<clientName>American Bible Society</clientName>
-			<category idref="Religious"/>
+			<industry idref="Religious"/>
 			<category idref="Custom_Publishing"/>
 			<projectType>Multiple language Scripture tool (diglot)</projectType>
 			<projectDescription>Developed a web-based application allowing a reader to simultaneously view two translations of the Bible in either HTML or PDF, and then order a custom printed and bound version for delivery to their home for offline use. The project used XML and XSLT technology on generally available translations of the Bible existing in OSIS 2.1 markup.</projectDescription>
 		</project>
 		<project id="OEBF">
 			<clientName>OeBF</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Standards"/>
 			<category idref="Digital"/>
 			<projectType>Standards body participation</projectType>
@@ -302,7 +302,7 @@
 		</project>
 		<project id="PRISM">
 			<clientName>PRISM</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="magazine_publishing_sector"/>
 			<category idref="Standards"/>
 			<category idref="Digital"/>
 			<projectType>Standards development</projectType>
@@ -310,14 +310,14 @@
 		</project>
 		<project id="HE1">
 			<clientName>Wiley</clientName>
-			<category idref="Higher_Ed"/>
+			<industry idref="Higher_Ed"/>
 			<category idref="Strategy"/>
 			<projectType>Channel inventory strategy</projectType>
 			<projectDescription>For a Higher Ed publisher evaluated the economics to publisher, retailer, student and used book wholesaler of traditional buy/sell, consignment, rental and other business models. Identified key decision criteria and developed recommended approach forward.</projectDescription>
 		</project>
 		<project id="Trade1">
 			<clientName>HarperCollins</clientName>
-			<category idref="Higher_Ed"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Distribution"/>
 			<category idref="International"/>
 			<projectType>Canadian physical distribution assessment</projectType>
@@ -325,14 +325,14 @@
 		</project>
 		<project id="RMS1">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
 			<projectType>Rights management systems design</projectType>
 			<projectDescription>Developed a rights management strategy for a large trade publisher resulting in a major successful systems implementation.</projectDescription>
 		</project>
 		<project id="HE2">
 			<clientName>Wiley</clientName>
-			<category idref="Higher_Ed"/>
+			<industry idref="Higher_Ed"/>
 			<category idref="Distribution"/>
 			<category idref="International"/>
 			<projectType>International textbook diversion assessment</projectType>
@@ -340,7 +340,7 @@
 		</project>
 		<project id="Trade2">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Technology"/>
 			<category idref="Systems_Design"/>
 			<projectType>SAP implementation</projectType>
@@ -348,15 +348,15 @@
 		</project>
 		<project id="Trade3">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Vendor_Management"/>
-			<category idref="Print"/>
+			<category idref="Operations"/>
 			<projectType>Production efficiency improvement</projectType>
 			<projectDescription>At Bantam Doubleday Dell implemented improvements in vendor relationship management that resulted in a reduction of $2.1 million in pricing, reduced contract print cycle by 15-days, and improved on-time delivery to 99+ percent. BDD's president was quoted in Publishers Weekly naming manufacturing cost reduction as one of the three sources of BDD's best year ever.</projectDescription>
 		</project>
 		<project id="Trade4">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Inventory_Management"/>
 			<category idref="Operations"/>
 			<projectType>Product standardization</projectType>
@@ -364,7 +364,7 @@
 		</project>
 		<project id="Trade5">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
 			<category idref="business_systems"/>
 			<category idref="Systems_Design"/>
@@ -373,21 +373,21 @@
 		</project>
 		<project id="Trade6">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Production"/>
 			<projectType>Production cycle time improvement</projectType>
 			<projectDescription>Reduced book development cycle by 33% at a large trade publisher, now part of Random House, through process mapping and redesign.</projectDescription>
 		</project>
 		<project id="Trade7">
 			<clientName>S&amp;S</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="business_models"/>
 			<projectType>Consignment inventory evaluation</projectType>
 			<projectDescription>For a large trade publisher evaluated the impact of consignment sale of inventory. Although the balance sheet impact of the move was favorable, issues with delayed revenue recognition prevented implementation.</projectDescription>
 		</project>
 		<project id="Trade8">
 			<clientName>S&amp;S</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Sales"/>
 			<category idref="Strategy"/>
 			<projectType>Terms of sale evaluation</projectType>
@@ -395,28 +395,29 @@
 		</project>
 		<project id="Trade9">
 			<clientName>BDD</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Vendor_Management"/>
 			<projectType>Establish corporate purchasing department</projectType>
 			<projectDescription>At Bantam Doubleday Dell established a supply management/corporate purchasing function resulting in $1 million in purchased goods and services reductions, and an additional $2 million targeted for FY 94/95 (since attained).</projectDescription>
 		</project>
 		<project id="Trade10">
 			<clientName>S&amp;S</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Operations"/>
 			<category idref="Org_Alignment"/>
 			<projectType>Department consolidation</projectType>
-			<projectDescription>Merged Simon &amp;Schuster's (pre-Viacom sale) customer service and credit departments to create "one face to the customer", leading to Simon &amp; Schuster being recognized by our customers as being "most improved" in customer service in the 1997 annual Market Partners survey of publisher performance.</projectDescription>
+			<projectDescription>Merged Simon &amp; Schuster's (pre-Viacom sale) customer service and credit departments to create "one face to the customer", leading to Simon &amp; Schuster being recognized by our customers as being "most improved" in customer service in the 1997 annual Market Partners survey of publisher performance.</projectDescription>
 		</project>
 		<project id="Trade11">
 			<clientName>S&amp;S</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Strategy"/>
 			<projectType>Key account strategy implementation</projectType>
 			<projectDescription>At Simon &amp; Schuster implemented key account management strategy to focus on joint improvement in margin and operating efficiencies with our customers.</projectDescription>
 		</project>
 		<project id="Trade12">
 			<clientName>S&amp;S</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Customer_Service"/>
 			<category idref="Productivity_Improvement"/>
 			<category idref="Cost_Reduction"/>
@@ -425,7 +426,7 @@
 		</project>
 		<project id="Trade13">
 			<clientName>S&amp;S</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="accounts_receivable_function"/>
 			<category idref="asset_improvement"/>
 			<projectType>Accounts receivable improvement</projectType>
@@ -433,7 +434,7 @@
 		</project>
 		<project id="Trade14">
 			<clientName>S&amp;S</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Higher_Ed"/>
 			<category idref="Transportation"/>
 			<category idref="Cost_Reduction"/>
 			<projectType>Transportation cost reduction</projectType>
@@ -441,276 +442,388 @@
 		</project>
 		<project id="Wholesale15">
 			<clientName>Lightning Source</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Expert_Witness"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="POD"/>
 			<projectType>POD expert witness</projectType>
 			<projectDescription>Provided expert testimony regarding reasonable royalty rates in a print-on-demand patent infringement case.</projectDescription>
 		</project>
 		<project id="Wholesale16">
 			<clientName>1stBooksLibrary</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Expert_Witness"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="POD"/>
 			<projectType>POD expert witness</projectType>
 			<projectDescription>Provided expert testimony regarding industry supply chain practices in a suit against a self-publishing company.</projectDescription>
 		</project>
 		<project id="Wholesale17">
 			<clientName>LightningSource</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Market_Assessment"/>
 			<category idref="Digital_Strategy"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="Marketing"/>
 			<projectType>Customer perception assessment</projectType>
 			<projectDescription>Evaluated publisher and retailer perception of an eBook wholesale company as a basis for determining future strategy.</projectDescription>
 		</project>
 		<project id="Trade15">
 			<clientName>Stone House Press</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Digital_Strategy"/>
-			<category idref="Trade_Publishing"/>
 			<projectType>Small publisher ePublishing strategy</projectType>
 			<projectDescription>Developed and implemented an eBook and print-on-demand distribution strategy for a small publisher, selecting formats and channels within which to distribute their titles.</projectDescription>
 		</project>
 		<project id="HE3">
 			<clientName>Houghton Mifflin</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Digital_Strategy"/>
 			<category idref="XML"/>
-			<category idref="Higher_Ed"/>
 			<projectType>XML readiness assessment</projectType>
 			<projectDescription>Worked with a large Higher Education publisher to evaluate titles and supplementary materials across a variety of disciplines and assess XML "readiness" and determine a strategy for implementing a comprehensive XML-first production process.</projectDescription>
 		</project>
 		<project id="academic2">
 			<clientName>MIT Press</clientName>
+			<industry idref="academic_publishing"/>
 			<category idref="Rights_Management"/>
-			<category idref="academic_publishing"/>
 			<projectType>Rights management DTD development</projectType>
 			<projectDescription>In conjunction with an academic press developed the XML Document Type Definition (DTD) used to capture head contract and subrights contract terms, conditions and rights grant. Prototyped it's use in capturing a number of different contract types.</projectDescription>
 		</project>
 		<project id="retail1">
 			<clientName>B&amp;N</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Operations"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="Retail"/>
 			<projectType>Bibliographic operations management</projectType>
 			<projectDescription>Directed bibliographic data acquisition and database management at Barnes &amp; Noble, Inc. including a redesign of the internal B&amp;N title database (over 1,000,000 titles), and negotiating new agreements with title data vendors.</projectDescription>
 		</project>
 		<project id="retail2">
 			<clientName>B&amp;N</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="content_management_system"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="Retail"/>
 			<projectType>Content and metadata archive design</projectType>
 			<projectDescription>Directed design and construction of content and metadata archive for EP Ventures, a Philippines-based text and image conversion operation.</projectDescription>
 		</project>
 		<project id="service1">
 			<clientName>PDL</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Systems_Design"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="content_management_system"/>
 			<projectType>Content and metadata archive design</projectType>
 			<projectDescription>Developed high-level design to archive content in a format-neutral repository and generate on-the-fly formats including OEB, HTML 4.0, Microsoft Reader, Palm Digital Media, Gemstar and Adobe eBook Reader formats. Initiated implementation of this concept at EP Ventures and another large provider of conversion services.</projectDescription>
 		</project>
 		<project id="retail3">
 			<clientName>B&amp;N</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="POD"/>
 			<projectType>POD implementation</projectType>
 			<projectDescription>For Barnes &amp; Noble implemented a centralized print-on-demand operation with the capacity to print 45,000 books per month.</projectDescription>
 		</project>
 		<project id="retail4">
 			<clientName>B&amp;N</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Digital_Strategy"/>
-			<category idref="Trade_Publishing"/>
 			<category idref="POD"/>
 			<projectType>Public domain ePublishing strategy</projectType>
 			<projectDescription>Founded a print-on-demand and eBook publishing entity that has more than 1,500 titles published and being sold through online retail and wholesale channels such as bn.com and Lightning Source. Program required the development of editorial, managing editorial, rights clearance and production capabilities within a very small team with no previous experience in these functions.</projectDescription>
 		</project>
 		<project id="retail5">
 			<clientName>B&amp;N</clientName>
-			<category idref="Trade_Publishing"/>
+			<industry idref="Trade_Publishing"/>
 			<category idref="POD"/>
 			<projectType>In-store print-on-demand assessment</projectType>
 			<projectDescription>At Barnes &amp; Noble directed a feasibility study of an in-store print-on-demand and kiosk-based book delivery system. Study demonstrated that insufficient content existed in appropriate format at the time to make such a system sufficiently appealing to customers to be viable.</projectDescription>
 		</project>
 		<project id="Trade16">
 			<clientName>BDD</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Standards"/>
-			<category idref="Trade_Publishing"/>
 			<projectType>Standards development</projectType>
 			<projectDescription>Participated in the original AAP Emerging Technologies Committee that formulated the need for and structure of the Digital Object Identifier (DOI).</projectDescription>
 		</project>
 		<project id="service3">
 			<clientName>PDL</clientName>
+			<industry idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
 			<category idref="Standards"/>
-			<category idref="Trade_Publishing"/>
 			<projectType>Standards development</projectType>
 			<projectDescription>Participated in the ONIX for subrights committee convened at Frankfurt 2001. The purpose of the committee is to define metadata standards around exchange of rights information.</projectDescription>
 		</project>
 		<project id="HE4">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Inventory_Management"/>
 			<category idref="Analytics"/>
 			<category idref="Operations"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Inventory planning system</projectType>
 			<projectDescription>Implemented system to reforecast monthly title demand and returns, month-by-month at an ISBN level over a 36-month horizon. System computes projected inventory position out into the future allowing a dynamic schedule of printings that allows projection of inventory levels, cash requirements, vendor capacity, and raw materials (paper) requirements. System also provides sufficient notice of reprint requirements to allow sufficient time for corrections and offshore sourcing if available.</projectDescription>
 		</project>
 		<project id="HE5">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Vendor_Management"/>
 			<category idref="Operations"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Vendor capacity planning</projectType>
 			<projectDescription>Developed process and system to forecast and share required vendor capacity by service and commodity type.  Forecast is generated monthly and provided to vendors through an online vendor portal. the ability to provide these forecasts was a key factor in vendor contract negotiations.</projectDescription>
 		</project>
 		<project id="HE6">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Inventory_Management"/>
 			<category idref="Operations"/>
 			<category idref="Sales"/>
 			<category idref="Analytics"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Customer data integration</projectType>
 			<projectDescription>Developed plan to tie customer inventory, sales and returns data into inventory planning system using a consolidated data model. The objective was to increase the accuracy of demand and inventory positions forecasts and to provide meaningful recommendations to the customer on which titles and quantities they should be purchasing.</projectDescription>
 		</project>
 		<project id="HE7">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Sales"/>
 			<category idref="Strategy"/>
 			<category idref="Analytics"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Revenue data model</projectType>
 			<projectDescription>Built data model to integrate various perspectives on enrollment, discipline popularity, adoptions, format preferences, class sizes and other factors. Model was put into partial use in integrating channel sales data into inventory planning process.</projectDescription>
 		</project>
 		<project id="HE8">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Inventory_Management"/>
 			<category idref="Analytics"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Inventory planning algorithm</projectType>
 			<projectDescription>Built algorithm to balance economic and risk factors over the life of a title to drive minimum total cost of ownership. Algorithm was implemented as part of overall inventory management system and reduced inventory levels by over 30% while decreasing backorders.</projectDescription>
 		</project>
 		<project id="HE9">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Manufacturing"/>
 			<category idref="Vendor_Management"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Strategic print sourcing</projectType>
 			<projectDescription>Developed system to automatically recommend offshore manufacturing, onshore manufacturing or POD based on recommended print quantity and manufacturing lead time.</projectDescription>
 		</project>
 		<project id="HE10">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Manufacturing"/>
 			<category idref="POD"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Print on demand in distribution system</projectType>
 			<projectDescription>Integrated POD into supply chain so that customer orders would automatically split into stock sourced from warehouse and sourced from a contracted POD supplier with the option of shipping directly or returning to the distribution for consolidation.</projectDescription>
 		</project>
 		<project id="HE11">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="product_development"/>
 			<category idref="Production"/>
 			<category idref="editorial_function"/>
 			<category idref="Analytics"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Product development timeliness metrics</projectType>
 			<projectDescription>Implemented cross-functional tracking of product development status allowing automated reporting of "at risk" titles and analysis of root causes of lateness. System provided the ability to identify situations before they escalated into revenue-threatening problems.</projectDescription>
 		</project>
 		<project id="HE12">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="content_management_system"/>
 			<category idref="product_development"/>
 			<category idref="Technology"/>
-			<category idref="Higher_Ed"/>
 			<projectType>MarkLogic implementation</projectType>
 			<projectDescription>Implemented MarkLogic as the asset management system used to capture and control asset and metadata information for the majority of assets used in publisher's digital products, including narrative, assessment, rich media and interactive asset types.</projectDescription>
 		</project>
 		<project id="HE13">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="product_development"/>
 			<category idref="Digital_Strategy"/>
 			<category idref="Technology"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Content readiness improvement</projectType>
 			<projectDescription>Developed and implemented a learning content metadata and content readiness strategy, leading to 90% of titles being created in an XML-first workflow, 96% with full electronic, worldwide rights and 100% available as digital files.</projectDescription>
 		</project>
 		<project id="HE14">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="product_development"/>
 			<category idref="LMS"/>
 			<category idref="Technology"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Learning management system consolidation</projectType>
 			<projectDescription>Directed the task force assigned to consolidate eLearning platforms of multiple acquired companies as part of an initiative to merge the Higher Ed and Career and Professional Groups of this publisher.</projectDescription>
 		</project>
 		<project id="HE15">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Rights_Management"/>
 			<category idref="Vendor_Management"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Image permissions sourcing</projectType>
 			<projectDescription>Directed the team negotiating a contract with a major image source, substantially reducing the cost of images and simplifying the terms under which they could be used. This approach became the model used in all subsequent agreements and across other classes of Intellectual Property agreements.</projectDescription>
 		</project>
 		<project id="HE16">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
 			<category idref="Mobile"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Mobile operations monitoring</projectType>
 			<projectDescription>Piloted a program to provide mobile access to system operational status on iOS and Android devices.  The goal of the project was to substantially reduce the time from identification of an issue to its resolution.</projectDescription>
 		</project>
 		<project id="HE17">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
 			<category idref="Cloud"/>
 			<category idref="editorial_function"/>
-			<category idref="Higher_Ed"/>
 			<projectType>XML authoring solution</projectType>
 			<projectDescription>Piloted cloud-based tool to support authoring and output of content in XML, resulting in faster time to market, lower costs, consistent format, content reuse, and new product creation.</projectDescription>
 		</project>
 		<project id="HE18">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
 			<category idref="product_development"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Digimarc and Quick Response (QR) codes</projectType>
 			<projectDescription>Completed pilot program to use Digmarc and QR codes in popular reference material. Program tied online videos to codes embedded photos in current events titles that allowed a reader to scan the code with a phone camera and have the videos play on their phone.</projectDescription>
 		</project>
 		<project id="HE19">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
 			<category idref="product_development"/>
 			<category idref="Vendor_Management"/>
 			<category idref="Assessment"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Assessment development and production</projectType>
 			<projectDescription>Developed an approach to manage the development and production of psychometrically valid assessment items using a combination of vendor and internal staff.</projectDescription>
 		</project>
 		<project id="HE20">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
 			<category idref="product_development"/>
 			<category idref="XML"/>
-			<category idref="Higher_Ed"/>
 			<projectType>MathML</projectType>
 			<projectDescription>Drove implementation of MathML into publisher's product development process to increase accessibility and reduce the effort associated with repurposing complex titles from print into digital.</projectDescription>
 		</project>
 		<project id="HE21">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
 			<category idref="Manufacturing"/>
 			<category idref="RFID"/>
-			<category idref="Higher_Ed"/>
 			<projectType>RFID in printed titles</projectType>
 			<projectDescription>Completed business case and feasibility analysis to embed Radio Frequency Identification (RFID) chips in book spines to control returns, credit issuance and piracy. In spite of a very promising rate of return, project was shelved to allocate capital to digital projects.</projectDescription>
 		</project>
 		<project id="HE22">
 			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
 			<category idref="Technology"/>
-			<category idref="Higher_Ed"/>
 			<projectType>Technology process management</projectType>
 			<projectDescription>Initiated implementation of ITIL-based IT management for product development systems. Approach is credited with a 2x improvement in performance and significant reduction in unplanned downtime. The primary focus of the effort was in implementation of technology operations management discipline around release and change management.</projectDescription>
+		</project>
+		<project id="HE23">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Analytics"/>
+			<category idref="product_development"/>
+			<projectType>Plant metrics</projectType>
+			<projectDescription>Implemented monthly reporting of differences in plant spend from prior year based on number of titles, size of titles, complexity and format.</projectDescription>
+		</project>
+		<project id="HE24">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Analytics"/>
+			<category idref="Operations"/>
+			<projectType>Paper, Print &amp; Bind (PPB) metrics</projectType>
+			<projectDescription>Implemented monthly reporting of differences in PPB spend from prior year based on number of titles, printings, units per printing, format, page count and interior color mix.</projectDescription>
+		</project>
+		<project id="HE25">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Analytics"/>
+			<category idref="Operations"/>
+			<projectType>Inventory Metrics</projectType>
+			<projectDescription>Implemented monthly reporting of changes in inventory levels based on differences in sales, returns, purchasing, scrapping and unit value.</projectDescription>
+		</project>
+		<project id="HE26">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Operations"/>
+			<category idref="Org_Alignment"/>
+			<projectType>Divisional consolidation</projectType>
+			<projectDescription>Drove functional consolidation of multiple divisions resulting in a 25% reduction in headcount.</projectDescription>
+		</project>
+		<project id="HE27">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Vendor_Management"/>
+			<projectType>Prepress vendor consolidation</projectType>
+			<projectDescription>Consolidated over 200 prepress vendors and freelancers into a core group of 5 preferred full service prepress vendors. This approach resulted in substantial ongoing cost savings, reduction in production schedules and reduction in staff required for supervision.</projectDescription>
+		</project>
+		<project id="HE28">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Vendor_Management"/>
+			<projectType>Full-service outsourcing</projectType>
+			<projectDescription>Implemented program to outsource all production activities, including production management, of low-value titles allowing production staff to focus on higher value or otherwise at-risk titles.</projectDescription>
+		</project>
+		<project id="HE29">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Technology"/>
+			<projectType>XBITS Implementation</projectType>
+			<projectDescription>Implemented the XBITS XML transaction standard among Cengage Learning and its paper and manufacturing suppliers. This reduced the need for multiple manual processes to record and verify details of purchasing, scheduling and specifications transactions.</projectDescription>
+		</project>
+		<project id="HE30">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Rights_Management"/>
+			<projectType>Integrated Rights Management</projectType>
+			<projectDescription>Implemented systems and processes to capture assets to be used in a product, both new and re-used from a previous edition, and drive them through research, clearance and payment activities for new editions. Modified existing rights systems to capture a brader range of rights information that is now used for reporting and remediation of potential term and audience/print run constraints. The revised approach allows for capture and processing of permissions/rights information for all asset types including print excerpts, images and media as they are used in print and digital products.</projectDescription>
+		</project>
+		<project id="HE31">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Social"/>
+			<category idref="human_resources"/>
+			<projectType>Creating Mutual Value (CMV)</projectType>
+			<projectDescription>Using the Creating Mutual Value framework of Synthesis, Inc., inspired by the work of Fernando Flores, initiated a process of cultural change within the production and manufacturing staff from reactive order-takers to partners in innovation with the editorial and technology teams.</projectDescription>
+		</project>
+		<project id="HE32">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="XML"/>
+			<category idref="Technology"/>
+			<projectType>Backlist XML conversion</projectType>
+			<projectDescription>Managed project to convert over 2,000 legacy titles from Quark, InDesign and print PDFs to support ongoing publishing operations. Project was one factor in driving the unit's value in its ultimate purchase price by an private equity group.</projectDescription>
+		</project>
+		<project id="HE33">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Technology"/>
+			<projectType>Integrated systems architecture for product development systems</projectType>
+			<projectDescription>Developed an integrated, capabilities-based architecture to guide process and systems development. Architecture involved a services-based approach to promote scalability and allow for incremental investment systems enhancement and avoid "big bang" expenditure requirements.</projectDescription>
+		</project>
+		<project id="HE34">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Rights_Management"/>
+			<projectType>Recovery and documentation of legacy contracts</projectType>
+			<projectDescription>Drove project to capture years of rights information that were missing, stored in file cabinets, or in boxes of paper records in deep storage on legacy assets to allow their appropriate use and re-use in digital products.</projectDescription>
+		</project>
+		<project id="HE35">
+			<clientName>CourseSmart</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Digital_Strategy"/>
+			<projectType>Digital business plan</projectType>
+			<projectDescription>Developed the business plan for an industry collective designed to digitally distribute higher education learning materials.</projectDescription>
+		</project>
+		<project id="HE36">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Org_Alignment"/>
+			<projectType>Integration of K12 publishing unit</projectType>
+			<projectDescription>Integrated a combined K12 and ELT publishing company into existing operations with substantial headcount, operating cost, PPB and plant savings.</projectDescription>
+		</project>
+		<project id="HE37">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="Org_Alignment"/>
+			<projectType>Integration of acquired higher education division</projectType>
+			<projectDescription>Integrated an approximately $300mm acquired higher education division into existing operations with substantial headcount, operating cost, manufacturing and plant savings. Utilized best practices from each organization to improve the effectiveness of the combined entity.</projectDescription>
 		</project>
 	</projects>
 	<articles>

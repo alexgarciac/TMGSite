@@ -126,6 +126,7 @@
 				<xs:enumeration value="Houghton Mifflin"/>
 				<xs:enumeration value="Lightning Source"/>
 				<xs:enumeration value="LightningSource"/>
+				<xs:enumeration value="CourseSmart"/>
 				<xs:enumeration value="MIT Press"/>
 				<xs:enumeration value="OeBF"/>
 				<xs:enumeration value="PDL"/>
@@ -460,6 +461,21 @@
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element ref="clientName"/>
+				<xs:element name="industry">
+					<xs:complexType>
+						<xs:attribute name="idref" use="required">
+							<xs:simpleType>
+								<xs:restriction base="xs:IDREF">
+									<xs:enumeration value="Trade_Publishing"/>
+									<xs:enumeration value="Religious"/>
+									<xs:enumeration value="magazine_publishing_sector"/>
+									<xs:enumeration value="academic_publishing"/>
+									<xs:enumeration value="Higher_Ed"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
 				<xs:element name="category" maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:attribute name="idref" type="xs:IDREF" use="required"/>
