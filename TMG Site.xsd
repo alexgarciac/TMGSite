@@ -305,11 +305,7 @@
 	<xs:element name="format" type="xs:string"/>
 	<xs:element name="italic">
 		<xs:simpleType>
-			<xs:restriction base="xs:string">
-				<xs:enumeration value="A Deepness in the Sky"/>
-				<xs:enumeration value="A Fire Upon the Deep"/>
-				<xs:enumeration value="A Fire Upon the Deep Special Edition eBook"/>
-			</xs:restriction>
+			<xs:restriction base="xs:string"/>
 		</xs:simpleType>
 	</xs:element>
 	<xs:element name="listItem">
@@ -466,6 +462,7 @@
 						<xs:attribute name="idref" use="required">
 							<xs:simpleType>
 								<xs:restriction base="xs:IDREF">
+									<xs:enumeration value="reference_publishing"/>
 									<xs:enumeration value="Trade_Publishing"/>
 									<xs:enumeration value="Religious"/>
 									<xs:enumeration value="magazine_publishing_sector"/>
@@ -488,9 +485,14 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="projectDescription">
-		<xs:simpleType>
-			<xs:restriction base="xs:string"/>
-		</xs:simpleType>
+		<xs:complexType mixed="true">
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="bold"/>
+				<xs:element ref="xrefURL"/>
+				<xs:element ref="projectList"/>
+				<xs:element ref="italic"/>
+			</xs:choice>
+		</xs:complexType>
 	</xs:element>
 	<xs:element name="projectList">
 		<xs:complexType>

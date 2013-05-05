@@ -574,6 +574,7 @@
 												<b>
 													<xsl:value-of select="projectType"/>
 												</b>: <xsl:value-of select="projectDescription"/>
+												<font size="0.5em">(<xsl:value-of select="@id"/>)</font>
 											</li>
 										</xsl:for-each>
 									</ul>

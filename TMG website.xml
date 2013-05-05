@@ -342,7 +342,7 @@
 			<clientName>BDD</clientName>
 			<industry idref="Trade_Publishing"/>
 			<category idref="Technology_Function"/>
-			<category idref="Systems_Design"/>
+			<category idref="business_systems"/>
 			<projectType>SAP implementation</projectType>
 			<projectDescription>Served as process architect in 2 separate publishing industry SAP installations (Bantam Doubleday Dell, now part of Random House, and Simon &amp; Schuster) across production, inventory management, editorial, order processing, distribution and finance functions.</projectDescription>
 		</project>
@@ -367,7 +367,6 @@
 			<industry idref="Trade_Publishing"/>
 			<category idref="Rights_Management"/>
 			<category idref="business_systems"/>
-			<category idref="Systems_Design"/>
 			<projectType>Rights management data and functional modeling</projectType>
 			<projectDescription>As part of a customer/consultant/software provider team, developed the rights management data and functional model used by SAP for their implementation of a rights management module.</projectDescription>
 		</project>
@@ -419,8 +418,6 @@
 			<clientName>S&amp;S</clientName>
 			<industry idref="Trade_Publishing"/>
 			<category idref="Operations"/>
-		
-			
 			<projectType>Call center productivity</projectType>
 			<projectDescription>Increased call center productivity by 7%, simultaneously increasing attainment of target service levels.</projectDescription>
 		</project>
@@ -428,7 +425,6 @@
 			<clientName>S&amp;S</clientName>
 			<industry idref="Trade_Publishing"/>
 			<category idref="accounts_receivable_function"/>
-			<category idref="asset_improvement"/>
 			<projectType>Accounts receivable improvement</projectType>
 			<projectDescription>At a large trade publisher implemented substantial changes to AR and Credit functions reducing DSO in the last 12 months by 10%. Other benefits achieved included reducing average time to clear customer deductions by almost 100 days with no change in percent written off, reducing the unmatched deduction balance by over 25%; doubled average speed of cash application; and substantially improved methods of cash receipts forecasting, leading to more reliable estimates of cash, A/R component balances, and DSO.</projectDescription>
 		</project>
@@ -488,7 +484,6 @@
 			<clientName>B&amp;N</clientName>
 			<industry idref="Trade_Publishing"/>
 			<category idref="Operations"/>
-			<category idref="Retail"/>
 			<projectType>Bibliographic operations management</projectType>
 			<projectDescription>Directed bibliographic data acquisition and database management at Barnes &amp; Noble, Inc. including a redesign of the internal B&amp;N title database (over 1,000,000 titles), and negotiating new agreements with title data vendors.</projectDescription>
 		</project>
@@ -496,14 +491,13 @@
 			<clientName>B&amp;N</clientName>
 			<industry idref="Trade_Publishing"/>
 			<category idref="content_management_system"/>
-			<category idref="Retail"/>
 			<projectType>Content and metadata archive design</projectType>
 			<projectDescription>Directed design and construction of content and metadata archive for EP Ventures, a Philippines-based text and image conversion operation.</projectDescription>
 		</project>
 		<project id="service1">
 			<clientName>PDL</clientName>
 			<industry idref="Trade_Publishing"/>
-			<category idref="Systems_Design"/>
+			<category idref="business_systems"/>
 			<category idref="content_management_system"/>
 			<projectType>Content and metadata archive design</projectType>
 			<projectDescription>Developed high-level design to archive content in a format-neutral repository and generate on-the-fly formats including OEB, HTML 4.0, Microsoft Reader, Palm Digital Media, Gemstar and Adobe eBook Reader formats. Initiated implementation of this concept at EP Ventures and another large provider of conversion services.</projectDescription>
@@ -682,7 +676,6 @@
 		<project id="HE19">
 			<clientName>Cengage Learning</clientName>
 			<industry idref="Higher_Ed"/>
-			
 			<category idref="product_development"/>
 			<category idref="Vendor_Management"/>
 			<category idref="Assessment"/>
@@ -836,6 +829,33 @@
 			<category idref="Org_Alignment"/>
 			<projectType>Integration of acquired higher education division</projectType>
 			<projectDescription>Integrated an approximately $300mm acquired higher education division into existing operations with substantial headcount, operating cost, manufacturing and plant savings. Utilized best practices from each organization to improve the effectiveness of the combined entity.</projectDescription>
+		</project>
+		<project id="HE38">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="International"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Manufacturing"/>
+			<projectType>China print sourcing</projectType>
+			<projectDescription>Increased offshoring of print activities to China, leading to $3.75mm reduction in annual manufacturing spend.</projectDescription>
+		</project>
+		<project id="HE39">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="Higher_Ed"/>
+			<category idref="International"/>
+			<category idref="Vendor_Management"/>
+			<category idref="Production"/>
+			<projectType>India content services outsourcing</projectType>
+			<projectDescription>Increased offshoring of composition and prepress services to ultimately include 69% of all pages, including both simple and complex work in higher education, trade and K12 markets. Along with offshored data conversion the project has resulted ina net 27% savings in plant spend.</projectDescription>
+		</project>
+		<project id="HE40">
+			<clientName>Cengage Learning</clientName>
+			<industry idref="reference_publishing"/>
+			<category idref="International"/>
+			<category idref="product_development"/>
+			<category idref="editorial_function"/>
+			<projectType>Cuban editorial development</projectType>
+			<projectDescription>Supervised the editorial development and production of <italic>CUBA</italic>, a premier two-volume set containing interpretative essays on major topics in Cuban history, culture, and society. Articles were authored, among others, by scholars from Cuba requiring addressing intricate legal and financial restrictions in movement of funds between the U.S. and Cuba.</projectDescription>
 		</project>
 	</projects>
 	<articles>
@@ -1128,7 +1148,7 @@
 			<resourceName>The Idea Logical Company</resourceName>
 			<resourceDescription>The Idea Logical Company is the consulting business of Mike Shatzkin. His insights about how the industry functions and how it accommodates digital change form the basis of all of the company’s consulting efforts.</resourceDescription>
 		</resource>
-				<resource href="http://www.synthesis-llc.com" type="networking">
+		<resource href="http://www.synthesis-llc.com" type="networking">
 			<category idref="consultants"/>
 			<resourceName>Synthesis, LLC</resourceName>
 			<resourceDescription>Synthesis is a New York based training and development organization that mobilizes leadership teams to create increased productivity, satisfaction and value.</resourceDescription>
